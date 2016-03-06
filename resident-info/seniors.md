@@ -3,7 +3,7 @@ layout: page
 title: 'Seniors'
 ---
 
-![Kip Center Logo](../55 Kip Center Logo__100px.jpg)
+![Kip Center Logo](../55.Kip.Center.Logo__100px.jpg)
 {: style="float: left; margin: 0 20px 20px 0;"}
 ##55 Kip Center - 
 **Bergen County's only Nationally Accredited Senior Center of Excellence**
