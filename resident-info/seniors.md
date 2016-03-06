@@ -3,9 +3,22 @@ layout: page
 title: 'Seniors'
 ---
 
+## 2016 Senior Citizen Olympics
+ 
+This year’s Tri – County Senior Citizen Olympics will be held in Pequannock, on **Wednesday, June 8, 2016** and
+the rain date will be on Thursday, June 9, 2016.
+ 
+We will be competing against Pequannock, Randolph, Sparta, Wayne and West Milford. 
+The events are horse shoes, cornhole, frisbee golf, soccer kick, chicken toss and golf putting!
+ 
+**PLEASE REGISTER AT THE RECREATION DEPARTMENT**
+The fee is $5.00.  We need 24 participants. Olympians must be at least 60 years old.
+Bus transportation is provided to the Olympics!
+
+
 ![Kip Center Logo](../55.Kip.Center.Logo__100px.jpg)
 {: style="float: left; margin: 0 20px 20px 0;"}
-##55 Kip Center - 
+## 55 Kip Center - 
 **Bergen County's only Nationally Accredited Senior Center of Excellence**
 
 The Kip Center is a non profit Older Adult Activity Center located in Rutherford and serving 14 communities in southwest Bergen County and surrounding counties.  Our mission is to promote the physical, emotional, educational and spiritual well-being of older adults and to facilitate their participation in all aspects of community life.  
@@ -16,10 +29,10 @@ $15 for non-residents
 [www.55kipcenter.org](http://www.55kipcenter.org/)    201-460-1600
 
 
-##Golden Age Club – 
+## Golden Age Club – 
 Katherine Bidwell (201) 507-0791
 
-##Guardsmen – 
+## Guardsmen – 
 Don Falken (201) 438-3378
 
 Open to all male retirees from age 50 and up. To become a member, one is invited to attend one or more meetings as a guest of a sponsoring member. If further interested, he will be asked to submit an application to the Membership Chairman. At the next meeting the new member will be nominated by sponsor for membership and voted in by present members at that meeting. 
