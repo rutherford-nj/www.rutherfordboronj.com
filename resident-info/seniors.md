@@ -19,7 +19,7 @@ Bus transportation is provided to the Olympics!
 ![Kip Center Logo](../55.Kip.Center.Logo__100px.jpg)
 {: style="float: left; margin: 0 20px 20px 0;"}
 ## 55 Kip Center - 
-**Bergen County's only Nationally Accredited Senior Center of Excellence**
+**Bergen County's Only Nationally Accredited Senior Center of Excellence**
 
 The Kip Center is a non profit Older Adult Activity Center located in Rutherford and serving 14 communities in southwest Bergen County and surrounding counties.  Our mission is to promote the physical, emotional, educational and spiritual well-being of older adults and to facilitate their participation in all aspects of community life.  
 
