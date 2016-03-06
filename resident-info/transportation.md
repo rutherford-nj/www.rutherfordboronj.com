@@ -3,7 +3,8 @@ title: "Transportation"
 layout: page
 ---
 
-Rutherford Station is conveniently located on East Erie Avenue in Downtown Rutherford and part of the Main/Bergen/Port Jervis Line.
+Rutherford Station is conveniently located on East Erie Avenue in Downtown Rutherford 
+and part of the Main/Bergen/Port Jervis Line.
 
 [**NJ Transit Train Schedule**](http://www.njtransit.com/sf/sf_servlet.srv?hdnPageAction=TrainTo) [**NJ Transit Bus Schedule**](http://www.njtransit.com/sf/sf_servlet.srv?hdnPageAction=BusTo)
 
