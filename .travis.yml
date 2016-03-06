@@ -3,7 +3,7 @@ cache: bundler
 rvm:
 - 2.1
 install: gem install jekyll html-proofer
-script: jekyll build && htmlproof ./_site --only-4xx --check-favicon --check-html --disable-external
+script: jekyll build && htmlproofer ./_site --only-4xx --check-favicon --check-html --disable-external
 branches:
   only:
   - master
