@@ -1,0 +1,43 @@
+---
+layout: default
+section: blog
+---
+
+<style>
+  .blog-container {
+    margin: 30px;
+  }
+  .blog-content {
+    line-height: 1.5;
+    width: 70%;
+  }
+  .blog-icon {
+    float: right;
+    height: 99px;
+    width: 150px;
+  }
+  .blog-title {
+    color: #036;
+    font-size: 300%;
+    font-weight: 700;
+    text-transform: uppercase;
+  }
+  .blog-date {
+    color: #999;
+    text-transform: uppercase;
+  }
+</style>
+
+<div class="blog-container">
+  {% for category in page.categories %}
+    {% if category != 'departments' %}
+      <div class="blog-icon" style="background-image: url(/static/images/department-icons/{{category}}.png)"></div>
+    {% endif %}
+  {% endfor %}
+  <div class="blog-content">
+    <h3><a href="../../../../">Return to Department Homepage</a></h3>
+    <div class="blog-title">{{page.title}}</div>
+    <div class="blog-date">Posted {{page.date | date:"%A %B %-d, %Y"}}</div>
+    {{content}}
+  </div>
+</div>

@@ -1,0 +1,16 @@
+<div class="page-news-and-updates">
+  <div>{{ include.name }}<br/>News &amp; Updates</div>
+  <div class="page-post-links">
+  {% for post in include.posts limit:5 %}
+    <div class="page-post-link">
+      <div class="page-post-date">
+        {{ post.date | date: "%b %Y" }}
+      </div>
+      <div class="page-post-title">
+        <a href="{{ post.url }}">{{ post.title }}</a>
+      </div>
+    </div>
+  {% endfor %}
+  </div>
+  <div><a href="archive/">Click here for news archives</a></div>
+</div>

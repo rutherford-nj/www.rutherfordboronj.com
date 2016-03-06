@@ -1,0 +1,192 @@
+---
+layout: interior-page
+title: 'Community Outreach'
+parent: 'Social Services'
+---
+
+## Energy Assistance
+
+### Home Energy Assistance PSE&G
+
+Get application online at [www.pseg.com/home/customer_service/bill/help/payment_assist.jsp](https://www.pseg.com/home/customer_service/bill/help/payment_assist.jsp)  
+1.800.510.3102  
+or e-mail energyassistance@dca.state.nj.us
+
+### Programs available
+
+*   Weatherization Assistance
+*   Low Income Home Energy Assistance Program (LIHEAP)
+*   University Service Fund Credits (USF)
+
+Bergen County Residents can apply at:  
+Bergen County Community Action Partnership, INC.  
+(Hours Monday, Tues, Wed, 9am-11am or 1pm-3pm  
+Thursday 9:00-11:00am, 1:00-3:00 & 5:00-7:30)  
+316 State Street  
+Hackensack, NJ 07601 (201) 488-5100
+
+### NJ Lifeline Credit Program
+
+1.800.792.9745  
+$225 yearly for Gas and Electric bills – Senior Citizens
+
+### NJ Shares
+
+1.866.657.4273  
+Help with your electric bills for short term financial difficulty
+
+
+### TRUE:
+
+Temporary Relief for Utility Expenses Grant – 1-855-465-8783
+
+---
+
+## Energy Conservation
+
+### NJ Comfort Partners
+
+Installation of energy efficiency measures, education and counseling for low-income households.  
+1-888-773-8326
+
+---
+
+## Food & Health
+
+### Bergen County Department of Health Services
+
+General information: Community Mental Health Services  
+1.201.634.2750
+
+
+### Bergen County Board of Social Services
+
+Apply for Food Stamps & Medicaid on line  
+[www.bcbss.com](http://www.bcbss.com/)  
+218 Rte. 17 North  
+17 Park Office Center  
+Rochelle Park, NJ  
+(201) 368-4200
+
+
+### Meals on Wheels
+
+Disabled Person 201-336-6501  
+Aged Person 201-646-3252 or 201-646-2625
+
+
+### Rutherford Area: Comprehensive Behavioral Healthcare Inc.
+
+1.201.646.0195 or 1.201.935.3322  
+Bergen County Mental Health – General Questions
+
+
+### The American Foundation for Suicide Prevention
+
+1.201.262.HELP (1.201.262.4357)
+
+
+### [Rutherford Community Pantry](../community-pantry/)
+
+1.201.460.3000 ext. 3168
+
+---
+
+## Legal
+
+### Legal Services Northeast NJ
+
+190 Moore Street  
+Hackensack, NJ 07601  
+(201) 487-2166
+
+---
+
+## Professional Assistance
+
+### [The Rutherford Public Library](http://www.rutherfordlibrary.org/)
+
+201-939-8600  
+Resume writing, Job Seekers, Employment & Career Information
+
+---
+
+## Telephone
+
+### Verizon’s Communications Lifeline
+
+Low-income residents and Seniors, 50% discount  
+1-877-652-9426.
+
+---
+
+## Social Security
+
+### Social Security Administration office
+
+Apply for Social Security Income or Social Security Disability or retirement benefits  
+935 Allwood Road, Clifton, NJ  
+(800) 772-1213
+
+---
+
+## Transportation
+
+### Starfish
+
+Volunteers assist with local doctor visits.  
+Patient needs to be able to walk independently to the car.  
+201-438-3406
+
+
+### Bridgebuilders
+
+Volunteers assist with local doctor visits.  
+Patient needs to be able to walk independently to the car.  
+201-460-1600
+
+
+### Bergen County Community Transportation
+
+201-368-5955
+
+
+### Access Link NJ Transit
+
+(800) 955-2321  
+www.njtransit.com/as_al.shtml
+
+
+### EZ RIDE
+
+(201) 939-4242
+
+
+### Logisticare
+
+Transportation to medical appointments for Medicaid Recipients  
+(866) 527-9933
+
+---
+
+## Unemployment
+
+### Department of Labor
+
+60 State Street,  
+Hackensack, NJ 07601 (201) 329-9600  
+Apply for Unemployment benefits online [www.njuifile.net](https://njsuccess.dol.state.nj.us/html/uimain.html)
+
+---
+
+## Water
+
+### New Jersey American Water
+
+Assistance with water bill for low-income individuals  
+1-877-652-9426.
+
+### United Water Cares
+
+No income guideline  
+1-888-942-8080 or [www.suezcares.org](http://www.suezcares.org/)

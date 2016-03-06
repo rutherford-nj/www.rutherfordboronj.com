@@ -1,0 +1,3 @@
+# Exclude vendor directory so travis can build.
+exclude: [vendor]
+permalink: pretty

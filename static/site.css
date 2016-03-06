@@ -1,0 +1,16 @@
+---
+---
+{% include_relative css/core.css %}
+
+{% include_relative css/homepage.css %}
+
+{% include_relative css/page.css %}
+
+{% include_relative css/interior-page.css %}
+
+{% include_relative css/recreation.css %}
+
+{% include_relative slick/slick.css %}
+
+{% include_relative slick/slick-theme.css %}
+

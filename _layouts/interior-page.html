@@ -1,0 +1,17 @@
+---
+layout: page
+index: true
+---
+
+<div class="interior-page-content">
+  {% if page.parent %}
+  <h3>
+    {% if page.grandparent %}
+      <a href="{{ page.grandparent_url | default: '../../' }}">{{ page.grandparent }}</a> &gt;
+    {% endif %}
+    <a href="{{ page.parent_url | default: '../' }}">{{ page.parent }}</a> &gt; {{ page.title }}
+  </h3>
+  {% endif %}
+  
+  {{content}}
+</div>

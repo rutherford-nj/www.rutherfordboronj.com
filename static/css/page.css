@@ -1,0 +1,139 @@
+.page-content {
+  line-height: 1.6;
+  margin: 35px;
+}
+
+.page-content:after {
+  clear: both;
+  content: "";
+  display: table;
+}
+
+.page-contact-info {
+  color: #999;
+  font-size: 150%;
+  margin-bottom: 35px;
+  text-align: right;
+}
+
+.page-title {
+  color: #999;
+  font-size: 150%;
+  line-height: 1.2;
+  margin-bottom: 35px;
+  text-transform: uppercase;
+}
+
+.page-title-name {
+  color: #036;
+  font-weight: 900;
+}
+
+.page-location {
+  font-size: 75%;
+  margin-bottom: 35px;
+}
+
+.page-people {
+  color: #999;
+  font-size: 112.5%;
+  line-height: 1.4;
+  margin-bottom: 35px;
+}
+
+.page-description > div {
+  margin-bottom: 20px;
+}
+
+.page-link-bar {
+  color: #036;
+  font-size: 150%;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.page-link-bar a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.page-link-bar > div {
+  display: inline;
+  margin: 0 8px;
+}
+
+.page-right {
+  float: right;
+  line-height: 1.2;
+  margin-left: 25px;
+}
+
+.page-description {
+  line-height: 1.5;
+}
+
+.page-gradient-box {
+  background-color: #DB0;
+  background-image:
+    linear-gradient(
+      #DB0, #D80
+    );
+  color: #FFF;
+  font-size: 125%;
+  line-height: 1;
+  margin-bottom: 15px;
+  padding: 10px;
+  text-transform: uppercase;
+  width: 350px;
+}
+
+.page-gradient-box > div {
+  margin: 15px 0;
+}
+
+.page-gradient-box a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.page-news-and-updates {
+  border: 1px solid #999;
+  min-height: 400px;
+  padding: 12px 12px 24px 12px;
+  position: relative;
+  width: 344px;
+}
+
+.page-news-and-updates > div:first-child, .page-news-and-updates > div:last-child {
+  color: #700;
+  font-size: 150%;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.page-news-and-updates > div:last-child {
+  bottom: 12px;
+  font-size: 100%;
+  position: absolute;
+}
+
+.page-news-and-updates > div:last-child a {
+  color: inherit;
+  text-decoration: inherit;
+}
+
+.page-post-date {
+  color: #999;
+}
+
+.page-post-title {
+  font-size: 120%;
+}
+
+.page-post-link {
+  padding: 15px 0;
+}
+
+.page-post-links > div:not(:last-child) {
+  border-bottom: 1px solid #700;
+}

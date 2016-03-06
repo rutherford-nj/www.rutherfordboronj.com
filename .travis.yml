@@ -1,0 +1,23 @@
+language: ruby
+cache: bundler
+rvm:
+- 2.1
+before_script:
+- chmod +x ./scripts/cibuild
+script: ./scripts/cibuild
+branches:
+  only:
+  - master
+env:
+  global:
+  - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
+deploy:
+  provider: gcs
+  skip_cleanup: true
+  access_key_id: GOOGXKVTS6POBVOV5YTM
+  secret_access_key:
+    secure: vMhGP2KTbB68TzAnoJm9YfFAisgGgK32UTWuHj/c9fBc/NTWKfInhZ9Kqd/zBp52UluywvP6BUi366W+DUHOP4pVgyyaECo0aIRd/OnCL2TAUOpxds+cHAOWUoNfCuoGZPIq9ESVsy4DM/sE2LK2IJb1K1+uqc1jPFOWbuIU4orLJlYrK76o2rNckMuQ17+8bPLkiq/2MXK4FZbWr4y/s/Oj1pCvvj3tsqLTKFnWTFdEiuJ2MWINEkqaf2f2am4Mnh36Dtn+PQBYNTIx885DK2PFTh6Cj1yOO15HZIf9x10FwLFVFI6s5E8pfYYn9BvdI6NaYRTvekP9NzSoxcAJcIktv8aaT+wxyZ3p4TyNAQBGFmH5Ue+MFVddH/baHfkVWQ29/0zQqR+K2vc/hauNcPGObrtesy2YJc7e+PJASyqsou6KjIST1FPmrecnn1H1unpncB6TSFWkmEkm5/xQvYgk6XNzLmdVFCBjUDVHHZM8VoeH6VV472JcffiUxrYV27Os1HwmUGzuwQxedA7C8odhDl05HjA9hHGxbOjoOVXrrqtpC30sXFSiYY8NhnJp/FTDQLFCIDuICpty8JMcHklnTRbTX8tD5/+rmJH9u5YC7fAfx0DmQIKW5MtyhyBtsNGdmVh9Ls9ydb4butetMCc/9Cxd1T2T78xLodDxEKM=
+  bucket: test.bogosiandesign.com
+  local-dir: _site
+  acl: public-read
+  cache_control: "private"

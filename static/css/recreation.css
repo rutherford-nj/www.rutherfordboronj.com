@@ -1,0 +1,7 @@
+.recreation-table {
+  border-collapse: collapse;
+}
+
+.recreation-table tbody {
+  border-bottom: 50px solid transparent;
+}

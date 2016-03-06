@@ -1,0 +1,107 @@
+---
+layout: default
+title: '07070'
+---
+<div class="homepage-top-links">
+  <div>
+    <a href="/notifications/"><img src="/static/images/alerts.png" alt="Sign up for Alerts and Notifications" /></a>
+  </div>
+  <div>
+    <a href="/borough-codes-ordinances/">Borough Codes &amp; Ordinances</a>
+  </div>
+  <hr />
+  <div>
+    <a href="/departments/public-works/collection-schedule/">DPW Collection Schedule</a>
+  </div>
+  <hr />
+  <div>
+    <a href="/public-safety/">Public Safety</a>
+  </div>
+  <hr />
+  <div>
+    <a href="/schools/">Schools</a>
+  </div>
+</div>
+  
+<div class="homepage-images">
+  <div><img src="/static/images/homepage_pictures/train.jpg" alt="Train Station" /></div>
+  <div><img src="//rutherford-nj.com/wp-content/uploads/2015/11/DSCN0272-560x300.jpg" alt="Cannon Memorial" /></div>
+  <div><img src="//rutherford-nj.com/wp-content/uploads/2015/11/DSCN0268-560x300.jpg" alt="Borough Hall" /></div>
+</div>
+
+<script type="text/javascript" src="/static/slick/slick.min.js"></script>
+
+<script type="text/javascript">
+  $(document).ready(function(){
+    $('.homepage-images').slick({
+      dots: false,
+      infinite: true,
+      arrows: false,
+      autoplay: true,
+      autoplaySpeed: 2000,
+      fade: true,
+      cssEase: 'linear'
+    });
+  });
+</script>
+
+<div style="clear: both; height: 20px;"></div>
+<style>
+  .page-post-icon {
+    background-size: contain;
+    float: left;
+    height: 50px;
+    margin-right: 10px;
+    width: 75px;
+  }
+</style>
+<div class="homepage-bottom-left">
+  <a href="/resident-info/"><img src="/static/images/residents-info.png"
+         class="homepage-bottom-left-button" alt="Resident Information" /></a>
+  <a href="/government/"><img src="/static/images/borough-hall-govt.png"
+         class="homepage-bottom-left-button" alt="Borough Hall and Government" /></a>
+  <div class="homepage-news-and-updates-section">
+    <div>News &amp; Updates</div>
+    
+    {% for post in site.posts limit:4 %}
+      <div class="page-post-link">
+        {% for category in post.categories %}
+          {% if category != 'departments' %}
+            <div class="page-post-icon" style="background-image: url(/static/images/department-icons/{{category}}.png)"></div>
+          {% endif %}
+        {% endfor %}
+        <div class="page-post-date">
+          Posted on {{ post.date | date: "%B %-d %Y" }}
+        </div>
+        <div class="page-post-title">
+          <a href="{{ post.url }}">{{ post.title }}</a>
+        </div>
+      </div>
+    {% endfor %}
+  </div>
+</div>
+
+<div class="homepage-bottom-links">
+  <div>
+    <a href="/calendars/"><img src="/static/images/calendar.png" alt="Calendars" /></a>
+  </div>
+  <div>
+    <a href="/departments/recreation/">Recreation Department</a>
+  </div>
+  <hr />
+  <div>
+    <a href="/departments/borough-clerk/permits-licenses/">Permits &amp; Licenses</a>
+  </div>
+  <hr />
+  <div>
+    <a href="/volunteer/">Volunteer</a>
+  </div>
+  <hr />
+  <div>
+    <a href="/government/employment-bids/">Employment &amp; Bids</a>
+  </div>
+  <hr />
+  <div>
+    <a href="/about-rutherford/">About Rutherford</a>
+  </div>
+</div>

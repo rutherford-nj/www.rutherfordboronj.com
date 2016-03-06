@@ -1,0 +1,72 @@
+.homepage-header-right {
+  bottom: 0;
+  position: absolute;
+  right: 0;
+  text-transform: uppercase;
+}
+
+.homepage-header-right a, .homepage-top-links a, .homepage-bottom-links a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.homepage-header-right > div {
+  color: #999;
+  display: inline;
+  font-size: 120%;
+  margin: 0 5px;
+}
+
+#contact-link {
+  color: #036;
+  font-weight: 900;
+}
+
+.homepage-top-links, .homepage-bottom-links {
+  color: #036;
+  font-size: 150%;
+  text-transform: uppercase;
+}
+
+.homepage-top-links img, .homepage-bottom-links img {
+  padding-bottom: 7px;
+}
+
+.homepage-top-links {
+  float: left;
+  text-align: right;
+}
+
+.homepage-images {
+  float: right;
+  height: 300px;
+  width: 560px;
+}
+
+.homepage-bottom-left {
+  float: left;
+  width: 570px;
+}
+
+.homepage-bottom-left-button {
+  padding: 0 5px;
+}
+
+.homepage-bottom-links {
+  border: 1px solid #444;
+  float: right;
+  padding: 12px;
+}
+
+.homepage-news-and-updates-section {
+  border: 1px solid #444;
+  margin: 10px 0 0 5px;
+  padding: 5px;
+  width: 545px;
+}
+
+.homepage-news-and-updates-section > div:first-child {
+  color: #700;
+  font-size: 150%;
+  font-weight: 700;
+}
