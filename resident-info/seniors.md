@@ -3,7 +3,7 @@ layout: page
 title: 'Seniors'
 ---
 
-## 2016 Senior Citizen Olympics
+**2016 Senior Citizen Olympics**
  
 This year’s Tri – County Senior Citizen Olympics will be held in Pequannock, on **Wednesday, June 8, 2016** and
 the rain date will be on Thursday, June 9, 2016.
