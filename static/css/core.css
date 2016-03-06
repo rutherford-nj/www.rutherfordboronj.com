@@ -11,6 +11,21 @@ h2 {
   color: #999;
 }
 
+#dynamic-field {
+  font-size: 200%;
+  text-align: center;
+}
+
+.dynamic-message-emergency {
+  background: red;
+  color: white;
+}
+
+.dynamic-message-update {
+  background: yellow;
+  color: black;
+}
+
 .header {
   border-bottom: 8px solid #EEE;
   box-shadow: 0px 5px 5px 0px rgba(50, 50, 50, 0.5);
