@@ -20,5 +20,3 @@ deploy:
   local-dir: _site
   acl: public-read
   cache_control: "private"
-  on:
-    branch: master
