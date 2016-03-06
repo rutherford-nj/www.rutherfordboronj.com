@@ -8,6 +8,8 @@ The Borough of Rutherford offers
 ## Downtowner Bus - Click here for map 
 
 **Loop A**
+| Stop |   |  |	 |  | |	  | 
+|:----------------------------|:----:|:----:|:----:|:----:|:----:|:----:|
 | Kip Ave Parking Lot | 9:00 | 10:00 | 11:00 | 1:00 | 2:00 | 3:00 |
 | Feronia Way & Highland Cross | 9:05 | 10:05  | 11:05 | 1:05 | 2:05 | 3:05 |
 | Feronia Way & Crane Avenue | 9:07 | 10:07 | 11:07 | 1:07 | 2:07 | 3:07 |
