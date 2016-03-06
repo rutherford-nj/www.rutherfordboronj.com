@@ -8,6 +8,7 @@ The Borough of Rutherford offers
 ## Downtowner Bus - Click here for map 
 
 **Loop A**
+
 | Stop |   |  |	 |  | |	  | 
 |:----------------------------|:----:|:----:|:----:|:----:|:----:|:----:|
 | Kip Ave Parking Lot | 9:00 | 10:00 | 11:00 | 1:00 | 2:00 | 3:00 |
