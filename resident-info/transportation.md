@@ -32,4 +32,4 @@ Sunday and Holidays.
 | Hastings Avenue & Darwin Avenue | 9:41 | 10:41 | 11:41 | 1:41 | 2:41 | 3:41 |
 | Union Avenue & Springfield Avenue | 9:44 | 10:44 | 11:44 | 1:44 | 2:44 | 3:44 |
 | Morse Avenue & Montross Avenue | 9:46 | 10:46 | 11:46 | 1:46 | 2:46 | 3:46 |
-| Washington Avenue & Grove Street | 9:48 10:48 | 11:48 | 1:48 | 2:48 | 3:48 |
+| Washington Avenue & Grove Street | 9:48 | 10:48 | 11:48 | 1:48 | 2:48 | 3:48 |
