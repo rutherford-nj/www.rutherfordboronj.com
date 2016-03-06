@@ -1,7 +1,6 @@
 ---
 layout: blog
 title: NJ Law Enforcement Exam
-tag: homepage
 ---
 
 New Jersey Law Enforcement Examination
