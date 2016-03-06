@@ -1,41 +1,17 @@
 ---
+title: "Transportation"
 layout: page
-title: 'Transportation'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam hendrerit tristique enim, in tempor
-odio congue sit amet. Morbi suscipit libero turpis, vel bibendum ipsum imperdiet ut. Etiam ligula mauris,
-efficitur a purus ut, pharetra pretium est. Nulla neque est, porta eget nunc in, mattis ultricies purus.
-Proin suscipit non mi non gravida. In vehicula, elit ut varius tincidunt, mauris tellus consequat justo, vel
-commodo lectus tellus vel odio. In tristique aliquet euismod. Nam tempus dui erat, a aliquet felis rhoncus nec.
+The Borough of Rutherford offers  
 
-Sed non pretium orci. Nullam tempor hendrerit augue. Maecenas dignissim erat vitae dictum iaculis. Vivamus
-malesuada vitae lectus ut gravida. Nunc a dictum ipsum. Integer in ultrices sapien. Donec justo eros, sodales
-non mauris eget, ullamcorper iaculis turpis. Aliquam rutrum, eros vel facilisis imperdiet, libero augue dictum
-nibh, nec interdum enim orci pulvinar neque. Duis semper porta tristique. Praesent dapibus pretium arcu vel volutpat.
+## Downtowner Bus
 
-Nulla bibendum non sapien sit amet mattis. Ut et semper turpis. Nam ornare maximus eros vel varius. Aenean
-cursus faucibus massa sit amet eleifend. Morbi vel dictum ligula. Etiam bibendum libero urna, a accumsan
-tellus pharetra vestibulum. In ut enim lacinia, consequat tellus sed, rutrum lectus. Phasellus felis ex,
-accumsan vel mollis ac, fermentum eget mi. Morbi tincidunt dolor eu eros pretium cursus. Ut varius, ipsum
-id sagittis tincidunt, ligula lacus efficitur turpis, quis dapibus leo diam sit amet justo. Morbi ullamcorper
-ipsum non risus sagittis tristique. Phasellus faucibus scelerisque orci, eu tempus libero dapibus ut. Maecenas
-eu velit lectus.
-
-Sed dictum velit vel scelerisque faucibus. Etiam quis justo sodales, faucibus massa vel, bibendum neque.
-Vestibulum ut feugiat eros. Nulla bibendum lobortis neque, vitae iaculis enim ultrices ac. Curabitur efficitur
-cursus purus et dictum. Proin sed nunc vitae augue dignissim aliquam. Pellentesque quis mauris a sem
-scelerisque sagittis. Duis placerat, orci sed vestibulum dignissim, nunc diam condimentum nisi, non
-ultrices lectus dolor et nibh. Praesent a venenatis mi, ac laoreet velit. Ut venenatis fermentum laoreet.
-Proin malesuada nec tortor sed vulputate. Aliquam commodo mollis elit, a pretium neque laoreet non. Sed at
-aliquet erat. Nam venenatis, nunc vel iaculis facilisis, risus eros sagittis quam, vulputate porta erat purus
-vel lorem. Mauris lacinia lectus sit amet condimentum malesuada.
-
-Phasellus venenatis sapien neque, et tincidunt magna facilisis id. Ut blandit euismod dapibus. Ut
-vulputate eu arcu ut mattis. Vestibulum at rhoncus sem, sit amet varius felis. Vivamus non leo at
-massa tincidunt congue vitae sit amet elit. Curabitur nisi mi, fermentum nec tellus sit amet, fermentum
-sodales turpis. In scelerisque arcu id lectus consequat, eget ullamcorper lorem semper. Aliquam erat purus,
-commodo ut neque vitae, ullamcorper sagittis tortor. Aliquam pulvinar, arcu a mattis porta, lorem orci suscipit
-est, vehicula accumsan orci nibh ut tortor. Praesent ut nisl mi. Nam ex nulla, dignissim nec enim eget,
-aliquet semper urna. Nulla eleifend sapien risus. Aliquam vestibulum auctor dui id lacinia. Suspendisse
-quis consequat sem. Sed porta ante ac sapien fringilla, sit amet suscipit odio posuere.
+**Loop A**
+| Kip Ave Parking Lot | 9:00 | 10:00 | 11:00 | 1:00 | 2:00 | 3:00 |
+| Feronia Way & Highland Cross | 9:05 | 10:05  | 11:05 | 1:05 | 2:05 | 3:05 |
+| Feronia Way & Crane Avenue | 9:07 | 10:07 | 11:07 | 1:07 | 2:07 | 3:07 |
+| Mountain Way & Summit Cross | 9:09 | 10:09 | 11:09 | 1:09 | 2:09 | 3:09 |
+| Park Avenue & Woodland Avenue | 9:12 | 10:12 | 11:12 | 1:12 | 2:12 | 3:12 |
+| Carmita Avenue & W. Newell Avenue | 9:16 | 10:16 | 11:16 | 1:16 | 2:16 | 3:16 |
+| Lincoln Avenue & Summit Cross | 9:20 | 10:20 | 11:20 | 1:20 | 2:20 | 3:20 | 
