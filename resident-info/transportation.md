@@ -11,4 +11,4 @@ Rutherford Station is conveniently located on East Erie Avenue in Downtown Ruthe
 
 [**NJ Transit Bus Schedule**](http://www.njtransit.com/sf/sf_servlet.srv?hdnPageAction=BusTo)
 
-The Rutherford Downtowner Bus and Rutherford Commuter Shuttle also serve the community on weekdays to make transportation even easier for our residents. Click here for Downtowner and Commuter schedules.
+The Rutherford Downtowner Bus and Rutherford Commuter Shuttle also serve the community on weekdays to make transportation even easier for our residents. [Click here for Downtowner and Commuter schedules.](downtowner-commuter-bus.md)
