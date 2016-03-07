@@ -9,7 +9,6 @@ title: 'Public Safety Information'
 [**Rutherford Police Department**](/departments/police/)
 
 The RDP's priorities include the protection of life, liberty, and property to ensure all Borough residents and visitors experience a quality of life second to none.
-{: style="clear:both;"}
 
 ---
 
