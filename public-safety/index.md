@@ -19,6 +19,7 @@ The RDP's priorities include the protection of life, liberty, and property to en
 
 The Rutherford First-Aid Ambulance Corps is a volunteer, non-profit organization dedicated to providing Emergency Medical Services to our residents.
 
+
 ---
 
 **Rutherford Volunteer Fire Department** [www.rutherfordfire.org](http://www.rutherfordfire.org)
