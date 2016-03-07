@@ -10,7 +10,7 @@ The Downtowner Bus is offered Free to all residents. The bus operates Monday thr
 Sunday and Holidays.  
 
 <div style="float: right;">
-<iframe src="https://www.google.com/maps/d/embed?mid=z9E2BG8u0Qag.kkVKv7_elh6M" width="400" height="340"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=z9E2BG8u0Qag.kkVKv7_elh6M" width="400" height="340"></iframe></div>
 
 
 **Loop A**
