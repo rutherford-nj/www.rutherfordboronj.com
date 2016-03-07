@@ -9,6 +9,7 @@ The Downtowner Bus is offered Free to all residents. The bus operates Monday thr
 9am to 3:58pm and travels two loops throughout the Borough. There are no services on Saturday,
 Sunday and Holidays.  
 
+<div style="float: right;">
 <iframe src="https://www.google.com/maps/d/embed?mid=z9E2BG8u0Qag.kkVKv7_elh6M" width="400" height="340"></iframe>
 
 
