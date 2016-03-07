@@ -4,6 +4,9 @@ title: 'Construction Permit Process'
 parent: 'Building'
 ---
 
+
+**Building Officials:**
+
 Frank Recanati, Construction Official, Plumbing Subcode Official
 
 Keith Matino, Building Subcode Official
