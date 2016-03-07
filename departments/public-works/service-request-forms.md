@@ -6,4 +6,4 @@ parent: 'Public Works'
 
 Special Collection Service Request
 
-Pothole Service Request
+[Pothole Service Request](/pothole-request/)
