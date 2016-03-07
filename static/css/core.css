@@ -12,18 +12,17 @@ h2 {
 }
 
 #dynamic-field {
+  color: white;
   font-size: 200%;
   text-align: center;
 }
 
 .dynamic-message-emergency {
   background: red;
-  color: white;
 }
 
 .dynamic-message-update {
-  background: #CCC;
-  color: #D90;
+  background: #D90;
 }
 
 .header {
