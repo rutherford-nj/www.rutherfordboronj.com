@@ -3,7 +3,6 @@ layout: default
 title: 'Contact'
 ---
 
-Please refer to the following phones numbers are for specific departments.
 
 | Department | Phone Number | Email Address |
 |:--------|:-------:|:-------:|
