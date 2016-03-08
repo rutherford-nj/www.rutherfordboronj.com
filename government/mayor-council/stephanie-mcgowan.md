@@ -11,7 +11,6 @@ parent: 'Mayor and Council'
 
 **Contact:**  
 201-460-3022
-
 smcgowan@rutherford-nj.com
 
 **Term of Office**  
