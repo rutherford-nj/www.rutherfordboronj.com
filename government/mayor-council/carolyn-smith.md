@@ -11,6 +11,7 @@ parent: 'Mayor and Council'
 
 **Contact:**  
 201-460-3022
+
 csmith@rutherford-nj.com
 
 **Term of Office**  
