@@ -12,6 +12,8 @@ parent: 'Mayor and Council'
 **Contact:**  
 201-460-3022
 
+swalker@rutherford-nj.com
+
 **Term of Office**  
 1/1/16 to 12/31/18
 
