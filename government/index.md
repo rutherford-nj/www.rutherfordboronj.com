@@ -11,7 +11,7 @@ title: 'Government'
 </style>
 
 ![Borough Hall & Government](borough-hall-govt.jpg)
-{: style="height: 146px; width: 900px }
+{: style="height: 146px; width: 900px;" }
 
 * [Mayor & Council](mayor-council/)
 * Minutes & Agendas
