@@ -14,6 +14,6 @@ title: 'Government'
 {: style="height: 146px; width: 900px;" }
 
 * [Mayor & Council](mayor-council/)
-* Minutes & Agendas
+* [Minutes & Agendas](/departments/borough-clerk/minutes-and-agendas/)
 * [Budgets & Financials](/departments/finance/budgets-financials/)
 * [Codes & Ordinances](/borough-codes-ordinances/)
