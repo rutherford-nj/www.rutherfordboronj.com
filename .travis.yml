@@ -11,25 +11,14 @@ env:
   global:
   - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
 deploy:
-  - provider: gcs
-    skip_cleanup: true
-    access_key_id: GOOGAMUEVIVIDZEGKO42
-    secret_access_key:
-      secure: mCXSi8MilaNp8rYlBm5cHZOZd3sZhGyZbRDFpdA4w6qoB1wAV8+hLDTAyJvLaBiUUozEkssAj7Y0O8Uuf2J6yEWfmVJSg5id82dBDARcvtVzTp3ckOKNHPaE15+37El2wwhRW0X6a+bZCq3pEZL+vbAMiKKs92xqxG48VwtxGYgVgrudnmk+nOgthdVOKlp9YLB78IkXZh2BsxCuAxwk5gEH1Vv11an6whggJtY6wMbZe8ARz8B6Vs01NEwNFv0uTtiSS2fSMwDWGSnKrIuouC+Vd1f5bdzdnvUsmciAFc/0YDLDjig3uOVs0ecIiSSf+gK3gk9V8OrpS0sBS2OU2cSQjVwb3Bk27WMj8Q+qgO1t9qeAViR6XR91x0yp4ojnbphSpliatNTr78h9MrUwTqatVsoB4E1s/LZSv551WQiB+9Lezp4HDqiGkJAssxFaIXS/SW7HCud/WeSIptPiMxEkPUHfzs2VUX7xw5weT/6CCKSlZXziEL3mb/TqHfSUFEhhwKGRD2zJub0az6ndapd8A0NH0yoUGdYnkso3k5Dc/vzOTq94+Fr1edHEBvP5tH2viO3e1SRX/7GHh7Cg34fykl3OQp1w4HIe26RfJUteircdjN/dsOYdk/aT7BvKhE9Xr2mJYzk9gFs7Zpwyxg0RP61kshZMegQaFVYVzlU=
-    bucket: test.bogosiandesign.com
-    local-dir: _site
-    acl: public-read
-    cache_control: "private"
-    on:
-      repo: rutherford-nj/www.rutherford-nj.com
-  - provider: gcs
-    skip_cleanup: true
-    access_key_id: GOOGAMUEVIVIDZEGKO42
-    secret_access_key:
-      secure: mCXSi8MilaNp8rYlBm5cHZOZd3sZhGyZbRDFpdA4w6qoB1wAV8+hLDTAyJvLaBiUUozEkssAj7Y0O8Uuf2J6yEWfmVJSg5id82dBDARcvtVzTp3ckOKNHPaE15+37El2wwhRW0X6a+bZCq3pEZL+vbAMiKKs92xqxG48VwtxGYgVgrudnmk+nOgthdVOKlp9YLB78IkXZh2BsxCuAxwk5gEH1Vv11an6whggJtY6wMbZe8ARz8B6Vs01NEwNFv0uTtiSS2fSMwDWGSnKrIuouC+Vd1f5bdzdnvUsmciAFc/0YDLDjig3uOVs0ecIiSSf+gK3gk9V8OrpS0sBS2OU2cSQjVwb3Bk27WMj8Q+qgO1t9qeAViR6XR91x0yp4ojnbphSpliatNTr78h9MrUwTqatVsoB4E1s/LZSv551WQiB+9Lezp4HDqiGkJAssxFaIXS/SW7HCud/WeSIptPiMxEkPUHfzs2VUX7xw5weT/6CCKSlZXziEL3mb/TqHfSUFEhhwKGRD2zJub0az6ndapd8A0NH0yoUGdYnkso3k5Dc/vzOTq94+Fr1edHEBvP5tH2viO3e1SRX/7GHh7Cg34fykl3OQp1w4HIe26RfJUteircdjN/dsOYdk/aT7BvKhE9Xr2mJYzk9gFs7Zpwyxg0RP61kshZMegQaFVYVzlU=
-    bucket: www.rutherford-nj.com
-    local-dir: _site
-    acl: public-read
-    cache_control: "private"
-    on:
-      repo: rutherford-nj/www.rutherford-nj.com
+  provider: gcs
+  skip_cleanup: true
+  access_key_id: GOOGAMUEVIVIDZEGKO42
+  secret_access_key:
+    secure: mCXSi8MilaNp8rYlBm5cHZOZd3sZhGyZbRDFpdA4w6qoB1wAV8+hLDTAyJvLaBiUUozEkssAj7Y0O8Uuf2J6yEWfmVJSg5id82dBDARcvtVzTp3ckOKNHPaE15+37El2wwhRW0X6a+bZCq3pEZL+vbAMiKKs92xqxG48VwtxGYgVgrudnmk+nOgthdVOKlp9YLB78IkXZh2BsxCuAxwk5gEH1Vv11an6whggJtY6wMbZe8ARz8B6Vs01NEwNFv0uTtiSS2fSMwDWGSnKrIuouC+Vd1f5bdzdnvUsmciAFc/0YDLDjig3uOVs0ecIiSSf+gK3gk9V8OrpS0sBS2OU2cSQjVwb3Bk27WMj8Q+qgO1t9qeAViR6XR91x0yp4ojnbphSpliatNTr78h9MrUwTqatVsoB4E1s/LZSv551WQiB+9Lezp4HDqiGkJAssxFaIXS/SW7HCud/WeSIptPiMxEkPUHfzs2VUX7xw5weT/6CCKSlZXziEL3mb/TqHfSUFEhhwKGRD2zJub0az6ndapd8A0NH0yoUGdYnkso3k5Dc/vzOTq94+Fr1edHEBvP5tH2viO3e1SRX/7GHh7Cg34fykl3OQp1w4HIe26RfJUteircdjN/dsOYdk/aT7BvKhE9Xr2mJYzk9gFs7Zpwyxg0RP61kshZMegQaFVYVzlU=
+  bucket: test.bogosiandesign.com
+  local-dir: _site
+  acl: public-read
+  cache_control: "private"
+  on:
+    repo: rutherford-nj/www.rutherford-nj.com
