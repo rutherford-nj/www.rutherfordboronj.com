@@ -24,11 +24,15 @@ var success = function(response, elt) {
     }
   })
   
+  var listElt = $('<ul></ul>');
+  
   $.each(urls, function(i, val){
     var filename = val.split('/').pop();
-    var newElt = '<div><a href="' + val + '">' + filename + '</a></div>';
-    elt.append(newElt)
+    var newElt = '<li><a href="' + val + '">' + filename + '</a></li>';
+    listElt.append(newElt)
   });
+  
+  elt.append(listElt);
 }
 
 var possibleElements = $('.gcs-file-list');
