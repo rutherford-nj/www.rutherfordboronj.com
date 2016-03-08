@@ -26,8 +26,7 @@ var success = function(response, elt) {
   
   $.each(urls, function(i, val){
     var filename = val.split('/').pop();
-    elt.append('<br />');
-    var newElt = '<a href="' + val + '">' + filename + '</a>';
+    var newElt = '<div><a href="' + val + '">' + filename + '</a></div>';
     elt.append(newElt)
   });
 }
