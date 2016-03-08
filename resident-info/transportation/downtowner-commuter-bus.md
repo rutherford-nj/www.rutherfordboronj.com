@@ -15,7 +15,7 @@ Sunday and Holidays.
 
 **Loop A**
 
-| Stop |   |  |	 |  | |	  | 
+| Stop | Trip 1 | Trip 2 | Trip 3 | Trip 4 | Trip 5 | Trip 6  | 
 |:----------------------------|:----:|:----:|:----:|:----:|:----:|:----:|
 | Kip Ave Parking Lot | 9:00 | 10:00 | 11:00 | 1:00 | 2:00 | 3:00 |
 | Feronia Way & Highland Cross | 9:05 | 10:05  | 11:05 | 1:05 | 2:05 | 3:05 |
@@ -27,7 +27,7 @@ Sunday and Holidays.
 
 **Loop B**
 
-| Stop |   |  |	 |  | |	  | 
+| Stop | Trip 1 | Trip 2 | Trip 3 | Trip 4 | Trip 5 | Trip 6  | 
 |:----------------------------|:----:|:----:|:----:|:----:|:----:|:----:|
 | Kip Avenue Parking Lot | 9:30 | 10:30 | 11:30 | 1:30 | 2:30 | 3:30 |
 | Home Avenue & Franklin Place | 9:34 | 10:34 | 11:34 | 1:34 | 2:34 | 3:34 |
