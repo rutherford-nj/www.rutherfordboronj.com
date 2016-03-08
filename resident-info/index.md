@@ -13,6 +13,7 @@ title: 'Resident Information'
 </style>
 
 ![Resident Information](resident-information.jpg)
+{: style="height: 146px; width: 900px;" }
 
 <ul>
   <li><a href="/departments/recreation/">Recreation</a></li>
