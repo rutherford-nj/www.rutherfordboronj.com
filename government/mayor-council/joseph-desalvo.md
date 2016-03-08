@@ -12,6 +12,8 @@ parent: 'Mayor and Council'
 **Contact:**  
 201-460-3022
 
+jdesalvo@rutherford-nj.com
+
 **Term of Office**  
 1/1/16 to 12/31/19  
 1/1/12 to 12/31/15 (Mayor)  
