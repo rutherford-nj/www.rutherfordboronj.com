@@ -5,6 +5,12 @@ title: 'Utilities'
 
 ## Below is some helpful information for residents of Rutherford.
 
+[PSE&G (Electric and Gas)](http://www.pseg.com/)  
+1-800-436-PSEG (7734)
+
+[PSE&G -  Report power outages, downed power lines, gas leaks and other urgent, safety related requests.](https://www.pseg.com/info/contact.jsp)  
+1-800-436-PSEG (7734)
+
 [Comcast Internet, Telephone and Television Service](http://www.comcast.com/)  
 800-934-6489
 
@@ -15,11 +21,8 @@ Local Newspapers:
 * [Bergen Record](http://www.northjersey.com/)
 * [South Bergenite](http://www.northjersey.com/southbergen/)
 
-[Passaic Valley Water Commision / Water Supply](http://www.pvwc.com/)  
+[Suez Water / Water Supply](http://www.mysuezwater.com/)  
 973-340-4300
-
-[PSE&G (Electric and Gas)](http://www.pseg.com/)  
-800-436-7734
 
 [Verizon Telephone, TV and Internet Service](http://www.verizon.com/)  
 800-440-8000
