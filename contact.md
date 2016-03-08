@@ -10,7 +10,6 @@ Please refer to the following phones numbers are for specific departments.
 | Borough Administrator | 201-460-3004 |
 | Borough Clerk | 201-460-3001 | mscanlon@rutherford-nj.com |
 | Building & Construction | 201-460-3010 | frecanati@rutherford-nj.com |
-| Business Improvement District | 201-939-1670 |
 | Finance Department | 201-460-3025 | gstelter@rutherford-nj.com |
 | Fire Safety Department | 201-460-3011 | firesafety@rutherford-nj.com |
 | Health Department | 201-460-3020 | healthdept@rutherford-nj.com |
