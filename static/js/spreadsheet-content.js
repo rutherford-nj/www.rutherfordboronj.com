@@ -27,7 +27,7 @@ var handleCells = function(a1, b1){
   }
 
   $('#dynamic-field').
-    append(b1).
+    text(b1).
     removeClass('dynamic-message-hidden').
     addClass('dynamic-message-' + a1);
 };
