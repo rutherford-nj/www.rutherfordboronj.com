@@ -11,7 +11,7 @@ Sunday and Holidays.
 
 <div style="float: right;">
 <iframe src="https://www.google.com/maps/d/embed?mid=z9E2BG8u0Qag.kLkdVR40gGZo" width="300" height="500"></iframe>
-
+</div>
 
 **Morning Shuttle**
 
