@@ -29,16 +29,16 @@ Sunday and Holidays.
 
 **Evening Shuttle**
 
-| Stop | Trip 1 | Trip 2 | Trip 3 | Trip 4 | Trip 5 | Trip 6  | 
-|:----------------------------|:----:|:----:|:----:|:----:|:----:|:----:|
-| Washington Ave & Erie Ave |5:56 AM | 6:24 AM | 6:51 AM | 7:21 AM | 7:41 AM | 8:00 AM |
-| Washington Ave & Beech Street |5:58 AM | 6:26 AM | 6:53 AM | 7:23 AM | 7:43 AM |8:02 AM |
-| Union Ave & Carmita Ave |6:00 AM | 6:28 AM | 6:55 AM | 7:26 AM | 7:45 AM | 8:04 AM |
-| Carmita Ave & W. Pierrepont | 6:03 AM | 6:30 AM | 6:58 AM | 7:28 AM | 7:48 AM | 8:07 AM |
-| Park Ave & W. Pierrepont | 6:06 AM | 6:32 AM | 7:00 AM | 7:30 AM | 7:51 AM | 8:10 AM |
-| Orient Way & Woodland St | 6:07 AM | 6:34 AM | 7:02 AM | 7:32 AM | 7:54 AM | 8:13 AM |
-| Arrive at Train Station | 6:10 AM | 6:38 AM | 7:04 AM | 7:34 AM | 7:57 AM | 8:16 AM  |
-| Train Departs | 6:18 AM	| 6:49 AM	 | 7:11 AM | 7:46 AM	| 8:11 AM	 | 8:49 AM	|
+| Stop | Trip 1 | Trip 2 | Trip 3 | Trip 4 | Trip 5 |
+|:----------------------------|:----:|:----:|:----:|:----:|:----:|
+| Washington Ave & Erie Ave | 4:49 PM | 5:18 PM | 5:43 PM | 6:22 PM | 6:52 PM |
+| Washington Ave & Beech Street |4:53 PM | 5:23 PM | 5:48 PM | 6:20 PM | 6:53 PM |
+| Union Ave & Carmita Ave |4:54 PM | 5:24 PM | 5:49 PM | 6:22 PM | 6:55 PM |
+| Carmita Ave & W. Pierrepont | 4:56 PM | 5:26 PM | 5:51 PM | 6:24 PM | 6:57 PM |
+| Park Ave & W. Pierrepont | 4:58 PM | 5:28 PM | 5:53 PM | 6:26 PM | 6:59 PM |
+| Orient Way & Woodland St | 5:00 PM | 5:30 PM | 5:55 PM | 6:28 PM | 7:01 PM |
+| Arrive at Train Station | 5:03 PM | 5:33 PM | 5:58 PM | 6:31 PM | 7:04 PM |
+| Train Departs | 5:06 PM | 5:36 PM | 6:01 PM | 6:34 PM | 7:07 PM |
 {: .hover-table }
 
 
