@@ -27,6 +27,7 @@ Sunday and Holidays.
 | Train Departs | 6:18 AM	| 6:49 AM	 | 7:11 AM | 7:46 AM	| 8:11 AM	 | 8:49 AM	|
 {: .hover-table }
 
+
 **Evening Shuttle**
 
 | Stop | Trip 1 | Trip 2 | Trip 3 | Trip 4 | Trip 5 |
