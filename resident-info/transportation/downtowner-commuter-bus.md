@@ -6,7 +6,7 @@ layout: page
 ## Commuter Shuttle - 
 
 The Commuter Shuttle is offered Free to all residents. The bus operates Monday through Friday from
-9am to 3:58pm and travels two loops throughout the Borough. There are no services on Saturday,
+5:56am to 8:16am in the mornings and 4:49pm to 7:04pm in the evenings. There are no services on Saturday,
 Sunday and Holidays.  
 
 <div style="float: right;">
