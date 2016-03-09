@@ -24,7 +24,8 @@ Sunday and Holidays.
 | Park Ave & W. Pierrepont | 6:06 AM | 6:32 AM | 7:00 AM | 7:30 AM | 7:51 AM | 8:10 AM |
 | Orient Way & Woodland St | 6:07 AM | 6:34 AM | 7:02 AM | 7:32 AM | 7:54 AM | 8:13 AM |
 | Arrive at Train Station | 6:10 AM | 6:38 AM | 7:04 AM | 7:34 AM | 7:57 AM | 8:16 AM  |
-| Train Departs | 6:18 AM	| 6:49 AM	 | 7:11 AM | 7:46 AM	| 8:11 AM	 |8:49 AM	|
+| Train Departs | 6:18 AM	| 6:49 AM	 | 7:11 AM | 7:46 AM	| 8:11 AM	 | 8:49 AM	|
+{: .hover-table }
 
 **Evening Shuttle**
 
@@ -37,9 +38,8 @@ Sunday and Holidays.
 | Park Ave & W. Pierrepont | 6:06 AM | 6:32 AM | 7:00 AM | 7:30 AM | 7:51 AM | 8:10 AM |
 | Orient Way & Woodland St | 6:07 AM | 6:34 AM | 7:02 AM | 7:32 AM | 7:54 AM | 8:13 AM |
 | Arrive at Train Station | 6:10 AM | 6:38 AM | 7:04 AM | 7:34 AM | 7:57 AM | 8:16 AM  |
-| Train Departs | 6:18 AM	| 6:49 AM	 | 7:11 AM | 7:46 AM	| 8:11 AM	 |8:49 AM	|
-
- 
+| Train Departs | 6:18 AM	| 6:49 AM	 | 7:11 AM | 7:46 AM	| 8:11 AM	 | 8:49 AM	|
+{: .hover-table }
 
 
 ## Downtowner Bus - 
@@ -49,7 +49,8 @@ The Downtowner Bus is offered Free to all residents. The bus operates Monday thr
 Sunday and Holidays.  
 
 <div style="float: right;">
-<iframe src="https://www.google.com/maps/d/embed?mid=z9E2BG8u0Qag.kkVKv7_elh6M" width="400" height="340"></iframe></div>
+  <iframe src="https://www.google.com/maps/d/embed?mid=z9E2BG8u0Qag.kkVKv7_elh6M" width="400" height="340"></iframe>
+</div>
 
 
 **Loop A**
@@ -62,7 +63,8 @@ Sunday and Holidays.
 | Mountain Way & Summit Cross | 9:09 | 10:09 | 11:09 | 1:09 | 2:09 | 3:09 |
 | Park Avenue & Woodland Avenue | 9:12 | 10:12 | 11:12 | 1:12 | 2:12 | 3:12 |
 | Carmita Avenue & W. Newell Avenue | 9:16 | 10:16 | 11:16 | 1:16 | 2:16 | 3:16 |
-| Lincoln Avenue & Summit Cross | 9:20 | 10:20 | 11:20 | 1:20 | 2:20 | 3:20 | 
+| Lincoln Avenue & Summit Cross | 9:20 | 10:20 | 11:20 | 1:20 | 2:20 | 3:20 |
+{: .hover-table }
 
 **Loop B**
 
@@ -76,3 +78,4 @@ Sunday and Holidays.
 | Union Avenue & Springfield Avenue | 9:44 | 10:44 | 11:44 | 1:44 | 2:44 | 3:44 |
 | Morse Avenue & Montross Avenue | 9:46 | 10:46 | 11:46 | 1:46 | 2:46 | 3:46 |
 | Washington Avenue & Grove Street | 9:48 | 10:48 | 11:48 | 1:48 | 2:48 | 3:48 |
+{: .hover-table }
