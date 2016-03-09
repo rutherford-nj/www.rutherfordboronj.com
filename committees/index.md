@@ -15,6 +15,7 @@ title: 'Committees'
 
 * [Board of Health](board-of-health/)
 * [Citizens' Finance](citizens-finance/)
+* [Civil Rights Commission](civil-rights-commission/)
 * [Green Team](green-team/)
 * [Historic Preservation](historic-preservation/)
 * [Quality of Life](quality-of-life/)
