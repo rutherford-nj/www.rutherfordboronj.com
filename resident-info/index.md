@@ -18,7 +18,7 @@ title: 'Resident Information'
 <ul>
   <li><a href="/departments/recreation/">Recreation</a></li>
   <li><a href="/departments/recreation/parks-facilities/">Parks &amp; Facilities</a></li>
-  <li><a href="/departments/social-services/">Social Sevices</a></li>
+  <li><a href="/departments/social-services/">Social Services</a></li>
   <li><a href="seniors/">Seniors</a></li>
   <li><a href="transportation/">Transportation</a></li>
 </ul>
@@ -27,5 +27,4 @@ title: 'Resident Information'
   <li><a href="http://www.rutherfordlibrary.org/">Library</a></li>
   <li><a href="utilities/">Utilities</a></li>
   <li><a href="houses-of-worship/">Houses of Worship</a></li>
-  <li>Parking</li>
 </ul>
