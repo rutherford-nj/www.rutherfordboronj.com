@@ -3,8 +3,7 @@ layout: page
 title: 'Calendars'
 ---
 
-**Scroll down to see calendars for Rutherford Mayor and Council meetings, Recreation and Events, Public Library and Public School System.
-Click on an event for more information. Event details are subject to change. ** 
+**Scroll down to see calendars for Rutherford Mayor and Council meetings, Recreation and Events, Public Library and Public School System. Click on an event for more information. Event details are subject to change.** 
 
 <div style="float: left;">
   <h2>Mayor &amp; Council, Committee Meetings</h2>
