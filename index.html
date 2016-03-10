@@ -46,15 +46,7 @@ title: '07070'
 </script>
 
 <div style="clear: both; height: 20px;"></div>
-<style>
-  .page-post-icon {
-    background-size: contain;
-    float: left;
-    height: 50px;
-    margin-right: 10px;
-    width: 75px;
-  }
-</style>
+
 <div class="homepage-bottom-left">
   <a href="/resident-info/"><img src="/static/images/residents-info.png"
          class="homepage-bottom-left-button" alt="Resident Information" /></a>
@@ -70,11 +62,13 @@ title: '07070'
             <div class="page-post-icon" style="background-image: url(/static/images/department-icons/{{category}}.png)"></div>
           {% endif %}
         {% endfor %}
-        <div class="page-post-date">
-          Posted on {{ post.date | date: "%B %-d %Y" }}
-        </div>
-        <div class="page-post-title">
-          <a href="{{ post.url }}">{{ post.title }}</a>
+        <div class="page-post-words">
+          <div class="page-post-date">
+            Posted on {{ post.date | date: "%B %-d %Y" }}
+          </div>
+          <div class="page-post-title">
+            <a href="{{ post.url }}">{{ post.title }}</a>
+          </div>
         </div>
       </div>
     {% endfor %}
