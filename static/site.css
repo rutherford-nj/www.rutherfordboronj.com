@@ -10,7 +10,3 @@
 
 {% include_relative css/recreation.css %}
 
-{% include_relative slick/slick.css %}
-
-{% include_relative slick/slick-theme.css %}
-
