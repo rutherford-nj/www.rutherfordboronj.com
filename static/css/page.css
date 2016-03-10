@@ -132,6 +132,20 @@
 
 .page-post-link {
   padding: 15px 0;
+  position: relative;
+}
+
+.page-post-icon {
+  background-size: contain;
+  height: 50px;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 75px;
+}
+
+.page-post-words {
+  margin-left: 85px;
 }
 
 .page-post-links > div:not(:last-child) {
