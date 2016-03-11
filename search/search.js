@@ -38,7 +38,7 @@ jQuery(function() {
     // Get lunr to perform a search
     var results = window.idx.search(query);
     // Put search query into the DOM.
-    $('search_query').text(query);
+    $('#search_query').text(query);
     // Hand the results off to be displayed
     display_search_results(results);
   };
