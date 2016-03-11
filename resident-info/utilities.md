@@ -30,6 +30,6 @@ Local Newspapers:
 [Verizon for Business](http://fios.verizon.com/fios-business.html)  
 877-602-2394
 
-[United States Post Office (USPS)](http://usps.com/)  
+[United States Post Office (USPS)](https://www.usps.com/)  
 156 Park Ave, Rutherford, NJ  
 201-933-5089
