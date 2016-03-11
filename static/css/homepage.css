@@ -58,6 +58,15 @@
   padding: 12px;
 }
 
+.homepage-bottom-links > a, .homepage-top-links > a  {
+  display: block;
+  padding: 12px 0;
+}
+
+.homepage-bottom-links > a:not(:last-child), .homepage-top-links > a:not(:last-child) {
+  border-bottom: 1px solid #036;
+}
+
 .homepage-news-and-updates-section {
   border: 1px solid #444;
   margin: 10px 0 0 5px;
