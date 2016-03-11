@@ -50,7 +50,9 @@
 }
 
 .homepage-bottom-left-button {
+  height: 206px;
   padding: 0 5px;
+  width: 271px;
 }
 
 .homepage-bottom-links {
