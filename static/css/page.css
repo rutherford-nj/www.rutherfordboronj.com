@@ -87,8 +87,12 @@
   width: 350px;
 }
 
+.page-gradient-box > div:not(:last-child) {
+  border-bottom: 1px solid #000;
+}
+
 .page-gradient-box > div {
-  margin: 15px 0;
+  padding: 15px 0;
 }
 
 .page-gradient-box a {
