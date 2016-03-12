@@ -11,6 +11,7 @@ parent: 'Mayor and Council'
 
 **Contact:**  
 201-460-3022
+
 fnunziato@rutherford-nj.com
 
 **Term of Office**  
@@ -23,7 +24,7 @@ fnunziato@rutherford-nj.com
 **Committee Assignments:**  
 Access for All Committee  
 Auxiliary Police  
-CERT  
+CERT (Community Emergency Response Team)  
 Court  
 Crossing Guards  
 Local Emergency Planning  
