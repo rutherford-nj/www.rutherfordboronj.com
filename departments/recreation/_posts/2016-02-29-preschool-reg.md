@@ -3,7 +3,7 @@ layout: blog
 title: Preschool Registration Begins 3/14
 ---
 
-##Register for Recreation Preschool at the Rec Dept office starting March 14th at 8:30am.
+**Register for Recreation Preschool at the Rec Dept office starting March 14th at 8:30am.**
 
 The program is held at Tamblyn Field Civic Center. There is a $50 registration fee. 
 
