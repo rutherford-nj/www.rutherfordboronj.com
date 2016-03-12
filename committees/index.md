@@ -28,6 +28,7 @@ Access for All Rutherford is comprised of 11 members: five members shall be pers
 ---
 
 **Citizens's Finance Advisory Committee** - Council Liaison: Mark O'Connor
+
 The Citizens Finance Advisory Committee is tasked to financially analyze and offer strategic advice to the Mayor and Council concerning existing and /or new programs established in the Borough.
 ---
 
@@ -36,17 +37,21 @@ The Citizens Finance Advisory Committee is tasked to financially analyze and off
 ---
 
 **Community Quality of Life/Board of Aesthetic Review** - Council Liaison Carolyn Smith
+
 Highlights of the committee’s work since its inception include: Sponsoring Club Fairs to encourage residents to become involved and make positive contributions to our Borough. Sponsoring the Summer Reading in Lincoln Park program, in partnership with the Rutherford Public Library and Rutherford Recreation staff. Initiating an Outstanding Citizen Award program. Hosting an educational forum for Rutherford residents featuring members of Courage to Connect NJ. In February 2016, the Community/Quality of Life Committee welcomed new members of the former Board of Aesthetic Review
 
 ---
 
 **Green Team** - Council Liaison Carolyn Smith
+
 [www.rutherfordgreenteam.org](http://rutherfordgreenteam.org/)
+
 The Rutherford Green Team is a group committed to spreading Environmental Awareness throughout the Borough of Rutherford, NJ and beyond. The committee is comprised of several representatives from different aspects of the community.
 
 ---
 
 **Historic Preservation Committee** - Council Liaison Mark O'Connor
+
 The objective of the Historic Preservation Committee is to educate the community about what value historic preservation offers to maintain the character of neighborhoods as reflected by the architecture and aesthetics. Furthermore, the Committee advises any borough board or agency of the historic nature of a property should demolition or construction be proposed.
 
 ---
