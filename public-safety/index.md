@@ -10,6 +10,7 @@ title: 'Public Safety Information'
 
 The RDP's priorities include the protection of life, liberty, and property to ensure all Borough residents and visitors experience a quality of life second to none.
 
+
 ---
 
 ![EMS Badge](EMSbadge85px.jpg)
@@ -31,5 +32,17 @@ Truck Co #1 and Engine Co. #4 respond out of the Ames Avenue Firehouse
 Engine Co. #2 responds from the Mortimer Avenue Firehouse
 
 Engine Co. #3 and Rescue Co. #5 respond out of the West End Firehouse on Union Avenue at the corner of Wells Place. 
+
+If you have any questions or are interested in joining the Rutherford Volunteer Fire Dept., applications can be obtained at the Rutherford Borough Clerks Office.
+
+Chief - Kelcey Keeler
+
+Deputy Chief - Christopher Seidler
+
+1st Assistant Chief - Jason Frahm
+
+2nd Assistant Chief - Scott Koen
+
+3rd Assistant Chief - Robert Van Winkle
 
 
