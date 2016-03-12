@@ -5,7 +5,7 @@ grandparent: 'Police Department'
 parent: 'Additional Police Services'
 ---
 
-[New Jersey Portal Directions](http://static.rutherford-nj.com/police/NJPortalDirections.doc.pdf)
+[New Jersey Portal Directions](https://storage.googleapis.com/static.rutherford-nj.com/police/police-NJPortalDirections.pdf)
 
 [Firearms Applications Instructions - New Applicant](http://static.rutherford-nj.com/police/RPD_Firearms%20Packet%20for%20New%20Applicant.pdf)
 
