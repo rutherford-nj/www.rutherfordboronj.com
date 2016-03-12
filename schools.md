@@ -3,7 +3,7 @@ layout: page
 title: 'Schools'
 ---
 
-Rutherford is home to both public and private schools as well as a local college.
+Rutherford is home to both public and private schools as well as a local university.
 
 [Rutherford Public Schools](http://www.rutherfordschools.org/district/)
 
@@ -16,4 +16,4 @@ Rutherford is home to both public and private schools as well as a local college
 
 [St. Mary's High School](http://www.stmaryhs.org/)
 
-[Felician College](http://www.felician.edu/)
+[Felician University](http://www.felician.edu/)
