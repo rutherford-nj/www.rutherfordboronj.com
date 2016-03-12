@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: March Pantry Needs
+title: March Community Pantry Needs
 ---
 
 
