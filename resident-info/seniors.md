@@ -22,7 +22,7 @@ Bus transportation is provided to the Olympics!
 **55 Kip Center -** 
 **Bergen County's Only Nationally Accredited Senior Center of Excellence**
 
-The Kip Center is a non profit Older Adult Activity Center located in Rutherford and serving 14 communities in southwest Bergen County and surrounding counties.  Our mission is to promote the physical, emotional, educational and spiritual well-being of older adults and to facilitate their participation in all aspects of community life.  
+The Kip Center is a non profit Older Adult Activity Center located in Rutherford and serving 14 communities in southwest Bergen County and surrounding counties.  Its mission is to promote the physical, emotional, educational and spiritual well-being of older adults and to facilitate their participation in all aspects of community life.  
 
 $10 annual fee for Rutherford Residents; 
 $15 for non-residents
@@ -33,11 +33,13 @@ $15 for non-residents
 
 **Golden Age Club** 
 Katherine Bidwell (201) 507-0791
+Coordinated with the Recreation Department
 
 ---
 
 **Guardsmen**
 Don Falken (201) 438-3378
+Coordinated with the Recreation Department
 
 Open to all male retirees from age 50 and up. To become a member, one is invited to attend one or more meetings as a guest of a sponsoring member. If further interested, he will be asked to submit an application to the Membership Chairman. At the next meeting the new member will be nominated by sponsor for membership and voted in by present members at that meeting. 
 The object of this organization is to provide fraternal communion, diversion and fellowship for men who have retired from their occupations, business or professions.
