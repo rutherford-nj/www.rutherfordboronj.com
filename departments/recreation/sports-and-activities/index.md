@@ -1,6 +1,6 @@
 ---
 layout: interior-page
-title: 'Sports &amp; Activities'
+title: 'Sports & Activities'
 parent: 'Recreation'
 ---
 

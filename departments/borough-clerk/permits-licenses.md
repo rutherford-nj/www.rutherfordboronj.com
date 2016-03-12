@@ -1,6 +1,6 @@
 ---
 layout: interior-page
-title: 'Permits &amp; Licenses'
+title: 'Permits & Licenses'
 parent: 'Borough Clerk'
 ---
 
