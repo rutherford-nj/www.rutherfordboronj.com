@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 'Departments'
+title: 'Certificate of Occupancy'
 ---
 
 In 1978 the Borough of Rutherford enacted an ordinance requiring that a certificate of occupancy be applied for and obtained prior to the use or occupancy of the whole or any part of any building:

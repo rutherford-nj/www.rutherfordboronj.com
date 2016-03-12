@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 'Departments'
+title: 'Houses of Worship'
 ---
 
 ## Rutherford is home to many different faiths:
