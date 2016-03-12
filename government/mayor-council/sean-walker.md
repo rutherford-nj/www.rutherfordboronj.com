@@ -11,6 +11,7 @@ parent: 'Mayor and Council'
 
 **Contact:**  
 201-460-3022
+
 swalker@rutherford-nj.com
 
 **Term of Office**  
@@ -20,7 +21,6 @@ swalker@rutherford-nj.com
 {: style="clear: both;" }
 
 **Committee Assignments:**  
-Board of Aesthetic  
 Environmental & Recycling  
 Municipal Alliance  
 Shade Tree Committee  
