@@ -17,7 +17,7 @@ Bus transportation is provided to the Olympics!
 
 ---
 
-![Kip Center Logo](../55.Kip.Center.Logo__100px.jpg)
+![Kip Center Logo](../55-kip-center-logo.jpg)
 {: style="float: left; margin: 0 20px 20px 0;"}
 **55 Kip Center -** 
 **Bergen County's Only Nationally Accredited Senior Center of Excellence**
