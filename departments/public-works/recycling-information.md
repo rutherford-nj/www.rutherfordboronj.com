@@ -27,7 +27,7 @@ Containers shall not exceed 32 gallons in capacity or 50lbs in weight.
 
 **Heavy Trash** – All non-food items / bulk waste are all a scheduled pickup. Call the DPW at 201 460-3000 x4000
 
-**E-Waste** – Curbside scheduled pick-up on Thursday’s. Items collected are Computers, TV/VCR, Laptops, Printers, Speakers, DVD, Cell Phones, Keyboards, Monitors, Printers, & Speakers. Call the DPW to schedule a pickup at 201 460-3000 x4000.  
+**E-Waste** – Curbside scheduled pick-up on Thursdays. Items collected are Computers, TV/VCR, Laptops, Printers, Speakers, DVD, Cell Phones, Keyboards, Monitors, Printers, & Speakers. Call the DPW to schedule a pickup at 201 460-3000 x4000.  
 Or you may drop them off at the Bergen County Utilities Authority in Moonachie, 5 days a week! Check their web site for information [(www.bcua.org)](http://www.bcua.org/) or call 201 807-5825
 
 **Christmas Trees** – Place curbside the month of Jan on your Vegetation Day. (DO NOT PLACE IN PLASTIC BAGS)
