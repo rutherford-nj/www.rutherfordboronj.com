@@ -11,6 +11,7 @@ parent: 'Mayor and Council'
 
 **Contact:**  
 201-460-3022
+
 moconnor@rutherford-nj.com
 
 **Term of Office**
@@ -21,7 +22,7 @@ moconnor@rutherford-nj.com
 
 **Committee Assignments:**  
 55 Kip Center  
-Citizen Finance  
+Citizen Finance Advisory Committee 
 Downtown Partnership  
 Historic Preservation  
 Local Assistance Board
