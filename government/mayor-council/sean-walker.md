@@ -6,7 +6,7 @@ parent: 'Mayor and Council'
 
 ## Councilman Sean C. Walker
 
-![Council Headshot](../SeanWalker.png)
+![Council Headshot](../sean-walker.png)
 {: style="float: left; margin: 0 20px 20px 0;"}
 
 **Contact:**  

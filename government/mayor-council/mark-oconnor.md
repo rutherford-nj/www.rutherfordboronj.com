@@ -6,7 +6,7 @@ parent: 'Mayor and Council'
 
 ## Councilman Mark O'Connor
 
-![Council Headshot](../MarkOConnor.png)
+![Council Headshot](../mark-oconnor.png)
 {: style="float: left; margin: 0 20px 20px 0;"}
 
 **Contact:**  

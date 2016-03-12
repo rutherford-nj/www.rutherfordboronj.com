@@ -6,7 +6,7 @@ parent: 'Mayor and Council'
 
 ## Mayor Joseph DeSalvo, Jr.
 
-![Mayor Headshot](../JoeDeSalvo.png)
+![Mayor Headshot](../joseph-desalvo.png)
 {: style="float: left; margin: 0 20px 20px 0;"}
 
 **Contact:**  

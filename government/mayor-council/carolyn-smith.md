@@ -6,7 +6,7 @@ parent: 'Mayor and Council'
 
 ## Councilwoman Carolyn Smith
 
-![Council Headshot](../CarolynSmith.png)
+![Council Headshot](../carolyn-smith.png)
 {: style="float: left; margin: 0 20px 20px 0;"}
 
 **Contact:**  

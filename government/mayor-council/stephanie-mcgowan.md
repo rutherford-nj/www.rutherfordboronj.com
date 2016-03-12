@@ -6,7 +6,7 @@ parent: 'Mayor and Council'
 
 ## Councilwoman Stephanie McGowan
 
-![Council Headshot](../StephanieMcGowan.png)
+![Council Headshot](../stephanie-mcgowan.png)
 {: style="float: left; margin: 0 20px 20px 0;"}
 
 **Contact:**  

@@ -6,7 +6,7 @@ parent: 'Mayor and Council'
 
 ## Councilman Frank Nunziato
 
-![Council Headshot](../FrankNunziato.png)
+![Council Headshot](../frank-nunziato.png)
 {: style="float: left; margin: 0 20px 20px 0;"}
 
 **Contact:**  

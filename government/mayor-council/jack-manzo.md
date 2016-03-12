@@ -6,7 +6,7 @@ parent: 'Mayor and Council'
 
 ## Councilman Jack Manzo
 
-![Council Headshot](../JackManzo.png)
+![Council Headshot](../jack-manzo.png)
 {: style="float: left; margin: 0 20px 20px 0;"}
 
 **Contact:**  
