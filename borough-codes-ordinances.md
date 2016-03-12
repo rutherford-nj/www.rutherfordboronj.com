@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 'Departments'
+title: 'Borough Codes & Ordinances'
 ---
 
 <h2><a href="http://ecode360.com/RU0183?needHash=true">Click Here for Borough Codes and Ordinances</a></h2>
