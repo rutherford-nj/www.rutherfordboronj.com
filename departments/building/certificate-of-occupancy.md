@@ -76,7 +76,7 @@ Clearances to Combustibles – Provide the required space around various fuel bu
 House Street Number – The number of your house should be visible in case you or your neighbors requires emergency assistance. The numbers should have a ½ inch stroke and be a minimum of three (3) inches in height. The numbers must be visible from the street of a contrasting color located by the front door.
 Accessory Structures – Garages, fences, sheds and walls must be kept in good state of repair and maintained structurally sound.
 Interior surfaces – Cracked, loose or missing plaster, peeling paint, uneven or defective floor surfaces, should be repaired or replaced.
-Roof, leader pipe and water runoff – The roof shall be sound, tight and not have defects that admit rain. The leader pipes should terminate at the ground and discharge the water away from your foundation and not into your neighbors yard.
+Roof, leader pipe and water runoff – The roof shall be sound, tight and not have defects that admit rain. The leader pipes should terminate at the ground and discharge the water away from your foundation and not into your neighbors' yard.
 Exterior Wall & Trim features – Must be maintained weatherproof and properly surface coated (Painted).
 Oil Tanks – Did you convert to gas? The oil tank must be abandoned with a building permit and proper inspection being conducted.
 Note: The above listed items are not intended to be all-inclusive, but are only a partial listing of the most often found violations during the Certificate of Occupancy inspection.
