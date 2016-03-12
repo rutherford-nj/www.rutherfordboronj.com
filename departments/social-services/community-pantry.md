@@ -18,7 +18,7 @@ The Rutherford Community Pantry, Inc. is a volunteer non-profit organization whi
 
 The Rutherford Community Pantry, Inc. is a joint effort of concerned citizens, community faith congregations and civic organizations. We appreciate and need your support.
 
-If you are interested in becoming an RCP volunteer, please call 201-460-3028 Leave your name and phone number and we will contact you.
+If you are interested in becoming an RCP volunteer, please call 201-460-3028. Leave your name and phone number and we will contact you.
 
 
 
@@ -41,4 +41,5 @@ Please see the list of our current needs, updated monthly. In addition to the it
 * Umbrellas  
 * Body lotions and powders  
 * Shampoo and Conditioner  
-* Clothing cannot be accepted  
+
+Clothing cannot be accepted  
