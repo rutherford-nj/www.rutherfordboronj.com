@@ -1,6 +1,6 @@
 ---
 layout: interior-page
-title: 'Personnel &amp; Contacts'
+title: 'Personnel & Contacts'
 parent: 'Police Department'
 ---
 

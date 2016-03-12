@@ -7,9 +7,9 @@ index: true
   {% if page.parent %}
   <h3>
     {% if page.grandparent %}
-      <a href="{{ page.grandparent_url | default: '../../' }}">{{ page.grandparent }}</a> &gt;
+      <a href="{{ page.grandparent_url | default: '../../' }}">{{ page.grandparent | escape }}</a> &gt;
     {% endif %}
-    <a href="{{ page.parent_url | default: '../' }}">{{ page.parent }}</a> &gt; {{ page.title }}
+    <a href="{{ page.parent_url | default: '../' }}">{{ page.parent | escape }}</a> &gt; {{ page.title | escape }}
   </h3>
   {% endif %}
   

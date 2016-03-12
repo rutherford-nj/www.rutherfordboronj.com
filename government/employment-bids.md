@@ -1,6 +1,6 @@
 ---
 layout: interior-page
-title: 'Employment &amp; Bids'
+title: 'Employment & Bids'
 parent: Government
 ---
 

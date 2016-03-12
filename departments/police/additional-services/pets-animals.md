@@ -1,6 +1,6 @@
 ---
 layout: interior-page
-title: 'Pets &amp; Animals'
+title: 'Pets & Animals'
 grandparent: 'Police Department'
 parent: 'Additional Police Services'
 ---

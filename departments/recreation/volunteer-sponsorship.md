@@ -1,6 +1,6 @@
 ---
 layout: interior-page
-title: 'Volunteer &amp; Sponsorship'
+title: 'Volunteer & Sponsorship'
 parent: 'Recreation'
 ---
 
