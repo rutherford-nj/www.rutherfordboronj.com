@@ -11,6 +11,7 @@ parent: 'Mayor and Council'
 
 **Contact:**  
 201-460-3022
+
 csmith@rutherford-nj.com
 
 **Term of Office**  
@@ -21,8 +22,9 @@ csmith@rutherford-nj.com
 
 **Committee Assignments:**  
 Board of Education  
-Community Quality of Life  
+Community/Quality of Life  
 Felician University  
 Green Acres  
 [Green Team](/committees/green-team/)  
 Recreation Advisory Committee
+Citizen Finance (2nd)
