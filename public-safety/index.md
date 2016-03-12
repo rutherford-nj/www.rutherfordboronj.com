@@ -10,6 +10,7 @@ title: 'Public Safety Information'
 
 The RDP's priorities include the protection of life, liberty, and property to ensure all Borough residents and visitors experience a quality of life second to none.
 
+<div style="clear: both;"></div>
 
 ---
 
@@ -20,6 +21,7 @@ The RDP's priorities include the protection of life, liberty, and property to en
 
 The Rutherford First-Aid Ambulance Corps is a volunteer, non-profit organization dedicated to providing Emergency Medical Services to our residents.
 
+<div style="clear: both;"></div>
 
 ---
 
