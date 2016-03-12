@@ -23,6 +23,7 @@ deploy:
     cache_control: "private"
     on:
       repo: rutherford-nj/www.rutherford-nj.com
+      branch: beta
   - provider: gcs
     skip_cleanup: true
     access_key_id: GOOGAMUEVIVIDZEGKO42
