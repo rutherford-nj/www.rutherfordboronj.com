@@ -3,7 +3,7 @@
     [
       {
         "action": {"type": "Delete"},
-        "condition": {"createdBefore": "2016-03-04"}
+        "condition": {"createdBefore": "2016-03-09"}
       }
     ]
 }
