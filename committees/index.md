@@ -3,15 +3,6 @@ layout: page
 title: 'Committees'
 ---
 
-<style>
-.page-content ul {
-  float: left;
-  font-size: 150%;
-  line-height: 2;
-  margin-right: 100px;
-}
-</style>
-
 ##Boards, Commissions and Committees
 
 **Access for All Committee** - Council Liaison: Frank Nunziato
@@ -43,11 +34,7 @@ Highlights of the committee’s work since its inception include: Sponsoring Clu
 
 ---
 
-**Green Team** - Council Liaison Carolyn Smith
-
-[www.rutherfordgreenteam.org](http://rutherfordgreenteam.org/)
-
-The Rutherford Green Team is a group committed to spreading Environmental Awareness throughout the Borough of Rutherford, NJ and beyond. The committee is comprised of several representatives from different aspects of the community.
+[**Green Team**](green-team/)
 
 ---
 
