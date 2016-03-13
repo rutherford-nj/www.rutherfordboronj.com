@@ -34,11 +34,7 @@ Highlights of the committee’s work since its inception include: Sponsoring Clu
 
 ---
 
-**Green Team** - Council Liaison Carolyn Smith
-
-[www.rutherfordgreenteam.org](http://rutherfordgreenteam.org/)
-
-The Rutherford Green Team is a group committed to spreading Environmental Awareness throughout the Borough of Rutherford, NJ and beyond. The committee is comprised of several representatives from different aspects of the community.
+[**Green Team**](green-team/)
 
 ---
 
