@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Rutgers Coaches Course 3/15
+title: Rutgers Coaches S.A.F.E.T.Y. Clinic 3/15
 ---
 
 
