@@ -1,8 +1,6 @@
 #!/usr/bin/env bash
 set -e # halt script on error
 
-env
-
 bundle exec jekyll build
 if [[ "$TRAVIS_BRANCH" == "beta" ]]; then
   cp ./_site/robots.txt.template ./_site/robots.txt
