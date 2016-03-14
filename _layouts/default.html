@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>The Borough of Rutherford, New Jersey{% if page.title %} | {{page.title | escape}}{% endif %}</title>
+  <title>{% if page.title and page.title != '07070' %}{{page.title | escape}} | {% endif %}The Borough of Rutherford, New Jersey</title>
   <meta charset='UTF-8'/>
   <meta name="theme-color" content="#036">
   <meta property="og:image" content="http://www.rutherford-nj.com/static/images/borough-logo.jpg" />
