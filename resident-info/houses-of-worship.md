@@ -39,4 +39,4 @@ title: 'Houses of Worship'
 
 **Abundant Grace Christian Church** 70 Home Ave., 201-933-1191
 
-**The Good Shepherd Church** 1 Williams Plaza, Williams Center, 201-997-0888
+[**Church Alive**](http://www.churchalive.tv/) 1 Williams Plaza, 201-241-2402
