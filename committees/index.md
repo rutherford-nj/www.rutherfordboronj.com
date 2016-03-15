@@ -48,10 +48,15 @@ The objective of the Historic Preservation Committee is to educate the community
 
 ---
 
-**Local Assistance Planning Board** - Council Liaison Mark O'Connor
+**Local Assistance Board** - Council Liaison Mark O'Connor
+
+---
+
+[**Planning Board**](../planning-board/)
 
 ---
 
 **Recreation Advisory Committee** - Council Liaison Carolyn Smith
 
 ---
+
