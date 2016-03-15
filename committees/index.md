@@ -10,7 +10,7 @@ Access for All Rutherford is comprised of 11 members: five members shall be pers
 
 ---
 
-[**Board of Adjustment**](../board-of-adjustment/) - Council Liaison: Stephanie McGowan 
+[**Board of Adjustment**](board-of-adjustment/) - Council Liaison: Stephanie McGowan 
 
 ---
 
@@ -52,7 +52,7 @@ The objective of the Historic Preservation Committee is to educate the community
 
 ---
 
-[**Planning Board**](../planning-board/)
+[**Planning Board**](planning-board/)
 
 ---
 
