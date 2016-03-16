@@ -1,8 +1,19 @@
 ---
 layout: interior-page
-title: 'Rebates and Reimbursements'
+title: 'Deductions, Rebates and Reimbursements'
 parent: 'Tax Collector'
 ---
+
+## PROPERTY TAX DEDUCTIONS
+
+Veterans are entitled to a $250.00 per year property tax deduction. Applications are available in the Tax Office. Completed applications must be accompanied by a copy of the Veteran’s DD-214.
+
+Senior Citizens (65 years of age or older) and disabled individuals can receive a $250.00 per year property deduction, which is also income dependent. Individuals interested in receiving this deduction are required to complete an application to determine eligibility. Applications are available in the Tax Office.
+ 
+**REMINDER**
+
+If you are receiving a Senior Citizen or Disabled Individual, $250.00 property tax deduction, you will receive in January of each year a post annual tax year statement. The completed statement must be returned by March 1st or the deduction will be removed.
+
 
 ## STATE OF NEW JERSEY PROPERTY TAX REBATE/REIMBURSEMENT PROGRAMS
 
