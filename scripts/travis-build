@@ -6,4 +6,12 @@ if [[ "$TRAVIS_BRANCH" == "beta" ]]; then
   echo "On beta branch, doing beta things..."
   cp ./_site/robots.txt.template ./_site/robots.txt
 fi
+
+# Clean up configuration files before deploy
+rm ./_site/robots.txt.template
+rm ./_site/Gemfile
+rm ./_site/Gemfile.lock
+rm ./_site/README.md
+
+# Test the site
 bundle exec htmlproofer ./_site --only-4xx --check-favicon --check-html --disable-external
