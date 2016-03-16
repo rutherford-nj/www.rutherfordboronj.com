@@ -37,4 +37,4 @@ deploy:
     cache_control: "private"
     on:
       repo: rutherford-nj/www.rutherford-nj.com
-      branch: master
+      branch: www
