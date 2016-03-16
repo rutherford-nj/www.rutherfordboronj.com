@@ -32,6 +32,10 @@ The Citizens Finance Advisory Committee is tasked to financially analyze and off
 
 Highlights of the committee’s work since its inception include: Sponsoring Club Fairs to encourage residents to become involved and make positive contributions to our Borough. Sponsoring the Summer Reading in Lincoln Park program, in partnership with the Rutherford Public Library and Rutherford Recreation staff. Initiating an Outstanding Citizen Award program. Hosting an educational forum for Rutherford residents featuring members of Courage to Connect NJ. In February 2016, the Community/Quality of Life Committee welcomed new members of the former Board of Aesthetic Review
 
+[Click here for Information on the Oustanding Citizen Award and printable ballot](https://storage.googleapis.com/static.rutherford-nj.com/committees/QOL_COTY_2016.pdf)
+
+[Click here to submit your Outstanding Citizen nomination online](
+
 ---
 
 [**Green Team**](green-team/)
