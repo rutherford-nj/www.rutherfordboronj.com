@@ -8,7 +8,7 @@ before_script:
 script: ./scripts/travis-build
 branches:
   only:
-  - master
+  - www
   - beta
 env:
   global:
