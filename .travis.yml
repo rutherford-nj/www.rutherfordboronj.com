@@ -34,7 +34,7 @@ deploy:
     bucket: www.rutherford-nj.com
     local-dir: _site
     acl: public-read
-    cache_control: "public,max-age=300"
+    cache_control: "public,max-age=3600"
     on:
       repo: rutherford-nj/www.rutherford-nj.com
       branch: www
