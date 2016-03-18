@@ -6,3 +6,4 @@
 
 {% include_relative js/spreadsheet-content.js %}
 
+{% include_relative js/reload.js %}
