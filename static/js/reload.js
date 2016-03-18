@@ -1,8 +1,6 @@
 (function($){
 
-var x = $('#reload_not_needed');
-
-if (!x) {
+if (!$('#reload_not_needed').length) {
   document.location.reload(true);
 }
 
