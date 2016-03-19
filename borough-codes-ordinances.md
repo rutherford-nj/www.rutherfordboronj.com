@@ -7,7 +7,7 @@ title: 'Borough Codes & Ordinances'
 
 ## Recently Adopted Borough Codes and Ordinances:
 
-[Ordinance No. 3391-16 - Amendment to the Zoning Ordinance](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/Ord%203391-16-Amending-Chapter-131.pdf)
+[Ordinance No. 3391-16 - Amendment to the Zoning Ordinance](http://static.rutherford-nj.com/codes-ordinances/Ord%203391-16-Amending-Chapter-131.pdf)
 
 [Ordinance No. 3389-16 - Creating the Position of Executive Secretary](http://static.rutherford-nj.com/codes-ordinances/3389-16%20Ordinance%20creating%20the%20position%20of%20Executive%20Secretary.pdf)
 
