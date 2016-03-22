@@ -14,7 +14,7 @@ Please click on an item below to download the appropriate form and return to the
 [**Dumpster**](http://static.rutherford-nj.com/borough-clerk/permits-licenses/Dumpster_Permit.pdf)
 – If you need to place a dumpster on the street or driveway, a permit is required at the cost of $25.00 for 15 days.  If being placed in meter spaces $5.00 per day, per meter.
   
-[**Employment Application**](http://static.rutherford-nj.com/borough-clerk/permits-licenses/Employment%20Application.pdf)
+[**Employment Application**](https://storage.googleapis.com/static.rutherford-nj.com/borough-clerk/permits-licenses/Employment%20Application.pdf)
 
 [**Firearms Applications**](/departments/police/additional-services/) - Handled by Rutherford Police Department. 
 
