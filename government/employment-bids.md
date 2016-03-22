@@ -4,4 +4,4 @@ title: 'Employment & Bids'
 parent: Government
 ---
 
-There are currently no RFP, RFQ or Bid Notices.
+[Employment  -  Executive Secretary](https://storage.googleapis.com/static.rutherford-nj.com/finance/Employment/Exec%20Sec.pdf)
