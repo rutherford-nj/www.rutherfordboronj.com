@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: "West Nile Prevention for Property Owners"
+title: "West Nile Prevention Info for Property Owners"
 ---
 
 The Rutherford Health Department is encouraging property owners during the month of April to inspect their properties for sources of stagnant water that can serve as a breeding ground for mosquitoes. With the warm weather approaching, it is anticipated that the West Nile Virus (WNV) will be returning to our area once again this year. 
