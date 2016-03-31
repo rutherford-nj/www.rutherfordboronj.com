@@ -27,5 +27,6 @@ title: 'Departments'
   <li><a href="public-works/">Public Works</a></li>
   <li><a href="recreation/">Recreation</a></li>
   <li><a href="social-services/">Social Services</a></li>
+  <li><a href="tax-assessor/">Tax Assessor</a></li>
   <li><a href="tax-collector/">Tax Collector</a></li>
 </ul>
