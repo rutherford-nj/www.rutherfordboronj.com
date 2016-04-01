@@ -4,12 +4,12 @@ title: News Archives
 ---
 
 {% for post in site.posts %}
+  {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
   {% if forloop.first %}
+    {% capture lyear %}{{ post.date | date: '%Y' }}{% endcapture %}
     <h3>{{ post.date | date: '%Y' }}</h3>
   {% endif %}
-  {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
-  {% capture nyear %}{{ post.next.date | date: '%Y' }}{% endcapture %}
-  {% if year != nyear %}
+  {% if year != lyear %}
     <h3>{{ post.date | date: '%Y' }}</h3>
   {% endif %}
   <div>
@@ -20,4 +20,5 @@ title: News Archives
     {% endfor %}
     <div>{{ post.date | date:"%b %d" }} - <a href="{{ post.url }}">{{ post.title }}</a></div>
   </div>
+  {% capture lyear %}{{ post.date | date: '%Y' }}{% endcapture %}
 {% endfor %}
