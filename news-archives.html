@@ -12,7 +12,7 @@ title: News Archives
   {% if year != lyear %}
     <h3>{{ post.date | date: '%Y' }}</h3>
   {% endif %}
-  <div>
+  <div class="news-archive-item">
     {% for category in post.categories %}
       {% if category != 'departments' %}
         <div class="page-post-icon" style="background-image: url(/departments/{{category}}/icon.png)"></div>
