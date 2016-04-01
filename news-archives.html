@@ -3,6 +3,7 @@ layout: page
 title: News Archives
 ---
 
+<h2>News Archive</h2>
 {% for post in site.posts %}
   {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
   {% if forloop.first %}
