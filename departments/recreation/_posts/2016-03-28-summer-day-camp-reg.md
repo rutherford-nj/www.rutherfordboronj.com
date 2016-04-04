@@ -9,7 +9,7 @@ title: Summer Day Camp Registration
 
 ($20 Late Fee After May 27th)
 
-The Rutherford Recreation Department Day Camp will be held **June 29th-August 7th**. 
+The Rutherford Recreation Department Day Camp will be held **June 27th-August 5th**. 
 
 Our Day Camp program is available to all resident children ages 3-8th grade. Children will enjoy 6 fun-filled weeks of sports, arts & crafts, special events, & theme days. 
 
