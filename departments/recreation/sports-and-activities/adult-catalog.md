@@ -22,7 +22,7 @@ Currently, payment for programs must be made in person or mailed to the Recreati
 |---------|-----------|-----|-----|------|------------|------------------|----------|
 |**Rosters must be in 2 weeks prior to start date** | | | | | | | | | 
 |**Men's Softball Roster** |	HS Grad |	TBD	| Weekdays |	PM	| April 11 |	16 games |	Memorial Park |
-|**Men's Over 40 Softball Roster [Game Schedule](https://storage.googleapis.com/static.rutherford-nj.com/recreation/2016%20Over%2040%20Schedule.pdf)** | 40+	| TBD	| Sundays	| AM	| April 17 |	14 games |	Memorial Park |
+|**Men's Over 40 Softball Roster [Game Schedule](http://static.rutherford-nj.com/recreation/2016%20Over%2040%20Schedule.pdf)** | 40+	| TBD	| Sundays	| AM	| April 17 |	14 games |	Memorial Park |
 |**Ladies' Softball Roster** |	HS Grad |	TBD |	Weekdays |	PM	| June 13 |	12 games	| Memorial Park |
 | **Co-ed Volleyball** |	HS Grad |	TBD |	Weekdays |	PM |	June 2 | 10 games	| Memorial Park |
 {: .hover-table .recreation-table }
