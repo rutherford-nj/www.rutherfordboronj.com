@@ -44,3 +44,4 @@ Currently, payment for programs must be made in person or mailed to the Recreati
 | Program | Age/Grade | Fee |	More Information |
 |:--------|:---------:|:---:|:---------------:|
 |**Soccer** | K-8th grade | $45 |	Call for more info; $10 late fee after June 30	| 
+{: .hover-table .recreation-table}
