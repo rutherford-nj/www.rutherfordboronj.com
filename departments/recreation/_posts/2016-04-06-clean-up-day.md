@@ -26,3 +26,5 @@ Check in at Borough Hall at 9:00AM.
 Please bring rakes, gloves, smiles and a helping hand.
 
 THANKS!!
+
+[Click here to download flyer](https://storage.googleapis.com/static.rutherford-nj.com/recreation/town%20clean%20up%20day%202016.pdf)
