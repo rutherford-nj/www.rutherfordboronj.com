@@ -38,3 +38,8 @@ Currently, payment for programs must be made in person or mailed to the Recreati
 |**T-ball Parent & Me Squirts** | 2-3 yrs |	$159 | Tues |	9:30 - 10:15AM |	April 19-June 7 |	| 8 |	Wall Field|
 |**T-ball Squirts** |	3-5 yrs |	$159 |	Tues |	10:30 - 11:30Am |	April 19-June 7 |	| 8 |	Wall Field |
 {: .hover-table .recreation-table}
+
+## Children's Fall 2016 Sports and Activities
+| Program | Age/Grade | Fee |	More Information |
+|:--------|:---------:|:---:|:---------------:|
+|**Soccer** | K-8th grade | $45 |	Call for more info; $10 late fee after June 30	| 
