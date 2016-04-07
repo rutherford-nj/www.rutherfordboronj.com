@@ -40,6 +40,7 @@ Currently, payment for programs must be made in person or mailed to the Recreati
 {: .hover-table .recreation-table}
 
 ## Children's Fall 2016 Sports and Activities
+
 | Program | Age/Grade | Fee |	More Information |
 |:--------|:---------:|:---:|:---------------:|
 |**Soccer** | K-8th grade | $45 |	Call for more info; $10 late fee after June 30	| 
