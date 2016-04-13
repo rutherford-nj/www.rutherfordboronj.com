@@ -28,10 +28,6 @@
   text-transform: uppercase;
 }
 
-.homepage-top-links img, .homepage-bottom-links img {
-  padding-bottom: 7px;
-}
-
 .homepage-top-links {
   float: left;
   text-align: right;
