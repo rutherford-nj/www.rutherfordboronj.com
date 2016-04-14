@@ -7,6 +7,8 @@ title: 'Borough Codes & Ordinances'
 
 ## Recently Adopted Borough Codes and Ordinances:
 
+[Ordinance No. 3393-16 - Establishing a CAP Bank](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3393-16%20Ordinance%20Establishing%20a%20CAP%20Bank.pdf)
+
 [Ordinance No. 3391-16 - Amendment to the Zoning Ordinance](http://static.rutherford-nj.com/codes-ordinances/3391-16%20Ordinance%20Amending%20Zoning%20for%20fences.pdf)
 
 [Ordinance No. 3389-16 - Creating the Position of Executive Secretary](http://static.rutherford-nj.com/codes-ordinances/3389-16%20Ordinance%20Creating%20the%20Position%20of%20Executive%20Secretary.pdf)
