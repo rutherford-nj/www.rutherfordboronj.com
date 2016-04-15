@@ -53,8 +53,8 @@ Currently, payment for programs must be made in person or mailed to the Recreati
 |**Soccer** | K-8th grade | $45 |	Call for more info; $10 late fee after June 30	| 
 {: .hover-table .recreation-table}
 
-| Program | Age/Grade | Fee |	Day | Time | Start Date |	Dates no session | Number of classes | Location |
-|:--------|:---------:|:---:|:---:|:----:|:----------:|:----------------:|:-----------------:|:--------:|
+| Program | Age/Grade | Fee |	Day | Time | Start Date |	Dates no session | Location |
+|:--------|:---------:|:---:|:---:|:----:|:----------:|:----------------:|:--------:|
 |**Preschool 3 yrs** by 10/1/16 | 3 yrs | $320 bi-monthly |	Tues & Thur	| 8:30 - 11:15AM |	Sept 13 - May 23 |	Follows School calendar	| |	Tamblyn Field Civic Center|
 |**Preschool 4 yrs** by 10/1/16 |	4 yrs |	$480 bi-monthly	|  Mon, Wed & Fri |	8:30 - 11:15AM | Sept 12 - May 25 |	Follows School calendar |	|	Tamblyn Field Civic Center|
 |**After-care for 4 year olds** | 4 yrs |	Monthly	| Mon, Wed & Fri	| 11:15AM - 1:15PM |	Sept 12 - May 25 | Follows School calendar |	|	Tamblyn Field Civic Center|
