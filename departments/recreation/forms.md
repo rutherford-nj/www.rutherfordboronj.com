@@ -10,6 +10,8 @@ parent: 'Recreation'
 
 [Medical Release](http://static.rutherford-nj.com/recreation/Medical%20Release.pdf)
 
+[2016 Summer Day Camp Registration and Medical Release Forms](https://storage.googleapis.com/static.rutherford-nj.com/recreation/posts/2016Day%20Camp%20Registration%20forms.pdf)
+
 [2016 Little League and Girls Softball Application](http://static.rutherford-nj.com/recreation/2016%20LL%20and%20Girls%20Softball%20Registration.pdf)
 
 [Program Registration](http://static.rutherford-nj.com/recreation/Recreation_ProgramRegistration.pdf)
