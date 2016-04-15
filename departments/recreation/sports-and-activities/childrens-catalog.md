@@ -5,7 +5,7 @@ grandparent: Recreation
 parent: Sports and Activities
 ---
 
-## Children's Spring 2016 Sports and Activities
+## Spring 2016 Children's Sports and Activities
 Please set up an account with [Community Pass](https://register.communitypass.net/reg/login.cfm?D%3CN%21%2E%22_W%22F%299SZWV%5C%21%3DHNW%3BR%3AZQI%2F79%2CKX03%3DBIP%27B%5EF%25U99%2B) to receive important emails and information. 
 
 Currently, payment for programs must be made in person or mailed to the Recreation Department in the Ground Floor of Borough Hall, 176 Park Avenue.  Please print and complete [this form](http://static.rutherford-nj.com/recreation/Recreation_ProgramRegistration.pdf) and attach it to your check upon payment. Registration is complete only upon payment.
@@ -38,7 +38,7 @@ Currently, payment for programs must be made in person or mailed to the Recreati
 ## 2016 Summer Day Camp
 
 | Program | Age/Grade | Fee |	Location | Times | 
-|:--------|:---------:|:---:|:---------------:|
+|:--------|:---------:|:---:|:--------:|:-----:|
 |**Kinder Half Day** | Age 3 - 1st grade | $217.50 | Tamblyn CC | Morning Session 8:30am-12pm Afternoon Session 12pm-3:30pm |
 |**Kinder Full Day** | Age 3 - 1st grade | $435 | Tamblyn CC | 8:30am-3:30pm |
 |**Junior Camp** | Grades 2 - 5 | $435 | Washington School | 8:30am-3:30pm |
@@ -46,7 +46,7 @@ Currently, payment for programs must be made in person or mailed to the Recreati
 |[Click here to download registration and medical release forms for Summer Day Camp](https://storage.googleapis.com/static.rutherford-nj.com/recreation/posts/2016Day%20Camp%20Registration%20forms.pdf)
 {: .hover-table .recreation-table}
 
-## Children's Fall 2016 Sports and Activities
+## Fall 2016 Children's Sports and Activities
 
 | Program | Age/Grade | Fee |	More Information |
 |:--------|:---------:|:---:|:---------------:|
