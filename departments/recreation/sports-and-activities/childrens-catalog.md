@@ -12,10 +12,6 @@ Currently, payment for programs must be made in person or mailed to the Recreati
 
 | Program | Age/Grade | Fee |	Day | Time | Start Date |	Dates no session | Number of classes | Location |
 |:--------|:---------:|:---:|:---:|:----:|:----------:|:----------------:|:-----------------:|:--------:|
-|**Preschool 3 yrs** by 10/1/16 | 3 yrs | $320 bi-monthly |	Tues & Thur	| 8:30 - 11:15AM |	Sept 13 - May 23 |	Follows School calendar	| |	Tamblyn Field Civic Center|
-|**Preschool 4 yrs** by 10/1/16 |	4 yrs |	$480 bi-monthly	|  Mon, Wed & Fri |	8:30 - 11:15AM | Sept 12 - May 25 |	Follows School calendar |	|	Tamblyn Field Civic Center|
-|**After-care for 4 year olds** | 4 yrs |	Monthly	| Mon, Wed & Fri	| 11:15AM - 1:15PM |	Sept 12 - May 25 | Follows School calendar |	|	Tamblyn Field Civic Center|
-|---------|-----------|-----|-----|------|------------|------------------|-------------------|----------|
 |**Gymnastics** | 	3-5 yrs |	$55 |	Sat	| 9:00 - 10:00AM |	March 12 | April 2 & 23 | 8 |	Tamblyn Field Civic Center|
 | | 3-5 yrs |	$55 |	Sat	| 10:00 - 11:00AM |	March 12 |	April 2 & 23 |	8	| Tamblyn Field Civic Center |
 | | 6-8 yrs |	$55 |	Sat |	11:00 - 12Noon	| March 12	| April 2 & 23 |	8	| Tamblyn Field Civic Center |
@@ -39,9 +35,26 @@ Currently, payment for programs must be made in person or mailed to the Recreati
 |**T-ball Squirts** |	3-5 yrs |	$159 |	Tues |	10:30 - 11:30Am |	April 19-June 7 |	| 8 |	Wall Field |
 {: .hover-table .recreation-table}
 
+## 2016 Summer Day Camp
+
+| Program | Age/Grade | Fee |	Location | Times | 
+|:--------|:---------:|:---:|:---------------:|
+|**Kinder Half Day** | Age 3 - 1st grade | $217.50 | Tamblyn CC | Morning Session 8:30am-12pm Afternoon Session 12pm-3:30pm |
+|**Kinder Full Day** | Age 3 - 1st grade | $435 | Tamblyn CC | 8:30am-3:30pm |
+|**Junior Camp** | Grades 2 - 5 | $435 | Washington School | 8:30am-3:30pm |
+|**Senior Camp** | Grades 6 - 8 | $200 | Memorial Park | 8:30am-3:30pm |
+{: .hover-table .recreation-table}
+
 ## Children's Fall 2016 Sports and Activities
 
 | Program | Age/Grade | Fee |	More Information |
 |:--------|:---------:|:---:|:---------------:|
 |**Soccer** | K-8th grade | $45 |	Call for more info; $10 late fee after June 30	| 
+{: .hover-table .recreation-table}
+
+| Program | Age/Grade | Fee |	Day | Time | Start Date |	Dates no session | Number of classes | Location |
+|:--------|:---------:|:---:|:---:|:----:|:----------:|:----------------:|:-----------------:|:--------:|
+|**Preschool 3 yrs** by 10/1/16 | 3 yrs | $320 bi-monthly |	Tues & Thur	| 8:30 - 11:15AM |	Sept 13 - May 23 |	Follows School calendar	| |	Tamblyn Field Civic Center|
+|**Preschool 4 yrs** by 10/1/16 |	4 yrs |	$480 bi-monthly	|  Mon, Wed & Fri |	8:30 - 11:15AM | Sept 12 - May 25 |	Follows School calendar |	|	Tamblyn Field Civic Center|
+|**After-care for 4 year olds** | 4 yrs |	Monthly	| Mon, Wed & Fri	| 11:15AM - 1:15PM |	Sept 12 - May 25 | Follows School calendar |	|	Tamblyn Field Civic Center|
 {: .hover-table .recreation-table}
