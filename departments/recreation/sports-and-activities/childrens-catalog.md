@@ -43,6 +43,7 @@ Currently, payment for programs must be made in person or mailed to the Recreati
 |**Kinder Full Day** | Age 3 - 1st grade | $435 | Tamblyn CC | 8:30am-3:30pm |
 |**Junior Camp** | Grades 2 - 5 | $435 | Washington School | 8:30am-3:30pm |
 |**Senior Camp** | Grades 6 - 8 | $200 | Memorial Park | 8:30am-3:30pm |
+|[Click here to download registration and medical release forms for Summer Day Camp](https://storage.googleapis.com/static.rutherford-nj.com/recreation/posts/2016Day%20Camp%20Registration%20forms.pdf)
 {: .hover-table .recreation-table}
 
 ## Children's Fall 2016 Sports and Activities
