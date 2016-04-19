@@ -92,6 +92,58 @@ Bergen County Mental Health – General Questions
 
 ---
 
+## Housing
+
+### CGP&H - Affordable Homes for Sale and Rent in New Jersey
+
+To apply for affordable housing in Rutherford or any other towns, you need to apply on line to 
+CGP&H [www.affordablehomesnewjersey.com](https://www.affordablehomesnewjersey.com/)
+
+### Rutherford Senior Manor
+
+67 Kip Avenue Rutherford, NJ 07070 
+
+201-438-7327
+
+Entrance is limited to persons 62 years and older or to someone with mobility, vision or hearing impairment in which case the age is 18 or over.Income limitation
+
+### Housing Authority of Bergen County
+
+One Bergen Plaza 2nd Floor Hackensack, NJ 07601
+
+201-336-7600
+
+Apply for section 8 Housing or 
+
+Apply for Senior Citizen/Disabled Public Housing Programs
+
+### Housing Authority of Bergen County
+
+Boiling Springs Gardens 
+
+147 Hackensack Street East Rutherford, NJ 07073
+
+201-935-0790
+
+Apply for Senior Citizen/Disabled Public Housing Programs  
+
+Entrance is limited to persons 62 years and older or to someone with mobility, vision or hearing impairment in which case the age is 18 or over.Income limitation
+
+### Housing Authority of Bergen County
+
+25 Rockwood Place Suite 205Englewood, NJ 0731
+
+201-569-7454
+
+Apply for Senior Citizen/Disabled Public Housing Programs  
+
+Entrance is limited to persons 62 years and older or to someone with mobility, vision or hearing impairment in which case the age is 18 or over. Income limitation
+
+
+
+
+---
+
 ## Legal
 
 ### Legal Services Northeast NJ
@@ -193,52 +245,4 @@ No income guideline
 1-888-942-8080 or [www.suezcares.org](http://www.suezcares.org/)
 
 ---
-
-## Housing
-
-### CGP&H - Affordable Homes for Sale and Rent in New Jersey
-
-To apply for affordable housing in Rutherford or any other towns, you need to apply on line to 
-CGP&H [www.affordablehomesnewjersey.com](https://www.affordablehomesnewjersey.com/)
-
-### Rutherford Senior Manor
-
-67 Kip Avenue Rutherford, NJ 07070 
-
-201-438-7327
-
-Entrance is limited to persons 62 years and older or to someone with mobility, vision or hearing impairment in which case the age is 18 or over.Income limitation
-
-### Housing Authority of Bergen County
-
-One Bergen Plaza 2nd Floor Hackensack, NJ 07601
-
-201-336-7600
-
-Apply for section 8 Housing or 
-
-Apply for Senior Citizen/Disabled Public Housing Programs
-
-### Housing Authority of Bergen County
-
-Boiling Springs Gardens 
-
-147 Hackensack Street East Rutherford, NJ 07073
-
-201-935-0790
-
-Apply for Senior Citizen/Disabled Public Housing Programs  
-
-Entrance is limited to persons 62 years and older or to someone with mobility, vision or hearing impairment in which case the age is 18 or over.Income limitation
-
-### Housing Authority of Bergen County
-
-25 Rockwood Place Suite 205Englewood, NJ 0731
-
-201-569-7454
-
-Apply for Senior Citizen/Disabled Public Housing Programs  
-
-Entrance is limited to persons 62 years and older or to someone with mobility, vision or hearing impairment in which case the age is 18 or over. Income limitation
-
 
