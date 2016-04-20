@@ -12,17 +12,6 @@ Currently, payment for programs must be made in person or mailed to the Recreati
 
 | Program | Age/Grade | Fee |	Day | Time | Start Date |	Dates no session | Number of classes | Location |
 |:--------|:---------:|:---:|:---:|:----:|:----------:|:----------------:|:-----------------:|:--------:|
-|**Gymnastics** | 	3-5 yrs |	$55 |	Sat	| 9:00 - 10:00AM |	March 12 | April 2 & 23 | 8 |	Tamblyn Field Civic Center|
-| | 3-5 yrs |	$55 |	Sat	| 10:00 - 11:00AM |	March 12 |	April 2 & 23 |	8	| Tamblyn Field Civic Center |
-| | 6-8 yrs |	$55 |	Sat |	11:00 - 12Noon	| March 12	| April 2 & 23 |	8	| Tamblyn Field Civic Center |
-| | 9-12 yrs |	$55 | Sat |	12Noon - 1:00PM |	March 12 |	April 2 & 23 |	8	| Tamblyn Field Civic Center|
-|---------|-----------|-----|-----|------|------------|------------------|-------------------|----------|
-|**Dance** | 3-5 yrs | $55 | Tues |	3:30 - 4:20PM |	March 8 - May 3 |	April 12 | 8	| Tamblyn Field Civic Center |
-| | 6-8 yrs |	$55 | Tues | 4:30 - 5:20PM |	March 8 - May 3 |	April 12 |	8 | Tamblyn Field Civic Center |
-|---------|-----------|-----|-----|------|------------|------------------|-------------------|----------|
-|**Crafts, Cooking & Painting**|	3 & 4 yrs |	$40 | Fri |	1:30-2:15PM | March 11 |	March 25 & April 15 |	8 | Tamblyn Field Civic Center |
-| | 5 & 6 yrs |	$40 |	Fri |	3:30-4:15PM |	March 11 |	March 25  & April 15 | 8	| Tamblyn Field Civic Center|
-|---------|-----------|-----|-----|------|------------|------------------|-------------------|----------|
 |**Track & Field** |	K-8th gr |	$45 | Tues & Thur	| 6:00-7:30PM	| March 22-June 2 | |	16 - 18 practices	| Tryon Field |
 [Click here for Track & Field Info](../../2016/02/29/track-and-field-registration/)| | | | | | | | 
 |---------|-----------|-----|-----|------|------------|------------------|-------------------|----------|
