@@ -33,6 +33,7 @@ Currently, payment for programs must be made in person or mailed to the Recreati
 |**Junior Camp** | Grades 2 - 5 | $435 | Washington School | 8:30am-3:30pm |
 |**Senior Camp** | Grades 6 - 8 | $200 | Memorial Park | 8:30am-3:30pm |
 |[Click here to download registration and medical release forms for Summer Day Camp](http://static.rutherford-nj.com/recreation/posts/2016Day%20Camp%20Registration%20forms.pdf)
+|[Click here to download Summer Day Camp Trip Forms](https://storage.googleapis.com/static.rutherford-nj.com/recreation/2016%20Day%20Camp%20Trips.pdf)
 {: .hover-table .recreation-table}
 
 ## Fall 2016 Children's Sports and Activities
