@@ -10,14 +10,14 @@
 }
 
 .page-contact-info {
-  color: #999;
+  color: #767676;
   font-size: 150%;
   margin-bottom: 35px;
   text-align: right;
 }
 
 .page-title {
-  color: #999;
+  color: #767676;
   font-size: 150%;
   line-height: 1.2;
   margin-bottom: 35px;
@@ -35,7 +35,7 @@
 }
 
 .page-people {
-  color: #999;
+  color: #767676;
   font-size: 112.5%;
   line-height: 1.4;
   margin-bottom: 35px;
@@ -101,7 +101,7 @@
 }
 
 .page-news-and-updates {
-  border: 1px solid #999;
+  border: 1px solid #767676;
   min-height: 400px;
   padding: 12px 12px 24px 12px;
   position: relative;
@@ -127,7 +127,7 @@
 }
 
 .page-post-date {
-  color: #999;
+  color: #767676;
 }
 
 .page-post-title {
