@@ -4,5 +4,4 @@ title: 'Rec Photo Gallery'
 parent: 'Recreation'
 ---
 
-<iframe src="http://albumizr.com/a/yiA" scrolling="no" frameborder="0" allowfullscreen width="850" height="600"></iframe>
-
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/ELgXt"><a href="//imgur.com/a/ELgXt">Health Department Photo Gallery</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
