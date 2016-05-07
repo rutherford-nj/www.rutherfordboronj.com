@@ -7,7 +7,7 @@ title: 'Borough Codes & Ordinances'
 
 ## Recently Adopted Borough Codes and Ordinances:
 
-[Ordinance No. 3392-16 - Establishing a Shade Tree Commission](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3392-16%20Ordinance%20establishing%20a%20Shade%20Tree%20Commission.pdf)
+[Ordinance No. 3392-16 - Establishing a Shade Tree Commission](http://static.rutherford-nj.com/codes-ordinances/3392-16%20Ordinance%20establishing%20a%20Shade%20Tree%20Commission.pdf)
 
 [Ordinance No. 3391-16 - Amendment to the Zoning Ordinance](http://static.rutherford-nj.com/codes-ordinances/3391-16%20Ordinance%20Amending%20Zoning%20for%20fences.pdf)
 

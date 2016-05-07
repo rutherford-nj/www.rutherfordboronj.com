@@ -24,4 +24,4 @@ Join us for a FREE riveting presentation.
 Questions: Sgt. Richard Pizzuti rpizzuti@lyndhurstpolice.com
 201-939-2900 ext. 2740
 
-[Download Flyer Here](https://storage.googleapis.com/static.rutherford-nj.com/police/police%20blog%20posts/Path%20to%20Addiction.pdf)
+[Download Flyer Here](http://static.rutherford-nj.com/police/police%20blog%20posts/Path%20to%20Addiction.pdf)
