@@ -45,10 +45,14 @@ Currently, payment for programs must be made in person or mailed to the Recreati
 |  | August 1-4 | 8:30 - 12:30 |	$165	| spinabaseball@gmail.com |
 |  | August 8-11 | 8:30 - 12:30 |	$165	| spinabaseball@gmail.com |
 
+{: .hover-table .recreation-table}
+
 | 1st Touch Soccer Camp | Dates | Times | Fee |	More Information |
 |:----------------------|:-----:|:-----:|:----:|:---------------:|
 | | July 11 - 15 | 9:00 - 1:00 half day |	$180 half day	| first_touchsoccer@yahoo.com |
 | | August 1 - 5 | 9:00 - 3:00 full day |	$210 full day	| first_touchsoccer@yahoo.com |
+
+{: .hover-table .recreation-table}
 
 | Hoop Academy | Dates | Times | Fee |	More Information |
 |:-----------------------|:-----:|:-----:|:----:|:---------------:|
@@ -58,18 +62,26 @@ Currently, payment for programs must be made in person or mailed to the Recreati
 | | August 8 - 12 | 8:15 - 3:00 |	$220	| hoopacademy@hotmail.com |
 | | August 22-26 | 8:15 - 3:00 |	$220	| hoopacademy@hotmail.com |
 
+{: .hover-table .recreation-table}
+
 | Jr. Bulldog Football Camp | Dates | Times | Fee |	More Information |
 |:----------------------|:-----:|:-----:|:----:|:---------------:|
 | | July 18 - 21 | 8:30 - 2:45 |	$175	| ahowell@rutherfordschools.org |
+
+{: .hover-table .recreation-table}
 
 | Bulldog Softball Camp | Dates | Times | Fee |	More Information |
 |:----------------------|:-----:|:-----:|:----:|:---------------:|
 | | July 11 - 14 | 9:00 - 3:00 |	$200	| ahowell@rutherfordschools.org |
 | | July 25 - 28 | 9:00 - 3:00 |	$200	| ahowell@rutherfordschools.org |
 
+{: .hover-table .recreation-table}
+
 | Tennis Camp | Dates | Times | Fee |	More Information |
 |:----------------------|:-----:|:-----:|:----:|:---------------:|
 | | August 8 - 12 | 9:00 - 12 noon |	$175	| Bill - 973 916-1882 |
+
+{: .hover-table .recreation-table}
 
 
 {: .hover-table .recreation-table}
