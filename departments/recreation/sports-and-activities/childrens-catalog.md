@@ -24,7 +24,8 @@ Currently, payment for programs must be made in person or mailed to the Recreati
 |**T-ball Squirts** |	3-5 yrs |	$159 |	Tues |	10:30 - 11:30Am |	April 19-June 7 |	| 8 |	Wall Field |
 {: .hover-table .recreation-table}
 
-## 2016 Summer Day Camp
+## 2016 Summer Day Camp June 27th-August 5th
+(Registration after May 27th will result in a $20 late fee)
 
 | Program | Age/Grade | Fee |	Location | Times | 
 |:--------|:---------:|:---:|:--------:|:-----:|
@@ -34,6 +35,43 @@ Currently, payment for programs must be made in person or mailed to the Recreati
 |**Senior Camp** | Grades 6 - 8 | $200 | Memorial Park | 8:30am-3:30pm |
 |[Click here to download registration and medical release forms for Summer Day Camp](http://static.rutherford-nj.com/recreation/posts/2016Day%20Camp%20Registration%20forms.pdf)
 |[Click here to download Summer Day Camp Trip Forms](http://static.rutherford-nj.com/recreation/2016%20DayTrips.pdf)
+{: .hover-table .recreation-table}
+
+## Summer 2016 Children's Summer Sports Camps
+
+| Baseball Camp/Clinic          | Dates | Times | Fee |	More Information |
+|:----------------------|:-----:|:-----:|:----:|:---------------:|
+|  | July 25-28 | 8:30 - 12:30 |	$165	| spinabaseball@gmail.com |
+|  | August 1-4 | 8:30 - 12:30 |	$165	| spinabaseball@gmail.com |
+|  | August 8-11 | 8:30 - 12:30 |	$165	| spinabaseball@gmail.com |
+
+| 1st Touch Soccer Camp | Dates | Times | Fee |	More Information |
+|:----------------------|:-----:|:-----:|:----:|:---------------:|
+| | July 11 - 15 | 9:00 - 1:00 half day |	$180 half day	| first_touchsoccer@yahoo.com |
+| | August 1 - 5 | 9:00 - 3:00 full day |	$210 full day	| first_touchsoccer@yahoo.com |
+
+| Hoop Academy | Dates | Times | Fee |	More Information |
+|:-----------------------|:-----:|:-----:|:----:|:---------------:|
+| | June 27 - July 1 | 8:15 - 3:00 |	$220	| hoopacademy@hotmail.com |
+| | July 11 - July 15 | 8:15 - 3:00 |	$220	| hoopacademy@hotmail.com |
+| | July 18 - July 22 | 8:15 - 3:00 |	$220	| hoopacademy@hotmail.com |
+| | August 8 - 12 | 8:15 - 3:00 |	$220	| hoopacademy@hotmail.com |
+| | August 22-26 | 8:15 - 3:00 |	$220	| hoopacademy@hotmail.com |
+
+| Jr. Bulldog Football Camp | Dates | Times | Fee |	More Information |
+|:----------------------|:-----:|:-----:|:----:|:---------------:|
+| | July 18 - 21 | 8:30 - 2:45 |	$175	| ahowell@rutherfordschools.org |
+
+| Bulldog Softball Camp | Dates | Times | Fee |	More Information |
+|:----------------------|:-----:|:-----:|:----:|:---------------:|
+| | July 11 - 14 | 9:00 - 3:00 |	$200	| ahowell@rutherfordschools.org |
+| | July 25 - 28 | 9:00 - 3:00 |	$200	| ahowell@rutherfordschools.org |
+
+| Tennis Camp | Dates | Times | Fee |	More Information |
+|:----------------------|:-----:|:-----:|:----:|:---------------:|
+| | August 8 - 12 | 9:00 - 12 noon |	$175	| Bill - 973 916-1882 |
+
+
 {: .hover-table .recreation-table}
 
 ## Fall 2016 Children's Sports and Activities
