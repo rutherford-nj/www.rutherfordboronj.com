@@ -84,8 +84,6 @@ Currently, payment for programs must be made in person or mailed to the Recreati
 {: .hover-table .recreation-table}
 
 
-{: .hover-table .recreation-table}
-
 ## Fall 2016 Children's Sports and Activities
 
 | Program | Age/Grade | Fee |	More Information |
