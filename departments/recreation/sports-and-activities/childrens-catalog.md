@@ -38,6 +38,7 @@ Currently, payment for programs must be made in person or mailed to the Recreati
 {: .hover-table .recreation-table}
 
 ## Summer 2016 Children's Summer Sports Camps
+(Registration available through the Recreation Dept. Contacts provided below for individual camp information)
 
 | Camp | Dates | Times | Fee |	More Information |
 |:----------------------|:------:|:------:|:-----:|:----------------:|
