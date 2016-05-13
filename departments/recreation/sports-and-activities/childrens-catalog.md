@@ -40,7 +40,7 @@ Currently, payment for programs must be made in person or mailed to the Recreati
 ## Summer 2016 Children's Summer Sports Camps
 
 | Camp | Dates | Times | Fee |	More Information |
-|:----------------------|:-----:|:-----:|:----:|:---------------:|
+|:----------------------|:------:|:------:|:-----:|:----------------:|
 |**Baseball Camp/Clinic**| July 25-28 | 8:30 - 12:30 |	$165	| spinabaseball@gmail.com |
 |  | August 1-4 | 8:30 - 12:30 |	$165	| spinabaseball@gmail.com |
 |  | August 8-11 | 8:30 - 12:30 |	$165	| spinabaseball@gmail.com |
