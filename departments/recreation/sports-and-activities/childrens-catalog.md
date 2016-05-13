@@ -55,7 +55,6 @@ Currently, payment for programs must be made in person or mailed to the Recreati
 |**Bulldog Softball Camp**| July 11 - 14 | 9:00 - 3:00 |	$200	| ahowell@rutherfordschools.org |
 | | July 25 - 28 | 9:00 - 3:00 |	$200	| ahowell@rutherfordschools.org |
 |**Tennis Camp**| August 8 - 12 | 9:00 - 12 noon |	$175	| Bill - 973 916-1882 |
-
 {: .hover-table .recreation-table}
 
 
