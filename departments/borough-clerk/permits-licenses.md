@@ -41,6 +41,8 @@ Please click on an item below to download the appropriate form and return to the
 [**Parking Meters**](http://static.rutherford-nj.com/borough-clerk/permits-licenses/PARKING-METER-PERMIT.pdf)
 – May be reserved for purpose of construction job or moving van in the business districts.Meters are $5 per day per meter.
 
+[Resident Parking Permits](/departments/police/parking/)
+
 **Raffle Licenses** - Available to qualified organizations licensed by Legalized Games of Chance. License needed for each occasion.  Fees dependent on value of prize.  
 [**50/50 On-Site Cash Prize Application**](http://static.rutherford-nj.com/borough-clerk/permits-licenses/Raffle_Application_OnSite.pdf)  
 [**50/50 Off-Site Cash Prize Application**](http://static.rutherford-nj.com/borough-clerk/permits-licenses/Raffle_Application_OffSite.pdf)  
