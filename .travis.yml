@@ -9,7 +9,7 @@ script: ./scripts/travis-build
 branches:
   only:
   - www
-  - beta
+  - /^beta.*$/
 env:
   global:
   - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
@@ -25,7 +25,7 @@ deploy:
     cache_control: "public,max-age=60"
     on:
       repo: rutherford-nj/www.rutherford-nj.com
-      branch: beta
+      all_branches: true
   - provider: gcs
     skip_cleanup: true
     access_key_id: GOOGAMUEVIVIDZEGKO42
