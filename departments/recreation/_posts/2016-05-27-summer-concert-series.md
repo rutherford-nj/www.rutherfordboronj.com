@@ -8,6 +8,8 @@ All concerts are FREE TO THE PUBLIC at the Hutzel Memorial Bandshell at Lincoln 
 
 (Rain Dates for concerts is always the following Monday)
 
+Concert schedule can also be found on Borough Events Calendar
+
 
 
 June 23rd - Rutherford Community Band
@@ -27,3 +29,7 @@ August 4th - Jersey Sound (Oldies/Doo Wop)
 August 11th - Beatles Faux Sale (Tribue to the Beatles)
 
 August 18th - Jigsaw - Big House (Classic Rock/Big House)
+
+[Click here for flyer](https://storage.googleapis.com/static.rutherford-nj.com/recreation/2016%20Summer%20Concert%20Schedule.pdf)
+
+
