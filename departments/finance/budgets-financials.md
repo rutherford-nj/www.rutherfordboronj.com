@@ -6,7 +6,7 @@ parent: 'Department of Finance'
 
 {::options parse_block_html="true" /}
 
-<div style="float: left;">
+<div style="float: left; margin-right: 10em;">
 ## Budgets
 
 * [2016 Budget](https://storage.googleapis.com/static.rutherford-nj.com/finance/budgets/2016%20Adopted%20Budget.pdf)
@@ -23,7 +23,7 @@ parent: 'Department of Finance'
 * [2007 Budget](http://static.rutherford-nj.com/finance/budgets/2007_budget.pdf)
 </div>
 
-<div>
+<div style="float: left;">
 ## Financials
 
 * [2015 AFS Unaudited Financials](http://static.rutherford-nj.com/finance/financials/2015_afs.pdf)
