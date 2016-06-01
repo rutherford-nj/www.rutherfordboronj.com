@@ -4,6 +4,9 @@ title: 'Budgets and Financials'
 parent: 'Department of Finance'
 ---
 
+{::options parse_block_html="true" /}
+
+<div style="float: left;">
 ## Budgets
 
 * [2016 Budget](https://storage.googleapis.com/static.rutherford-nj.com/finance/budgets/2016%20Adopted%20Budget.pdf)
@@ -18,7 +21,9 @@ parent: 'Department of Finance'
 * [2009 Budget](http://static.rutherford-nj.com/finance/budgets/2009_budget.pdf)
 * [2008 Budget](http://static.rutherford-nj.com/finance/budgets/2008_budget.pdf)
 * [2007 Budget](http://static.rutherford-nj.com/finance/budgets/2007_budget.pdf)
+</div>
 
+<div>
 ## Financials
 
 * [2015 AFS Unaudited Financials](http://static.rutherford-nj.com/finance/financials/2015_afs.pdf)
@@ -32,3 +37,4 @@ parent: 'Department of Finance'
 * [2011 AFS Unaudited Financials](http://static.rutherford-nj.com/finance/financials/2011_afs.pdf)
 * [2010 Audit](http://static.rutherford-nj.com/finance/financials/2010_audit.pdf)
 * [2010 AFS Unaudited Financials](http://static.rutherford-nj.com/finance/financials/2010_afs.pdf)
+</div>
