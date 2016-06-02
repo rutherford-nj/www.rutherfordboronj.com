@@ -22,7 +22,7 @@ deploy:
     bucket: beta.rutherford-nj.com
     local-dir: _site
     acl: public-read
-    cache_control: "public,max-age=60"
+    cache_control: "public,max-age=1"
     on:
       repo: rutherford-nj/www.rutherford-nj.com
       all_branches: true
