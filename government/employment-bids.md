@@ -4,7 +4,7 @@ title: 'Employment & Bids'
 parent: Government
 ---
 
-[Bid - USED AUTOMATED SIDE LOAD REFUSE TRUCK - Submissions Due June 7, 2016](https://storage.googleapis.com/static.rutherford-nj.com/finance/Employment/BidSpecsUsedAutoSaniTruckAdvertisement.docx.pdf)
+[Bid - USED AUTOMATED SIDE LOAD REFUSE TRUCK - Submissions Due June 7, 2016](http://static.rutherford-nj.com/finance/Employment/BidSpecsUsedAutoSaniTruckAdvertisement.docx.pdf)
 
 ---
 

@@ -19,4 +19,4 @@ Grand Prize: $100 Savings Bond
 
 Please download and fill out application below and register at Recreation Office
 
-[2016 Baby Parade Application](https://storage.googleapis.com/static.rutherford-nj.com/recreation/2016%20Baby%20Parade%20Application.pdf)
+[2016 Baby Parade Application](http://static.rutherford-nj.com/recreation/2016%20Baby%20Parade%20Application.pdf)
