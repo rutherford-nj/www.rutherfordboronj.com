@@ -7,11 +7,18 @@
 // ==/UserScript==
 
 (function($) {
-    $(document).ready(function() {
+    var checkLoc = function() {
         var loc = window.location.href;
-        if (loc.search('/(blob|tree)\/www/') > -1) {
-            var content = $('body');
-            content.prepend('<div style="color:red;font-size:5em;text-align:center;">You are editing the WWW branch</div>');
+        if (loc.search('(blob|tree)\/www') > -1) {
+            var content = $('#www-github-warning');
+            content.empty();
+            content.prepend('<div>You are editing the WWW branch</div>');
         }
+    };
+    $(document).ready(function() {
+        var content = $('body');
+        content.prepend('<div style="color:red;font-size:5em;text-align:center;" id="www-github-warning"></div>');
+        checkLoc();
+        window.setInterval(checkLoc, 1000);
     });
 })(jQuery);
