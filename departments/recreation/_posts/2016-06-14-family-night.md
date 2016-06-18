@@ -5,7 +5,7 @@ title: Family Night 6/16
 
 **Rutherford Family Night will be held Thursday, June 16**
 
-[Download Flyer Here](https://storage.googleapis.com/static.rutherford-nj.com/recreation/posts/2016FamilyNight_Flyer_8.5x11.pdf)
+[Download Flyer Here](http://static.rutherford-nj.com/recreation/posts/2016FamilyNight_Flyer_8.5x11.pdf)
 
 In continuing the Municipal Alliance’s observance of the first annual 
 Family Night last year, the Rutherford Recreation Department invites all Rutherford 
