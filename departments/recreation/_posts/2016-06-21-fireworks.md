@@ -1,9 +1,11 @@
 ---
 layout: blog
-title: Fireworks Display Friday, July 1
+title: Fireworks Display Fri, July 1
 ---
 
-Rutherford Borough Officials are pleased to announce that **Rutherford’s annual fireworks display will be held on Friday, July 1, 2016 at Memorial Field. Activities start at 7:00 PM with music and food vendors, followed by the 9:15 PM fireworks display.** 
+Rutherford Borough Officials are pleased to announce: 
+
+**Rutherford’s annual fireworks display will be held on Friday, July 1, 2016 at Memorial Field. Activities start at 7:00 PM with music and food vendors, followed by the 9:15 PM fireworks display.** 
 
 **Thanks to sponsors Boiling Springs Savings Bank, PSE&amp;G, and St. Mary’s General Hospital in Passaic.**
 
