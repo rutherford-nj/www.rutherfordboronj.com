@@ -7,16 +7,9 @@ if [[ "$TRAVIS_BRANCH" == "beta" ]]; then
   cp ./_site/robots.txt.template ./_site/robots.txt
 fi
 
-# Clean up configuration files before deploy
-rm ./_site/robots.txt.template
-rm ./_site/Gemfile
-rm ./_site/Gemfile.lock
-rm ./_site/README.md
-
-# Run URL change script then delete the scripts directory before deploy
+# Run URL change script so static.rutherford-nj.com domain is used consistently.
 cd _site
 ./scripts/url-switch.sh
-rm -rf scripts
 cd ..
 
 # Test the site
