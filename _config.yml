@@ -1,4 +1,4 @@
-# Exclude vendor directory so travis can build.
-exclude: [vendor]
+# Exclude vendor directory so travis can build, exclude random config things
+exclude: [vendor, robots.txt.template, Gemfile, Gemfile.lock, README.md, scripts]
 permalink: pretty
 future: false
