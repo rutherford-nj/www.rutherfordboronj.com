@@ -15,7 +15,7 @@ parent: 'Police Department'
 | Traffic Bureau           | P. O. William Gumbman    | 201-460-3043 | wgumbman@rutherfordpd.com |
 |                          | P. O. Steven Villareale  | 201-460-3043 | svillareale@rutherfordpd.com |
 | Records Bureau           | Ellie Molan              | 201-460-3045 | emolan@rutherfordpd.com |
-|                          | Margaret Scott           | 201-460-3045 | mscott@rutherfordpd.com |
+|                          | Sharon Conte             | 201-460-3045 | sconte@rutherfordpd.com |
 | TAC Officer              | Sgt. Julie Zeigler       | 201-460-3054 | jzeigler@rutherfordpd.com |
 | School Resource Officer  | Det./SRO Alford Anderson | 201-939-6000 | aanderson@rutherfordpd.com |
 | L.E.A.D. Officers        | Sgt. Julie Zeigler       |              | jzeigler@rutherfordpd.com |
