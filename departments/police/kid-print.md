@@ -1,3 +1,4 @@
+---
 layout: interior-page
 title: 'Kid Print Enrollment Form'
 ---
