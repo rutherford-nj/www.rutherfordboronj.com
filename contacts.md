@@ -8,6 +8,7 @@ title: 'Contacts'
 |:--------|:-------:|:-------:|
 | Borough Clerk | 201-460-3001 | mscanlon@rutherford-nj.com |
 | Building & Construction | 201-460-3010 | frecanati@rutherford-nj.com |
+| Executive Secretary | 201-460-3004 | ringuanti@rutherford-nj.com |
 | Finance Department | 201-460-3025 | gstelter@rutherford-nj.com |
 | Fire Safety Department | 201-460-3011 | firesafety@rutherford-nj.com |
 | Health Department | 201-460-3020 | healthdept@rutherford-nj.com |
