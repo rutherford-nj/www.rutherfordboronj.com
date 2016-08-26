@@ -7,6 +7,10 @@ title: 'Borough Codes & Ordinances'
 
 ## Recently Adopted Borough Codes and Ordinances:
 
+[Ordinance No. 3401-16 - Amending East Van Ness Parking Regulations](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3401-16%20Ordinance%20amending%20East%20Van%20Ness%20Avenue%20parking%20regulations.pdf)
+
+[Ordinance No. 3400-16 - Establishing a Handicap Space on West Passaic](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3400-16%20Ordinance%20establishing%20a%20handicap%20space%20on%20West%20Passaic%20Avenue.pdf)
+
 [Ordinance No. 3392-16 - Establishing a Shade Tree Commission](http://static.rutherford-nj.com/codes-ordinances/3392-16%20Ordinance%20establishing%20a%20Shade%20Tree%20Commission.pdf)
 
 [Ordinance No. 3391-16 - Amendment to the Zoning Ordinance](http://static.rutherford-nj.com/codes-ordinances/3391-16%20Ordinance%20Amending%20Zoning%20for%20fences.pdf)
