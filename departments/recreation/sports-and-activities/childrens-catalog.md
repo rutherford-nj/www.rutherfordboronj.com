@@ -20,22 +20,22 @@ Currently, payment for programs must be made in person or mailed to the Recreati
 | **Preschool 4 years** by 10/1/16 | 4yrs | $480 bi-monthly | Mon, Wed & Fri | 8:30 - 11:15AM | Sept 12 - May 25 | Follows School calendar | | Tamblyn Field Civic Center |
 | **Aftercare for 4 yr olds** | 4yrs | Monthly | Mon, Wed & Fri | 11:15AM - 1:15PM | Sept 12 - May 25 | Follows School calendar | | Tamblyn Field Civic Center |
 |---------|-----------|-----|-----|------|------------|------------------|-------------------|----------|
-| **Gymnastics** | 3-5yrs | $55 | Saturdays | 9:00 - 10:00AM | Sept 24 - Nov 12 |    | 8 | Tamblyn Field Civic Center |
-|                | 3-5yrs | $55 | Saturdays | 10:00AM - 11:00AM | Sept 24 - Nov 12 |    | 8 | Tamblyn Field Civic Center |
-|                | 6-8yrs | $55 | Saturdays | 11:00AM - 12:00PM | Sept 24 - Nov 12 |    | 8 | Tamblyn Field Civic Center |
-|                | 9-12yrs | $55 | Saturdays | 12:00PM - 1:00PM | Sept 24 - Nov 12 |    | 8 | Tamblyn Field Civic Center |
+| **Gymnastics** | 3-5yrs | $55 | Saturdays | 9:00 - 10:00AM | Sept 24-Nov 12 |    | 8 | Tamblyn Field Civic Center |
+|                | 3-5yrs | $55 | Saturdays | 10:00 - 11:00AM | Sept 24-Nov 12 |    | 8 | Tamblyn Field Civic Center |
+|                | 6-8yrs | $55 | Saturdays | 11:00AM - 12:00PM | Sept 24-Nov 12 |    | 8 | Tamblyn Field Civic Center |
+|                | 9-12yrs | $55 | Saturdays | 12:00 - 1:00PM | Sept 24-Nov 12 |    | 8 | Tamblyn Field Civic Center |
 |---------|-----------|-----|-----|------|------------|------------------|-------------------|----------|
-| **Dance**      | 3-5yrs | $55 | Tuesdays | 3:30PM - 4:20PM | Sept 20 - Nov 8 |    | 8 | Tamblyn Field Civic Center |
-|                | 6-8yrs | $55 | Tuesdays | 4:30PM - 5:20PM | Sept 20 - Nov 8 |    | 8 | Tamblyn Field Civic Center |
+| **Dance**      | 3-5yrs | $55 | Tuesdays | 3:30 - 4:20PM | Sept 20 - Nov 8 |    | 8 | Tamblyn Field Civic Center |
+|                | 6-8yrs | $55 | Tuesdays | 4:30 - 5:20PM | Sept 20 - Nov 8 |    | 8 | Tamblyn Field Civic Center |
 |---------|-----------|-----|-----|------|------------|------------------|-------------------|----------|
-| **Crafts, Cooking and Painting** | 3-4yrs | $40 | Fridays | 1:30PM - 2:15PM | Sept 23 - Nov 11 |    | 8 | Tamblyn Field Civic Center |
-|                                  | 5-6yrs | $40 | Fridays | 3:30PM - 4:15PM | Sept 23 - Nov 11 |    | 8 | Tamblyn Field Civic Center |
+| **Crafts, Cooking and Painting** | 3-4yrs | $40 | Fridays | 1:30 - 2:15PM | Sept 23-Nov 11 |    | 8 | Tamblyn Field Civic Center |
+|                                  | 5-6yrs | $40 | Fridays | 3:30 - 4:15PM | Sept 23-Nov 11 |    | 8 | Tamblyn Field Civic Center |
 |---------|-----------|-----|-----|------|------------|------------------|-------------------|----------|
-| **Wiggles, Songs and Stories** | 3-5yrs | $35 | Wednesdays | 2:00PM - 2:45PM | Sept 21 - Nov 9 |    | 8 | Tamblyn Field Civic Center |
+| **Wiggles, Songs and Stories** | 3-5yrs | $35 | Wednesdays | 2:00 - 2:45PM | Sept 21 - Nov 9 |    | 8 | Tamblyn Field Civic Center |
 |---------|-----------|-----|-----|------|------------|------------------|-------------------|----------|
-| **Tales and Tunes** Caregiver must attend | Walker-3yrs | $30 | Mondays | 2:00PM - 2:45PM | Sept 19 - Nov 14 |    | 8 | Tamblyn Field Civic Center |
+| **Tales and Tunes** Caregiver must attend | Walker-3yrs | $30 | Mondays | 2:00 - 2:45PM | Sept 19 - Nov 14 |    | 8 | Tamblyn Field Civic Center |
 |---------|-----------|-----|-----|------|------------|------------------|-------------------|----------|
-| **Tales and Tunes** Caregiver must attend | Walker-3yrs | $30 | Mondays | 2:00PM - 2:45PM | Sept 19 - Nov 14 | Oct 30 | 8 | Tamblyn Field Civic Center |
+| **Tales and Tunes** Caregiver must attend | Walker-3yrs | $30 | Mondays | 2:00 - 2:45PM | Sept 19 - Nov 14 | Oct 30 | 8 | Tamblyn Field Civic Center |
 |---------|-----------|-----|-----|------|------------|------------------|-------------------|----------|
 {: .hover-table .recreation-table}
 
@@ -47,9 +47,9 @@ Currently, payment for programs must be made in person or mailed to the Recreati
 |---------|-----------|-----|-----|------|------------|------------------|-------------------|----------|
 | **Basketball Program** | K-8th Gr | $50 | TBD | TBD | November |    | 9-10 Weeks | School Gyms |
 |---------|-----------|-----|-----|------|------------|------------------|-------------------|----------|
-| **Wrestling Program** | 2nd-8th Gr | $75 | Tues & Thurs | 6:00PM - 7:30PM | December |    | 10 Weeks | School & Church Gyms |
+| **Wrestling Program** | 2nd-8th Gr | $75 | Tues & Thurs | 6:00 - 7:30PM | December |    | 10 Weeks | School & Church Gyms |
 |---------|-----------|-----|-----|------|------------|------------------|-------------------|----------|
-| **Tennis Lessons** | 5-7 yrs | $60 | Tues & Thurs | 4:00PM - 5:00PM | Sept 27 - Nov 8 | Oct 6 | 6 Weeks | Memorial Park Courts |
+| **Tennis Lessons** | 5-7 yrs | $60 | Tues & Thurs | 4:00 - 5:00PM | Sept 27 - Nov 8 | Oct 6 | 6 Weeks | Memorial Park Courts |
 |                    | 8-10 yrs | $60 | Tues & Thurs | 5:00PM - 6:00PM | Sept 27 - Nov 8 | Oct 6 | 6 Weeks | Memorial Park Courts |
 |                    | K-2nd Gr | $60 | Sundays | 12:00PM - 1:00PM | Sept 25 - Oct 30 |          | 6 Weeks | Memorial Park Courts |
 |                    | 3rd-5th Gr | $60 | Sundays | 1:00PM - 2:00PM | Sept 25 - Oct 30 |          | 6 Weeks | Memorial Park Courts |
