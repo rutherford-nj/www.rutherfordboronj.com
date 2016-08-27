@@ -12,6 +12,20 @@ parent: 'Social Services'
 
 Facebook page: [www.facebook.com/RutherfordFoodPantry](https://www.facebook.com/RutherfordFoodPantry/)
 
+Pantry Hours are as follows:
+ 
+Hours of Operation for visitors/clients
+ 
+Monday 2:00pm -4:00pm
+
+Wednesday 5:00pm-7:00pm
+
+Thursday 2:00pm-4:00pm
+ 
+Donations can be left anytime during the Borough’s Business hours 8:30am-4:30pm
+ 
+For Large Donations please call 201- 460-3000 ext. 3168 to schedule a drop off time.
+
 Our prime mission is to maintain services to keep our clients free from hunger. We work hard to maintain each individual’s dignity by offering choices for personal needs as well.
 
 The Rutherford Community Pantry, Inc. is a volunteer non-profit organization which meets emergency and ongoing needs for food and personal hygiene items for citizens of Rutherford and members of Rutherford religious institutions who are referred by an approved agency.
