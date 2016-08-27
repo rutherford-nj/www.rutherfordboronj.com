@@ -7,6 +7,10 @@ title: 'Borough Codes & Ordinances'
 
 ## Recently Adopted Borough Codes and Ordinances:
 
+[Ordinance No. 3398-16 - Creating a Handicap Space on Maple Street](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3398-16%20Ordinance%20to%20establish%20a%20handicap%20space%20on%20Maple%20Street.pdf)
+
+[Ordinance No. 3396-16 - Creating Two Multi Stop Intersections](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3396-16%20Ordinance%20creating%20two%20multistop%20intersections.pdf)
+
 [Ordinance No. 3401-16 - Amending East Van Ness Parking Regulations](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3401-16%20Ordinance%20amending%20East%20Van%20Ness%20Avenue%20parking%20regulations.pdf)
 
 [Ordinance No. 3400-16 - Establishing a Handicap Space on West Passaic](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3400-16%20Ordinance%20establishing%20a%20handicap%20space%20on%20West%20Passaic%20Avenue.pdf)
