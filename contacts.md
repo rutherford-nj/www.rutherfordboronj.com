@@ -2,7 +2,7 @@
 layout: default
 title: 'Contacts'
 ---
-
+**Rutherford Borough Hall is located at 176 Park Avenue, Rutherford NJ 07070**
 
 | Department | Phone Number | Email Address |
 |:--------|:-------:|:-------:|
