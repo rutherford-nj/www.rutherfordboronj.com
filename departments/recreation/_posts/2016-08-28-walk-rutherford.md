@@ -9,8 +9,8 @@ The digital maps of the trail system have been added permanently to Recreation D
 
 The trail system consists of three trails:
 
-The Blue Trail = 1 mile
-The Red Trail = 2 miles
-The Green Trail = 3 miles
+* The Blue Trail = 1 mile
+* The Red Trail = 2 miles
+* The Green Trail = 3 miles
 
 Examples of each of the three signs can be found around town. Follow the appropriate colored signs that are located along the streets of Rutherford. Turn in the direction in which the arrows on the signs point, and enjoy!
