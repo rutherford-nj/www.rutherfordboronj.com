@@ -11,8 +11,11 @@ The Walk Rutherford trail system was created by Jessica Clancy as a part of her 
 The trail system consists of three trails:
 
 o  The Blue Trail= 1 mile
+
 o  The Red Trail= 2 miles
+
 o  The Green Trail= 3 miles
+
 
 Examples of each of the three signs can be found around town. Follow the appropriate colored signs that are located along the streets of Rutherford. Turn in the direction in which the arrows on the signs point, and enjoy!
 
