@@ -39,15 +39,15 @@ Currently, payment for programs must be made in person or mailed to the Recreati
 | **Cross Country Track and Field** | 2nd-8th Gr | $45 | Tues & Thurs | 6:00 - 7:00PM | Sept 20-Nov 8 |    | 6-18 Practices | Tryon Field |
 | **Basketball Program** | K-8th Gr | $50 | TBD | TBD | November |    | 9-10 Weeks | School Gyms |
 | **Wrestling Program** | 2nd-8th Gr | $75 | Tues & Thurs | 6:00 - 7:30PM | December |    | 10 Weeks | School & Church Gyms |
-| **Tennis Lessons** | 5-7 yrs | $60 | Tues & Thurs | 4:00 - 5:00PM | Sept 27-Nov 8 | Oct 6 | 6 Weeks | Memorial Park Courts |
-|                    | 8-10 yrs | $60 | Tues & Thurs | 5:00 - 6:00PM | Sept 27-Nov 8 | Oct 6 | 6 Weeks | Memorial Park Courts |
-|                    | K-2nd Gr | $60 | Sundays | 12:00 - 1:00PM | Sept 25-Oct 30 |          | 6 Weeks | Memorial Park Courts |
-|                    | 3rd-5th Gr | $60 | Sundays | 1:00 - 2:00PM | Sept 25-Oct 30 |          | 6 Weeks | Memorial Park Courts |
-|                    | 6th-8th Gr | $60 | Sundays | 2:00 - 3:00PM | Sept 25-Oct 30 |          | 6 Weeks | Memorial Park Courts |
-| **Parent & Me Soccer Squirts** | 2-3 yrs | $125 | Fridays | 9:30 - 10:15AM | Sept 24-Nov 4 |      | 7 Weeks | Wall Field |
-| **Soccer Squirts** | 3-5 yrs | $125 | Fridays | 10:30 - 11:30AM | Sept 24-Nov 4 |      | 7 Weeks | Wall Field |
-|                    | 3-5 yrs | $125 | Fridays | 12:30 - 1:30PM | Sept 24-Nov 4 |      | 7 Weeks | Wall Field |
-|                    | 3-5 yrs | $125 | Fridays | 1:45 - 2:45PM | Sept 24-Nov 4 |      | 7 Weeks | Wall Field |
+| **Tennis Lessons** | 5-7 yrs | $60 | Tues & Thurs | 4:00 - 5:00PM | Sept 27-Nov 8 | Oct 6 | 6  | Memorial Park Courts |
+|                    | 8-10 yrs | $60 | Tues & Thurs | 5:00 - 6:00PM | Sept 27-Nov 8 | Oct 6 | 6  | Memorial Park Courts |
+|                    | K-2nd Gr | $60 | Sundays | 12:00 - 1:00PM | Sept 25-Oct 30 |          | 6  | Memorial Park Courts |
+|                    | 3rd-5th Gr | $60 | Sundays | 1:00 - 2:00PM | Sept 25-Oct 30 |          | 6  | Memorial Park Courts |
+|                    | 6th-8th Gr | $60 | Sundays | 2:00 - 3:00PM | Sept 25-Oct 30 |          | 6  | Memorial Park Courts |
+| **Parent & Me Soccer Squirts** | 2-3 yrs | $125 | Fridays | 9:30 - 10:15AM | Sept 24-Nov 4 |      | 7  | Wall Field |
+| **Soccer Squirts** | 3-5 yrs | $125 | Fridays | 10:30 - 11:30AM | Sept 24-Nov 4 |      | 7  | Wall Field |
+|                    | 3-5 yrs | $125 | Fridays | 12:30 - 1:30PM | Sept 24-Nov 4 |      | 7  | Wall Field |
+|                    | 3-5 yrs | $125 | Fridays | 1:45 - 2:45PM | Sept 24-Nov 4 |      | 7  | Wall Field |
 |---------|-----------|-----|-----|------|-------------|------------------|-------------------|----------|
 {: .hover-table .recreation-table}
 
