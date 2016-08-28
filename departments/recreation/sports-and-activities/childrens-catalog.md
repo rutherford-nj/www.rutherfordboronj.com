@@ -21,7 +21,7 @@ Currently, payment for programs must be made in person or mailed to the Recreati
 | **Aftercare for 4 yr olds** | 4yrs | Monthly | Mon, Wed & Fri | 11:15AM - 1:15PM | Sept 12-May 25 | Follows School calendar | | Tamblyn Field Civic Center |
 | **Gymnastics** | 3-5yrs | $55 | Saturdays | 9:00 - 10:00AM | Sept 24-Nov 12 |    | 8 | Tamblyn Field Civic Center |
 |                | 3-5yrs | $55 | Saturdays | 10:00 - 11:00AM | Sept 24-Nov 12 |    | 8 | Tamblyn Field Civic Center |
-|                | 6-8yrs | $55 | Saturdays | 11:00AM - 12:00PM | Sept 24-Nov 12 |    | 8 | Tamblyn Field Civic Center |
+|                | 6-8yrs | $55 | Saturdays | 11:00 - 12:00PM | Sept 24-Nov 12 |    | 8 | Tamblyn Field Civic Center |
 |                | 9-12yrs | $55 | Saturdays | 12:00 - 1:00PM | Sept 24-Nov 12 |    | 8 | Tamblyn Field Civic Center |
 | **Dance**      | 3-5yrs | $55 | Tuesdays | 3:30 - 4:20PM | Sept 20-Nov 8 |    | 8 | Tamblyn Field Civic Center |
 |                | 6-8yrs | $55 | Tuesdays | 4:30 - 5:20PM | Sept 20-Nov 8 |    | 8 | Tamblyn Field Civic Center |
