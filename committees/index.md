@@ -41,6 +41,8 @@ Highlights of the committee’s work since its inception include: Sponsoring Clu
 
 **Historic Preservation Committee** - Council Liaison Mark O'Connor
 
+[www.rutherfordhpc.org](http://rutherfordhpc.org/)
+
 The objective of the Historic Preservation Committee is to educate the community about what value historic preservation offers to maintain the character of neighborhoods as reflected by the architecture and aesthetics. Furthermore, the Committee advises any borough board or agency of the historic nature of a property should demolition or construction be proposed.
 
 ---
