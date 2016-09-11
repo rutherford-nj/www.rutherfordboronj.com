@@ -23,9 +23,9 @@ var success = function(response) {
 };
 
 var cache = new Cache(-1, false, new Cache.LocalStorageCacheStorage());
-var response = cache.getItem('sheetData');
+var sheetData = cache.getItem('sheetData');
 if (sheetData) {
-  handleCells(response['values'][0][0], response['values'][0][1]);
+  handleCells(sheetData['values'][0][0], sheetData['values'][0][1]);
 } else {
   $.getJSON(url, success);
 }
