@@ -1,25 +1,8 @@
 (function($){
 
-var workbookId = '16Y8NNYSn0yBWrtK3lStuFxJCxg7PThJpmBBxhUFsWvw';
-var sheetId = 'od6';
-var url = 'https://spreadsheets.google.com/feeds/cells/' +
-    workbookId + '/' + sheetId + '/public/basic?alt=json';
-
-var getSpreadsheetAsTable = function(responseJson) {
-  var table = {'rows': []};
-  for (var i=0; i<responseJson['feed']['entry'].length; i++) {
-    var entry = responseJson['feed']['entry'][i];
-    var cell = entry['title']['$t'];
-    var rowNum = cell.replace(/[A-Za-z]/g, '');
-
-    if (!table[rowNum]) {
-      table[rowNum] = [];
-      table['rows'].push(rowNum);
-    }
-    table[rowNum].push(entry['content']['$t']);
-  }
-  return table;
-};
+var url = 'https://sheets.googleapis.com/v4/spreadsheets/' +
+    '16Y8NNYSn0yBWrtK3lStuFxJCxg7PThJpmBBxhUFsWvw/values/Message!A1%3AB1?key=' +
+    'AIzaSyBTr1HBPcDTODuO0uMfdMDjswzChn4gN1E';
 
 var handleCells = function(a1, b1){
   if (a1 == 'off' || !b1) {
@@ -33,8 +16,7 @@ var handleCells = function(a1, b1){
 };
 
 var success = function(response) {
-  var table = getSpreadsheetAsTable(response);
-  handleCells(table[1][0], table[1][1]);
+  handleCells(response['values'][0][0], response['values'][0][1]);
 };
 
 $.getJSON(url, success);
