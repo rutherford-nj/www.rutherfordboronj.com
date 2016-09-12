@@ -63,3 +63,6 @@ The objective of the Historic Preservation Committee is to educate the community
 
 ---
 
+[**Shade Tree Commission**](shade-tree-commission/)
+
+---
