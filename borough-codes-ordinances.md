@@ -7,6 +7,16 @@ title: 'Borough Codes & Ordinances'
 
 ## Recently Adopted Borough Codes and Ordinances:
 
+[Ordinance No. 3406-16 - Repealing Appeal Provisions](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3406-16%20Ordinance%20Repealing%20Appeal%20Provisions%20and%20Reserved%20and%20Visitor%20Parking.pdf)
+
+[Ordinance No. 3405-16 - Amending Parking Zones](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3405-16%20Ordinance%20Amending%20Parking%20Zones.pdf)
+
+[Ordinance No. 3404-16 - Amending Business District Licenses](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3404-16%20Ordinance%20Amending%20Business%20District%20Licenses.pdf)
+
+[Ordinance No. 3403-16 - Amending Zoning Code](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3403-16%20Ordinance%20Amending%20Zoning%20Code.pdf)
+
+[Ordinance No. 3402-16 - Repealing Special Improvement District](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3402-16%20Ordinance%20Repealing%20Special%20Improvement%20District.pdf)
+
 [Ordinance No. 3398-16 - Creating a Handicap Space on Maple Street](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3398-16%20Ordinance%20to%20establish%20a%20handicap%20space%20on%20Maple%20Street.pdf)
 
 [Ordinance No. 3396-16 - Creating Two Multi Stop Intersections](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3396-16%20Ordinance%20creating%20two%20multistop%20intersections.pdf)
