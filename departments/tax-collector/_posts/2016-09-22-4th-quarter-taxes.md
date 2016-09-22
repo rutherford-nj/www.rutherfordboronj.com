@@ -13,6 +13,4 @@ Please visit [this page](https://www.cit-e.net/rutherford-nj/cit-e-access/TaxBil
 
 There is also a lock box, located on the driveway side of Borough Hall for after-hours drop-off. 
 
-Any payment received after 4:15 PM is considered processed as of the next business
-
-day, and interest, if applicable, will be charged accordingly.
+Any payment received after 4:15 PM is considered processed as of the next business day, and interest, if applicable, will be charged accordingly.
