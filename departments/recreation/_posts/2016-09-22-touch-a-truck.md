@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: West End Fall Family Festival 9/24
+title: Touch-A-Truck 9/24
 ---
 
 **Touch-A-Truck**
