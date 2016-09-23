@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: "Estimated 4th Quarter Tax Bills Mailed"
+title: "4th Quarter Tax Bills Mailed"
 ---
 
 **The 2016 Final/2017 Preliminary Tax Bills have been mailed.**
