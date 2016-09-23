@@ -1,7 +1,7 @@
 language: ruby
 cache: bundler
 rvm:
-- 2.1
+- 2.2
 install: gem install jekyll html-proofer
 before_script:
   - chmod +x ./scripts/travis-build
@@ -22,7 +22,7 @@ deploy:
     bucket: beta.rutherford-nj.com
     local-dir: _site
     acl: public-read
-    cache_control: "public,max-age=2"
+    cache_control: "public,max-age=1"
     on:
       repo: rutherford-nj/www.rutherford-nj.com
       branch: beta
