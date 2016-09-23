@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Touch-A-Truck 9/24
+title: Touch-A-Truck 9/25
 ---
 
 **Touch-A-Truck**
