@@ -34,4 +34,4 @@ Presented by the Recreation Department
 at Franklin Place and Park Avenue
 
 
-[Download Flyer Here](https://storage.googleapis.com/static.rutherford-nj.com/recreation/posts/flyer%20raindate.doc)
+[Download Flyer Here](http://static.rutherford-nj.com/recreation/posts/flyer%20raindate.doc)

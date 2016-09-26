@@ -16,4 +16,4 @@ To register, email Carolyn Smith at cttsmith@aol.com.
 
 A limited number of small U.S. flags will be available for purchase. Water will also be available for purchase. 
 
-[See Flyer Here](https://storage.googleapis.com/static.rutherford-nj.com/recreation/JWCR_-_Chalk_Drawing_flyer_2016.pdf)
+[See Flyer Here](http://static.rutherford-nj.com/recreation/JWCR_-_Chalk_Drawing_flyer_2016.pdf)

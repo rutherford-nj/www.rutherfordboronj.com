@@ -11,7 +11,7 @@ title: West End Fall Family Festival 9/24
 
 **Union Avenue**
 
-[View flyer here](https://storage.googleapis.com/static.rutherford-nj.com/recreation/2016WestEndFestival.pdf)
+[View flyer here](http://static.rutherford-nj.com/recreation/2016WestEndFestival.pdf)
 
 The Borough of Rutherford will host its 8th annual West End Fall Family Festival on Saturday, September 24 from 11 a.m. - 5p.m. to celebrate and promote our West End and its businesses, restaurants and organizations.
 

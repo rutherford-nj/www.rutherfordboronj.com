@@ -13,4 +13,4 @@ Donations made out to the Rutherford Food Pantry will also be accepted. Please m
  
 As a reminder, the Food Pantry may not accept perishable items or items with expired dates. 
 
-[Download Murphy Harvest flyer here](https://storage.googleapis.com/static.rutherford-nj.com/recreation/posts/murphyharvest.pdf)
+[Download Murphy Harvest flyer here](http://static.rutherford-nj.com/recreation/posts/murphyharvest.pdf)

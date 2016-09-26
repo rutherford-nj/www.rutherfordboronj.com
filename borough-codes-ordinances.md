@@ -7,23 +7,23 @@ title: 'Borough Codes & Ordinances'
 
 ## Recently Adopted Borough Codes and Ordinances:
 
-[Ordinance No. 3406-16 - Repealing Appeal Provisions](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3406-16%20Ordinance%20Repealing%20Appeal%20Provisions%20and%20Reserved%20and%20Visitor%20Parking.pdf)
+[Ordinance No. 3406-16 - Repealing Appeal Provisions](http://static.rutherford-nj.com/codes-ordinances/3406-16%20Ordinance%20Repealing%20Appeal%20Provisions%20and%20Reserved%20and%20Visitor%20Parking.pdf)
 
-[Ordinance No. 3405-16 - Amending Parking Zones](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3405-16%20Ordinance%20Amending%20Parking%20Zones.pdf)
+[Ordinance No. 3405-16 - Amending Parking Zones](http://static.rutherford-nj.com/codes-ordinances/3405-16%20Ordinance%20Amending%20Parking%20Zones.pdf)
 
-[Ordinance No. 3404-16 - Amending Business District Licenses](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3404-16%20Ordinance%20Amending%20Business%20District%20Licenses.pdf)
+[Ordinance No. 3404-16 - Amending Business District Licenses](http://static.rutherford-nj.com/codes-ordinances/3404-16%20Ordinance%20Amending%20Business%20District%20Licenses.pdf)
 
-[Ordinance No. 3403-16 - Amending Zoning Code](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3403-16%20Ordinance%20Amending%20Zoning%20Code.pdf)
+[Ordinance No. 3403-16 - Amending Zoning Code](http://static.rutherford-nj.com/codes-ordinances/3403-16%20Ordinance%20Amending%20Zoning%20Code.pdf)
 
-[Ordinance No. 3402-16 - Repealing Special Improvement District](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3402-16%20Ordinance%20Repealing%20Special%20Improvement%20District.pdf)
+[Ordinance No. 3402-16 - Repealing Special Improvement District](http://static.rutherford-nj.com/codes-ordinances/3402-16%20Ordinance%20Repealing%20Special%20Improvement%20District.pdf)
 
-[Ordinance No. 3398-16 - Creating a Handicap Space on Maple Street](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3398-16%20Ordinance%20to%20establish%20a%20handicap%20space%20on%20Maple%20Street.pdf)
+[Ordinance No. 3398-16 - Creating a Handicap Space on Maple Street](http://static.rutherford-nj.com/codes-ordinances/3398-16%20Ordinance%20to%20establish%20a%20handicap%20space%20on%20Maple%20Street.pdf)
 
-[Ordinance No. 3396-16 - Creating Two Multi Stop Intersections](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3396-16%20Ordinance%20creating%20two%20multistop%20intersections.pdf)
+[Ordinance No. 3396-16 - Creating Two Multi Stop Intersections](http://static.rutherford-nj.com/codes-ordinances/3396-16%20Ordinance%20creating%20two%20multistop%20intersections.pdf)
 
-[Ordinance No. 3401-16 - Amending East Van Ness Parking Regulations](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3401-16%20Ordinance%20amending%20East%20Van%20Ness%20Avenue%20parking%20regulations.pdf)
+[Ordinance No. 3401-16 - Amending East Van Ness Parking Regulations](http://static.rutherford-nj.com/codes-ordinances/3401-16%20Ordinance%20amending%20East%20Van%20Ness%20Avenue%20parking%20regulations.pdf)
 
-[Ordinance No. 3400-16 - Establishing a Handicap Space on West Passaic](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3400-16%20Ordinance%20establishing%20a%20handicap%20space%20on%20West%20Passaic%20Avenue.pdf)
+[Ordinance No. 3400-16 - Establishing a Handicap Space on West Passaic](http://static.rutherford-nj.com/codes-ordinances/3400-16%20Ordinance%20establishing%20a%20handicap%20space%20on%20West%20Passaic%20Avenue.pdf)
 
 [Ordinance No. 3392-16 - Establishing a Shade Tree Commission](http://static.rutherford-nj.com/codes-ordinances/3392-16%20Ordinance%20establishing%20a%20Shade%20Tree%20Commission.pdf)
 
