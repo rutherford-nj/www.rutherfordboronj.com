@@ -31,7 +31,6 @@ If you would like to apply for a permit, contact Recreation at 201-460-3015.
 
 **Tamblyn Field** (30 Woodland Avenue)
 
-* 3 tennis courts
 * Tim Finnerty Memorial basketball courts
 * 1 football field
 * 2 baseball/ softball diamonds

@@ -41,7 +41,16 @@ jQuery(function() {
     $('#search_query').text(query);
     // Hand the results off to be displayed
     display_search_results(results);
+    
+    ga && ga('send', {
+      hitType: 'event',
+      eventCategory: 'Search',
+      eventAction: 'Search',
+      eventLabel: query
+    });
   };
+  
+  $('#search_query').text(window.location.hash.substr(1));
   
   // Initalize lunr with the fields it will be searching on.
   window.idx = lunr(function () {
