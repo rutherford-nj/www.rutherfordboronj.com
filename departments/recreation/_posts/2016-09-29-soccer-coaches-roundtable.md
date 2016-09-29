@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Soccer Coaches Roundtdable 10/4
+title: Soccer Coaches Roundtable 10/4
 ---
 
 **Soccer Coaches Roundtable Session**
