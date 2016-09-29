@@ -42,12 +42,10 @@ jQuery(function() {
     // Hand the results off to be displayed
     display_search_results(results);
     
-    ga && ga('send', {
-      hitType: 'event',
-      eventCategory: 'Search',
-      eventAction: 'Search',
-      eventLabel: query
-    });
+    if (ga) {
+      ga('set', 'page', '/search/' + query);
+      ga('send', 'pageview');
+    }
   };
   
   $('#search_query').text(window.location.hash.substr(1));
