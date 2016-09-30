@@ -9,7 +9,7 @@ title: Annual Ragamuffin Parade 10/29
 
 **Saturday, October 29th - 10:00 AM**
 
-[See flyer here](https://storage.googleapis.com/static.rutherford-nj.com/recreation/posts/2016_Halloween_Ragamuffin.pdf
+[See flyer here](https://storage.googleapis.com/static.rutherford-nj.com/recreation/posts/2016_Halloween_Ragamuffin.pdf)
 
 The parade starts outside the Rutherford High School Main Entrance
 
