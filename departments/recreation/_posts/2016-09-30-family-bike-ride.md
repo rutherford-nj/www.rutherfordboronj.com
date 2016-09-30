@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Mayor'w Wellness/Green Team Bike Ride 10/3
+title: Mayor's Wellness/Green Team Bike Ride 10/3
 ---
 
 **Mayor's Wellness/Green Team**
