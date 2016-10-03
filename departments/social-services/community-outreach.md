@@ -71,8 +71,7 @@ Rochelle Park, NJ
 
 ### Meals on Wheels
 
-Disabled Person 201-336-6501  
-Aged Person 201-646-3252 or 201-646-2625
+Disabled and Aged Persons: 201-336-7420
 
 
 ### Rutherford Area: Comprehensive Behavioral Healthcare Inc.
