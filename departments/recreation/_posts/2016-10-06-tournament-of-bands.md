@@ -9,7 +9,7 @@ title: Tournament of Bands 10/8
 
 Awards Ceremony at 8:55 p.m.
 
-(View Competition Schedule here!)[https://storage.googleapis.com/static.rutherford-nj.com/recreation/posts/bandschedule.pdf]
+(View Competition Schedule here)[https://storage.googleapis.com/static.rutherford-nj.com/recreation/posts/bandschedule.pdf]
 
 Tickets are $10 for adults and $5 for children. Food will be available for purchase. See attached photo for the Competition Schedule!
 
