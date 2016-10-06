@@ -4,7 +4,9 @@ title: Tournament of Bands 10/8
 ---
 
 **You're invited to the RHS Marching Band 2016 Tournament of Bands**
+
 **Saturday, October 8 from 5 p.m. - 9:30 p.m.**
+
 **Tryon Field at Memorial Park.**
 
 Awards Ceremony at 8:55 p.m.
