@@ -3,6 +3,8 @@
 
 jQuery(function() {
 
+window._apiKey = 'AIzaSyBWt8CJtikBs8a52rfN7fBih1R_4w-Olhk';
+
 {% include_relative js/jscache/cache.js %}
 
 {% include_relative js/search.js %}

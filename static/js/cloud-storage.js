@@ -41,11 +41,10 @@ $.each(possibleElements, function(i, elt) {
   var prefix = elt.data('prefix');
   
   if (prefix) {
-    var apiKey = 'AIzaSyBTr1HBPcDTODuO0uMfdMDjswzChn4gN1E';
     var contentUrl = 'https://www.googleapis.com/storage/v1/b/' +
       'static.rutherford-nj.com/o' +
       '?prefix=' + encodeURIComponent(prefix) +
-      '&key=' + apiKey;
+      '&key=' + window._apiKey;
     
     $.getJSON(contentUrl, function(response) {
       success(response, elt);

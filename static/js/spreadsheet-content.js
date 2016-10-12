@@ -2,7 +2,7 @@
 
 var url = 'https://sheets.googleapis.com/v4/spreadsheets/' +
     '16Y8NNYSn0yBWrtK3lStuFxJCxg7PThJpmBBxhUFsWvw/values/Message!A1%3AB1?key=' +
-    'AIzaSyBTr1HBPcDTODuO0uMfdMDjswzChn4gN1E';
+    window._apiKey;
 
 var handleCells = function(a1, b1){
   if (a1 == 'off' || !b1) {
