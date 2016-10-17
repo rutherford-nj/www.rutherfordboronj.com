@@ -32,7 +32,6 @@ Carmita Avenue from Woodward Avenue to Union Avenue
 
 Santiago from Union to Fransico
 
-**Other work around town:**
 
-Suez Water NJ has scheduled improvements to the main water lines servicing Van Winkle Place and The Terrace, residents in those areas will be contacted directly by Suez with project specifics, a copy of the information is available here (link). To improve public safety the town negotiated as part of this project the installation of a new fire hydrant on The Terrace.  The work is expected to start the week of the October 17th and be completed by mid-November. 
-We encourage all residents to check the website for updates about these projects and other borough news and events.  
+
+
