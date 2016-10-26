@@ -8,7 +8,7 @@ parent: 'Social Services'
   <img src="../RCP-Logo.png" alt="RCP Logo">
 </div>
 
-[**Click here for the Pantry's monthly needs list.**](../2016/09/22/october-pantry-needs/)
+[**Click here for the Pantry's monthly needs list.**](../2016/10/26/november-pantry-needs/)
 
 Facebook page: [www.facebook.com/RutherfordFoodPantry](https://www.facebook.com/RutherfordFoodPantry/)
 
