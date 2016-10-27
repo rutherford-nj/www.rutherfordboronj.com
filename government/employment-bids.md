@@ -4,6 +4,8 @@ title: 'Employment & Bids'
 parent: Government
 ---
 
+[Notice to Bidders: Used Dump Truck](https://storage.googleapis.com/static.rutherford-nj.com/finance/Employment/Bid%20Specs%20Used%20DumpTruck%20Advertisement%2010-27-16.pdf)
+
 [Notice to Bidders: WWI Monument Conservation](https://storage.googleapis.com/static.rutherford-nj.com/finance/Employment/WWI%20Rutherford%20Bid.pdf)
 
 [Employment Opportunity: OMNIBUS OPERATOR](https://storage.googleapis.com/static.rutherford-nj.com/finance/Employment/omnibusoperator.pdf)
