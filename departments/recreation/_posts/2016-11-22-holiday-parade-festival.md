@@ -5,11 +5,6 @@ title: Holiday Parade and Festival 11/26
 
 [See flyer here](https://storage.googleapis.com/static.rutherford-nj.com/recreation/posts/RutherfordHolidayFest_8.5x11_2016.pdf)
 
-**9:00am-3:00pm**
-
-**St. Mary Craft Fair** 
-
-St. Mary’s High School Auditorium
 
 **11:00am-3:00pm**
 
