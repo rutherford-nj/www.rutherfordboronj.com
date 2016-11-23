@@ -6,21 +6,15 @@ title: Holiday Parade and Festival 11/26
 [See flyer here](https://storage.googleapis.com/static.rutherford-nj.com/recreation/posts/RutherfordHolidayFest_8.5x11_2016.pdf)
 
 
-**11:00am-3:00pm**
-
-**Kip Center Open House** 
+**11:00am-3:00pm - Kip Center Open House** 
 
 Festival of Trees, Craft Tables, Bake Shoppe, free hot apple cider 
 
-**12:00-2:00pm**
-
-**3rd Annual St. Mary vs. Rutherford Alumni Flag Football Game at Tryon Field**
+**12:00-2:00pm - 3rd Annual St. Mary vs. Rutherford Alumni Flag Football Game at Tryon Field**
 
 Please bring non-perishable food items to the game to donate to the Rutherford Community Food Pantry. 
 
-**4:00pm**
-
-**66th Annual Chamber of Commerce Parade with Grand Marshall Rutherford Public Library**
+**4:00pm - 66th Annual Chamber of Commerce Parade with Grand Marshall Rutherford Public Library**
 
 Begins at Beech Street, goes up Union Avenue to Chestnut Street, to Ames Avenue to Park Avenue and ends at Lincoln Park
 
@@ -28,9 +22,7 @@ Begins at Beech Street, goes up Union Avenue to Chestnut Street, to Ames Avenue 
 
 Rutherford Community and Union School Bands perform
 
-**4:30-8pm**
-
-**Holiday Village in Lincoln Park**
+**4:30-8pm - Holiday Village in Lincoln Park**
 
 Crafts with the Girl Scouts, Trackless Train & Entertainment
 
