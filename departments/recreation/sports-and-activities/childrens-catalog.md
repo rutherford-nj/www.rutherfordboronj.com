@@ -26,7 +26,7 @@ Currently, payment for programs must be made in person or mailed to the Recreati
 | **Dance**      | 3-5yrs | $55 | Tuesdays | 3:30 - 4:20PM | Jan 3-Feb 21 |    | 8 | Tamblyn Field Civic Center |
 |                | 6-8yrs | $55 | Tuesdays | 4:30 - 5:20PM | Jan 3-Feb 21 |    | 8 | Tamblyn Field Civic Center |
 | **Crafts, Cooking and Painting** | 3-4yrs | $40 | Fridays | 1:30 - 2:15PM | Jan 6-Mar 3 | Feb 17 | 8 | Tamblyn Field Civic Center |
-|                                  | 5-6yrs | $40 | Fridays | 3:30 - 4:15PM | Sept 23-Nov 11 | Feb 17 | 8 | Tamblyn Field Civic Center |
+|                                  | 5-6yrs | $40 | Fridays | 3:30 - 4:15PM | Jan 6-Mar 3 | Feb 17 | 8 | Tamblyn Field Civic Center |
 | **Tennis Lesson** | All Ages | $55 | Sat and Sun | Call 973-916-1882 | Jan 8-Feb 12 |    | 6 | Wayne Indoor Cts |
 | **Indoor Soccer** | 1st-8th Gr | $30 | Sundays | Varies | Jan 8-Feb26 |   | 8 | School Gyms |
 |---------|-----------|-----|-----|------|-------------|------------------|-------------------|----------|
