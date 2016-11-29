@@ -7,7 +7,10 @@ title: 'Borough Codes & Ordinances'
 
 ## Recently Adopted Borough Codes and Ordinances:
 
-[Ordinance No. 3406-16 - Repealing Appeal Provisions](http://static.rutherford-nj.com/codes-ordinances/3406-16%20Ordinance%20Repealing%20Appeal%20Provisions%20and%20Reserved%20and%20Visitor%20Parking.pdf)
+
+[Ordinance No. 3408-16 - Repeal of Handicap Space on Jackson Avenue](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3408-16%20Repeal%20of%20Handicap%20space%20on%20Jackson%20Avenue.pdf)
+
+[Ordinance No. 3407-16 - Salary Schedule Ordinance](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3407-16%20Salary%20Schedule%20Ordinance.pdf)
 
 [Ordinance No. 3405-16 - Amending Parking Zones](http://static.rutherford-nj.com/codes-ordinances/3405-16%20Ordinance%20Amending%20Parking%20Zones.pdf)
 
