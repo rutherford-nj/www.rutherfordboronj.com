@@ -24,6 +24,7 @@ title: 'Resident Information'
 </ul>
 <ul>
   <li><a href="/departments/public-works/">Garbage &amp; Recycling Information</a></li>
+  <li><a href="/committees/shade-tree-commission/tree-care-services/">Tree Care and Services</a></li>
   <li><a href="http://www.rutherfordlibrary.org/">Library</a></li>
   <li><a href="utilities/">Utilities</a></li>
   <li><a href="houses-of-worship/">Houses of Worship</a></li>
