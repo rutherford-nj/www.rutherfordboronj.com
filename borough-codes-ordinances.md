@@ -10,8 +10,6 @@ title: 'Borough Codes & Ordinances'
 
 [Ordinance No. 3408-16 - Repeal of Handicap Space on Yahara Avenue](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3408-16%20Repeal%20of%20Handicap%20space%20on%20Yahara%20Avenue.pdf)
 
-[Ordinance No. 3407-16 - Salary Schedule Ordinance](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3407-16%20Salary%20Schedule%20Ordinance.pdf)
-
 [Ordinance No. 3405-16 - Amending Parking Zones](http://static.rutherford-nj.com/codes-ordinances/3405-16%20Ordinance%20Amending%20Parking%20Zones.pdf)
 
 [Ordinance No. 3404-16 - Amending Business District Licenses](http://static.rutherford-nj.com/codes-ordinances/3404-16%20Ordinance%20Amending%20Business%20District%20Licenses.pdf)
