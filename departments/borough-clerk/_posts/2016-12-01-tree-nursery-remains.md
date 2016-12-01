@@ -18,9 +18,12 @@ The genesis of this story stems from a recent Shade Tree Commission meeting duri
 
 
 Our Shade Tree Commissioners have provided invaluable assistance to the Borough by drastically improving the maintenance of our tree canopy. Residents can rest assured that the members of the Commission and the Governing Body recognize that the tree nursery has been and remains an important asset for the continued beautification of our Borough of Trees. 
+
+
 Sincerely,
 
-
-
 Joseph DeSalvo, Jr.
-Mayor, Borough of Rutherford
+
+Mayor, 
+
+Borough of Rutherford
