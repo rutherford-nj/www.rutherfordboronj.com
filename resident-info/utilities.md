@@ -22,7 +22,7 @@ Local Newspapers:
 * [South Bergenite](http://www.northjersey.com/southbergen/)
 
 [Suez Water / Water Supply](http://www.mysuezwater.com/)  
-973-340-4300
+800-422-5987
 
 [Verizon Telephone, TV and Internet Service](http://www.verizon.com/)  
 800-440-8000
