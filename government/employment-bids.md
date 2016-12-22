@@ -4,7 +4,7 @@ title: 'Employment & Bids'
 parent: Government
 ---
 
-[2017 RFQ: PLanning Board](https://storage.googleapis.com/static.rutherford-nj.com/finance/Employment/2017-RFQ-PlanningBoardRutherford%20Engineer-Planner-attorney.pdf)
+[2017 RFQ: Planning Board](https://storage.googleapis.com/static.rutherford-nj.com/finance/Employment/2017-RFQ-PlanningBoardRutherford%20Engineer-Planner-attorney.pdf)
 
 [2017 RFQ: Zoning Board](https://storage.googleapis.com/static.rutherford-nj.com/finance/Employment/2017-RFQ%20ZoningBOABoard-Rutherford%20Engineer-Planner-attorney.pdf)
 
