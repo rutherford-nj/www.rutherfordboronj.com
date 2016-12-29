@@ -7,6 +7,7 @@ title: 'Borough Codes & Ordinances'
 
 ## Recently Adopted Borough Codes and Ordinances:
 
+[Ordinance No. 3410-16 - Rent Control Ordinance](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3410-16%20Rent%20Control%20Ordinance.pdf)
 
 [Ordinance No. 3408-16 - Repeal of Handicap Space on Yahara Avenue](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3408-16%20Repeal%20of%20Handicap%20space%20on%20Yahara%20Avenue.pdf)
 
