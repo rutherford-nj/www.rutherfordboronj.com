@@ -5,6 +5,14 @@ title: 'Committees'
 
 ## Boards, Commissions and Committees
 
+---
+
+[Click here for the 2017 Meeting Schedule.](https://storage.googleapis.com/static.rutherford-nj.com/committees/ANNUAL%20NOTICE%202017.pdf)
+
+During the course of the year it may become necessary for a committee or the mayor and council to change the day or time of a meeting or to cancel/add meetings. 
+
+---
+
 **Access for All Committee** - Council Liaison: Frank Nunziato
 
 Access for All Rutherford is comprised of 11 members: five members shall be persons with disabilities, or parents of a child with a disability or a resident family member who is the caregiver of a person with a disability; six members shall be either residents of, or employed in, the borough.  The committee is charged with providing opportunities for greater unity across the borough through identifying and addressing barriers within the borough's borders for residents with disabilities.
