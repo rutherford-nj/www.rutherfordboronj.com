@@ -21,7 +21,14 @@ swalker@rutherford-nj.com
 {: style="clear: both;" }
 
 **Committee Assignments:**  
-Environmental & Recycling  
-Municipal Alliance  
-Shade Tree Committee  
-West End Committee
+Local Emergency Planning
+
+New Jersey Sports & Exposition Authority
+
+Nereid Boat Club
+
+Passaic River Coalition
+
+Planning Board
+
+Technology Upgrade
