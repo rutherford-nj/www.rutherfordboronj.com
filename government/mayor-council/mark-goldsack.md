@@ -1,10 +1,10 @@
 ---
 layout: interior-page
-title: 'Councilman Jack Manzo'
+title: 'Councilman Mark Goldsack'
 parent: 'Mayor and Council'
 ---
 
-## Councilman Jack Manzo
+## Councilman Mark Goldsack
 
 ![Council Headshot](../jack-manzo.png)
 {: style="float: left; margin: 0 20px 20px 0;"}
@@ -12,18 +12,19 @@ parent: 'Mayor and Council'
 **Contact:**  
 201-460-3022
 
-jmanzo@rutherford-nj.com
+mgoldsack@rutherford-nj.com
 
 **Term of Office**  
-1/1/14 to 12/31/16
+1/1/17 to 12/31/19
 
 **Fire Chair**
 {: style="clear: both;" }
 
 **Committee Assignments:**  
-Ambulance Corps  
-Board of Health  
-Economic Development  
-Fair Share Housing  
-New Jersey Sports & Exposition Authority  
-Planning Board
+Board of Adjustment
+
+Environmental and Recycling
+
+Historic Preservation
+
+Shade Tree
