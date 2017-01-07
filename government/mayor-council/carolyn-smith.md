@@ -17,7 +17,7 @@ csmith@rutherford-nj.com
 **Term of Office**  
 1/1/15 to 12/31/17
 
-**Recreation & Human Resources Chair**
+**Fire Chair**
 {: style="clear: both;" }
 
 **Committee Assignments:**  
