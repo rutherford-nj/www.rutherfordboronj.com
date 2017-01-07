@@ -17,7 +17,7 @@ smcgowan@rutherford-nj.com
 **Term of Office**  
 1/1/15 to 12/31/17
 
-**Buildings, Grounds & Utilities Chair**
+**Finance Chair**
 {: style="clear: both;" }
 
 **Committee Assignments:**  
