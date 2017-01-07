@@ -21,10 +21,10 @@ csmith@rutherford-nj.com
 {: style="clear: both;" }
 
 **Committee Assignments:**  
-Board of Education  
+55 Kip Center
+Ambulance Corp
 Community/Quality of Life  
-Felician University  
-Green Acres  
+Civil Rights Commission    
+Downhill Derby
 [Green Team](/committees/green-team/)  
-Recreation Advisory Committee
-Citizen Finance (2nd)
+Municipal Alliance
