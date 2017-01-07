@@ -21,8 +21,8 @@ smcgowan@rutherford-nj.com
 {: style="clear: both;" }
 
 **Committee Assignments:**  
-Board of Adjustment  
-Civil Rights Commission  
-Nereid Boat Club  
-Passaic River Coalition  
-Technology Upgrade Committee
+Access for All
+
+Citizen Finance
+
+Local Assistance Board
