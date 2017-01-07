@@ -17,7 +17,7 @@ mgoldsack@rutherford-nj.com
 **Term of Office**  
 1/1/17 to 12/31/19
 
-**Fire Chair**
+**Public Works Chair**
 {: style="clear: both;" }
 
 **Committee Assignments:**  
