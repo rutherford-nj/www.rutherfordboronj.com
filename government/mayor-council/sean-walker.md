@@ -17,7 +17,7 @@ swalker@rutherford-nj.com
 **Term of Office**  
 1/1/16 to 12/31/18
 
-**Public Works Chair**
+**Buildings, Grounds and Public Utilities Chair**
 {: style="clear: both;" }
 
 **Committee Assignments:**  
