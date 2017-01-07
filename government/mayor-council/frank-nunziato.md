@@ -22,11 +22,14 @@ fnunziato@rutherford-nj.com
 {: style="clear: both;" }
 
 **Committee Assignments:**  
-Access for All Committee  
-Auxiliary Police  
-CERT (Community Emergency Response Team)  
-Court  
-Crossing Guards  
-Local Emergency Planning  
-OEM  
+Auxiliary Police
+
+Board of Health
+
+Court
+
+Crossing Guards
+
+OEM
+
 Pedestrian Safety
