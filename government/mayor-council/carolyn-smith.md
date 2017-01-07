@@ -22,9 +22,15 @@ csmith@rutherford-nj.com
 
 **Committee Assignments:**  
 55 Kip Center
+
 Ambulance Corp
+
 Community/Quality of Life
+
 Civil Rights Commission    
+
 Downhill Derby
+
 [Green Team](/committees/green-team/)  
+
 Municipal Alliance
