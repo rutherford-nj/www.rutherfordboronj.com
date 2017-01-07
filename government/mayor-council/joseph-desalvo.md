@@ -20,7 +20,9 @@ jdesalvo@rutherford-nj.com
 1/1/09 to 12/31/11 (Councilman)
 
 **Committee Assignments:**  
-Community Events  
-Williams Center  
-World War I Monument Committee
+Economic Development
+
+Williams Center Advisory
+
+World War I Monument
 {: style="clear: both;" }
