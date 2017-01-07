@@ -6,7 +6,7 @@ parent: 'Mayor and Council'
 
 ## Councilman Mark Goldsack
 
-![Council Headshot](../jack-manzo.png)
+![Council Headshot](../mark-goldsack.png)
 {: style="float: left; margin: 0 20px 20px 0;"}
 
 **Contact:**  
