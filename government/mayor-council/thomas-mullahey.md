@@ -4,7 +4,7 @@ title: "Councilman Thomas Mullahey"
 parent: 'Mayor and Council'
 ---
 
-## Councilman Tom Mullahey
+## Councilman Thomas Mullahey
 
 ![Council Headshot](../tom-mullahey.png)
 {: style="float: left; margin: 0 20px 20px 0;"}
