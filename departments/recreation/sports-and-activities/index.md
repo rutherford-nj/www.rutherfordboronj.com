@@ -20,3 +20,5 @@ Lyndhurst Hockey – [Lyndhurst Youth Hockey](http://www.leaguelineup.com/welcom
 Preschool soccer – [www.unitedsocceracademy.com](http://unitedsocceracademy.com/)
 
 Lacrosse – [Rutherfordlax.weebly.com](http://rutherfordlax.weebly.com/)
+
+[Tennis Lesson Application](https://storage.googleapis.com/static.rutherford-nj.com/recreation/2017SPRINGTENNISFLYER.pdf)
