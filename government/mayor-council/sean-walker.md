@@ -32,3 +32,5 @@ Passaic River Coalition
 Planning Board
 
 Technology Upgrade
+
+Streetscape Committee
