@@ -11,7 +11,7 @@ Help us to help you during a snow storm!
 
 When snow is forecasted, residents should be aware of the following:
 
-**1.** Residents are strongly encouraged to receive real time emergency alerts and general community notifications, including snow emergency information from the Police Department, by signing up for free text messages/e-mail notifications at www.nixle.com. Additionally, residents should sign up for the Borough’s emergency notification system through Swift 911, which is linked off the Borough’s web site at www.rutherford-nj.com.
+**1.** Residents are strongly encouraged to receive real time emergency alerts and general community notifications, including snow emergency information from the Police Department, by signing up for free text messages/e-mail notifications at [nixle.com](http://www.rutherford-nj.com/notifications/). Additionally, residents should sign up for the Borough’s emergency notification system through Swift 911.
 
 **2.** Parking is prohibited on snow emergency routes when the roadway is covered with snow. Vehicles parked in violation shall be subject to ticketing and towing. Snow emergency streets are posted. Please remove all vehicles from snow emergency routes when snow is predicted in the forecast or when you are out-of-town.
 
