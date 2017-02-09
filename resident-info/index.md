@@ -28,4 +28,5 @@ title: 'Resident Information'
   <li><a href="http://www.rutherfordlibrary.org/">Library</a></li>
   <li><a href="utilities/">Utilities</a></li>
   <li><a href="houses-of-worship/">Houses of Worship</a></li>
+  <li><a href="snow-emergency-info/">Snow Emergency Information</a></li>
 </ul>
