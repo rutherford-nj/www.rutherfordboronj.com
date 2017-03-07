@@ -40,11 +40,11 @@ Currently, payment for programs must be made in person or mailed to the Recreati
 |                                  | 5-6yrs | $40 | Fridays | 3:30 - 4:15PM | Apr 7-June 9 |  | 8 | Tamblyn Field Civic Center |
 | **Wiggles, Songs and Stories**   | 3-5yrs | $45 | Wednesdays | 1:30-2:15PM | Apr 5-May 23 |    | 8 | Tamblyn Field Civic Center |
 | **Track and Field** | K-8th Gr | $45 | Tues and Thur | 6:00-7:00PM | Mar 21-June 8 |    | 12 | Tryon Field |
-| **Tennis Lesson** | 5-7 | $60 | Sundays | 1:00-2:00PM | May 7-June 11 |    | 6 | Memorial Park Tennis Cts |
+| **Tennis Lessons** | 5-7 | $60 | Sundays | 1:00-2:00PM | May 7-June 11 |    | 6 | Memorial Park Tennis Cts |
 |                   | 8-10 | $60 | Sundays | 2:00-3:00PM | May 7-June 11 |    | 6 | Memorial Park Tennis Cts |
-                    | 10-14 | $60 | Sundays | 3:00-4:00PM | May 7-June 11 |    | 6 | Memorial Park Tennis Cts |
-                    | 15+ | $70 | Sundays | 11:00AM-12:00PM | May 7-June 11 |    | 6 | Memorial Park Tennis Cts |
-                    | 15-Adult Inter | $60 | Sundays | 12:00-1:00PM | May 7-June 11 |    | 6 | Memorial Park Tennis Cts |
+|                    | 10-14 | $60 | Sundays | 3:00-4:00PM | May 7-June 11 |    | 6 | Memorial Park Tennis Cts |
+|                    | 15+ | $70 | Sundays | 11:00AM-12:00PM | May 7-June 11 |    | 6 | Memorial Park Tennis Cts |
+|                    | 15-Adult Inter | $60 | Sundays | 12:00-1:00PM | May 7-June 11 |    | 6 | Memorial Park Tennis Cts |
 | **Register at [www.unitedsocceracademy.com](http://unitedsocceracademy.com/)** | Soccer Squirts | $125 | Fridays | Select Time | Apr 25-June 6 |   | 6 | Walls Field |
 |---------|-----------|-----|-----|------|-------------|------------------|-------------------|----------|
 {: .hover-table .recreation-table}
