@@ -1,0 +1,42 @@
+---
+layout: blog
+title: March Pantry Needs
+---
+
+[www.rutherfordcommunitypantry.org](http://www.rutherfordcommunitypantry.org/)
+
+The following are the only items needed at this time: 
+
+PASTA SAUCE
+
+TOMATO PASTE
+
+CANNED BEETS
+
+CORN MUFFIN MIX
+
+TEA
+
+JUICE BOXES
+
+VEGETABLE OIL
+
+BAKED BEANS
+
+WHITE RICE
+
+RICE AND PASTA SIDES
+
+SPAGHETTI, ANGEL HAIR, LINGUINI (ONLY)
+
+PAPER TOWELS, TOILET PAPER
+
+LAUNDRY DETERGENT
+
+DISH DETERGENT
+
+PLEASE REMEMBER WE CANNOT ACCEPT EXPIRED ITEMS.
+
+THE PANTRY DOES NOT NEED ANY SOUP !!!!!!
+
+THANK-YOU
