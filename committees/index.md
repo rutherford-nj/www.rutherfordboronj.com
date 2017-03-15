@@ -69,6 +69,8 @@ The objective of the Historic Preservation Committee is to educate the community
 
 **Recreation Advisory Committee** - Council Liaison Tom Mullahey
 
+The Recreation Advisory Committee meets monthly to discuss issues pertaining to Recreation.  The committee meets with coaches and coordinators before the season to ensure proper preparation and after the season to reflect on what needs improvement and what we can build upon.
+
 ---
 
 [**Shade Tree Commission**](shade-tree-commission/)
