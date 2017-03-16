@@ -3,6 +3,9 @@ layout: interior-page
 title: 'Recreation Forms'
 parent: 'Recreation'
 ---
+
+[**Recreation Policies**](www.rutherford-nj.com/departments/recreation/recreation-policies.md)
+
 **Forms** 
 
 [Code of Conduct](http://static.rutherford-nj.com/recreation/Recreation_Code_of_Conduct.pdf)
