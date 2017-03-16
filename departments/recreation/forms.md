@@ -4,7 +4,7 @@ title: 'Recreation Forms'
 parent: 'Recreation'
 ---
 
-[**Recreation Policies**](www.rutherford-nj.com/departments/recreation/recreation-policies.md)
+[**Recreation Policies**](./recreation-policies/)
 
 **Forms** 
 
