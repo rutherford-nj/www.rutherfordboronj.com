@@ -59,7 +59,7 @@ The objective of the Historic Preservation Committee is to educate the community
 
 ---
 
-[**Local Assistance Board**](local-assistance-board/) - Council Liaison Stephanie McGowan
+[**Local Assistance Board**](local-assistance-board/)
 
 ---
 
