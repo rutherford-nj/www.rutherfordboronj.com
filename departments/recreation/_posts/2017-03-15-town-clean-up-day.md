@@ -3,7 +3,7 @@ layout: blog
 title: Rutherford Clean Up Day 4/29
 ---
 
-[View Flyer Here]https://storage.googleapis.com/static.rutherford-nj.com/recreation/posts/Rutherford%20Town%20Clean%20Up%20Day.pdf)
+[View Flyer Here](https://storage.googleapis.com/static.rutherford-nj.com/recreation/posts/Rutherford%20Town%20Clean%20Up%20Day.pdf)
 
 **SATURDAY APRIL 29TH**
 
