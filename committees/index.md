@@ -19,7 +19,7 @@ Access for All Rutherford is comprised of 11 members: five members shall be pers
 
 ---
 
-[**Board of Adjustment**](board-of-adjustment/) - Council Liaison: Mark Goldsack 
+[**Board of Adjustment**](board-of-adjustment/) 
 
 ---
 
