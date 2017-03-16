@@ -21,7 +21,7 @@ We do not take any requests for players to be on the same team, except for playe
 
 **CODE OF CONDUCT**
 
-The Borough of Rutherford has a “Code of Conduct” which is enforced when necessary.  The Code of Conduct may be found on the Borough Website – www.Rutherford-NJ.com. 
+The Borough of Rutherford has a “Code of Conduct” which is enforced when necessary.  The Code of Conduct may be found on the Borough Website [here](http://static.rutherford-nj.com/recreation/Recreation_Code_of_Conduct.pdf).
 
 
 **REGISTRATION**
