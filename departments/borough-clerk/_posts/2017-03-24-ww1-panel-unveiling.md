@@ -1,6 +1,6 @@
 ---
 layout: blog
-title:  WWI Centennial Committee Veterans Panel 4/6
+title: WWI Centennial Committee Veterans Panel 4/6
 ---
 
 **Rutherford WWI Centennial Committee Veterans Panel Unveiling**
