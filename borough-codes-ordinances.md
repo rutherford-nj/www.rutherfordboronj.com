@@ -8,6 +8,8 @@ title: 'Borough Codes & Ordinances'
 ## Recently Adopted Borough Codes and Ordinances:
 
 
+[Ordinance No. 3417-17 - Permit Parking Only Areas Established](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3417-17%20Permit%20Parking%20-%20Rutherford%20Avenue.pdf)
+
 [Ordinance No. 3416-17 - Repeal Handicap Space at 96 Union Avenue](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3416-17%20Repeal%20Handicap%20Space%20at%2096%20Union%20Avenue.pdf)
 
 [Ordinance No. 3415-17 - Rapid Secondhand Goods Ordinance](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3415-17%20Rapid%20Secondhand%20Goods%20Ordinance.pdf)
