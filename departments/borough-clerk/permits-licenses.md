@@ -25,7 +25,7 @@ Please click on an item below to download the appropriate form and return to the
 
 [**Hold Harmless Agreement**](http://static.rutherford-nj.com/borough-clerk/permits-licenses/HoldHarmless_Agreement.pdf)
 
-**Limousine License** – Certificate to obtain "o" license from Motor Vehicle available only to a business based in Rutherford with a Certificate of Occupancy.  Fee is $50 per car, insurance policy and proof of ownership required.
+[**Limousine License**](https://storage.googleapis.com/static.rutherford-nj.com/borough-clerk/permits-licenses/LIVERY-LIMO.pdf) – Certificate to obtain "o" license from Motor Vehicle available only to a business based in Rutherford with a Certificate of Occupancy.  Fee is $50 per car, insurance policy and proof of ownership required.
 
 **Liquor License** – Renewed yearly – 4 club licenses and 10 store licenses. Application process in compliance with Alcohol Beverage Control Commission requirements.
 
