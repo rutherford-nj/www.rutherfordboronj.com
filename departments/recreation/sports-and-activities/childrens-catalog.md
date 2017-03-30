@@ -20,10 +20,6 @@ Currently, payment for programs must be made in person or mailed to the Recreati
 | **Preschool 3 years** by 10/1/17 | 3yrs | $320 bi-monthly | Tues & Thur | 8:30 - 11:15AM | Sept 12-May 22 | Follows School calendar | | Tamblyn Field Civic Center |
 | **Preschool 4 years** by 10/1/17 | 4yrs | $480 bi-monthly | Mon, Wed & Fri | 8:30 - 11:15AM | Sept 11-May 24 | Follows School calendar | | Tamblyn Field Civic Center |
 | **Aftercare for 4 yr olds** | 4yrs | Monthly | Mon, Wed & Fri | 11:15AM - 1:15PM | Sept 11-May 24 | Follows School calendar | | Tamblyn Field Civic Center |
-|	**Day Camp Registration begins April 24th**		|  |  |  |  |  |  |  |  |
-| **Kinder Camp - age 3** by 10/1/17 | 3yrs - 1st Gr | $225 | Mon - Fri | 8:30-12Noon/Noon - 3:30PM | June 26-Aug 4 | July 4 | half days | Tamblyn Field Civic Center |
-| **Junior Camp**| 2nd-4th Gr | $450 | Mon - Fri | 8:30AM - 3:30PM | June 26-Aug 4 | July 4 | | Washington School |
-| **Senior Camp**| 5th-8th Gr | $250 | Mon - Fri | 8:30AM - 3:30PM | June 26-Aug 4 | July 4 | | Union School |
 |---------|-----------|-----|-----|------|-------------|------------------|-------------------|----------|
 {: .hover-table .recreation-table}
 **Spring Childrens Activities**
