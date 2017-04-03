@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: March Pantry Needs
+title: April Pantry Needs
 ---
 
 [www.rutherfordcommunitypantry.org](http://www.rutherfordcommunitypantry.org/)
