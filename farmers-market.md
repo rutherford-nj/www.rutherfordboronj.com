@@ -3,7 +3,9 @@ layout: page
 title: 'Farmers Market'
 ---
 
-**2017 Farmers' Market**
+**2017 Farmers' Market**          
+
+**Information for Vendors**
 
 The market will be held in the [William’s Plaza, Park Avenue](https://www.google.com/maps/place/Williams+Plaza,+Rutherford,+NJ+07070/@40.8271096,-74.1058149,17z/data=!3m1!4b1!4m5!3m4!1s0x89c2f8be86aab01b:0x4d209f0d72ed5216!8m2!3d40.8271096!4d-74.1036209) on 
 
