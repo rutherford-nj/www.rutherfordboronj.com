@@ -20,8 +20,13 @@ The Rutherford Farmer’s Market is returning for its 20th season. The market is
 
 
 For General Information,
+
 Contact: Laurie Gentile
+
 The Borough of Rutherford
+
 176 Park Avenue
+
 Rutherford, NJ 07070
+
 201-460-3195     Email: lgentile@rutherford-nj.com
