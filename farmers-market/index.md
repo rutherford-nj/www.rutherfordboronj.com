@@ -31,4 +31,6 @@ The Borough of Rutherford
 
 Rutherford, NJ 07070
 
-201-460-3195     Email: lgentile@rutherford-nj.com
+460-3000 ext. 3195   
+
+Email: lgentile@rutherford-nj.com
