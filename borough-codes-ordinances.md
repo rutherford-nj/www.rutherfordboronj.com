@@ -7,6 +7,11 @@ title: 'Borough Codes & Ordinances'
 
 ## Recently Adopted Borough Codes and Ordinances:
 
+[Ordinance No. 3423-17 - Handicap Parking Jackson Ave](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3423-17%20Handicap%20Parking%20Jackson%20Ave%20%26%20Park%20Avenue.pdf)
+
+[Ordinance No. 3422-17 - Farmers Market](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3422-17%20%20Farmer's%20Market.pdf)
+
+[Ordinance No. 3421-17 - Firefighter Uniform Allowance](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3421-17%20%20Firefighter%20Uniform%20Allowance.pdf)
 
 [Ordinance No. 3417-17 - Permit Parking Only Areas Established](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3417-17%20Permit%20Parking%20-%20Rutherford%20Avenue.pdf)
 
