@@ -14,10 +14,9 @@ Items that may be dropped off are:
 * comingle / recyclables  
 * all paper / cardboard products
 
-**Garbage / Trash** is any non-recyclable waste material generated from the kitchen.  
-Containers shall not exceed 32 gallons in capacity or 50lbs in weight.
+**Garbage / Trash**  is any non-recyclable waste material generated in the home. It should only be placed in the Borough issued automated green cart. Note: any item outside the cart will not be collected.
 
-**Mixed Paper – (ALL RECYCLABLE)** Residents will include all clean paper, boxes, corrugated cardboard, newspapers, magazines, phone books and only clean PIZZA boxes (no oily residue) in a secure curb-side container or string tie in bundles no higher than 12 inches, and or place in secure containers. Remember on WINDY DAYS TO SECURE ALL THE RECYCLABLES from blowing all over the street!
+**Recyclables - ALL Recyclables** (glass, plastics, aluminum & tin cans, and all paper & cardboard) shall be placed together in the Borough issued automated blue cart. Do not wedge cardboard into container as the automated process does not pull the items out.  Note: any item outside the cart will not be collected.
 
 **Tires** – Contact your local tire dealership or auto service provider.
 
