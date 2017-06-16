@@ -16,6 +16,8 @@ ALL CONCERTS ARE FREE TO THE PUBLIC
 
 Rain Date for Thursday concerts is the following Monday!
 
+[View Flyer Here](https://storage.googleapis.com/static.rutherford-nj.com/recreation/posts/Schedule%20of%202017%20Summer%20Concerts.pdf)
+
 Schedule:
 
 **June 22nd** — PARROT BEACH – (Jimmy Buffet Tribute)
