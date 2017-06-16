@@ -9,7 +9,7 @@ Please set up an account with [Community Pass](https://register.communitypass.ne
 
 Currently, payment for programs must be made in person or mailed to the Recreation Department in the Ground Floor of Borough Hall, 176 Park Avenue.  Please print and complete [this form](http://static.rutherford-nj.com/recreation/Recreation_ProgramRegistration.pdf) and attach it to your check upon payment. Registration is complete only upon payment.
 
-## Spring 2017 Children's Sports and Activities
+## Summer 2017 Children's Sports and Activities
 **Registration is open and on a First Come, First Served Basis**
 
 **Pre-School and Summer Camps**
@@ -22,26 +22,19 @@ Currently, payment for programs must be made in person or mailed to the Recreati
 | **Aftercare for 4 yr olds** | 4yrs | Monthly | Mon, Wed & Fri | 11:15AM - 1:15PM | Sept 11-May 24 | Follows School calendar | | Tamblyn Field Civic Center |
 |---------|-----------|-----|-----|------|-------------|------------------|-------------------|----------|
 {: .hover-table .recreation-table}
-**Spring Childrens Activities**
+**Summer Childrens Activities**
 
 | Program | Age/Grade | Fee |	Day | Time | Start Date |	Dates no session | Number of classes | Location |
 |:--------|:---------:|:---:|:---:|:----:|:-------------:|:----------------:|:-----------------:|:--------:|
-| **Gymnastics** | 3-5yrs | $55 | Saturdays | 9:00 - 10:00AM  | Apr 8-June 10 |    | 8 | Tamblyn Field Civic Center |
-|                | 3-5yrs | $55 | Saturdays | 10:00 - 11:00AM | Apr 8-June 10 |    | 8 | Tamblyn Field Civic Center |
-|                | 6-8yrs | $55 | Saturdays | 11:00 - 12:00PM | Apr 8-June 10 |    | 8 | Tamblyn Field Civic Center |
-|                | 9-12yrs | $55 | Saturdays | 12:00 - 1:00PM | Apr 8-June 10 |    | 8 | Tamblyn Field Civic Center |
-| **Dance**      | 3-5yrs | $55 | Tuesdays | 3:30 - 4:20PM | Apr 4-May 30 |    | 8 | Tamblyn Field Civic Center |
-|                | 6-8yrs | $55 | Tuesdays | 4:30 - 5:20PM | Apr 4-May 30 |    | 8 | Tamblyn Field Civic Center |
-| **Crafts, Cooking and Painting** | 3-4yrs | $40 | Fridays | 1:30 - 2:15PM | Apr 7-June 9 |  | 8 | Tamblyn Field Civic Center |
-|                                  | 5-6yrs | $40 | Fridays | 3:30 - 4:15PM | Apr 7-June 9 |  | 8 | Tamblyn Field Civic Center |
-| **Wiggles, Songs and Stories**   | 3-5yrs | $45 | Wednesdays | 1:30-2:15PM | Apr 5-May 23 |    | 8 | Tamblyn Field Civic Center |
-| **Track and Field** | K-8th Gr | $45 | Tues and Thur | 6:00-7:00PM | Mar 21-June 8 |    | 12 | Tryon Field |
-| **Tennis Lessons** | 5-7 | $60 | Sundays | 1:00-2:00PM | May 7-June 11 |    | 6 | Memorial Park Tennis Cts |
-|                   | 8-10 | $60 | Sundays | 2:00-3:00PM | May 7-June 11 |    | 6 | Memorial Park Tennis Cts |
-|                    | 10-14 | $60 | Sundays | 3:00-4:00PM | May 7-June 11 |    | 6 | Memorial Park Tennis Cts |
-|                    | 15+ | $70 | Sundays | 11:00AM-12:00PM | May 7-June 11 |    | 6 | Memorial Park Tennis Cts |
-|                    | 15-Adult Inter | $60 | Sundays | 12:00-1:00PM | May 7-June 11 |    | 6 | Memorial Park Tennis Cts |
-| **Register at [www.unitedsocceracademy.com](http://unitedsocceracademy.com/)** | Soccer Squirts | $125 | Fridays | Select Time | Apr 25-June 6 |   | 6 | Walls Field |
+| **Tennis Lessons** | 8-11 | $60 | Mon and Wed | 4:00-5:00PM | July 5-July 24 |    | 6 | Memorial Park Tennis Cts |
+|                    | 5-8  | $60 | Mon and Wed | 5:00-6:00PM | July 5-July 24 |    | 6 | Memorial Park Tennis Cts |
+|                    | 12-14 | $60 | Mon and Wed | 6:00-7:00PM | July 5-July 24 |    | 6 | Memorial Park Tennis Cts |
+|                    | 14-Adult  | $60 | Mon and Wed | 6:00-7:00PM | July 5-July 24 |    | 6 | Memorial Park Tennis Cts |
+|                    | 5-7 | $60 | Sundays | 10:00-11:00AM | July 9-Aug 13 |    | 6 | Memorial Park Tennis Cts |
+|                    | 8-11 | $60 | Sundays | 11:00AM-12:00PM | July 9-Aug 13 |    | 6 | Memorial Park Tennis Cts |
+|                    | 12-14 | $60 | Sundays | 12:00-1:00PM | July 9-Aug 13 |    | 6 | Memorial Park Tennis Cts |
+|                    | 14-Adult Int. | $70 | Sundays | 1:00-2:00PM | July 9-Aug 13 |    | 6 | Memorial Park Tennis Cts |
+|                  
 |---------|-----------|-----|-----|------|-------------|------------------|-------------------|----------|
 {: .hover-table .recreation-table}
 
