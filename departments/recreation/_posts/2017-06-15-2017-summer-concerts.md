@@ -35,3 +35,8 @@ Schedule:
 **August 10th** — JIGSAW/BIG HOUSE (Classic Rock/Current Pop)
 
 **August 17th** — SKEETER PANTS (Country Music)
+
+
+Thank you to our generous Sponsors:
+
+Felician University, Calhoun-Mania Funeral Home, Kearny Bank, Century 21/Eudan Realty, Frank’s GMC., Frost Dental, BCB Community Bank, Dan Meredith Allstate Agency, Quality Auto Mall, Dairy Queen, Café Matisse & Mougel Cleaners.
