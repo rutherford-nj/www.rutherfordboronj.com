@@ -21,4 +21,4 @@ Preschool soccer – [www.unitedsocceracademy.com](http://unitedsocceracademy.co
 
 Lacrosse – [Rutherfordlax.weebly.com](http://rutherfordlax.weebly.com/)
 
-[Tennis Lesson Application](https://storage.googleapis.com/static.rutherford-nj.com/recreation/2017SPRINGTENNISFLYER.pdf)
+[Tennis Lesson Application](https://storage.googleapis.com/static.rutherford-nj.com/recreation/2017_RutherfordSummerTennis.pdf)
