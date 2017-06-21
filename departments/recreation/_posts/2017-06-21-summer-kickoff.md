@@ -17,6 +17,8 @@ Car Show info: [www.rutherfordems.org](http://www.rutherfordems.org/)
 
 [See Summer Kick Off Flyer Here](https://storage.googleapis.com/static.rutherford-nj.com/recreation/posts/Summer2017_Flyer.pdf)
 
+[See Car Show Flyer Here](https://storage.googleapis.com/static.rutherford-nj.com/recreation/posts/2017_Cruisin.pdf)
+
 [See Club Fair Flyer Here](https://storage.googleapis.com/static.rutherford-nj.com/recreation/posts/QOL_ClubFair_Flyer_2017.pdf)
  
 Join us for Rutherford’s third annual Summer Kick-Off/Cruisin’ on the Avenue event!  Enjoy a Classic Car Show that will serve as a fundraiser for the Rutherford Ambulance Corps, Dining Under the Stars, live music by Lifespeed in Lincoln Park, a Rutherford Club Fair, Beer & Wine Gardens along Park Avenue, and games. 
