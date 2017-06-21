@@ -9,7 +9,7 @@ title: Annual Fireworks Display 6/30
 
 **Activities Begin 7:00PM. Fireworks begin 9:15PM**
 
-Rutherford Borough Officials are pleased to announce that Rutherford’s annual fireworks display will be held on Friday, June 30, 2017 at Memorial Field. Activities start at 7:00 PM with music by Rutherford’s own, Luke and the Troublemakers, food and drinks will be sold by Rutherford Junior Football and Cheer to benefit their program.  The fireworks display will begin at 9:15 PM.  Thanks to our sponsor Boiling Springs Savings Bank.
+Rutherford Borough Officials are pleased to announce that Rutherford’s annual fireworks display will be held on Friday, June 30, 2017 at Memorial Field. Activities start at 7:00 PM with music by Rutherford’s own, Luke and the Troublemakers, food and drinks will be sold by Rutherford Junior Football and Cheer to benefit their program.  The fireworks display will begin at 9:15 PM.  Thanks to our sponsors Boiling Springs Savings Bank and PSEG.
  
 Visitors are reminded to bring lawn chairs or blankets for their own comfort. For residents’ safety, the following will be strictly enforced: no coolers, backpacks, fireworks (including sparklers), alcoholic beverages, pets, or drones will be permitted at the fireworks display or on any part of Memorial Field.  Bags will be subject to search. 
  
