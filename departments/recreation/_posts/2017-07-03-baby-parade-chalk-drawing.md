@@ -5,6 +5,7 @@ title: July 4 Baby Parade and Chalk Drawing Contest
 
 
 **86th Annual Baby Parade followed by the 10th Annual JWCR Chalk Drawing Contest**
+
 For anyone who has not yet registered for this event, registration forms will be available to complete at Lincoln Park on 4th of July morning.  
  
 The 86th Annual Baby Parade will take place tomorrow, 4th of July morning, in Lincoln Park.  
