@@ -4,6 +4,8 @@ title: 'Employment & Bids'
 parent: Government
 ---
 
+[Notice to Bid: 2017 NJDOT Road Program](https://storage.googleapis.com/static.rutherford-nj.com/finance/Employment/2017%20NJDOT%20Road%20Program%20Bid%20Notice.pdf)
+
 [Notice to Bid: Electric Vehicle Charging Stations](https://storage.googleapis.com/static.rutherford-nj.com/finance/Employment/BidSpecsElectricVehicleChargingAdvertisement.docx.pdf)
 
 
