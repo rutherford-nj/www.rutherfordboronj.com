@@ -2,7 +2,7 @@ language: ruby
 cache: bundler
 rvm:
 - 2.4.1
-install: gem install jekyll html-proofer
+install: gem install jekyll html-proofer sass -v "=3.4.25"
 before_script:
   - chmod +x ./scripts/travis-build
 script: ./scripts/travis-build
