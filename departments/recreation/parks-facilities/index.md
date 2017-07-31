@@ -4,6 +4,10 @@ title: 'Parks and Facilities'
 parent: 'Recreation'
 ---
 
+[Parks and Facilities Weather Policies](https://storage.googleapis.com/static.rutherford-nj.com/recreation/Weather%20Policies.pdf)
+
+[Tryon Field Turf Rules](https://storage.googleapis.com/static.rutherford-nj.com/recreation/Turf%20rules.pdf)
+
 The Recreation Department hosts many programs and activities at the locations below throughout the year:
 
 <div style="float: right;">
