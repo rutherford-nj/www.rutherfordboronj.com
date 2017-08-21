@@ -4,6 +4,8 @@ title: 'Employment & Bids'
 parent: Government
 ---
 
+[Employment: Maintenance Supervisor](https://storage.googleapis.com/static.rutherford-nj.com/finance/Employment/Maintenance%20Supervisor%20Grounds%20Job%20Announcement.pdf)
+
 [Employment: Park Ranger](https://storage.googleapis.com/static.rutherford-nj.com/finance/Employment/HELP%20WANTED-Park%20Ranger.pdf)
 
 
