@@ -14,6 +14,9 @@ Cliffhanger Productions will be collecting
 
 **Socks, Underwear & T-Shirts In all Sizes for People of All Ages**
 
+**at Rutherford’s 42nd Annual Labor Day Street Fair
+Monday, September 4th - 10:00am-5:00pm**
+
 In Support of the Relief Effort for those impacted by Hurricane Harvey
 Bring your donation to the Rutherford Cares Tent in Lincoln Park
 
