@@ -22,7 +22,7 @@ Currently, payment for programs must be made in person or mailed to the Recreati
 | **Aftercare for 4 yr olds** | 4yrs | Monthly | Mon, Wed & Fri | 11:15AM - 1:15PM | Sept 12-May 25 | Follows School calendar | | Tamblyn Field Civic Center |
 |---------|-----------|-----|-----|------|-------------|------------------|-------------------|----------|
 {: .hover-table .recreation-table}
-**Summer Childrens Activities**
+**Fall Childrens Activities**
 
 | Program | Age/Grade | Fee |	Day | Time | Start Date |	Dates no session | Number of classes | Location |
 |:--------|:---------:|:---:|:---:|:----:|:-------------:|:----------------:|:-----------------:|:--------:|
