@@ -47,8 +47,11 @@ title: '07070'
     {% for post in site.posts limit:4 %}
       <div class="page-post-link">
         {% for category in post.categories %}
-          {% if category != 'departments' %}
+          {% if category != 'departments' and category != 'community-events' %}
             <div class="page-post-icon" style="background-image: url(/departments/{{category}}/icon.png)"></div>
+          {% endif %}
+          {% if category == 'community-events' %}
+            <div class="page-post-icon" style="background-image: url(/community-events/icon.png)"></div>
           {% endif %}
         {% endfor %}
         <div class="page-post-words">
