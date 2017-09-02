@@ -30,6 +30,6 @@ August 11th - Beatles Faux Sale (Tribue to the Beatles)
 
 August 18th - Jigsaw - Big House (Classic Rock/Big House)
 
-[Click here for flyer](http://static.rutherford-nj.com/recreation/2016%20Summer%20Concert%20Schedule.pdf)
+[Click here for flyer](https://storage.googleapis.com/static.rutherford-nj.com/recreation/2016%20Summer%20Concert%20Schedule.pdf)
 
 

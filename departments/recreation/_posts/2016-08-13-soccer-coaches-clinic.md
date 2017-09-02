@@ -3,7 +3,7 @@ layout: blog
 title: Mandatory Soccer Coaches Clinic 9/1
 ---
 
-[View Flyer Here](http://static.rutherford-nj.com/recreation/posts/Soccer%20Flyers.pdf)
+[View Flyer Here](https://storage.googleapis.com/static.rutherford-nj.com/recreation/posts/Soccer%20Flyers.pdf)
 
 RUTHERFORD RECREATION DEPARTMENT 2016 FALL SOCCER
 

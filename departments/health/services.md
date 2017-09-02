@@ -18,7 +18,7 @@ For more information on **Vital Statistics in the State of New Jersey**, visit t
 
 To print a copy of the **Form To Be Used When Requesting A Certified Copy Of A Marriage, Death, Birth, Domestic Partnership Or Civil Union Record**, by mail or in person, [CLICK HERE](https://storage.googleapis.com/static.rutherford-nj.com/health/vital%20stat%20form%20reg%2037.pdf). 
 
-To print a copy of the **Form To Be Used When Requesting A Certified Copy Of A Death Record Listing Cause Of Death**, by mail or in person, [CLICK HERE](http://static.rutherford-nj.com/health/NJDOH_CauseOfDeathAuthorization.pdf). 
+To print a copy of the **Form To Be Used When Requesting A Certified Copy Of A Death Record Listing Cause Of Death**, by mail or in person, [CLICK HERE](https://storage.googleapis.com/static.rutherford-nj.com/health/NJDOH_CauseOfDeathAuthorization.pdf). 
 
 **MARRIAGE LICENSE AND CIVIL UNION LICENSE APPLICATION PROCESS**  – License applications are taken from 8:30 A.M. to 4:00 P.M., weekdays. A mandatory 72-hour waiting period is required from the time of application to the issuance of the license. There is a $28.00 license fee (exact amount, i.e., cash, check and/or money order) and one of the applicants must live in Rutherford to apply at our Department.  A number of other requirements exist and applicants are strongly encouraged to call the Health Department at 201-460-3020 well in advance of their intended date of the ceremony for additional details. Additional information on the procedure for obtaining a marriage or civil union license can be obtained by visiting the State Registrar’s web site listed above. 
 

@@ -11,7 +11,7 @@ parent: 'Recreation'
 
 Rutherford Little League - [www.rutherford-ll.info](http://www.rutherford-ll.info/home.htm)
 
-[Click here for Little League and Girls Softball Application](http://static.rutherford-nj.com/recreation/2016%20LL%20and%20Girls%20Softball%20Registration.pdf)
+[Click here for Little League and Girls Softball Application](https://storage.googleapis.com/static.rutherford-nj.com/recreation/2016%20LL%20and%20Girls%20Softball%20Registration.pdf)
 
 Nereid Boat Club – [nereidbc.org](http://nereidbc.org/) nereidprograms@hotmail.com
 

@@ -3,4 +3,4 @@ layout: blog
 title: Summer Day Camp Trip Forms
 ---
 
-[Click here to download Summer Day Camp Trip Forms](http://static.rutherford-nj.com/recreation/2016%20DayTrips.pdf)
+[Click here to download Summer Day Camp Trip Forms](https://storage.googleapis.com/static.rutherford-nj.com/recreation/2016%20DayTrips.pdf)

@@ -18,11 +18,11 @@ The Borough of Rutherford contracts with Tyco Professional Animal Control Servic
 
 **PET LICENSING**
 
-[Dog License](http://static.rutherford-nj.com/police/RPD_Dog-License.pdf)
+[Dog License](https://storage.googleapis.com/static.rutherford-nj.com/police/RPD_Dog-License.pdf)
 
 Records Bureau – $7.00 fee. Must have proof of valid Rabies Shot. Expires yearly in January.
 
-[Cat License](http://static.rutherford-nj.com/police/RPD_Cat-License.pdf)
+[Cat License](https://storage.googleapis.com/static.rutherford-nj.com/police/RPD_Cat-License.pdf)
 
 Records Bureau – $7.00 fee. Must have proof of valid Rabies Shot. Expires when Rabies expires.
 

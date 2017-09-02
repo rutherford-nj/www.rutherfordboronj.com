@@ -20,4 +20,4 @@ A Good Night To Know Your Neighbors!
 There will also be: Free Face Painting & Organization information tables!
  For More Information Contact Rutherford Recreation at 201-460-3015
  
-[Click here to download flyer](http://static.rutherford-nj.com/recreation/posts/National%20night%20out%202016.pdf)
+[Click here to download flyer](https://storage.googleapis.com/static.rutherford-nj.com/recreation/posts/National%20night%20out%202016.pdf)

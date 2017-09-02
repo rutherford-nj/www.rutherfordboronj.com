@@ -15,4 +15,4 @@ OPEN TO THE PUBLIC
 
 For more information call the office at 973-523-5152
 
-[View flyer here](http://static.rutherford-nj.com/borough-clerk/posts/notice.pdf)
+[View flyer here](https://storage.googleapis.com/static.rutherford-nj.com/borough-clerk/posts/notice.pdf)

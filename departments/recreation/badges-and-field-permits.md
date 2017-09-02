@@ -41,7 +41,7 @@ An ordinance to amend and supplement the code of the Borough of Rutherford, Chap
 **TENNIS BADGES**
 All Rutherford Residents interested in utilizing our Tennis Courts must purchase a Badge at the Recreation Department. Our facilities include Tamblyn Field (3 courts) and Memorial Park (6 courts).
 
-### Tennis Badges [Click here for Badge Application](http://static.rutherford-nj.com/recreation/Recreation_TennisBadgeApplication.pdf)
+### Tennis Badges [Click here for Badge Application](https://storage.googleapis.com/static.rutherford-nj.com/recreation/Recreation_TennisBadgeApplication.pdf)
 
 | Student ( ages 12 – 18 years) | NO FEE |
 | Senior citizen resident (age 62 & above) & Youth resident (12 years and under) | $5.00 |

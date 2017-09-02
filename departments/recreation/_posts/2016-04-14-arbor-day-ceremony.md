@@ -19,4 +19,4 @@ In Memory of Thom Casadonte
 
 Former Rutherford Board of Education Board Member
 
-[Click here for flyer](http://static.rutherford-nj.com/recreation/posts/2016%20Arbor%20Day.pdf)
+[Click here for flyer](https://storage.googleapis.com/static.rutherford-nj.com/recreation/posts/2016%20Arbor%20Day.pdf)
