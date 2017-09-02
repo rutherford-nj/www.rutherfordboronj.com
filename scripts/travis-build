@@ -15,7 +15,6 @@ rm ./_site/README.md
 
 # Run URL change script then delete the scripts directory before deploy
 cd _site
-./scripts/url-switch.sh
 rm -rf scripts
 cd ..
 
