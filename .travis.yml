@@ -22,28 +22,13 @@ deploy:
   local-dir: _site
   on:
     repo: rutherford-nj/www.rutherford-nj.com
-    branch: beta
-- provider: gcs
-  skip_cleanup: true
-  access_key_id: GOOGAMUEVIVIDZEGKO42
-  secret_access_key:
-    secure: mCXSi8MilaNp8rYlBm5cHZOZd3sZhGyZbRDFpdA4w6qoB1wAV8+hLDTAyJvLaBiUUozEkssAj7Y0O8Uuf2J6yEWfmVJSg5id82dBDARcvtVzTp3ckOKNHPaE15+37El2wwhRW0X6a+bZCq3pEZL+vbAMiKKs92xqxG48VwtxGYgVgrudnmk+nOgthdVOKlp9YLB78IkXZh2BsxCuAxwk5gEH1Vv11an6whggJtY6wMbZe8ARz8B6Vs01NEwNFv0uTtiSS2fSMwDWGSnKrIuouC+Vd1f5bdzdnvUsmciAFc/0YDLDjig3uOVs0ecIiSSf+gK3gk9V8OrpS0sBS2OU2cSQjVwb3Bk27WMj8Q+qgO1t9qeAViR6XR91x0yp4ojnbphSpliatNTr78h9MrUwTqatVsoB4E1s/LZSv551WQiB+9Lezp4HDqiGkJAssxFaIXS/SW7HCud/WeSIptPiMxEkPUHfzs2VUX7xw5weT/6CCKSlZXziEL3mb/TqHfSUFEhhwKGRD2zJub0az6ndapd8A0NH0yoUGdYnkso3k5Dc/vzOTq94+Fr1edHEBvP5tH2viO3e1SRX/7GHh7Cg34fykl3OQp1w4HIe26RfJUteircdjN/dsOYdk/aT7BvKhE9Xr2mJYzk9gFs7Zpwyxg0RP61kshZMegQaFVYVzlU=
-  bucket: beta.rutherford-nj.com
-  local-dir: _site
-  acl: public-read
-  cache_control: public,max-age=1
-  on:
-    repo: rutherford-nj/www.rutherford-nj.com
-    branch: beta
-- provider: gcs
-  skip_cleanup: true
-  access_key_id: GOOGAMUEVIVIDZEGKO42
-  secret_access_key:
-    secure: mCXSi8MilaNp8rYlBm5cHZOZd3sZhGyZbRDFpdA4w6qoB1wAV8+hLDTAyJvLaBiUUozEkssAj7Y0O8Uuf2J6yEWfmVJSg5id82dBDARcvtVzTp3ckOKNHPaE15+37El2wwhRW0X6a+bZCq3pEZL+vbAMiKKs92xqxG48VwtxGYgVgrudnmk+nOgthdVOKlp9YLB78IkXZh2BsxCuAxwk5gEH1Vv11an6whggJtY6wMbZe8ARz8B6Vs01NEwNFv0uTtiSS2fSMwDWGSnKrIuouC+Vd1f5bdzdnvUsmciAFc/0YDLDjig3uOVs0ecIiSSf+gK3gk9V8OrpS0sBS2OU2cSQjVwb3Bk27WMj8Q+qgO1t9qeAViR6XR91x0yp4ojnbphSpliatNTr78h9MrUwTqatVsoB4E1s/LZSv551WQiB+9Lezp4HDqiGkJAssxFaIXS/SW7HCud/WeSIptPiMxEkPUHfzs2VUX7xw5weT/6CCKSlZXziEL3mb/TqHfSUFEhhwKGRD2zJub0az6ndapd8A0NH0yoUGdYnkso3k5Dc/vzOTq94+Fr1edHEBvP5tH2viO3e1SRX/7GHh7Cg34fykl3OQp1w4HIe26RfJUteircdjN/dsOYdk/aT7BvKhE9Xr2mJYzk9gFs7Zpwyxg0RP61kshZMegQaFVYVzlU=
-  bucket: www.rutherford-nj.com
-  local-dir: _site
-  acl: public-read
-  cache_control: public,max-age=600
-  on:
-    repo: rutherford-nj/www.rutherford-nj.com
     branch: www
+- provider: firebase
+  token:
+    secure: O++iUFVHWR8SmodqBjiXGKLyNou/G/Izblf30aW+SGe3heGwGVkAvJnXYkkJ9sb8makXN0mN9wzXqRJUz2qdVwgqA/PdxhPjkMb7ALQLJU/HU8kgHEbkAalGqfATNXUX5ZShPL+CAcFzPZWjlUkKvCDJRMbQl4eaEDrDsLJaOC7hiInBi48Me7Pj3Mm7X9Q+NVVt3hq82HkSPVBsKsY04MmnqaaE9v+qQqyELWi8JPpu/FQxp4hhnBrxilnmT1GR8xPnf0oRJ3IZSgq0zNL0BrOEnT2fitlU9KLlcd9w4I9TvgYx+neebuIQSB7aZ1O1oiRw8wZ1xo+PEs6HX3xBm5MAUPqOHle060xFheF86AGKgW2KlCDzmqlNzz0BCBZHlLdQ4lq+FKyEVonudww/kCA5BiDJgRmTTn7tVN3VpwHxwr+9ltrjpApIwfV9cE2OOdHzfh0RPxDAZVpaBbOwZ5y3N64tWELlY/ynlupgelHBOuDuKhZlH+buPNzlt6kkjOeaoswbFcbjPgrrT4NGaPUjVDQOxPCKlaezigDI6y4jmoypHOnIkHprzrnyD2y8Sh77gNz9qyFYnsOlBlfBGQQxPCLPVLNaEMX3a4I4GCz4PVeWzqIDvyYGw6cEnnepRMxkHCYT/ILiUVkz4mLX0Y1nDruiGIxime76NWZpwTQ=
+  skip_cleanup: true
+  project: rutherford-nj-beta
+  local-dir: _site
+  on:
+    repo: rutherford-nj/www.rutherford-nj.com
+    branch: beta
