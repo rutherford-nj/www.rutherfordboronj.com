@@ -7,6 +7,8 @@ title: 'Borough Codes & Ordinances'
 
 ## Recently Adopted Borough Codes and Ordinances:
 
+[Ordinance No. 3428-17 - Handicap Space on Eastern Way](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3428-17%20%20Handicap%20Space%2076%20Eastern%20Way.pdf)
+
 [Ordinance No. BH1-2017 - Amending Food Establishment Fees - Non Profit](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/OrdinanceBH1-2017.doc.pdf)
 
 [Ordinance No. 3423-17 - Handicap Parking Jackson Ave](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3423-17%20Handicap%20Parking%20Jackson%20Ave%20%26%20Park%20Avenue.pdf)
