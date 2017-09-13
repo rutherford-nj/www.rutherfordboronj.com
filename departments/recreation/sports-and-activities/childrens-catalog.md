@@ -31,8 +31,11 @@ Currently, payment for programs must be made in person or mailed to the Recreati
 |                | 6-8 yrs | $55 | Saturdays | 11:00-12:00PM| Sept 16 |    | 8 | Tamblyn Field Civic Center |
 |                | 9-12 yrs | $55 | Saturdays | 12:00-2:00PM| Sept 16 |    | 8 | Tamblyn Field Civic Center 
 | **Kids Improv and Acting** | 2nd-5th grade | $45 | Mondays | 3:30-4:30PM | Sept 18 |    | 8 | Tamblyn Field Civic Center |
-| **Dance** | 6-12yrs | $55 | Fridays | 4:00-5:00PM | Sept 19 |    | 8 | Tamblyn Field Civic Center |
+| **Dance**  | 3-5 yrs | $55 | Fridays | 3:30-4:15PM | Sept 22 |    | 8 | Tamblyn Field Civic Center |
+|            | 6-12yrs | $55 | Fridays | 4:30-5:15PM | Sept 22 |    | 8 | Tamblyn Field Civic Center |
+| **Cross Country Track** | 3rd-8th Gr | $30 | Tues and Thurs | 6:00-7:00PM | Sept 21 |    | 8 |                |
 | **Crafts, Cooking and Painting** | 4-7yrs | $40 | Tuesdays | 3:30-4:15PM | Sept 22 |    | 8 | Tamblyn Field Civic Center |
+| **Girls Volleyball** | 6th-8th Gr | $35 | Fridays | 7:00-9:00PM | Sept 22 | Oct 27 and Nov 10 | 7 | Lincoln School |
 | **Tennis Lessons** | All Ages | $60-$70 | Sundays | Call - 973-916-1882 | Sept 24 |    | 6 | Memorial Tennis Courts |
 | **Basketball** | K-8th Gr | $50 | Varies | Varies | Dec 2 |    | 10 weeks | Varies |
 |---------|-----------|-----|-----|------|-------------|------------------|-------------------|----------|
