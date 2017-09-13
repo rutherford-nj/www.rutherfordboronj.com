@@ -15,8 +15,11 @@ title: News Archives
   {% endif %}
   <div style="height: 60px; position: relative;">
     {% for category in post.categories %}
-      {% if category != 'departments' %}
+      {% if category != 'departments' and category != 'community-events' %}
         <div class="page-post-icon" style="background-image: url(/departments/{{category}}/icon.png)"></div>
+      {% endif %}
+      {% if category == 'community-events' %}
+        <div class="page-post-icon" style="background-image: url(/community-events/icon.png)"></div>
       {% endif %}
     {% endfor %}
     <div style="padding-left: 84px;">{{ post.date | date:"%b %d" }} - <a href="{{ post.url }}">{{ post.title }}</a></div>
