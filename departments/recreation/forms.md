@@ -22,6 +22,8 @@ parent: 'Recreation'
 
 [Dispute Resolution](https://storage.googleapis.com/static.rutherford-nj.com/recreation/Recreation_DisputeResolution.pdf)
 
+[Injury Report](https://storage.googleapis.com/static.rutherford-nj.com/recreation/Injury%20report.pdf)
+
 [Medical Release](https://storage.googleapis.com/static.rutherford-nj.com/recreation/Medical%20Release.pdf)
 
 [Program Registration](https://storage.googleapis.com/static.rutherford-nj.com/recreation/Recreation_ProgramRegistration.pdf)
