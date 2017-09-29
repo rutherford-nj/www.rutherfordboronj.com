@@ -7,6 +7,10 @@ title: 'Borough Codes & Ordinances'
 
 ## Recently Adopted Borough Codes and Ordinances:
 
+[Ordinance No. 3427-17 - Ordinances Amending Definitions and Towing Rates; Fee Cards; Invoicing of the Revised General Ordinances](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3432-17%20Amendment%20to%20Tow%20Ordinance%20to%20Reflect%20State%20Fee%20Guidelines.pdf)
+
+[Ordinance No. 3427-17 - Establishes a Fee for Changes in the Tax Map](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3427-17%20Tax%20Map%20Revision.pdf)
+
 [Ordinance No. 3428-17 - Handicap Space on Eastern Way](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3428-17%20%20Handicap%20Space%2076%20Eastern%20Way.pdf)
 
 [Ordinance No. BH1-2017 - Amending Food Establishment Fees - Non Profit](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/OrdinanceBH1-2017.doc.pdf)
