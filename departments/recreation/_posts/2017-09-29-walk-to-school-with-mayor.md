@@ -3,7 +3,7 @@ layout: blog
 title: Walk To School With The Mayor
 ---
 
-(**Please view the Walk to School with the Mayor schedule here**)[https://storage.googleapis.com/static.rutherford-nj.com/recreation/posts/Walk%20to%20School%20wMayor%20-%202017.pdf]
+[**Please view the Walk to School with the Mayor schedule here**](https://storage.googleapis.com/static.rutherford-nj.com/recreation/posts/Walk%20to%20School%20wMayor%20-%202017.pdf)
 
 Mayor Joseph DeSalvo will host walks to the Kindergarten Center, Lincoln, Washington and Pierrepont Schools in October.
 
