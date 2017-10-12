@@ -16,7 +16,7 @@ For a list of **Registrars of Vital Statistics for each Municipality** in New Je
 
 For more information on **Vital Statistics in the State of New Jersey**, visit the State Registrar’s web site, [CLICK HERE](http://www.state.nj.us/health/vital/index.shtml).
 
-To print a copy of the **Form To Be Used When Requesting A Certified Copy Of A Marriage, Death, Birth, Domestic Partnership Or Civil Union Record**, by mail or in person, [CLICK HERE](https://storage.googleapis.com/static.rutherford-nj.com/health/vital%20stat%20form%20reg%2037.pdf). 
+To print a copy of the **Form To Be Used When Requesting A Certified Copy Of A Marriage, Death, Birth, Domestic Partnership Or Civil Union Record**, by mail or in person, [CLICK HERE](https://storage.googleapis.com/static.rutherford-nj.com/health/VitalStats.pdf). 
 
 To print a copy of the **Form To Be Used When Requesting A Certified Copy Of A Death Record Listing Cause Of Death**, by mail or in person, [CLICK HERE](https://storage.googleapis.com/static.rutherford-nj.com/health/NJDOH_CauseOfDeathAuthorization.pdf). 
 
