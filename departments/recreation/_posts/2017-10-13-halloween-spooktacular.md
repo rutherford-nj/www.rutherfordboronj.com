@@ -5,7 +5,7 @@ title: 2017 Halloween Spooktacular 10/29
 
 **Rutherford's 4th Annual Halloween Spooktacular will take place on** 
 
-**Sunday, October 29th**
+**Sunday, October 29th - Memorial and Tryon Fields**
 
 [**View full flyer with map of activities here**](https://storage.googleapis.com/static.rutherford-nj.com/recreation/posts/2017_Halloween_Spooktacular.pdf)
 
