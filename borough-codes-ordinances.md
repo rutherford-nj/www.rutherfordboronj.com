@@ -7,6 +7,8 @@ title: 'Borough Codes & Ordinances'
 
 ## Recently Adopted Borough Codes and Ordinances:
 
+[Ordinance No. 3434-17 - Ordinance Amending Beer and Wine Permit Application Ordinances](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3434-17%20Amendment%20to%20Beer%20and%20Wine%20Permit%20Application.pdf)
+
 [Ordinance No. 3427-17 - Ordinances Amending Definitions and Towing Rates; Fee Cards; Invoicing of the Revised General Ordinances](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3432-17%20Amendment%20to%20Tow%20Ordinance%20to%20Reflect%20State%20Fee%20Guidelines.pdf)
 
 [Ordinance No. 3427-17 - Establishes a Fee for Changes in the Tax Map](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3427-17%20Tax%20Map%20Revision.pdf)
