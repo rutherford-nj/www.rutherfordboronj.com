@@ -16,7 +16,7 @@ Edwards Realty for sponsoring Rutherford Recreation’s “Ragamuffin” parade!
 
 Thank you also Felician Falcons Ladies Basketball Team Members for volunteering for this event!
 
-All Rutherford ghosts and goblins are invited! In
-case of rain the Parade will be held inside the High School
+Costume judging, prizes and treats will be distributed at Lincoln Park.
 
-Auditorium. Thank you!!
+All Rutherford ghosts and goblins are invited! In
+case of rain the Parade will be held inside the High School Auditorium. Thank you!!
