@@ -1,12 +1,14 @@
 ---
 layout: blog
-title: 2017 Halloween Spooktacular 10/29
+title: Spooktacular RESCHEDULED TO 11/5
 pinned: true
 ---
 
+**The Halloween Spooktacular that was scheduled for Sunday, October 29th has been re-scheduled for Sunday, November 5th.**
+
 **Rutherford's 4th Annual Halloween Spooktacular will take place on** 
 
-**Sunday, October 29th - Memorial and Tryon Fields**
+**Sunday, NOVEMBER 5TH - Memorial and Tryon Fields**
 
 [**View full flyer with map of activities here**](https://storage.googleapis.com/static.rutherford-nj.com/recreation/posts/2017_Halloween_Spooktacular.pdf)
 
