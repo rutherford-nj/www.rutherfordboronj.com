@@ -1,6 +1,7 @@
 ---
 layout: blog
 title: 2017 Halloween Spooktacular 10/29
+pinned: true
 ---
 
 **Rutherford's 4th Annual Halloween Spooktacular will take place on** 
