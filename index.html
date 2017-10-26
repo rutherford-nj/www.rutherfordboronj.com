@@ -48,7 +48,7 @@ title: '07070'
       {% if post.pinned %}{% include homepage_post.html post=post %}{% endif %}
     {% endfor %}
     {% for post in site.posts limit:4 %}
-      {% include homepage_post.html post=post %}
+      {% unless post.pinned %}{% include homepage_post.html post=post %}{% endunless %}
     {% endfor %}
     <div><a href="news-archives/">Click here for news archives</a></div>
   </div>
