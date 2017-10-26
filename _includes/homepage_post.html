@@ -1,0 +1,18 @@
+      <div class="page-post-link">
+        {% for category in include.post.categories %}
+          {% if category != 'departments' and category != 'community-events' %}
+            <div class="page-post-icon" style="background-image: url(/departments/{{category}}/icon.png)"></div>
+          {% endif %}
+          {% if category == 'community-events' %}
+            <div class="page-post-icon" style="background-image: url(/community-events/icon.png)"></div>
+          {% endif %}
+        {% endfor %}
+        <div class="page-post-words">
+          <div class="page-post-date">
+            Posted on {{ include.post.date | date: "%B %-d %Y" }}
+          </div>
+          <div class="page-post-title">
+            <a href="{{ post.url }}">{{ include.post.title }}</a>
+          </div>
+        </div>
+      </div>

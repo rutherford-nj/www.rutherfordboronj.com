@@ -44,25 +44,11 @@ title: '07070'
   <div class="homepage-news-and-updates-section">
     <div>News &amp; Updates</div>
     
+    {% for post in site.posts %}
+      {% if post.pinned %}{% include homepage_post.html post=post %}{% endif %}
+    {% endfor %}
     {% for post in site.posts limit:4 %}
-      <div class="page-post-link">
-        {% for category in post.categories %}
-          {% if category != 'departments' and category != 'community-events' %}
-            <div class="page-post-icon" style="background-image: url(/departments/{{category}}/icon.png)"></div>
-          {% endif %}
-          {% if category == 'community-events' %}
-            <div class="page-post-icon" style="background-image: url(/community-events/icon.png)"></div>
-          {% endif %}
-        {% endfor %}
-        <div class="page-post-words">
-          <div class="page-post-date">
-            Posted on {{ post.date | date: "%B %-d %Y" }}
-          </div>
-          <div class="page-post-title">
-            <a href="{{ post.url }}">{{ post.title }}</a>
-          </div>
-        </div>
-      </div>
+      {% include homepage_post.html post=post %}
     {% endfor %}
     <div><a href="news-archives/">Click here for news archives</a></div>
   </div>
