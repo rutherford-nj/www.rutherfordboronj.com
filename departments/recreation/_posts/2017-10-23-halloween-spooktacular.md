@@ -46,4 +46,4 @@ NOT RECOMMENDED for the faint of heart or little kids.
 
 Attention families of uniquely abled children and young adults:
 Find a Spooktacular Volunteer in an orange staff shirt to help
-expedite your wait in lines
+expedite your wait in lines.
