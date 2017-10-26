@@ -10,7 +10,7 @@ pinned: true
 
 **Sunday, NOVEMBER 5TH - Memorial and Tryon Fields**
 
-[**View full flyer with map of activities here**](https://storage.googleapis.com/static.rutherford-nj.com/recreation/posts/2017_Halloween_Spooktacular.pdf)
+[**View full flyer with map of activities here**](https://storage.googleapis.com/static.rutherford-nj.com/recreation/posts/2017_Halloween_Spooktacular_NOV5.pdf)
 
 **FOR LITTLE KIDS**
 A family-friendly Halloween treat for kids Grade 3 or younger. 
