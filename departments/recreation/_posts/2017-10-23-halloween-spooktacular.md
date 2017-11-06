@@ -1,7 +1,6 @@
 ---
 layout: blog
 title: Spooktacular RESCHEDULED TO 11/5
-pinned: true
 ---
 
 **The Halloween Spooktacular that was scheduled for Sunday, October 29th has been re-scheduled for Sunday, November 5th.**
