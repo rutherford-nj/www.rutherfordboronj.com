@@ -52,3 +52,6 @@ Free Pictures with Santa
 
 Stories with Mrs. Claus
 
+Special thanks to our generous sponsors:
+Professional Insurance Associates, Inc. • BCB Community Bank – Rutherford
+United Assurance • Frank’s GMC • Quality Auto Mall • The William Center
