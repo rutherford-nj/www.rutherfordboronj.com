@@ -1,6 +1,7 @@
 ---
 layout: community-blog
 title: Holiday Parade and Festival 11/25 
+pinned: true
 ---
 
 **Ring in the Holidays – Rutherford Holiday Parade & Festival**
