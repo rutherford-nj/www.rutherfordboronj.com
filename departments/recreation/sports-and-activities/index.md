@@ -14,7 +14,7 @@ Rutherford Little League - [www.rutherford-ll.info](http://www.rutherford-ll.inf
 
 Nereid Boat Club – [nereidbc.org](http://nereidbc.org/) nereidprograms@hotmail.com
 
-Lyndhurst Hockey – [Lyndhurst Youth Hockey](http://www.leaguelineup.com/welcome.asp?url=lyhl) Lyndhockey@ymail.com
+Lyndhurst Hockey – [Lyndhurst Youth Hockey](http://www.leaguelineup.com/welcome.asp?url=lyhl) -  Lyndhockey@ymail.com
 
 Preschool soccer – [www.unitedsocceracademy.com](http://unitedsocceracademy.com/)
 
