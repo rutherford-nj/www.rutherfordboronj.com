@@ -9,7 +9,6 @@ parent: 'Recreation'
 
 **The Recreation Department is proud to partner with the following organizations that offer programs for Rutherford Residents:** 
 
-[2017 4th-8th Grade Boys and Girls Travel Basketball Try Out Schedule](https://storage.googleapis.com/static.rutherford-nj.com/recreation/2017%20Travel%20Basketball%20tryout%20schedule.pdf)
 
 Rutherford Little League - [www.rutherford-ll.info](http://www.rutherford-ll.info/home.htm)
 
