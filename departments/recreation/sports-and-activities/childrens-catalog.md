@@ -33,7 +33,6 @@ Currently, payment for programs must be made in person or mailed to the Recreati
 |                | 9-12 yrs | $55 | Saturdays | 12:00-2:00PM| Jan 6 |    | 8 | Tamblyn Field Civic Center 
 | **Dance**  | 3-5 yrs | $55 | Tuesdays | 3:30-4:15PM | Jan 9 |    | 8 | Tamblyn Field Civic Center |
 |            | 6-10yrs | $55 | Tuesdays | 4:30-5:15PM | Jan 9 |    | 8 | Tamblyn Field Civic Center |
-
 |---------|-----------|-----|-----|------|-------------|------------------|-------------------|----------|
 {: .hover-table .recreation-table}
 
