@@ -9,7 +9,7 @@ Please set up an account with [Community Pass](https://register.communitypass.ne
 
 Currently, payment for programs must be made in person or mailed to the Recreation Department in the Ground Floor of Borough Hall, 176 Park Avenue.  Please print and complete [this form](https://storage.googleapis.com/static.rutherford-nj.com/recreation/Recreation_ProgramRegistration.pdf) and attach it to your check upon payment. Registration is complete only upon payment.
 
-## Fall 2017 Children's Sports and Activities
+## Winter 2017 Children's Sports and Activities
 **Registration is open and on a First Come, First Served Basis**
 
 **Pre-School and Summer Camps**
@@ -26,18 +26,14 @@ Currently, payment for programs must be made in person or mailed to the Recreati
 
 | Program | Age/Grade | Fee |	Day | Time | Start Date |	Dates no session | Number of classes | Location |
 |:--------|:---------:|:---:|:---:|:----:|:-------------:|:----------------:|:-----------------:|:--------:|
-| **Gymnastics** | 3-5 yrs | $55 | Saturdays | 9:00-10:00AM | Sept 16 |    | 8 | Tamblyn Field Civic Center |
-|                | 3-5 yrs | $55 | Saturdays | 10:00-11:00AM| Sept 16 |    | 8 | Tamblyn Field Civic Center |
-|                | 6-8 yrs | $55 | Saturdays | 11:00-12:00PM| Sept 16 |    | 8 | Tamblyn Field Civic Center |
-|                | 9-12 yrs | $55 | Saturdays | 12:00-2:00PM| Sept 16 |    | 8 | Tamblyn Field Civic Center 
-| **Kids Improv and Acting** | 2nd-5th grade | $45 | Mondays | 3:30-4:30PM | Sept 18 |    | 8 | Tamblyn Field Civic Center |
-| **Dance**  | 3-5 yrs | $55 | Fridays | 3:30-4:15PM | Sept 22 |    | 8 | Tamblyn Field Civic Center |
-|            | 6-12yrs | $55 | Fridays | 4:30-5:15PM | Sept 22 |    | 8 | Tamblyn Field Civic Center |
-| **Cross Country Track** | 3rd-8th Gr | $30 | Tues and Thurs | 6:00-7:00PM | Sept 21 |    | 8 |                |
-| **Crafts, Cooking and Painting** | 4-7yrs | $40 | Tuesdays | 3:30-4:15PM | Sept 22 |    | 8 | Tamblyn Field Civic Center |
-| **Girls Volleyball** | 6th-8th Gr | $35 | Fridays | 7:00-9:00PM | Sept 22 | Oct 27 and Nov 10 | 7 | Lincoln School |
-| **Tennis Lessons** | All Ages | $60-$70 | Sundays | Call - 973-916-1882 | Sept 24 |    | 6 | Memorial Tennis Courts |
-| **Basketball** | K-8th Gr | $50 | Varies | Varies | Dec 2 |    | 10 weeks | Varies |
+| **Indoor Soccer** | 4th-8th gr boys and girls | $30 | Sundays | Varies | Jan 7 |    | 8 | Lincoln School Gym |
+| **Gymnastics** | 3-5 yrs | $55 | Saturdays | 9:00-10:00AM | Jan 6 |    | 8 | Tamblyn Field Civic Center |
+|                | 3-5 yrs | $55 | Saturdays | 10:00-11:00AM| Jan 6 |    | 8 | Tamblyn Field Civic Center |
+|                | 6-8 yrs | $55 | Saturdays | 11:00-12:00PM| Jan 6 |    | 8 | Tamblyn Field Civic Center |
+|                | 9-12 yrs | $55 | Saturdays | 12:00-2:00PM| Jan 6 |    | 8 | Tamblyn Field Civic Center 
+| **Dance**  | 3-5 yrs | $55 | Tuesdays | 3:30-4:15PM | Jan 9 |    | 8 | Tamblyn Field Civic Center |
+|            | 6-10yrs | $55 | Tuesdays | 4:30-5:15PM | Jan 9 |    | 8 | Tamblyn Field Civic Center |
+
 |---------|-----------|-----|-----|------|-------------|------------------|-------------------|----------|
 {: .hover-table .recreation-table}
 
