@@ -34,6 +34,8 @@ section: blog
     <h3><a href="/news-archives/">View complete News and Updates archive</a></h3>
     <div class="blog-title">{{page.title}}</div>
     <div class="blog-date">Posted {{page.date | date:"%A %B %-d, %Y"}}</div>
+    
+    {% include social.html %}
     {{content}}
   </div>
 </div>
