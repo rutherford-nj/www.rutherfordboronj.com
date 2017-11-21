@@ -8,7 +8,7 @@ parent: 'Recreation'
 <a href="adult-catalog/"><img src="adultssports.jpg" alt="Adults' Sports"></a>
 
 
-[**Click here for 2017 Boys and Girls 4th-8th Grade Basketball Evaluation Schedule**](https://storage.googleapis.com/static.rutherford-nj.com/recreation/RECREATION%20%20BASKETBALL%20%20EVALUATIONS.pdf)
+[**Click here for 2017 Boys and Girls 4th-8th Grade Basketball Evaluation Schedule**](https://storage.googleapis.com/static.rutherford-nj.com/recreation/RECREATION%20%20BASKETBALL%20%20EVALUATIONS1.pdf)
 
 **The Recreation Department is proud to partner with the following organizations that offer programs for Rutherford Residents:** 
 
