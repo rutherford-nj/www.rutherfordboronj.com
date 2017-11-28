@@ -7,6 +7,8 @@ title: 'Borough Codes & Ordinances'
 
 ## Recently Adopted Borough Codes and Ordinances:
 
+[Ordinance No. 3437-17 - Ordinance Establishing Handicap Spaces on Feronia and Eastern Way](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3437-17%20Establish%20Handicap%20Spaces%20Feronia%20and%20Eastern%20Way.pdf)
+
 [Ordinance No. 3435-17 - Ordinance Amending Chapter 61, Section 12, Entitled
 “PORTION RESERVED FOR POLICE AND HEALTH DEPARTMENTS, AMBULANCE
 CORPS, AMBULANCE SQUAD AND FIRE DEPARTMENT](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3435-17%20Amendment%20to%20Municipal%20Parking%20Lot.pdf)
