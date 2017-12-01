@@ -5,6 +5,8 @@ parent: Government
 ---
 
 
+[Click here to view the 2018 Professional Services Request for Proposals](https://storage.googleapis.com/static.rutherford-nj.com/finance/Employment/RFP%202018.pdf)
+
 [Click here to view job announcements for Clerk and Recreation Aide](https://storage.googleapis.com/static.rutherford-nj.com/finance/Employment/JOB%20POSTING.pdf)
 
 
