@@ -7,6 +7,8 @@ title: 'Borough Codes & Ordinances'
 
 ## Recently Adopted Borough Codes and Ordinances:
 
+[Ordinance No. 3438-17 - Repeal of Handicap Space on Lincoln Ave](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3438-17%20Repeal%20of%20handicap%20space%20on%20Lincoln%20Avenue.pdf)
+
 [Ordinance No. 3437-17 - Ordinance Establishing Handicap Spaces on Feronia and Eastern Way](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3437-17%20Establish%20Handicap%20Spaces%20Feronia%20and%20Eastern%20Way.pdf)
 
 [Ordinance No. 3435-17 - Ordinance Amending Chapter 61, Section 12, Entitled
