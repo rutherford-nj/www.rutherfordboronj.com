@@ -5,6 +5,7 @@ grandparent: 'Borough Clerk'
 parent: 'Minutes and Agendas'
 ---
 
+* [2016 Minutes and Agendas](https://storage.googleapis.com/static.rutherford-nj.com/borough-clerk/mayor-and-council/2016-rutherford-council-minutes-and-agendas.zip)
 * [2015 Minutes and Agendas](https://storage.googleapis.com/static.rutherford-nj.com/borough-clerk/mayor-and-council/2015-rutherford-council-minutes-and-agendas.zip)
 * [2014 Minutes](https://storage.googleapis.com/static.rutherford-nj.com/borough-clerk/mayor-and-council/2014-rutherford-council-minutes.zip)
 * [2013 Minutes](https://storage.googleapis.com/static.rutherford-nj.com/borough-clerk/mayor-and-council/2013-rutherford-council-minutes.zip)
