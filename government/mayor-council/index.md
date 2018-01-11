@@ -6,10 +6,10 @@ title: 'Mayor and Council'
 
 ![Council Headshot](mayor-council.jpg)
 
-[Mayor Joseph DeSalvo, Jr](joseph-desalvo)         |                                                     |
-[Council President Frank Nunziato](frank-nunziato) | [Councilman Sean C. Walker](sean-walker)            |
-[Councilwoman Carolyn Smith](carolyn-smith)        | [Councilwoman Stephanie McGowan](stephanie-mcgowan) |
-[Councilman Mark Goldsack](mark-goldsack)          | [Councilman Thomas Mullahey](thomas-mullahey)       |
+[Mayor Joseph DeSalvo, Jr](joseph-desalvo)               |                                                     |
+[Council President Stephanie McGowan](stephanie-mcgowan) | [Councilman Sean C. Walker](sean-walker)            |
+[Councilwoman Carolyn Smith](carolyn-smith)              | [Councilman Frank Nunziato](frank-nunziato) |
+[Councilman Mark Goldsack](mark-goldsack)                | [Councilman Thomas Mullahey](thomas-mullahey)       |
 {: style="border-spacing: 10px;" }
 
 Rutherford was incorporated in 1881 under the Borough form of government, the most common type in New Jersey. With a seven member governing body, the mayor of the Borough is elected every four years and two council members are elected at large each year for 3-year terms. Under this form of government, council members act as the legislative body with the mayor voting only in the event of a tie. Most appointments are made by the mayor with the advice and consent of the council.
