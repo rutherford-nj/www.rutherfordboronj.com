@@ -8,7 +8,7 @@ title: 'Mayor and Council'
 
 [Mayor Joseph DeSalvo, Jr](joseph-desalvo)               |                                                     |
 [Council President Stephanie McGowan](stephanie-mcgowan) | [Councilman Sean C. Walker](sean-walker)            |
-[Councilwoman Carolyn Smith](carolyn-smith)              | [Councilman Frank Nunziato](frank-nunziato) |
+[Councilman Edward Narucki](edward-narucki)              | [Councilman Frank Nunziato](frank-nunziato) |
 [Councilman Mark Goldsack](mark-goldsack)                | [Councilman Thomas Mullahey](thomas-mullahey)       |
 {: style="border-spacing: 10px;" }
 
