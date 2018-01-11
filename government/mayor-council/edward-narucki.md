@@ -1,0 +1,29 @@
+---
+layout: interior-page
+title: 'Councilman Edward Narucki'
+parent: 'Mayor and Council'
+---
+
+## Councilman Edward Narucki
+
+**Contact:**  
+201-460-3022
+
+enarucki@rutherford-nj.com
+
+**Term of Office**  
+1/1/18 to 12/31/21
+
+**Buildings, Grounds and Public Utilities Chair**
+{: style="clear: both;" }
+
+**Committee Assignments:**  
+Civil Rights Commission
+
+[Green Team](/committees/green-team/) 
+
+Nereid Boat Club
+
+Passaic River Coalition    
+
+Technology Upgrade
