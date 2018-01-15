@@ -6,6 +6,10 @@ parent: 'Mayor and Council'
 
 ## Councilman Edward Narucki
 
+![Council Headshot](../mark-goldsack.png)
+{: style="float: left; margin: 0 20px 20px 0;"}
+
+
 **Contact:**  
 201-460-3022
 
