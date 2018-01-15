@@ -17,20 +17,16 @@ swalker@rutherford-nj.com
 **Term of Office**  
 1/1/16 to 12/31/18
 
-**Buildings, Grounds and Public Utilities Chair**
+**Fire Chair**
 {: style="clear: both;" }
 
 **Committee Assignments:**  
+Ambulance Corp.
+
 Local Emergency Planning
 
-New Jersey Sports & Exposition Authority
-
-Nereid Boat Club
-
-Passaic River Coalition
+New Jersey Sports and Exposition Authority
 
 Planning Board
-
-Technology Upgrade
 
 Streetscape Committee
