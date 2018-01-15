@@ -15,14 +15,20 @@ parent: 'Mayor and Council'
 smcgowan@rutherford-nj.com
 
 **Term of Office**  
+1/1/18 to 12/31/20
+
 1/1/15 to 12/31/17
 
 **Finance Chair**
 {: style="clear: both;" }
 
 **Committee Assignments:**  
+55 Kip Center
+
 Access for All
 
 Citizen Finance
+
+Community Events
 
 Local Assistance Board
