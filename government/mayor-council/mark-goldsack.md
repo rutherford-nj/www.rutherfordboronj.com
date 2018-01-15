@@ -23,8 +23,12 @@ mgoldsack@rutherford-nj.com
 **Committee Assignments:**  
 Board of Adjustment
 
+Community Quality of Life
+
 Environmental and Recycling
 
 Historic Preservation
+
+Public Information
 
 Shade Tree
