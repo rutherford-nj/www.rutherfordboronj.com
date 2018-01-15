@@ -26,9 +26,9 @@ Auxiliary Police
 
 Board of Health
 
-Court
-
 Crossing Guards
+
+Municipal Court
 
 OEM
 
