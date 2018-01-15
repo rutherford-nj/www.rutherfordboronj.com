@@ -12,7 +12,7 @@ parent: 'Mayor and Council'
 enarucki@rutherford-nj.com
 
 **Term of Office**  
-1/1/18 to 12/31/21
+1/1/18 to 12/31/20
 
 **Buildings, Grounds and Public Utilities Chair**
 {: style="clear: both;" }
