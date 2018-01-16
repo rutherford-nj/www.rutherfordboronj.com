@@ -7,7 +7,7 @@ title: 'Committees'
 
 ---
 
-[Click here for the 2017 Meeting Schedule.](https://storage.googleapis.com/static.rutherford-nj.com/committees/ANNUAL%20NOTICE%202017.pdf)
+[Click here for the 2018 Meeting Schedule.](https://storage.googleapis.com/static.rutherford-nj.com/committees/Annual-notice-2018.pdf)
 
 During the course of the year it may become necessary for a committee or the mayor and council to change the day or time of a meeting or to cancel/add meetings. Please confirm meeting dates and times by contacting the liaison via e-mail or calling 201-460-3004.
 
