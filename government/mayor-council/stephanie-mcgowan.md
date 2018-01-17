@@ -17,7 +17,7 @@ smcgowan@rutherford-nj.com
 **Term of Office**  
 1/1/18 to 12/31/20
 
-1/1/15 to 12/31/17 (Councilwoman)
+1/1/15 to 12/31/17 
 
 **Finance Chair**
 {: style="clear: both;" }
