@@ -15,6 +15,7 @@ parent: 'Mayor and Council'
 tmullahey@rutherford-nj.com
 
 **Term of Office**  
+
 1/1/17 to 12/31/19
 
 **Recreation and Human Resources Chair**
