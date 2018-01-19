@@ -7,8 +7,7 @@ parent: 'Recreation'
 <a href="childrens-catalog/"><img src="childrenssports.jpg" alt="Children's Sports"></a>
 <a href="adult-catalog/"><img src="adultssports.jpg" alt="Adults' Sports"></a>
 
-
-[**Click here for 2017 Boys and Girls 4th-8th Grade Basketball Evaluation Schedule**](https://storage.googleapis.com/static.rutherford-nj.com/recreation/RECREATION%20%20BASKETBALL%20%20EVALUATIONS1.pdf)
+[2018 Rutherford Little League and Softball Registration Form](https://storage.googleapis.com/static.rutherford-nj.com/recreation/Rutherford%20Little%20League%20Baseball%20%26%20Rec%20Softball%20Registration.pdf)
 
 **The Recreation Department is proud to partner with the following organizations that offer programs for Rutherford Residents:** 
 
