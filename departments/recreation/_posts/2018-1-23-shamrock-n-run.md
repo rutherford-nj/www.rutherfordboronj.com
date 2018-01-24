@@ -5,7 +5,7 @@ title: Cassidy Shamrock 'N Run
 
 The 7th Annual Michael Cassidy Shamrock 'N Run 5K
 
-SATURDAY MARCH 1, 2018
+SATURDAY MARCH 17, 2018
 
 RUTHERFORD, NJ
 
