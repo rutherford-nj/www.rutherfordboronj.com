@@ -26,6 +26,8 @@ International Food, Dances and Music from around the world!
 
 Vendors can also email any questions directly to multiculturalfestivalvendor@gmail.com
 
+[View the 2017 Festival Program Booklet here](https://storage.googleapis.com/static.rutherford-nj.com/committees/civil-rights/Rutherford%20MCF%20Program%20Book%202017%20web%20version.pdf)
+
 **All Food Vendors - both For-Profit and Non-Profit – must also fill out the Rutherford Health Department and Rutherford Fire Safety Office forms.**
 
 [Rutherford Health Dept. Form and Guidelines](https://storage.googleapis.com/static.rutherford-nj.com/committees/civil-rights/RutherfordHealthDeptForm-Guidelines.pdf) (if applicable)
