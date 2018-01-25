@@ -1,0 +1,33 @@
+---
+layout: interior-page
+title: '2018 Multicultural Festival'
+parent: 'Civil Rights Commission'
+---
+
+**15th Annual Rutherford Multicultural Festival**
+
+**Saturday May 19th, 2018**
+
+**Noon – 7pm**
+
+Rain Date: Sunday, May 20th
+
+
+Lincoln Park, Rutherford (across from Borough Hall)
+
+Hosted by The Rutherford Civil Rights Commission
+
+International Food, Dances and Music from around the world!
+
+
+[Rutherford Multicultural Festival Sponsor Form](https://storage.googleapis.com/static.rutherford-nj.com/committees/civil-rights/RMFSponsorForm.pdf)
+
+[Rutherofrd Multicultural Festival Vendor Form](https://storage.googleapis.com/static.rutherford-nj.com/committees/civil-rights/RMFVendorForm.pdf)
+
+Vendors can also email any questions directly to multiculturalfestivalvendor@gmail.com
+
+**All Food Vendors - both For-Profit and Non-Profit – must also fill out the Rutherford Health Department and Rutherford Fire Safety Office forms.**
+
+[Rutherford Health Dept. Form and Guidelines](https://storage.googleapis.com/static.rutherford-nj.com/committees/civil-rights/RutherfordHealthDeptForm-Guidelines.pdf) (if applicable)
+
+[Rutherford Fire Safety Form](https://storage.googleapis.com/static.rutherford-nj.com/committees/civil-rights/RutherfordFireSafetyForm.pdf) (if applicable)
