@@ -7,6 +7,9 @@ title: 'Borough Codes & Ordinances'
 
 ## Recently Adopted Borough Codes and Ordinances:
 
+
+[Ordinance No. 3442-18 - Repealing and Adding Handicap Spaces](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3442-18%20Repealing%20and%20Adding%20Handicap%20Spaces.pdf)
+
 [Ordinance No. 3441-17 - Amendments to the Borough Administrator Position](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3441-17%20Admendments%20to%20Borough%20Administrator%20Position.pdf)
 
 [Ordinance No. 3438-17 - Repeal of Handicap Space on Lincoln Ave](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3438-17%20Repeal%20of%20handicap%20space%20on%20Lincoln%20Avenue.pdf)
