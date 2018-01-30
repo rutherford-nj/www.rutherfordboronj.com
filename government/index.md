@@ -15,5 +15,6 @@ title: 'Government'
 
 * [Mayor & Council](mayor-council/)
 * [Minutes & Agendas](/departments/borough-clerk/minutes-and-agendas/)
+* [Mayor & Council Meeting Audio Recordings](/departments/borough-clerk/minutes-and-agendas/audio-recordings/)
 * [Budgets & Financials](/departments/finance/budgets-financials/)
 * [Codes & Ordinances](/borough-codes-ordinances/)
