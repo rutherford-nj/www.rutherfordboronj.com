@@ -9,6 +9,9 @@ parent: 'Recreation'
 
 [2018 Rutherford Little League and Softball Registration Form](https://storage.googleapis.com/static.rutherford-nj.com/recreation/Rutherford%20Little%20League%20Baseball%20%26%20Rec%20Softball%20Registration.pdf)
 
+[2018 Summer Sports Camps]
+
+
 **The Recreation Department is proud to partner with the following organizations that offer programs for Rutherford Residents:** 
 
 
