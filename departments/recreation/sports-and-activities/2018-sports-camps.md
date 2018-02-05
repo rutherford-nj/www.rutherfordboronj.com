@@ -19,6 +19,5 @@ parent: Sports and Activities
 | Spina Baseball Camp | July 23 - July 26 | 27-Jul | Memorial Park Diamond # 3 | cspina@Rutherfordschools.org |
 | Spina Baseball Camp | July 30 - August 2 | 3-Aug | Memorial Park Diamond # 3 | cspina@Rutherfordschools.org |
 | 1st Touch Soccer Camp | July 30 - August 2 | 3-Aug | Memorial Park Diamond # 1 and 2 | first_touchsoccer@yahoo.com |
-
 |---------|-------|-----------|-----------|--------|
 {: .hover-table .recreation-table}
