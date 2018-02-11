@@ -43,14 +43,36 @@ title: '07070'
          class="homepage-bottom-left-button" alt="Borough Hall and Government" /></a>
   <div class="homepage-news-and-updates-section">
     <div>News &amp; Updates</div>
-    
-    {% for post in site.posts %}
-      {% if post.pinned %}{% include homepage_post.html post=post %}{% endif %}
-    {% endfor %}
-    {% for post in site.posts limit:4 %}
-      {% unless post.pinned %}{% include homepage_post.html post=post %}{% endunless %}
-    {% endfor %}
+    {%- assign count = 0 -%}
+    {%- for post in site.posts -%}
+      {%- if post.pinned -%}
+        {%- assign count = count | plus: 1 -%}
+        {%- include homepage_post.html post=post -%}
+      {%- endif -%}
+    {%- endfor -%}
+    {%- for post in site.posts -%}
+      {%- unless post.pinned -%}
+        {%- unless post.event -%}
+          {%- assign count = count | plus: 1 -%}
+          {%- if count < 5 -%}
+            {%- include homepage_post.html post=post -%}
+          {%- endif -%}
+        {%- endunless -%}
+      {%- endunless -%}
+    {%- endfor -%}
     <div><a href="news-archives/">Click here for news archives</a></div>
+  </div>
+  <div class="homepage-news-and-updates-section">
+    <div>Events</div>
+    {%- assign count = 0 -%}
+    {%- for post in site.posts -%}
+      {%- if post.event -%}
+        {%- assign count = count | plus: 1 -%}
+        {%- if count < 5 -%}
+          {%- include homepage_post.html post=post -%}
+        {%- endif -%}
+      {%- endif -%}
+    {%- endfor -%}
   </div>
 </div>
 

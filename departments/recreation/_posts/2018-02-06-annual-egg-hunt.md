@@ -1,6 +1,7 @@
 ---
 layout: blog
 title: Annual Egg Hunt 3/25
+event: true
 ---
 
 [Please see flyer here](https://storage.googleapis.com/static.rutherford-nj.com/recreation/posts/2018%20Annual%20Egg%20Hunt.pdf)

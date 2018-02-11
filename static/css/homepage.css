@@ -68,14 +68,15 @@
 
 .homepage-news-and-updates-section {
   border: 1px solid #444;
-  margin: 10px 0 0 5px;
+  float: left;
+  margin: 10px 7px 0 5px;
   padding: 5px;
-  width: 545px;
+  width: 260px;
 }
 
 .homepage-news-and-updates-section > div:first-child {
   color: #700;
-  font-size: 150%;
+  font-size: 130%;
   font-weight: 700;
 }
 
