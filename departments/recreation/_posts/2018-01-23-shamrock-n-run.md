@@ -1,6 +1,7 @@
 ---
 layout: blog
 title: Cassidy Shamrock 'N Run
+event: true
 ---
 
 The 7th Annual Michael Cassidy Shamrock 'N Run 5K
