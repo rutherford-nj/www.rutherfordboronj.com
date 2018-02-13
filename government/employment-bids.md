@@ -4,6 +4,8 @@ title: 'Employment & Bids'
 parent: Government
 ---
 
+[RFP: Website Administrator](https://storage.googleapis.com/static.rutherford-nj.com/finance/Employment/2018%20RFP%20for%20Website%20Administrator.pdf)
+
 [Bid Notice: Kidspot](https://storage.googleapis.com/static.rutherford-nj.com/finance/Employment/Bid%20Notice_Kidspot.PDF)
 
 [RFQ: Planning Board Engineer and Attorney](https://storage.googleapis.com/static.rutherford-nj.com/finance/Employment/2018%20RFQ%20Planning%20Board%20Engineer%20Planning%20Attorney.pdf)
