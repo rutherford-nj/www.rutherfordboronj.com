@@ -7,7 +7,8 @@ parent: 'Recreation'
 **TRAVEL TEAMS**
 
 The Recreation Department travel soccer start in 5th grade and the travel basketball teams start in 4th grade.
-WEARING EYE GLASSES WHILE PARTICIPATING IN SPORTS
+
+**WEARING EYE GLASSES WHILE PARTICIPATING IN SPORTS**
 
 Sport goggles/specs are recommended. However if your child wears glasses at sporting events they should have a sport band attached to the eye glasses.
 
