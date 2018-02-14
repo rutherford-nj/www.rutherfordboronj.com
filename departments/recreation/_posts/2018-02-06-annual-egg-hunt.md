@@ -4,7 +4,7 @@ title: Annual Egg Hunt 3/25
 event: true
 ---
 
-[Please see flyer here](https://storage.googleapis.com/static.rutherford-nj.com/recreation/posts/2018%20Annual%20Egg%20Hunt.pdf)
+[Please see flyer here](https://storage.googleapis.com/static.rutherford-nj.com/recreation/posts/0201318_Egg%20Hunt2018.pdf)
 
 Annual Egg Hunt
 
