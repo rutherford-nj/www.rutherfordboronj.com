@@ -8,7 +8,7 @@ parent: Government
 
 [Bid Notice: Kidspot](https://storage.googleapis.com/static.rutherford-nj.com/finance/Employment/Bid%20Notice_Kidspot.PDF)
 
-[RFQ: Planning Board Engineer and Attorney](https://storage.googleapis.com/static.rutherford-nj.com/finance/Employment/2018%20RFQ%20Planning%20Board%20Engineer%20Planning%20Attorney.pdf)
+[RFQ: Planning Board Attorney](https://storage.googleapis.com/static.rutherford-nj.com/finance/Employment/2018%20RFQ%20Planning%20Board%20%20Attorney.pdf)
 
 [Job Posting: Borough Administrator](https://storage.googleapis.com/static.rutherford-nj.com/finance/Employment/POSTING_BoroughAdministrator.pdf)
 
