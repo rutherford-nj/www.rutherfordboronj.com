@@ -8,6 +8,12 @@ title: 'Borough Codes & Ordinances'
 ## Recently Adopted Borough Codes and Ordinances:
 
 
+[Ordinance No. 3448-18 - Repealing Handicap Space Hastings Avenue](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3448-18%20-%20Repealing%20Handiscap%20Spaces%20on%20Hastings%20Avenue.pdf)
+
+[Ordinance No. 3447-18 - Establishing Handicap Space East Park Place](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3447-18%20-%20Establishing%20Handicap%20Space%20-%20East%20Park%20Place.pdf)
+
+[Ordinance No. 3445-18 - Redevelopment of Maples](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3445-18%20-%20Redevelopment%20-%20Maples.pdf)
+
 [Ordinance No. 3442-18 - Repealing and Adding Handicap Spaces](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3442-18%20Repealing%20and%20Adding%20Handicap%20Spaces.pdf)
 
 [Ordinance No. 3441-17 - Amendments to the Borough Administrator Position](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3441-17%20Admendments%20to%20Borough%20Administrator%20Position.pdf)
