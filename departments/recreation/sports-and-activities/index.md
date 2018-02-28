@@ -11,6 +11,8 @@ parent: 'Recreation'
 
 [2018 Summer Sports Camps](https://www.rutherford-nj.com/departments/recreation/sports-and-activities/2018-sports-camps/)
 
+[2018 Soccer Squirts Ages 2-5](https://storage.googleapis.com/static.rutherford-nj.com/recreation/Rutherford%202018%20Spring%20Sport%20Flyer%202.pdf)
+
 
 **The Recreation Department is proud to partner with the following organizations that offer programs for Rutherford Residents:** 
 
