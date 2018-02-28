@@ -27,7 +27,7 @@ Preschool soccer – [www.unitedsocceracademy.com](http://unitedsocceracademy.co
 
 Lacrosse – [Rutherfordlax.weebly.com](http://rutherfordlax.weebly.com/)
 
-Us Sports Institute - [ussportsinstitute.com](http://ussportsinstitute.com/)
+US Sports Institute - [ussportsinstitute.com](http://ussportsinstitute.com/)
 
 Rutherford Cub Scout Pack 168 - [Pack 168 Website](https://pack168rutherford.wordpress.com/) - [Pack 168 on Facebook](https://www.facebook.com/Cub-Scout-Pack-168-Rutherford-NJ-774991122514085/)
 
