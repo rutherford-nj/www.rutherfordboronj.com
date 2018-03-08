@@ -22,7 +22,7 @@ Rutherford children one year old through Kindergarten ONLY
 
 **Rutherford Children in grades 1-3: 12:30pm at Tryon Field**
 
-**Rutherford Children ages 1-Kindergarten: 1:15 at Kidspot**
+**Rutherford Children ages 1-Kindergarten: 1:15 at Tryon Field**
 
 For safety reasons, no parents will be allowed in the field area.
 
