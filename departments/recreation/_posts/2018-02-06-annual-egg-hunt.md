@@ -4,7 +4,7 @@ title: Annual Egg Hunt 3/25
 event: true
 ---
 
-[Please see flyer here](https://storage.googleapis.com/static.rutherford-nj.com/recreation/posts/0201318_Egg%20Hunt2018.pdf)
+[Please see flyer here](https://storage.googleapis.com/static.rutherford-nj.com/recreation/posts/020118_Egg%20Hunt%202018_1.pdf)
 
 Annual Egg Hunt
 
@@ -14,9 +14,15 @@ Rain Date Saturday, March 31st
 
 Open to Rutherford Residents Only
 
-**Rutherford Children in grades 1-3: 1:00pm at Tryon Field**
 
-**Rutherford Children ages 1-Kindergarten: 1:00 at Kidspot**
+Rutherford children one year old through Kindergarten ONLY
+
+(**please note new time & location)
+
+
+**Rutherford Children in grades 1-3: 12:30pm at Tryon Field**
+
+**Rutherford Children ages 1-Kindergarten: 1:15 at Kidspot**
 
 For safety reasons, no parents will be allowed in the field area.
 
