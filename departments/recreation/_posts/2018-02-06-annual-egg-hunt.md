@@ -26,6 +26,6 @@ Rutherford children one year old through Kindergarten ONLY
 
 For safety reasons, no parents will be allowed in the field area.
 
-Please bring a basket for your collection! Peter Cottontail will be availabe for pictures at 1:30pm at Kidspot!
+Please bring a basket for your collection! Peter Cottontail will be availabe for pictures at 1:30pm at Tryon Field!
 
 Sponsored by Red Wheelbarrow Pediatrics.
