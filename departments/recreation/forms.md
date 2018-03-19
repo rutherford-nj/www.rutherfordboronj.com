@@ -8,6 +8,10 @@ parent: 'Recreation'
 
 **Forms** 
 
+[2018 Day Camp Registration Forms](https://storage.googleapis.com/static.rutherford-nj.com/recreation/2018%20Day%20Camp%20Registration%20Form.pdf)
+
+[2018 Day Camp Medical Release Form](https://storage.googleapis.com/static.rutherford-nj.com/recreation/Medical%20Release_DayCamp.pdf)
+
 [Dispute Resolution](https://storage.googleapis.com/static.rutherford-nj.com/recreation/Recreation_DisputeResolution.pdf)
 
 [Incident Report](https://storage.googleapis.com/static.rutherford-nj.com/recreation/Incident%20Report.pdf)
