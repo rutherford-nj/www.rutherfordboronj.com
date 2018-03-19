@@ -4,12 +4,5 @@ title: 'Employment & Bids'
 parent: Government
 ---
 
-[RFP: Website Administrator](https://storage.googleapis.com/static.rutherford-nj.com/finance/Employment/2018%20RFP%20for%20Website%20Administrator.pdf)
-
-[Bid Notice: Kidspot](https://storage.googleapis.com/static.rutherford-nj.com/finance/Employment/Bid%20Notice_Kidspot.PDF)
-
-[RFQ: Planning Board Attorney](https://storage.googleapis.com/static.rutherford-nj.com/finance/Employment/2018%20RFQ%20Planning%20Board%20%20Attorney.pdf)
-
-[Job Posting: Borough Administrator](https://storage.googleapis.com/static.rutherford-nj.com/finance/Employment/POSTING_BoroughAdministrator.pdf)
 
 [Click here to download an employment application](https://storage.googleapis.com/static.rutherford-nj.com/borough-clerk/permits-licenses/Employment%20Application.pdf)
