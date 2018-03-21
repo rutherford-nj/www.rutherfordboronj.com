@@ -54,7 +54,7 @@ title: '07070'
     {%- for post in site.posts -%}
       {%- if post.event -%}
         {%- assign count = count | plus: 1 -%}
-        {%- if count < 5 -%}
+        {%- if count < 6 -%}
           {%- include homepage_post.html post=post -%}
         {%- endif -%}
       {%- endif -%}
