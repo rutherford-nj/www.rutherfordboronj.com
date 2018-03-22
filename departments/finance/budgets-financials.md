@@ -10,6 +10,7 @@ parent: 'Department of Finance'
 ## Budgets
 
 * [2018 Introduced Budget](https://storage.googleapis.com/static.rutherford-nj.com/finance/budgets/2018%20Introduced%20Budget.pdf)
+* [2018 User Friendly Budget](https://storage.googleapis.com/static.rutherford-nj.com/finance/budgets/2018%20Introduced%20User%20Friendly%20Budget.pdf)
 * [2017 Budget](https://storage.googleapis.com/static.rutherford-nj.com/finance/budgets/2017%20Adopted%20Budget.pdf)
 * [2017 User Friendly Budget](https://storage.googleapis.com/static.rutherford-nj.com/finance/budgets/2017%20Adopted%20User%20Friendly%20Budget.pdf)
 * [2016 Budget](https://storage.googleapis.com/static.rutherford-nj.com/finance/budgets/2016%20Adopted%20Budget.pdf)
