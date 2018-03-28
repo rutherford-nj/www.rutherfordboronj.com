@@ -7,7 +7,7 @@ title: 'Borough Codes & Ordinances'
 
 ## Recently Adopted Borough Codes and Ordinances:
 
-[Ordinance No. 34532-18 - Amending Garbage Violations](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3453-18%20Amending%20Garbage%20Violations.pdf)
+[Ordinance No. 3453-18 - Amending Garbage Violations](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3453-18%20Amending%20Garbage%20Violations.pdf)
 
 [Ordinance No. 3452-18 - CAP Ordinance](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3452-18%20CAP%20Ordinance.pdf)
 
