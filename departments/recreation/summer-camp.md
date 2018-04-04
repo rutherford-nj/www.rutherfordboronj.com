@@ -27,6 +27,12 @@ In-person registration required at the Recreation Department – 176 Park Avenue
 
 [2018 Day Camp Medical Release Form](https://storage.googleapis.com/static.rutherford-nj.com/recreation/Medical%20Release_DayCamp.pdf)
 
+[Bus Permission Form](https://storage.googleapis.com/static.rutherford-nj.com/recreation/2018_summer%20camp%20bus%20permission.pdf)
+
+[Early Dismissal Form](https://storage.googleapis.com/static.rutherford-nj.com/recreation/2018_summer%20camp%20early%20dismissal.pdf)
+
+[Additional Weeks Registration Form](https://storage.googleapis.com/static.rutherford-nj.com/recreation/2018%20Day%20Camp%20Additional%20Weeks_Registration%20Form.pdf)
+
 **Day Trip Permission Slips:**
 
 [Kinder Day Camp Trips](https://storage.googleapis.com/static.rutherford-nj.com/recreation/Kinder%20Day%20Camp%20Trips_2018.pdf)
