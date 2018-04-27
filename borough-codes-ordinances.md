@@ -7,6 +7,10 @@ title: 'Borough Codes & Ordinances'
 
 ## Recently Adopted Borough Codes and Ordinances:
 
+[Ordinance No. 3458-18 - Repeal of Handicap Space 32 Jackson Avenue](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3458-18%20Repeal%20of%20a%20Handicap%20Space%2032%20Jackson%20Avenue.pdf)
+
+[Ordinance No. 3457-18 - Eastern Way Handicap Space](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3457-18%2089%20Eastern%20Way%20Handicap%20Space.pdf)
+
 [Ordinance No. 3453-18 - Amending Garbage Violations](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3453-18%20Amending%20Garbage%20Violations.pdf)
 
 [Ordinance No. 3452-18 - CAP Ordinance](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3452-18%20CAP%20Ordinance.pdf)
