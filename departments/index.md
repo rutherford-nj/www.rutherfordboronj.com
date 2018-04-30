@@ -13,6 +13,7 @@ title: 'Departments'
 </style>
 
 <ul>
+  <li><a href="borough-administrator/">Borough Administrator</a></li>
   <li><a href="borough-clerk/">Borough Clerk</a></li>
   <li><a href="building/">Building</a></li>
   <li><a href="finance/">Finance</a></li>
