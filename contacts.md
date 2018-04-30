@@ -7,6 +7,7 @@ title: 'Contacts'
 
 | Department | Phone Number | Email Address |
 |:--------|:-------:|:-------:|
+| Borough Administrator | 201-460-3004 | rkakoleski@rutherford-nj.com |
 | Borough Clerk | 201-460-3001 | mscanlon@rutherford-nj.com |
 | Building & Construction | 201-460-3010 | frecanati@rutherford-nj.com |
 | Executive Secretary | 201-460-3004 | ringuanti@rutherford-nj.com |
