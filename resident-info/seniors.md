@@ -3,19 +3,6 @@ layout: page
 title: 'Seniors'
 ---
 
-**2016 Senior Citizen Olympics**
- 
-This year’s Tri – County Senior Citizen Olympics will be held in Pequannock, on **Wednesday, June 8, 2016** and
-the rain date will be on Thursday, June 9, 2016.
- 
-We will be competing against Pequannock, Randolph, Sparta, Wayne and West Milford. 
-The events are horse shoes, cornhole, frisbee golf, soccer kick, chicken toss and golf putting!
- 
-**PLEASE REGISTER AT THE RECREATION DEPARTMENT**
-The fee is $5.00.  We need 24 participants. Olympians must be at least 60 years old.
-Bus transportation is provided to the Olympics!
-
----
 
 ![Kip Center Logo](../55-kip-center-logo.jpg)
 {: style="float: left; margin: 0 20px 20px 0;"}
@@ -32,7 +19,7 @@ $15 for non-residents
 ---
 
 **Golden Age Club** 
-Katherine Bidwell (201) 507-0791
+Ruth Kubs - 201-933-8048
 Coordinated with the Recreation Department
 
 ---
