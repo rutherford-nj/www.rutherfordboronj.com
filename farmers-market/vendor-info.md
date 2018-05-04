@@ -7,7 +7,7 @@ title: 'Farmers Market - Vendor Information'
 
 Dear Vendor,
  
-The Borough of Rutherford is preparing for its 20th season of sponsoring the Rutherford Farmers’ Market.
+The Borough of Rutherford is preparing for its 21st season of sponsoring the Rutherford Farmers’ Market.
  
 The market will be held in the William’s Plaza, Park Avenue on Wednesdays from 11:00am to 6:00pm with a 10:30 set-up time. In addition, Saturdays from 8:00am to 2:00pm will be available starting on 6/23/2018 for an additional fee.  The first market date will be 6/20/2018 and the market season will conclude 10/27/2018.
  
