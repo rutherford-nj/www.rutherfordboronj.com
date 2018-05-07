@@ -3,7 +3,8 @@ layout: blog
 title: May Pantry Needs
 ---
 
-[www.rutherfordcommunitypantry.org](http://www.rutherfordcommunitypantry.org/)
+Please visit [www.rutherfordcommunitypantry.org](http://www.rutherfordcommunitypantry.org/) for more information on the Rutheford Community Pantry. 
+
 BELOW ARE ITEMS WE NEED MOST IN MAY 2018
 
 CANNED FRUIT, APPLESAUCE
