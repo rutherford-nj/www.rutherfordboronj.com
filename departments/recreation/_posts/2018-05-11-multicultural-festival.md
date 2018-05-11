@@ -6,6 +6,8 @@ event: true
 
 [2018 Multicultural Festival Flyer](https://storage.googleapis.com/static.rutherford-nj.com/committees/civil-rights/cover%20design%202018.pdf)
 
+Visit the Civil Rights Commission's page for more information: [www.rutherfordtogether.com](https://www.rutherford-nj.com/committees/civil-rights-commission/)
+
 15th Annual Rutherford Multicultural Festival
 
 **Saturday May 19th, 2018**
