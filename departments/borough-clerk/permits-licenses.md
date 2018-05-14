@@ -25,7 +25,7 @@ Please click on an item below to download the appropriate form and return to the
 
 [**Hold Harmless Agreement**](https://storage.googleapis.com/static.rutherford-nj.com/borough-clerk/permits-licenses/HoldHarmless_Agreement.pdf)
 
-[**Limousine License**](https://storage.googleapis.com/static.rutherford-nj.com/borough-clerk/permits-licenses/LIVERY-LIMO.pdf) – Certificate to obtain "o" license from Motor Vehicle available only to a business based in Rutherford with a Certificate of Occupancy.  Fee is $50 per car, insurance policy and proof of ownership required.
+[**Limousine License**](https://storage.googleapis.com/static.rutherford-nj.com/borough-clerk/permits-licenses/LIVERY%20LIMO.pdf) – Certificate to obtain "o" license from Motor Vehicle available only to a business based in Rutherford with a Certificate of Occupancy.  Fee is $50 per car, insurance policy and proof of ownership required.
 
 **Liquor License** – Renewed yearly – 4 club licenses and 10 store licenses. Application process in compliance with Alcohol Beverage Control Commission requirements.
 
@@ -59,12 +59,12 @@ Ettrick Terrace and Kip Garage – $50.00 per month. Contact Clerk’s Office fo
 [**Social Affairs Permits**](https://storage.googleapis.com/static.rutherford-nj.com/borough-clerk/permits-licenses/Social_Affairs_Permit.pdf)
 – Issued to non-profit organizations.
 
-[**Solicit for Charitable Purposes**](https://storage.googleapis.com/static.rutherford-nj.com/borough-clerk/permits-licenses/Solicit_for_Charitable_Application.pdf)
+[**Solicit for Charitable Purposes**](https://storage.googleapis.com/static.rutherford-nj.com/borough-clerk/permits-licenses/SOLICIT%20CHARITABLE.pdf)
 – Permit required for charitable organizations to fundraise in the Borough.  Application with required documentation must be provided with a $10 fee.
 
-[**Solicitor Permit**](https://storage.googleapis.com/static.rutherford-nj.com/borough-clerk/permits-licenses/Solicitor_Permit.pdf) – Applicants must complete background checks and authorization from the Mayor & Council is required.
+[**Solicitor Permit**](https://storage.googleapis.com/static.rutherford-nj.com/borough-clerk/permits-licenses/SOLICITOR.pdf) – Applicants must complete background checks and authorization from the Mayor & Council is required.
 
-[**Street Opening**](https://storage.googleapis.com/static.rutherford-nj.com/borough-clerk/permits-licenses/Street_Opening_Application.pdf) – Permit required to cut into any roadway.  Certificates of Insurance with a $5,000 deposit for maintenance due at time of application required.  $100 new opening or $45 for a repair.
+[**Street Opening**](https://storage.googleapis.com/static.rutherford-nj.com/borough-clerk/permits-licenses/STREET%20OPENING.pdf) – Permit required to cut into any roadway.  Certificates of Insurance with a $5,000 deposit for maintenance due at time of application required.  $100 new opening or $45 for a repair.
 
 **Taxi Cab License** – Required for every taxi cab.  Application, insurance policy and proof of ownership required with $100 fee per year.
 
