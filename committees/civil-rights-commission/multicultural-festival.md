@@ -6,11 +6,10 @@ parent: 'Civil Rights Commission'
 
 **15th Annual Rutherford Multicultural Festival**
 
-**Saturday May 19th, 2018**
+**Sunday May 20th, 2018**
 
 **Noon – 7pm**
 
-Rain Date: Sunday, May 20th
 
 
 Lincoln Park, Rutherford (across from Borough Hall)
