@@ -13,8 +13,6 @@ title: 'Borough Codes & Ordinances'
 
 [Ordinance No. 3453-18 - Amending Garbage Violations](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3453-18%20Amending%20Garbage%20Violations.pdf)
 
-[Ordinance No. 3452-18 - CAP Ordinance](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3452-18%20CAP%20Ordinance.pdf)
-
 [Ordinance No. 3451-18 - Amending Solicitor Location Designations](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3451-18%20Amendment%20to%20Solicitor%20Location%20Designations.pdf)
 
 [Ordinance No. 3450-18 - Amending Garbage Ordinance](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3450-18%20Amending%20Garbage%20Ordinance.pdf)
