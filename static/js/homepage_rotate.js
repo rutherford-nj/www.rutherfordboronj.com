@@ -19,6 +19,7 @@ var nextIndex = currentIndex + 1;
 nextIndex = nextIndex % srcs.length;
 window.localStorage.setItem(indexKey, nextIndex);
 
+$('.homepage-images').empty();
 $('.homepage-images').append('<div><img src="'+srcs[currentIndex]+'" alt="'+alts[currentIndex]+'"></div>');
 
 })(jQuery);
