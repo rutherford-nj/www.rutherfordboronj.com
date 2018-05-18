@@ -1,3 +1,6 @@
+- src: https://storage.googleapis.com/static.rutherford-nj.com/homepage-images/borough-hall-2018.jpg
+  alt: Borough Hall
+
 - src: https://storage.googleapis.com/static.rutherford-nj.com/homepage-images/train-station.jpg
   alt: Train Station
 
@@ -6,6 +9,3 @@
 
 - src: https://storage.googleapis.com/static.rutherford-nj.com/homepage-images/cannon.jpg
   alt: Lincoln Park Cannon
-  
-- src: https://storage.googleapis.com/static.rutherford-nj.com/homepage-images/borough-hall-2018.jpg
-  alt: Borough Hall
