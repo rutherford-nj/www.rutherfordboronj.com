@@ -12,13 +12,7 @@ title: '07070'
   <a href="/schools/">Schools</a>
 </div>
   
-<div class="homepage-images">
-{% assign min = 0 %}
-{% assign max = site.data.homepage_images.size %}
-{% assign diff = max | minus: min %}
-{% assign randomNumber = "now" | date: "%N" | modulo: diff | plus: min %}
-  <div><img src="{{ site.data.homepage_images[randomNumber].src }}" alt="{{ site.data.homepage_images[randomNumber].alt }}" /></div>
-</div>
+<div class="homepage-images"></div>
 
 <div style="clear: both; height: 20px;"></div>
 
