@@ -32,3 +32,7 @@ Citizen Finance
 Community Events
 
 Local Assistance Board
+
+Downhill Derby
+
+Stigma Free Committee
