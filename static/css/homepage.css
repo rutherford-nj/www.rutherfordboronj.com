@@ -66,6 +66,11 @@
   border-bottom: 1px solid #036;
 }
 
+.homepage-calendar-button {
+  float: right;
+  margin: 0 13px 13px;
+}
+
 .homepage-news-and-updates-section {
   border: 1px solid #444;
   float: left;
