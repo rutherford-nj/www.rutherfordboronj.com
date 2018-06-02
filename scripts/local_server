@@ -1,3 +1,5 @@
-#!/bin/sh
+#!/bin/bash
+
+cd "${0%/*}/../_site/"
 
 python -m SimpleHTTPServer 8080
