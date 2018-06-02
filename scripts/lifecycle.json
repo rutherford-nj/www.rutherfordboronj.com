@@ -1,9 +1,0 @@
-{
-    "rule":
-    [
-      {
-        "action": {"type": "Delete"},
-        "condition": {"createdBefore": "2016-03-09"}
-      }
-    ]
-}
