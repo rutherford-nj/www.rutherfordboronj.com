@@ -32,8 +32,7 @@ Open to all male retirees from age 50 and up. To become a member, one is invited
 The object of this organization is to provide fraternal communion, diversion and fellowship for men who have retired from their occupations, business or professions.
 
 Location:
-Tamblyn Field Civic Center
-115 Woodland Ave. off Park Ave.
+30 Woodland Ave.
 
 Membership:
 Dues are $15.00 a year and no initiation fee.
