@@ -1,3 +1,4 @@
+---
 layout: community-blog
 title: Kids Spot Park Reopening 6/22
 event: true
