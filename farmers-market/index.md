@@ -11,7 +11,7 @@ The market will be held in the [William’s Plaza, Park Avenue](https://www.goog
 
 **Wednesdays 11:00am to 6:00pm** beginning **June 20** and 
 
-**Saturdays from 8:00am to 2:00pm** starting on **June 23**. 
+**Saturdays from 8:00am to 2:00pm** starting on **July 7**. 
 
 The market season will conclude 10/27/2018.
  
