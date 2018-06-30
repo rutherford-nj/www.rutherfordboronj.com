@@ -73,12 +73,12 @@
 }
 
 .page-gradient-box {
-  background-color: #700;
+  background-color: #DDD;
   background-image:
     linear-gradient(
-      #DB0, #D80
+      #EEE, #CCC
     );
-  color: #FFF;
+  color: #036;
   font-size: 125%;
   line-height: 1;
   margin-bottom: 15px;
