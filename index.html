@@ -12,7 +12,13 @@ title: '07070'
   <a href="/schools/">Schools</a>
 </div>
   
-<div class="homepage-images"></div>
+<div class="homepage-images">
+  <div id="homepage-rotation" data-slick='{"arrows": false, "autoplay": true, "fade": true}'>
+  {% for image in site.data.homepage_images %}
+    <div><img data-lazy='{{ image.src }}' alt='{{ image.alt }}'></div>
+  {% endfor %}
+  </div>
+</div>
 
 <div class="homepage-bottom-left">
   <a href="/resident-info/"><img src="/static/images/residents-info.png"
