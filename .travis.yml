@@ -10,6 +10,7 @@ branches:
   only:
   - www
   - beta
+  - july2018
 env:
   global:
   - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
