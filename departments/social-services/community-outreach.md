@@ -4,6 +4,8 @@ title: 'Community Outreach'
 parent: 'Social Services'
 ---
 
+<div id="community-outreach-toc"></div>
+
 ## Energy Assistance
 
 ### Home Energy Assistance PSE&G
