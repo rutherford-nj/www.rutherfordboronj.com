@@ -32,6 +32,15 @@ deploy:
   on:
     repo: rutherford-nj/www.rutherford-nj.com
     branch: beta
+- provider: firebase
+  token:
+    secure: NA+TODC4bPWzkzB8SjdNShxqhACejgQpw1jbmMOQJBIV3cTLekAjHDmKnuwUlNOERtYcTZequuCw+/EjBN5lxSbXVITSf7VwniFnsGA2BIDNyShEhXvp1d9BG+UXvsVBissDlY2UqG+Twl/fE6VALnzd+NAYZCHZubYpYVPcJvLCLZ4d/zjIFW/rQDXxfAjzchLwJhDvUZroHY8BJWSjayErIpTP/1PFmK0YNUhDwp7vj650SJ+IcKZGBQuIogiGjxvcw2Myvr1a15RTKGRJ2DB43XHTlw+bruDQGlgbW/wymmmOHwUd/xgks8Mk4743C88Mt/J1+Sb8ntK/k9Fm9BwX5qo2qu/vtu5pHVbwjhIDCyIK96h1Op6e/AWOVTkkKPxdB1lSOz7IfdRpkgO9m+3BUBmqL3ZFXov9UtHEJ1EaP6cwOyxBTS4AewjDdqvr7u9QdYot8YSsncp8x5deb+dqe8x5kisSQCReX7mFqOQuwljkLByDs7J7RusL5TVZtVExjQxdcACDPtjOb7LU6kPBeNJZusoiz90/U7mKCI9iWCN6GpMB/xzqgS1opNVuMNSgpSXurVoAEJ+KLNEEjNPVd9BvWttlvli2hGaqwly60WHh8yYUs6W56xfOyMYsyxR7U1y448S2FqFrFe2DjVrEACP0xDlRavnWRnL1qnY=
+  skip_cleanup: true
+  project: rutherford-nj-beta-site
+  local-dir: _site
+  on:
+    repo: rutherford-nj/www.rutherford-nj.com
+    branch: july2018
 notifications:
   slack:
     secure: t/VwCHLxef6I1ugtyvXKX7pW0OKM+0mjG0waHwht37hY6KGzLaI+xztffTFbLJ9T2AHMIdI65HZkAxaH8V85GnCVIHWjSd1J21mOIfU0NN76W4l/VRdTw0O1P1pttLh3Xadshap7tJbAaIuf/vdyt0W7un7YBONd/pTALy/XpSGO0UVbGnY/KufnegJzGWO6cdOuxlxb5Mesw2+4nfEtz1Tu+Ag6OrqucZVGQ5fcsrlbGeG6+lrcO9stDfKq16WdiytEDUl7+Z0IbYExaNOPGK4aK312KJ0ayrHp/Y2H1dVCEGSSsmEYtZIa1u+DY8a0VIMzrVvdgmNPQwaLrXETrJ11VBhqmmyJNq/5MG8d6wbXnC0qZ2SwOaPiSKYcGGzOj9yonRi1BXT9jaRb72ow8Wv/qD6WvgMafVcbMqZNZu5f/kVQCknzLcErsEDs/v8VPKiGZvGu0l9M+hHrwzowa7kF78bwHLxX3davsCeJP2KIhpk4Z7+PpdsaZSGhmndiqdT0SJFYwgxRGf6qDsWSYnUm+jdGcFqhmcDyVgqxQ48h1tlAZc4wMh3X2VRDdeTQ/poArKDZfzTrdrSSg2Dug+m7OoaIomLD/2WpToK7D4YYD83RcuMF1kmPdCHyEUnBItNtluD2FZOMS58GKBxoo1JtfLIr2BRhTPuZnV13xpE=
