@@ -15,7 +15,7 @@ During the course of the year it may become necessary for a committee or the may
 
 **Access for All Committee** - Council Liaison: Stephanie McGowan
 
-Access for All Rutherford is comprised of 11 members: five members shall be persons with disabilities, or parents of a child with a disability or a resident family member who is the caregiver of a person with a disability; six members shall be either residents of, or employed in, the borough.  The committee is charged with providing opportunities for greater unity across the borough through identifying and addressing barriers within the borough's borders for residents with disabilities.
+> Access for All Rutherford is comprised of 11 members: five members shall be persons with disabilities, or parents of a child with a disability or a resident family member who is the caregiver of a person with a disability; six members shall be either residents of, or employed in, the borough.  The committee is charged with providing opportunities for greater unity across the borough through identifying and addressing barriers within the borough's borders for residents with disabilities.
 
 ---
 
@@ -29,7 +29,7 @@ Access for All Rutherford is comprised of 11 members: five members shall be pers
 
 **Citizens's Finance Advisory Committee** - Council Liaison: Stephanie McGowan
 
-The Citizens Finance Advisory Committee is tasked to financially analyze and offer strategic advice to the Mayor and Council concerning existing and /or new programs established in the Borough.
+> The Citizens Finance Advisory Committee is tasked to financially analyze and offer strategic advice to the Mayor and Council concerning existing and /or new programs established in the Borough.
 
 ---
 
@@ -39,7 +39,7 @@ The Citizens Finance Advisory Committee is tasked to financially analyze and off
 
 **Community Quality of Life/Board of Aesthetic Review** - Council Liaison Mark Goldsack
 
-Highlights of the committee’s work since its inception include: Sponsoring Club Fairs to encourage residents to become involved and make positive contributions to our Borough. Sponsoring the Summer Reading in Lincoln Park program, in partnership with the Rutherford Public Library and Rutherford Recreation staff. Initiating an Outstanding Citizen Award program. Hosting an educational forum for Rutherford residents featuring members of Courage to Connect NJ. In February 2016, the Community/Quality of Life Committee welcomed new members of the former Board of Aesthetic Review
+> Highlights of the committee’s work since its inception include: Sponsoring Club Fairs to encourage residents to become involved and make positive contributions to our Borough. Sponsoring the Summer Reading in Lincoln Park program, in partnership with the Rutherford Public Library and Rutherford Recreation staff. Initiating an Outstanding Citizen Award program. Hosting an educational forum for Rutherford residents featuring members of Courage to Connect NJ. In February 2016, the Community/Quality of Life Committee welcomed new members of the former Board of Aesthetic Review
 
 ---
 
@@ -49,9 +49,9 @@ Highlights of the committee’s work since its inception include: Sponsoring Clu
 
 **Historic Preservation Committee** - Council Liaison Mark Goldsack
 
-[www.rutherfordhpc.org](http://rutherfordhpc.org/)
+> [www.rutherfordhpc.org](http://rutherfordhpc.org/)
 
-The objective of the Historic Preservation Committee is to educate the community about what value historic preservation offers to maintain the character of neighborhoods as reflected by the architecture and aesthetics. Furthermore, the Committee advises any borough board or agency of the historic nature of a property should demolition or construction be proposed.
+> The objective of the Historic Preservation Committee is to educate the community about what value historic preservation offers to maintain the character of neighborhoods as reflected by the architecture and aesthetics. Furthermore, the Committee advises any borough board or agency of the historic nature of a property should demolition or construction be proposed.
 
 ---
 
@@ -69,7 +69,7 @@ The objective of the Historic Preservation Committee is to educate the community
 
 **Recreation Advisory Committee** - Council Liaison Tom Mullahey
 
-The Recreation Advisory Committee meets monthly to discuss issues pertaining to Recreation.  The committee meets with coaches and coordinators before the season to ensure proper preparation and after the season to reflect on what needs improvement and what we can build upon.
+> The Recreation Advisory Committee meets monthly to discuss issues pertaining to Recreation.  The committee meets with coaches and coordinators before the season to ensure proper preparation and after the season to reflect on what needs improvement and what we can build upon.
 
 ---
 
