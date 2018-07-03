@@ -1,3 +1,12 @@
+.homepage-address {
+  color: #767676;
+  font-size: 120%;
+  margin-bottom: 10px;
+  text-align: center;
+  text-transform: uppercase;
+  width: 100%;
+}
+
 .homepage-header-right {
   bottom: 0;
   position: absolute;
