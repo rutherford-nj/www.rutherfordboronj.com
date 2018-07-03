@@ -26,6 +26,7 @@ h2 {
 }
 
 .header {
+  background-color: #0F3B66;
   border-bottom: 8px solid #EEE;
   box-shadow: 0px 5px 5px 0px rgba(50, 50, 50, 0.5);
   margin-bottom: 10px;
