@@ -52,10 +52,18 @@
   width: 271px;
 }
 
-.homepage-bottom-links {
-  border: 1px solid #444;
+.homepage-bottom-calendar {
   float: right;
   padding: 12px;
+}
+
+.homepage-bottom-links {
+  border: 1px solid #444;
+  float: left;
+  font-size: 100%;
+  margin: 10px 7px 0 5px;
+  padding: 5px;
+  width: 260px;
 }
 
 .homepage-bottom-links > a, .homepage-top-links > a  {
