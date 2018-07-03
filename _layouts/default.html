@@ -11,6 +11,8 @@
   <link href="/static/site.css?zx={{ "now" | date: "%s" }}" rel="stylesheet" type="text/css" />
   <link href='//fonts.googleapis.com/css?family=Roboto:400,700,900' rel='stylesheet' type='text/css' />
   <link rel="shortcut icon" href="/favicon.ico" />
+  <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/gh/kenwheeler/slick@1.8.1/slick/slick.css"/>
+  <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/gh/kenwheeler/slick@1.8.1/slick/slick-theme.css"/>
 </head>
 <body>
 <div id="fb-root"></div>
@@ -33,7 +35,7 @@
   <div class="header">
     <div class="header-container">
       <a href="/">
-        <img src="/static/images/borough-logo.jpg" alt="Borough Logo" />
+        <img src="/static/images/borough-logo.png" alt="Borough Logo" />
       </a>
       <div class="header-right">
         <div class="header-search">
@@ -41,9 +43,9 @@
           <input type="button" value="Search" id="search_button">
         </div>
         <div class="homepage-header-right">
-          <div><a href="/committees/" style="color: #767676">Committees</a></div>
+          <div><a href="/committees/" style="color: #CCC">Committees</a></div>
           <div>|</div>
-          <div><a href="/departments/" style="color: #767676">Departments</a></div>
+          <div><a href="/departments/" style="color: #CCC">Departments</a></div>
           <div>|</div>
           <div id="contact-link"><a href="/contacts/">Contacts</a></div>
         </div>
@@ -56,5 +58,6 @@
       {{content}}
     </div>
   </div>
+  <script type="text/javascript" src="//cdn.jsdelivr.net/gh/kenwheeler/slick@1.8.1/slick/slick.min.js"></script>
   <script src="/static/site.js?zx={{ "now" | date: "%s" }}"></script>
 </body>
