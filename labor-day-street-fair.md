@@ -3,9 +3,9 @@ layout: page
 title: 'Labor Day Street Fair 2018'
 ---
  
-**Rutherford's 43rd Annual Labor Day Street Fair will be held**
+## Rutherford's 43rd Annual Labor Day Street Fair will be held 
 
-**Monday, September 3rd - 10:00am-5:00pm**
+## Monday, September 3rd - 10:00am-5:00pm
 
 The Street Fair will take place on and around Park Avenue in Downtown Rutherford from Ames Avenue to Donaldson Avenue and is being produced by Cliffhanger Productions.
 
