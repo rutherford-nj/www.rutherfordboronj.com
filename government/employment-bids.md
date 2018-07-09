@@ -4,7 +4,7 @@ title: 'Employment & Bids'
 parent: Government
 ---
 
-[RFQ for WWI Monument Qualifications](https://storage.googleapis.com/static.rutherford-nj.com/finance/Employment/2018%20RFQ%20for%20WWI%20Monument%20Prequalifications.docx.pdf)
+[RFQ for WWI Monument Qualifications](https://storage.googleapis.com/static.rutherford-nj.com/finance/Employment/WWI%20Conservation%20Prequalify%20RFQ_%20Rutherford%20.pdf)
 
 [Job Posting: Technical Assistant to the Construction Official](https://storage.googleapis.com/static.rutherford-nj.com/finance/Employment/POSTING001.pdf)
 
