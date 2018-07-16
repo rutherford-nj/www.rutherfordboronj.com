@@ -2,7 +2,7 @@
 set -e # halt script on error
 
 bundle exec jekyll build
-if [[ "$TRAVIS_BRANCH" == "beta" ]]; then
+if [[ "$TRAVIS_BRANCH" != "www" ]]; then
   echo "On beta branch, doing beta things..."
   cp ./_site/robots.txt.template ./_site/robots.txt
 fi
