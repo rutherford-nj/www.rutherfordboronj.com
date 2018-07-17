@@ -11,6 +11,7 @@ parent: 'Police Department'
 |                          | Det./SRO Alford Anderson | 201-460-3050 | aanderson@rutherfordpd.com |
 |                          | Det. Russell Snyder      | 201-460-3050 | rsnyder@rutherfordpd.com |
 |                          | Det. Frank Inglese       | 201-460-3050 | finglese@rutherfordpd.com |
+|                          | Det. Curtis Moore        | 201-460-3050 | cmoore@rutherfordpd.com |
 | Traffic Bureau           | P. O. Anthony Bachmann   | 201-460-3043 | abachmann@rutherfordpd.com |
 |                          | P. O. Steven Villareale  | 201-460-3043 | svillareale@rutherfordpd.com |
 | Records Bureau           | Ellie Molan              | 201-460-3045 | emolan@rutherfordpd.com |
