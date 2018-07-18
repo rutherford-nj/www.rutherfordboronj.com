@@ -4,8 +4,8 @@ title: 'Sports & Activities'
 parent: 'Recreation'
 ---
 
-<a href="childrens-catalog/"><img src="childrenssports.jpg" alt="Children's Sports"></a>
-<a href="adult-catalog/"><img src="adultssports.jpg" alt="Adults' Sports"></a>
+<a href="childrens-catalog/"><img src="childrenssports.png" alt="Children's Sports"></a>
+<a href="adult-catalog/"><img src="adultssports.png" alt="Adults' Sports"></a>
 
 
 [2018 Summer Sports Camps](https://www.rutherford-nj.com/departments/recreation/sports-and-activities/2018-sports-camps/)
