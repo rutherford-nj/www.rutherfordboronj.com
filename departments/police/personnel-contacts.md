@@ -16,8 +16,8 @@ parent: 'Police Department'
 |                          | P. O. Steven Villareale  | 201-460-3043 | svillareale@rutherfordpd.com |
 | Records Bureau           | Ellie Molan              | 201-460-3045 | emolan@rutherfordpd.com |
 |                          | Sharon Conte             | 201-460-3045 | sconte@rutherfordpd.com |
-| Kid Print/SafelyBackHome | P.O. Scott Ahearn        | 201-460-3054 | kidprint@rutherfordpd.com |
-|                          | P.O. Christopher Beatini | 201-460-3054 | kidprint@rutherfordpd.com |
+| Kid Print/SafelyBackHome | P.O. Scott Ahearn        | 201-460-3041 | kidprint@rutherfordpd.com |
+|                          | P.O. Christopher Beatini | 201-460-3041 | kidprint@rutherfordpd.com |
 | Admin. Sgt/ TAC          | Sgt. Julie Zeigler       | 201-460-3054 | jzeigler@rutherfordpd.com |
 | School Resource Officer  | Det./SRO Alford Anderson | 201-939-6000 | aanderson@rutherfordpd.com |
 | L.E.A.D. Officers        | Sgt. Julie Zeigler       |              | jzeigler@rutherfordpd.com |
