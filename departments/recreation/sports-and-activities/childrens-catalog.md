@@ -14,8 +14,8 @@ Currently, payment for programs must be made in person or mailed to the Recreati
 
 **Pre-School**
 
-| Program | Age/Grade | Fee |	Day | Time | Start Date |	Dates no session | Number of classes | Location |
-|:--------|:---------:|:---:|:---:|:----:|:-------------:|:----------------:|:-----------------:|:--------:|
+| Program | Age/Grade | Fee |	Day | Time | Start Date |	Schedule | Location |
+|:--------|:---------:|:---:|:---:|:----:|:-------------:|:---------:|:--------:|
 | **Preschool 3 years** by 10/1/18 | 3yrs | $320 bi-monthly | Tues & Thur | 8:30 - 11:15AM | Sept 10-May 23 | Follows School calendar | | Tamblyn Field Civic Center |
 | **Preschool 4 years** by 10/1/18 | 4yrs | $480 bi-monthly | Mon, Wed & Fri | 8:30 - 11:15AM | Sept 10-May 23 | Follows School calendar | | Tamblyn Field Civic Center |
 | **Aftercare for 4 yr olds** | 4yrs | Monthly | Mon, Wed & Fri | 11:15AM - 1:15PM | Sept 10-May 23 | Follows School calendar | | Tamblyn Field Civic Center |
