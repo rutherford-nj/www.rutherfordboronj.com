@@ -24,7 +24,7 @@ Currently, payment for programs must be made in person or mailed to the Recreati
 
 
 | Program | Age/Grade | Fee |	Day | Time | Start Date | Number of classes | Location |
-|:--------|:---------:|:---:|:---:|:----:|:-------------:|:-----------------:|:--------:|
+|:--------|:---------:|:---:|:---:|:--------:|:-------------:|:-----------------:|:--------:|
 | **Gymnastics** | 3-5yrs  | $55 | Saturdays | 9 - 10am         | Sept 15 |  8 | Tamblyn Field Civic Center |
 |                | 3-5yrs  | $55 | Saturdays | 10 - 11am        | Sept 15 |  8 | Tamblyn Field Civic Center |
 |                | 6-8yrs  | $55 | Saturdays | 11am - 12pm      | Sept 15 |  8 | Tamblyn Field Civic Center |
