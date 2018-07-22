@@ -23,20 +23,20 @@ Currently, payment for programs must be made in person or mailed to the Recreati
 {: .hover-table .recreation-table}
 
 
-| Program | Age/Grade | Fee |	Day | Time | Start Date |	Dates no session | Number of classes | Location |
-|:--------|:---------:|:---:|:---:|:----:|:-------------:|:----------------:|:-----------------:|:--------:|
-| **Gymnastics** | 3-5yrs  | $55 | Saturdays | 9 - 10am         | Sept 15 |           | 8 | Tamblyn Field Civic Center |
-|                | 3-5yrs  | $55 | Saturdays | 10 - 11am        | Sept 15 |           | 8 | Tamblyn Field Civic Center |
-|                | 6-8yrs  | $55 | Saturdays | 11am - 12pm      | Sept 15 |           | 8 | Tamblyn Field Civic Center |
-|                | 9-12yrs | $55 | Saturdays | 12 - 1pm         | Sept 15 |           | 8 | Tamblyn Field Civic Center |
-| **Dance**      | 3-5yrs  | $55 | Tuesdays  | 3:30 - 4:20pm    | Sept 24 - Nov 12 |    | 8 | Tamblyn Field Civic Center |
-|                | 6-8yrs  | $55 | Tuesdays  | 4:30 - 5:20pm    | Sept 24 - Nov 12 |    | 8 | Tamblyn Field Civic Center |
-| **Cross Country Track and Field**| 2nd-8th gr  | $45 | Tues and Thurs  | 6-7pm    | Sept 18 - Nov 8 |    | 16-18 practices | Tryon Field|      
+| Program | Age/Grade | Fee |	Day | Time | Start Date | Number of classes | Location |
+|:--------|:---------:|:---:|:---:|:----:|:-------------:|:-----------------:|:--------:|
+| **Gymnastics** | 3-5yrs  | $55 | Saturdays | 9 - 10am         | Sept 15 |  8 | Tamblyn Field Civic Center |
+|                | 3-5yrs  | $55 | Saturdays | 10 - 11am        | Sept 15 |  8 | Tamblyn Field Civic Center |
+|                | 6-8yrs  | $55 | Saturdays | 11am - 12pm      | Sept 15 |  8 | Tamblyn Field Civic Center |
+|                | 9-12yrs | $55 | Saturdays | 12 - 1pm         | Sept 15 | 8 | Tamblyn Field Civic Center |
+| **Dance**      | 3-5yrs  | $55 | Tuesdays  | 3:30 - 4:20pm    | Sept 24 - Nov 12 | 8 | Tamblyn Field Civic Center |
+|                | 6-8yrs  | $55 | Tuesdays  | 4:30 - 5:20pm    | Sept 24 - Nov 12 |  8 | Tamblyn Field Civic Center |
+| **Cross Country Track and Field**| 2nd-8th gr  | $45 | Tues and Thurs  | 6-7pm    | Sept 18 - Nov 8 | 16-18 practices | Tryon Field|      
 | **Basketball**      | K-8th gr  | $50 | TBD  | TBD    | Nov |    | 9-10 wks | School Gyms |
-| **Wrestling**      | 2nd-8th gr  | $75 | Tues and Thurs  | 6-7:30pm    | Dec-Feb |    | 10 wks | School Gyms |
-| **Tennis Lessons**      | K-8th gr  | $60 | Sundays  | Varies    | Sept 23-Oct 28 |    | 6 | Memorial Park |
-| **Girls Volleyball**      | 6th-8th gr  | $35 | Fridays  | 7-9pm    | Sept 21-Nov 16 |    | 8 | Lincoln School |
-| **Soccer Squirts**      | [unitedsocceracademy](http://unitedsocceracademy.com/)  | $125 | Fridays  | Varies    | Sept 21-Nov 4 |    
+| **Wrestling**      | 2nd-8th gr  | $75 | Tues and Thurs  | 6-7:30pm    | Dec-Feb | 10 wks | School Gyms |
+| **Tennis Lessons**      | K-8th gr  | $60 | Sundays  | Varies    | Sept 23-Oct 28 |  6 | Memorial Park |
+| **Girls Volleyball**      | 6th-8th gr  | $35 | Fridays  | 7-9pm    | Sept 21-Nov 16 | 8 | Lincoln School |
+| **Soccer Squirts**      | [unitedsocceracademy](http://unitedsocceracademy.com/)  | $125 | Fridays  | Varies | Sept 21-Nov 4 |    
 |---------|-----------|-----|-----|------|-------------|------------------|-------------------|----------|
 {: .hover-table .recreation-table}
 
