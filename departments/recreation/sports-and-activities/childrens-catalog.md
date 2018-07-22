@@ -36,8 +36,7 @@ Currently, payment for programs must be made in person or mailed to the Recreati
 | **Wrestling**      | 2nd-8th gr  | $75 | Tues and Thurs  | 6-7:30pm    | Dec-Feb |    | 10 wks | School Gyms |
 | **Tennis Lessons**      | K-8th gr  | $60 | Sundays  | Varies    | Sept 23-Oct 28 |    | 6 | Memorial Park |
 | **Girls Volleyball**      | 6th-8th gr  | $35 | Fridays  | 7-9pm    | Sept 21-Nov 16 |    | 8 | Lincoln School |
-| **Soccer Squirts**      | [www.unitedsocceracademy.com](http://unitedsocceracademy.com/)  | $125 | Fridays  | Varies    | Sept 21-Nov 4 |    |  |  |
-
+| **Soccer Squirts**      | [unitedsocceracademy](http://unitedsocceracademy.com/)  | $125 | Fridays  | Varies    | Sept 21-Nov 4 |    
 |---------|-----------|-----|-----|------|-------------|------------------|-------------------|----------|
 {: .hover-table .recreation-table}
 
