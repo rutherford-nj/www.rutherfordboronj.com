@@ -31,7 +31,7 @@ Citizen Finance
 
 Community Events
 
-Local Assistance Board
+[Local Assistance Board](/committees/local-assistance-board/)
 
 Downhill Derby
 
