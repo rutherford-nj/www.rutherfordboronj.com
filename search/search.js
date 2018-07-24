@@ -35,6 +35,8 @@ jQuery(function() {
   
   var runSearchFromHash = function() {
     var query = window.location.hash.substr(1);
+    query = window.decodeURI(query);
+
     // Get lunr to perform a search
     var results = window.idx.search(query);
     // Put search query into the DOM.
