@@ -24,7 +24,7 @@ fnunziato@rutherford-nj.com
 **Committee Assignments:**  
 Auxiliary Police
 
-Board of Health
+[Board of Health](/committees/board-of-health/)
 
 Crossing Guards
 
