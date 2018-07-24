@@ -35,6 +35,8 @@ jQuery(function() {
   
   var runSearchFromHash = function() {
     var query = window.location.hash.substr(1);
+    query = window.decodeURI(query);
+
     // Get lunr to perform a search
     var results = window.idx.search(query);
     // Put search query into the DOM.
@@ -43,7 +45,9 @@ jQuery(function() {
     display_search_results(results);
   };
   
-  $('#search_query').text(window.location.hash.substr(1));
+  var searchQueryText = window.location.hash.substr(1);
+  searchQueryText = window.decodeURI(searchQueryText);
+  $('#search_query').text(searchQueryText);
   
   // Initalize lunr with the fields it will be searching on.
   window.idx = lunr(function () {
