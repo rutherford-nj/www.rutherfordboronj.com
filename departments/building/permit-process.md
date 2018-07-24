@@ -11,13 +11,11 @@ Frank Recanati, Construction Official, Plumbing Subcode Official
 
 Keith Matino, Building Subcode Official
 
-Jack Wolfstirn, Fire Subcode Official
+Michael Hoffman, Fire Subcode Official
 
 Nicholas Lordo, Electrical Subcode Officical
 
-Robert Van Winkle, Code Enforcement Officer
-
-Michael Sartori, Interim Zoning Official
+Robert Van Winkle, Zoning and Code Enforcement Officer
 
 
 
