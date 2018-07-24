@@ -22,7 +22,7 @@ tmullahey@rutherford-nj.com
 {: style="clear: both;" }
 
 **Committee Assignments:**  
-Board of Education
+[Board of Education](https://www.rutherfordschools.org/boardofeducation/)
 
 Felician University
 
