@@ -22,7 +22,7 @@ enarucki@rutherford-nj.com
 {: style="clear: both;" }
 
 **Committee Assignments:**  
-Civil Rights Commission
+[Civil Rights Commission](/committees/civil-rights-commission/)
 
 [Green Team](/committees/green-team/) 
 
