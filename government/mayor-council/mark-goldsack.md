@@ -21,7 +21,7 @@ mgoldsack@rutherford-nj.com
 {: style="clear: both;" }
 
 **Committee Assignments:**  
-Board of Adjustment
+[Board of Adjustment](/committees/board-of-adjustment/)
 
 Community Quality of Life
 
@@ -31,4 +31,4 @@ Historic Preservation
 
 Public Information
 
-Shade Tree
+[Shade Tree](/committees/shade-tree-commission/)
