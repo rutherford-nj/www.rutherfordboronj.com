@@ -45,7 +45,9 @@ jQuery(function() {
     display_search_results(results);
   };
   
-  $('#search_query').text(window.location.hash.substr(1));
+  var searchQueryText = window.location.hash.substr(1);
+  searchQueryText = window.decodeURI(searchQueryText);
+  $('#search_query').text(searchQueryText);
   
   // Initalize lunr with the fields it will be searching on.
   window.idx = lunr(function () {
