@@ -27,6 +27,6 @@ Local Emergency Planning
 
 New Jersey Sports and Exposition Authority
 
-Planning Board
+[Planning Board](/committees/planning-board/)
 
 Streetscape Committee
