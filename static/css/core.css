@@ -1,6 +1,15 @@
+html {
+  background: #040000;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
 body {
   font-family: 'Roboto', sans-serif;
   margin: 0;
+  min-height: 100vh;
 }
 
 a, a:visited, a:hover, a:active {
@@ -58,7 +67,7 @@ h2 {
 
 .site-container {
   background: url("/static/images/website-background.jpg") no-repeat top center, #040000;
-  min-height: 800px;
+  min-height: calc(100vh - 152px);
 }
 
 .content-container {
