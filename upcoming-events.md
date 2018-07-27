@@ -3,6 +3,7 @@ layout: page
 title: 'Labor Day Street Fair 2018'
 ---
  
+## Upcoming Events for the Week of July 30 
 
 **• SUMMER CONCERTS at 8:00PM in Lincoln Park:**
 
