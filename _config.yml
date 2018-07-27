@@ -2,3 +2,5 @@
 exclude: [vendor]
 permalink: pretty
 future: false
+sass:
+    style: compressed
