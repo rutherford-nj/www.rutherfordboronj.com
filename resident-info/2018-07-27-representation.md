@@ -1,0 +1,20 @@
+---
+layout: page
+title: 'Houses of Worship'
+---
+
+## Rutherford’s Federal, State and County Representation:
+
+Rutherford is located in the 9th Congressional District and is part of New Jersey's 36th state legislative district.
+
+New Jersey's [Ninth Congressional District](https://en.wikipedia.org/wiki/New_Jersey%27s_9th_congressional_district) is represented by [Bill Pascrell](https://en.wikipedia.org/wiki/Bill_Pascrell) (D, Paterson).[81] New Jersey is represented in the United States Senate by Democrats Cory Booker ( Newark, term ends 2021) and Bob Menendez (Paramus, 2019).]
+
+For the 36th Legislative District of the New Jersey Legislature is represented in the State Senate by Paul Sarlo (D, Wood-Ridge) and in the General Assembly by Gary Schaer (D, Passaic) and Clinton Calabrese (D, Cliffside Park).] The Governor of New Jersey is Phil Murphy (D, Middletown Township).[89] The Lieutenant Governor of New Jersey is Sheila Oliver (D, East Orange).[90]
+
+Bergen County is governed by the County Executive James J. Tedesco III (D) of Paramus (term ends December 31, 2018).  Bergen County's Freeholders are Freeholder Chairman Thomas J. Sullivan Jr., (D, Montvale, term as freeholder ends 2019; term as freeholder chairman ends 2018), Freeholder Vice-Chairwoman Germaine M. Ortiz (D, Emerson, term as freeholder ends 2019; term as freeholder vice-chairwoman ends 2018), Freeholder Chairman Pro-Tempore Mary J. Amoroso (D, Mahwah, term as freeholder ends 2019; term as freeholder chairman pro-tempore ends 2018),[96] David L. Ganz (D, Fair Lawn, 2020), Steve Tanelli (D, North Arlington, 2018), Joan Voss (D, Fort Lee, 2020) and Tracy Silna Zur (D, Franklin Lakes, 2018), Bergen County's constitutional officials are County Clerk John S. Hogan (D, Northvale, 2021),[Sheriff Michael Saudino (D, Emerson, 2019)[105][106] and Surrogate Michael R. Dressler (D, Cresskill, 2021).
+
+ 
+
+State of New Jersey: https://nj.gov/
+
+County of Bergen: https://www.co.bergen.nj.us/
