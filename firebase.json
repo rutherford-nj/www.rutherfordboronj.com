@@ -3,6 +3,17 @@
     "public": "_site",
     "ignore": [
       "firebase.json"
-    ]
+    ],
+    "headers": [
+      {
+        "source": "**",
+        "headers": [
+          {
+            "key": "Cache-Control",
+            "value": "max-age=2"
+          }
+        ]
+      }
+    ], 
   }
 }
