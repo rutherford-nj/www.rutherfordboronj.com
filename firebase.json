@@ -14,6 +14,13 @@
           }
         ]
       }
+    ],
+    "redirects": [
+      {
+        "source": "/contacts/",
+        "destination": "/departments/",
+        "type": 301
+      }
     ]
   }
 }
