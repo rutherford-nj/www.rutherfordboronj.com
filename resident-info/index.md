@@ -21,6 +21,7 @@ title: 'Resident Information'
   <li><a href="/departments/social-services/">Social Services</a></li>
   <li><a href="seniors/">Seniors</a></li>
   <li><a href="transportation/">Transportation</a></li>
+  <li><a href="nj-representation/">County and State Officials</a></li>
 </ul>
 <ul>
   <li><a href="/departments/public-works/">Garbage &amp; Recycling Information</a></li>
