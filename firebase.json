@@ -2,15 +2,19 @@
   "hosting": {
     "public": "_site",
     "ignore": [
-      "firebase.json"
+      "firebase.json",
+      "Gemfile",
+      "Gemfile.lock",
+      "README.md",
+      "scripts"
     ],
     "headers": [
       {
-        "source": "**",
+        "source": "**/*.@(jpg|jpeg|gif|png)",
         "headers": [
           {
             "key": "Cache-Control",
-            "value": "max-age=2"
+            "value": "max-age=31536000"
           }
         ]
       }

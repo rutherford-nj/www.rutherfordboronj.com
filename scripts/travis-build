@@ -7,16 +7,5 @@ if [[ "$TRAVIS_BRANCH" != "www" ]]; then
   cp ./_site/robots.txt.template ./_site/robots.txt
 fi
 
-# Clean up configuration files before deploy
-rm ./_site/robots.txt.template
-rm ./_site/Gemfile
-rm ./_site/Gemfile.lock
-rm ./_site/README.md
-
-# Run URL change script then delete the scripts directory before deploy
-cd _site
-rm -rf scripts
-cd ..
-
 # Test the site
 bundle exec htmlproofer ./_site --only-4xx --check-favicon --check-html --disable-external
