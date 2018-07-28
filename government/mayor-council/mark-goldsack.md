@@ -12,7 +12,7 @@ parent: 'Mayor and Council'
 **Contact:**  
 201-460-3022
 
-mgoldsack@rutherford-nj.com
+mgoldsack@rutherfordboronj.com
 
 **Term of Office**  
 1/1/17 to 12/31/19

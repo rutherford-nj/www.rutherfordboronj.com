@@ -8,7 +8,7 @@ parent: 'Recreation'
 <a href="adult-catalog/"><img src="adultssports.png" alt="Adults' Sports"></a>
 
 
-[2018 Summer Sports Camps](https://www.rutherford-nj.com/departments/recreation/sports-and-activities/2018-sports-camps/)
+[2018 Summer Sports Camps](/departments/recreation/sports-and-activities/2018-sports-camps/)
 
 
 **The Recreation Department is proud to partner with the following organizations that offer programs for Rutherford Residents:** 

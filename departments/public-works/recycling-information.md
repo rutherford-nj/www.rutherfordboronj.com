@@ -33,7 +33,7 @@ Items that may be dropped off are:
 **E-Waste** – Curbside scheduled pick-up on Thursdays. Items collected are Computers, TV/VCR, Laptops, Printers, Speakers, DVD, Cell Phones, Keyboards, Monitors, Printers, & Speakers. Call the DPW to schedule a pickup at 201 460-3000 x4000.  
 Or you may drop them off at the Bergen County Utilities Authority in Moonachie, 5 days a week! Check their web site for information [(www.bcua.org)](http://www.bcua.org/) or call 201 807-5825
 
-**Medications** – Should not be disposed of as household waste or flushed. The Rutherford Police Department holds semi-annual Take Back days to collect all expired medication and prescription drugs. See [www.rutherford-nj.com/departments/police/additional-services/](http://www.rutherford-nj.com/departments/police/additional-services/) or call 201-939- 6000 for dates and further information.
+**Medications** – Should not be disposed of as household waste or flushed. The Rutherford Police Department holds semi-annual Take Back days to collect all expired medication and prescription drugs. See [www.rutherfordboronj.com/departments/police/additional-services/](/departments/police/additional-services/) or call 201-939- 6000 for dates and further information.
 
 **Confidential Papers** - The DPW hosts an annual shredding event performed by a bonded and insured shredding company. This service is generaly in June but check the borough calendar for specific date and location
 

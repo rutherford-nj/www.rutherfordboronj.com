@@ -12,7 +12,7 @@ parent: 'Mayor and Council'
 **Contact:**  
 201-460-3022
 
-tmullahey@rutherford-nj.com
+tmullahey@rutherfordboronj.com
 
 **Term of Office**  
 
