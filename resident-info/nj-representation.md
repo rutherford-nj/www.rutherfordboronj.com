@@ -19,5 +19,7 @@ The Governor of New Jersey is Phil Murphy (D, Middletown Township). The Lieutena
 
 Bergen County is governed by the County Executive James J. Tedesco III (D) of Paramus (term ends December 31, 2018).  
 
-Bergen County's Freeholders are Freeholder Chairman Thomas J. Sullivan Jr., (D, Montvale, term as freeholder ends 2019; term as freeholder chairman ends 2018), Freeholder Vice-Chairwoman Germaine M. Ortiz (D, Emerson, term as freeholder ends 2019; term as freeholder vice-chairwoman ends 2018), Freeholder Chairman Pro-Tempore Mary J. Amoroso (D, Mahwah, term as freeholder ends 2019; term as freeholder chairman pro-tempore ends 2018), David L. Ganz (D, Fair Lawn, 2020), Steve Tanelli (D, North Arlington, 2018), Joan Voss (D, Fort Lee, 2020) and Tracy Silna Zur (D, Franklin Lakes, 2018), Bergen County's constitutional officials are County Clerk John S. Hogan (D, Northvale, 2021), Sheriff Michael Saudino (D, Emerson, 2019) and Surrogate Michael R. Dressler (D, Cresskill, 2021).
+Bergen County's Freeholders are Freeholder Chairman Thomas J. Sullivan Jr., (D, Montvale, term as freeholder ends 2019; term as freeholder chairman ends 2018), Freeholder Vice-Chairwoman Germaine M. Ortiz (D, Emerson, term as freeholder ends 2019; term as freeholder vice-chairwoman ends 2018), Freeholder Chairman Pro-Tempore Mary J. Amoroso (D, Mahwah, term as freeholder ends 2019; term as freeholder chairman pro-tempore ends 2018), David L. Ganz (D, Fair Lawn, 2020), Steve Tanelli (D, North Arlington, 2018), Joan Voss (D, Fort Lee, 2020) and Tracy Silna Zur (D, Franklin Lakes, 2018).
+
+Bergen County's constitutional officials are County Clerk John S. Hogan (D, Northvale, 2021), Sheriff Michael Saudino (D, Emerson, 2019) and Surrogate Michael R. Dressler (D, Cresskill, 2021).
 
