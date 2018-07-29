@@ -6,11 +6,17 @@
   <title>{% if page.title and page.title != '07070' %}{{page.title | escape}} | {% endif %}The Borough of Rutherford, New Jersey</title>
   <meta charset='UTF-8'/>
   <meta name="theme-color" content="#036">
-  <meta property="og:image" content="https://www.rutherford-nj.com/static/images/boroughfacebookicon.jpg" />
+  <meta property="og:image" content="https://www.rutherfordboronj.com/static/images/boroughfacebookicon.jpg" />
   <script src="//ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
   <link href="/static/site.css?zx={{ "now" | date: "%s" }}" rel="stylesheet" type="text/css" />
   <link href='//fonts.googleapis.com/css?family=Roboto:400,700,900' rel='stylesheet' type='text/css' />
   <link rel="shortcut icon" href="/favicon.ico" />
+  <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/gh/kenwheeler/slick@1.8.1/slick/slick.css"/>
+  <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/gh/kenwheeler/slick@1.8.1/slick/slick-theme.css"/>
+  {% if page.redirect %}
+    <meta http-equiv=refresh content="0; url={{ page.redirect }}" />
+    <meta name="robots" content="noindex,follow" />
+  {% endif %}
 </head>
 <body>
 <div id="fb-root"></div>
@@ -33,7 +39,7 @@
   <div class="header">
     <div class="header-container">
       <a href="/">
-        <img src="/static/images/borough-logo.jpg" alt="Borough Logo" />
+        <img src="/static/images/borough-logo.png" alt="Borough Logo" />
       </a>
       <div class="header-right">
         <div class="header-search">
@@ -41,14 +47,15 @@
           <input type="button" value="Search" id="search_button">
         </div>
         <div class="homepage-header-right">
-          <div><a href="/committees/" style="color: #767676">Committees</a></div>
+          <div><a href="/committees/" style="color: #CCC">Committees</a></div>
           <div>|</div>
-          <div><a href="/departments/" style="color: #767676">Departments</a></div>
+          <div><a href="/departments/" style="color: #CCC">Departments</a></div>
           <div>|</div>
-          <div id="contact-link"><a href="/contacts/">Contacts</a></div>
+          <div><a href="/government/mayor-council/" style="color: #CCC">Elected Officials</a></div>
         </div>
       </div>
     </div>
+    <div class="header-transition"></div>
   </div>
   <div id="dynamic-field" class="dynamic-message-hidden"></div>
   <div class='site-container'>
@@ -56,5 +63,6 @@
       {{content}}
     </div>
   </div>
+  <script type="text/javascript" src="//cdn.jsdelivr.net/gh/kenwheeler/slick@1.8.1/slick/slick.min.js"></script>
   <script src="/static/site.js?zx={{ "now" | date: "%s" }}"></script>
 </body>

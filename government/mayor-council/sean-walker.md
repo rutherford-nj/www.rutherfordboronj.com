@@ -12,7 +12,7 @@ parent: 'Mayor and Council'
 **Contact:**  
 201-460-3022
 
-swalker@rutherford-nj.com
+swalker@rutherfordboronj.com
 
 **Term of Office**  
 1/1/16 to 12/31/18
@@ -27,6 +27,6 @@ Local Emergency Planning
 
 New Jersey Sports and Exposition Authority
 
-Planning Board
+[Planning Board](/committees/planning-board/)
 
 Streetscape Committee

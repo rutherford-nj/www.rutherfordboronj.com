@@ -12,7 +12,7 @@ parent: 'Mayor and Council'
 **Contact:**  
 201-460-3022
 
-tmullahey@rutherford-nj.com
+tmullahey@rutherfordboronj.com
 
 **Term of Office**  
 
@@ -22,7 +22,7 @@ tmullahey@rutherford-nj.com
 {: style="clear: both;" }
 
 **Committee Assignments:**  
-Board of Education
+[Board of Education](https://www.rutherfordschools.org/boardofeducation/)
 
 Felician University
 

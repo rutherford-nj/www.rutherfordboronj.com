@@ -12,7 +12,7 @@ parent: 'Mayor and Council'
 **Contact:**  
 201-460-3022
 
-smcgowan@rutherford-nj.com
+smcgowan@rutherfordboronj.com
 
 **Term of Office**  
 1/1/18 to 12/31/20
@@ -31,7 +31,7 @@ Citizen Finance
 
 Community Events
 
-Local Assistance Board
+[Local Assistance Board](/committees/local-assistance-board/)
 
 Downhill Derby
 

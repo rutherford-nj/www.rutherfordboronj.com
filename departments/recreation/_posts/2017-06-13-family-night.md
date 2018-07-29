@@ -21,7 +21,7 @@ Rutherford students will also have a night free of homework.
 Organized by the Rutherford Recreation Department.
 
 
-Please email barbarab@rutherford-nj.com
+Please email barbarab@rutherfordboronj.com
 to share how you spent Family Night!
 
 

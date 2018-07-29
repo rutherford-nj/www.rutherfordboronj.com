@@ -1,11 +1,24 @@
-- src: https://storage.googleapis.com/static.rutherford-nj.com/homepage-images/borough-hall-2018.jpg
+- src: /static/images/homepage-photos/borough_hall.jpg
   alt: Borough Hall
 
-- src: https://storage.googleapis.com/static.rutherford-nj.com/homepage-images/train-station.jpg
-  alt: Train Station
+- src: /static/images/homepage-photos/bandshell.jpg
+  alt: Band Shell
 
-- src: https://storage.googleapis.com/static.rutherford-nj.com/homepage-images/borough-hall.jpg
-  alt: Borough Hall
+- src: /static/images/homepage-photos/firefighter_park.jpg
+  alt: Firefighter Park
 
-- src: https://storage.googleapis.com/static.rutherford-nj.com/homepage-images/cannon.jpg
-  alt: Lincoln Park Cannon
+- src: /static/images/homepage-photos/playspot.jpg
+  alt: Playspot
+
+- src: /static/images/homepage-photos/presbyterian.jpg
+  alt: Presbyterian Church
+
+- src: /static/images/homepage-photos/tryon_field.jpg
+  alt: Tryon Field
+
+- src: /static/images/homepage-photos/williams_center.jpg
+  alt: Williams Center
+
+- src: /static/images/homepage-photos/ww1_monument.jpg
+  alt: World War 1 Monument
+  

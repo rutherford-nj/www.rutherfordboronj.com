@@ -6,7 +6,7 @@ event: true
 
 [2018 Multicultural Festival Flyer](https://storage.googleapis.com/static.rutherford-nj.com/committees/civil-rights/multicultural_May20.pdf)
 
-Visit the Civil Rights Commission's page for more information: [www.rutherfordtogether.com](https://www.rutherford-nj.com/committees/civil-rights-commission/)
+Visit the Civil Rights Commission's page for more information: [www.rutherfordtogether.com](/committees/civil-rights-commission/)
 
 Due to the weather forecast, the 15th Annual Rutherford Multicultural Festival will be held on its rain date of
 

@@ -17,6 +17,6 @@ Visitors are reminded to bring lawn chairs or blankets for their own comfort. Fo
  
 Tryon Field will be closed starting June 21 for turf and track replacement and will remain closed through early September.  For our festivities, Memorial Park, will close at 10:00 AM on the day of the event. Since streets will be closed for the celebration, residents are discouraged from travelling to the site via automobile.  A non-vehicle traffic perimeter will be established from Grand Avenue and West Erie Avenue, extending south to Hobart Avenue and west on Hobart Avenue to Riverside Avenue.  Handicapped parking will be available on West Erie Avenue (from Jackson to Grand Avenues) on the north side of the street by the community garden. 
  
-For event updates, refer back to the Borough Website (www.rutherford-nj.com) or call the Event Hotline at 201-460-3017.  In the event of inclement weather, please refer to www.rutherford-nj.com for a rescheduled date. 
+For event updates, refer back to the Borough Website (www.rutherfordboronj.com) or call the Event Hotline at 201-460-3017.  In the event of inclement weather, please refer to www.rutherfordboronj.com for a rescheduled date. 
 
 While visiting the Borough’s web site residents are encouraged to sign up for emergency notifications and other important Borough notifications through the Swift911 and Nixle notification systems. Links to sign up for Swift911 and Nixle are available on the home page of the Borough’s web site.

@@ -13,7 +13,7 @@ parent: 'Mayor and Council'
 **Contact:**  
 201-460-3022
 
-enarucki@rutherford-nj.com
+enarucki@rutherfordboronj.com
 
 **Term of Office**  
 1/1/18 to 12/31/20
@@ -22,7 +22,7 @@ enarucki@rutherford-nj.com
 {: style="clear: both;" }
 
 **Committee Assignments:**  
-Civil Rights Commission
+[Civil Rights Commission](/committees/civil-rights-commission/)
 
 [Green Team](/committees/green-team/) 
 
