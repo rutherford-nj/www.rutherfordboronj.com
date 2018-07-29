@@ -5,7 +5,7 @@ title: 'NJ Representation'
 
 ## Rutherford’s Federal, State and County Representation:
 
-Rutherford is located in the 9th Congressional District and is part of New Jersey's 36th state legislative district.
+**Rutherford is located in the 9th Congressional District and is part of New Jersey's 36th state legislative district.**
 
 New Jersey's [Ninth Congressional District](https://en.wikipedia.org/wiki/New_Jersey%27s_9th_congressional_district) is represented by Bill Pascrell (D, Paterson). New Jersey is represented in the United States Senate by Democrats Cory Booker ( Newark, term ends 2021) and Bob Menendez (Paramus, 2019).
 
