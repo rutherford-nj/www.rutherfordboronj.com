@@ -19,7 +19,7 @@ The Governor of New Jersey is Phil Murphy (D, Middletown Township). The Lieutena
 
 Bergen County is governed by the County Executive James J. Tedesco III (D) of Paramus (term ends December 31, 2018).  
 
-[**Bergen County's Freeholders**](http://nj-bergencounty.civicplus.com/740/Freeholder-Board)
+**Bergen County Freeholders:** [nj-bergencounty.civicplus.com](http://nj-bergencounty.civicplus.com/740/Freeholder-Board)
 
 Bergen County's constitutional officials are County Clerk John S. Hogan (D, Northvale, 2021), Sheriff Michael Saudino (D, Emerson, 2019) and Surrogate Michael R. Dressler (D, Cresskill, 2021).
 
