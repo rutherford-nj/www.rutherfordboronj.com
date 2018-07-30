@@ -16,7 +16,6 @@ branches:
   only:
   - www
   - beta
-  - july2018
 
 env:
   global:
@@ -30,6 +29,7 @@ deploy:
   project: rutherford-nj
   local-dir: _site
   on:
+    repo: rutherford-nj/www.rutherfordboronj.com
     branch: www
 - provider: firebase
   token:
@@ -38,6 +38,7 @@ deploy:
   project: rutherford-nj-beta-site
   local-dir: _site
   on:
+    repo: rutherford-nj/www.rutherfordboronj.com
     all_branches: true
 
 notifications:
