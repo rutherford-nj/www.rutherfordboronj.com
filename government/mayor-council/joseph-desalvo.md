@@ -20,9 +20,8 @@ jdesalvo@rutherfordboronj.com
 1/1/09 to 12/31/11 (Councilman)
 
 **Committee Assignments:**  
-Economic Development
 
-Williams Center Advisory
+Economic Development
 
 World War I Monument
 {: style="clear: both;" }
