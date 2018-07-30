@@ -7,6 +7,8 @@ title: 'Borough Codes & Ordinances'
 
 ## Recently Adopted Borough Codes and Ordinances:
 
+[Ordinance No. 3469-18 - Amendment to Chapter 70-24](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3469-18%20Amendment%20to%20Chapter%2070-24.pdf)
+
 [Ordinance No. 3467-18 - Establishing Handicap Space Wilson Field](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3467-18%2055%20establishing%20handicap%20space%20-%20Wilson%20Ave%20.pdf)
 
 [Ordinance No. 3466-18 - Establishing Handicap Spaces Memorial Field](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3466-18%20establishing%20handicap%20spaces%20-%20Memorial%20Field.pdf)
