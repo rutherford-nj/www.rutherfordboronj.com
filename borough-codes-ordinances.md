@@ -8,9 +8,9 @@ title: 'Borough Codes & Ordinances'
 ## Recently Adopted Borough Codes and Ordinances:
 
 
-[Ordinance No. 3465-18 - Amendment to Section 81-9](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3464-18%20Amend%20Chapter%205%20-%20Signatures%20for%20Purchases.pdf)
-
 [Ordinance No. 3464-18 - Amendment to Chapter 5](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3464-18%20Amend%20Chapter%205%20-%20Signatures%20for%20Purchases.pdf)
+
+[Ordinance No. 3465-18 - Amendment to Section 81-9](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3465-18%20Amendment%20to%20Section%2081-9%20-%20Bidding%20Prodedure.pdf)
 
 [Ordinance No. 3469-18 - Amendment to Chapter 70-24](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3469-18%20Amendment%20to%20Chapter%2070-24.pdf)
 
