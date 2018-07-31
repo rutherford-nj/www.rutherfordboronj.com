@@ -10,9 +10,7 @@ Rutherford Police Department presents
 
 **National Night Out 2018**
 
-**Tuesday, August 7th**
-
-**6 PM to 9 PM**
+**Tuesday, August 7th  •  6 PM to 9 PM**
 
 **Lincoln Park**
 
@@ -28,6 +26,7 @@ Volunteer Fire Department, and many others.
 • FREE rides for children, DJ and refreshments
 
 • Hometown Heroes with their vehicles and equipment
+
 • B.C.P.O. Fatal Accident Investigation Unit Task Force
 
 • Bergen County Prosecutor’s Office
