@@ -20,12 +20,29 @@ National Night Out enhances the relationship between community
 members and law enforcement while bringing back a true sense of
 community. 
 
-• Get to know your hometown heroes.
+Turn on your porch light and join your neighbors and emergency
+personnel for a free evening of fun for all ages with your
+Hometown Heroes: Police, Volunteer Ambulance Corp.,
+Volunteer Fire Department, and many others.
 
-• Free activities for children.
+• FREE rides for children, DJ and refreshments
 
-It will be a fun filled night for police and community
-members of all ages that will strengthen community camaraderie.
+• Hometown Heroes with their vehicles and equipment
+• B.C.P.O. Fatal Accident Investigation Unit Task Force
+
+• Bergen County Prosecutor’s Office
+
+• Bergen County Sheriff’s Department K-9
+
+• Community Organization Tables
+
+• LEAD (Law Enforcement Against Drugs) Instructors from Rutherford Police Department (Grade: 6)
+
+• New Jersey Transit Police Department
+
+• Westfield Army National Guard - NJ
+
+• Wrestling Superstars of Rescue Mania
 
 Follow us for updates [@RutherfordPDNJ](https://twitter.com/RutherfordPDNJ) #NNORutherford2018
 
