@@ -16,12 +16,12 @@ h1 {
   display: inline;
 }
 
-a, a:visited, a:hover, a:active {
-  color: #036;
-}
-
 h2 {
   color: #767676;
+}
+
+a, a:visited, a:hover, a:active {
+  color: #036;
 }
 
 #dynamic-field {
@@ -69,6 +69,25 @@ h2 {
   float: right;
 }
 
+.header-right-links {
+  bottom: 5px;
+  position: absolute;
+  right: 0;
+  text-transform: uppercase;
+  
+  a {
+    color: inherit;
+    text-decoration: none;
+  }
+  
+  div {
+    color: #767676;
+    display: inline;
+    font-size: 110%;
+    margin: 0 5px;
+  }
+}
+
 .site-container {
   background: url("/static/images/website-background.jpg") no-repeat top center, #040000;
   min-height: calc(100vh - 152px);
@@ -80,23 +99,23 @@ h2 {
   padding: 10px;
   min-height: 800px;
   width: 1000px;
-}
-
-.content-container:after {
-  clear: both;
-  content: "";
-  display: table;
-}
-
-.hover-table td {
-  border-bottom: 1px solid #CCC;
-  padding: 10px;
-}
-
-.hover-table tbody > tr:hover {
-  background-color: #F5F5F5;
+  
+  &:after {
+    clear: both;
+    content: "";
+    display: table;
+  }
 }
 
 .hover-table {
   border-spacing: 0;
+  
+  td {
+    border-bottom: 1px solid #CCC;
+    padding: 10px;
+  }
+  
+  tr:hover {
+    background-color: #F5F5F5;
+  }
 }

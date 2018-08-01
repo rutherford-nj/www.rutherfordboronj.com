@@ -1,12 +1,12 @@
 .page-content {
   line-height: 1.6;
   margin: 35px;
-}
-
-.page-content:after {
-  clear: both;
-  content: "";
-  display: table;
+  
+  &:after {
+    clear: both;
+    content: "";
+    display: table;
+  }
 }
 
 .page-contact-info {
@@ -41,10 +41,6 @@
   margin-bottom: 35px;
 }
 
-.page-description > div {
-  margin-bottom: 20px;
-}
-
 .page-link-bar {
   color: #036;
   font-size: 150%;
@@ -52,14 +48,15 @@
   text-transform: uppercase;
 }
 
-.page-link-bar a {
-  color: inherit;
-  text-decoration: none;
-}
-
-.page-link-bar > div {
-  display: inline;
-  margin: 0 8px;
+.page-link-bar {
+  a {
+    color: inherit;
+    text-decoration: none;
+  }
+  > div {
+    display: inline;
+    margin: 0 8px;
+  }
 }
 
 .page-right {
@@ -70,14 +67,15 @@
 
 .page-description {
   line-height: 1.5;
+  
+  > div {
+  	margin-bottom: 20px;
+  }
 }
 
 .page-gradient-box {
   background-color: #DDD;
-  background-image:
-    linear-gradient(
-      #EEE, #CCC
-    );
+  background-image: linear-gradient(#EEE, #CCC);
   color: #036;
   font-size: 125%;
   line-height: 1;
@@ -85,19 +83,17 @@
   padding: 10px;
   text-transform: uppercase;
   width: 350px;
-}
-
-.page-gradient-box > div:not(:last-child) {
-  border-bottom: 1px solid #FFF;
-}
-
-.page-gradient-box > div {
-  padding: 15px 0;
-}
-
-.page-gradient-box a {
-  color: inherit;
-  text-decoration: none;
+  
+  a {
+    color: inherit;
+    text-decoration: none;
+  }
+  > div {
+    padding: 15px 0;
+  }
+  > div:not(:last-child) {
+    border-bottom: 1px solid #FFF;
+  } 
 }
 
 .page-news-and-updates {
@@ -106,24 +102,24 @@
   padding: 12px 12px 24px 12px;
   position: relative;
   width: 344px;
-}
-
-.page-news-and-updates > div:first-child, .page-news-and-updates > div:last-child {
-  color: #700;
-  font-size: 150%;
-  font-weight: 700;
-  text-transform: uppercase;
-}
-
-.page-news-and-updates > div:last-child {
-  bottom: 12px;
-  font-size: 100%;
-  position: absolute;
-}
-
-.page-news-and-updates > div:last-child a {
-  color: inherit;
-  text-decoration: inherit;
+  
+  > div:first-child, > div:last-child {
+    color: #700;
+    font-size: 150%;
+    font-weight: 700;
+    text-transform: uppercase;
+  }
+  
+  > div:last-child {
+    bottom: 12px;
+    font-size: 100%;
+    position: absolute;
+    
+    a {
+      color: inherit;
+      text-decoration: inherit;
+    }
+  }
 }
 
 .page-post-date {
