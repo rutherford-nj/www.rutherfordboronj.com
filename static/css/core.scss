@@ -115,7 +115,7 @@ a, a:visited, a:hover, a:active {
     padding: 10px;
   }
   
-  tr:hover {
+  tbody > tr:hover {
     background-color: #F5F5F5;
   }
 }
