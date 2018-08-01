@@ -2,6 +2,8 @@
 ---
 {% include_relative css/core.scss %}
 
+{% include_relative css/header.scss %}
+
 {% include_relative css/homepage.scss %}
 
 {% include_relative css/page.scss %}
@@ -9,3 +11,5 @@
 {% include_relative css/interior-page.scss %}
 
 {% include_relative css/recreation.scss %}
+
+{% include_relative css/hover-table.scss %}

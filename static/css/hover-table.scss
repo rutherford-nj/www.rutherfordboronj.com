@@ -1,0 +1,12 @@
+.hover-table {
+  border-spacing: 0;
+  
+  td {
+    border-bottom: 1px solid #CCC;
+    padding: 10px;
+  }
+  
+  tbody > tr:hover {
+    background-color: #F5F5F5;
+  }
+}
