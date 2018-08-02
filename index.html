@@ -41,7 +41,7 @@ title: '07070'
     {%- for post in site.posts -%}
       {%- unless post.pinned -%}
         {%- assign count = count | plus: 1 -%}
-        {%- if count < 7 -%}
+        {%- if count < 10 -%}
           {%- include homepage_post.html post=post -%}
         {%- endif -%}
       {%- endunless -%}

@@ -3,9 +3,6 @@
   <div class="page-post-links">
   {% for post in include.posts limit:5 %}
     <div class="page-post-link">
-      <div class="page-post-date">
-        {{ post.date | date: "%b %Y" }}
-      </div>
       <div class="page-post-title">
         <a href="{{ post.url }}">{{ post.title }}</a>
       </div>
