@@ -13,9 +13,9 @@ window._apiKey = 'AIzaSyAs9FnRPKnmxCSkBcEjMo3bXhiU0OXAnqs';
 
 {% include_relative js/spreadsheet-content.js %}
 
-{% include_relative js/homepage_rotate.js %}
+{% include_relative js/homepage-rotate.js %}
 
-{% include_relative js/community_outreach_toc.js %}
+{% include_relative js/community-outreach-toc.js %}
   
 });
 
