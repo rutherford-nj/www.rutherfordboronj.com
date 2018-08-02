@@ -25,7 +25,7 @@ a, a:visited, a:hover, a:active {
 }
 
 #dynamic-field {
-  color: white;
+  color: #FFF;
   font-size: 200%;
   text-align: center;
 }
@@ -44,10 +44,10 @@ a, a:visited, a:hover, a:active {
 }
 
 .content-container {
-  background: white;
+  background: #FFF;
   margin: auto;
-  padding: 10px;
   min-height: 800px;
+  padding: 10px;
   width: 1000px;
   
   &:after {
