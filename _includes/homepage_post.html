@@ -1,15 +1,11 @@
-      <div class="page-post-link">
-        {% for category in include.post.categories %}
-          {% if category != 'departments' and category != 'community-events' %}
-            <div class="page-post-icon" style="background-image: url(/departments/{{category}}/icon.png)"></div>
-          {% endif %}
-          {% if category == 'community-events' %}
-            <div class="page-post-icon" style="background-image: url(/community-events/icon.png)"></div>
-          {% endif %}
-        {% endfor %}
-        <div class="page-post-words">
-          <div class="page-post-title">
-            <a href="{{ post.url }}">{{ include.post.title }}</a>
-          </div>
-        </div>
-      </div>
+<div class="page-post-link">
+  {% for category in include.post.categories %}
+    {% if category != 'departments' and category != 'community-events' %}
+      <img class="page-post-icon" src="/departments/{{category}}/icon.png" />
+    {% endif %}
+    {% if category == 'community-events' %}
+      <img class="page-post-icon" src="/community-events/icon.png" />
+    {% endif %}
+  {% endfor %}
+  <a href="{{ post.url }}">{{ include.post.title }}</a>
+</div>
