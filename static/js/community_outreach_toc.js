@@ -17,7 +17,6 @@ $('.interior-page-content > h2').each(function() {
 });
 
 tocHtml += "</ol>";
-console.log(tocHtml);
 
 $(tocHtml).appendTo($('#community-outreach-toc'));
 
