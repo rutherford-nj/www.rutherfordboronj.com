@@ -1,10 +1,10 @@
 <div class="page-post-link">
   {% for category in include.post.categories %}
     {% if category != 'departments' and category != 'community-events' %}
-      <img class="page-post-icon" src="/departments/{{category}}/icon.png" />
+      <img alt="{{category}} post" class="page-post-icon" src="/departments/{{category}}/icon.png" />
     {% endif %}
     {% if category == 'community-events' %}
-      <img class="page-post-icon" src="/community-events/icon.png" />
+      <img alt="community events post" class="page-post-icon" src="/community-events/icon.png" />
     {% endif %}
   {% endfor %}
   <a href="{{ post.url }}">{{ include.post.title }}</a>
