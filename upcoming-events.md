@@ -14,7 +14,7 @@ title: 'Labor Day Street Fair 2018'
 
  
 
-**Free Yoga in Lincoln Park as part of the Mayor’s Wellness Campaign••
+**Free Yoga in Lincoln Park as part of the Mayor’s Wellness Campaign**
 
 •  August 4th at 8:00am
 
@@ -34,7 +34,7 @@ Visit your hometown heroes, free rides & refreshments
 
  
 
-**Fall Childrens Registration is open!** [Click here to see catalog](/sports-and-activities/childrens-catalog/)
+**Fall Childrens Registration is open!** [Click here to see catalog](/recreation/sports-and-activities/childrens-catalog/)
 
  
 
