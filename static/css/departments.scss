@@ -1,0 +1,18 @@
+#department-address {
+  font-weight: 700;
+  text-align: center;
+}
+
+#department-table {
+  border-spacing: 0;
+  margin: 20px auto;
+
+  td {
+    border-bottom: 1px solid #CCC;
+    padding: 10px;
+  }
+
+  tr:nth-child(even) {
+    background-color: #F5F5F5;
+  }
+}
