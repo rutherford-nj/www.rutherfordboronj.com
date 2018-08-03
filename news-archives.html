@@ -13,16 +13,16 @@ title: News Archives
   {% if year != lyear %}
     <h3>{{ post.date | date: '%Y' }}</h3>
   {% endif %}
-  <div style="height: 60px; position: relative;">
+  <div class="page-post-link">
     {% for category in post.categories %}
       {% if category != 'departments' and category != 'community-events' %}
-        <div class="page-post-icon" style="background-image: url(/departments/{{category}}/icon.png)"></div>
+        <img alt="{{category}} post" class="page-post-icon" src="/departments/{{category}}/icon.png" />
       {% endif %}
       {% if category == 'community-events' %}
-        <div class="page-post-icon" style="background-image: url(/community-events/icon.png)"></div>
+        <img alt="community events post" class="page-post-icon" src="/community-events/icon.png" />
       {% endif %}
     {% endfor %}
-    <div style="padding-left: 84px;">{{ post.date | date:"%b %d" }} - <a href="{{ post.url }}">{{ post.title }}</a></div>
+    <div>{{ post.date | date:"%b %d" }} - <a href="{{ post.url }}">{{ post.title }}</a></div>
   </div>
   {% capture lyear %}{{ post.date | date: '%Y' }}{% endcapture %}
 {% endfor %}
