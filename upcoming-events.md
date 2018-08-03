@@ -34,7 +34,7 @@ Visit your hometown heroes, free rides & refreshments
 
  
 
-**Fall Childrens Registration is open!** [Click here to see catalog](/recreation/sports-and-activities/childrens-catalog/)
+**Fall Childrens Registration is open!** [Click here to see catalog](/departments/recreation/sports-and-activities/childrens-catalog/)
 
  
 
