@@ -41,13 +41,14 @@ Visit your hometown heroes, free rides & refreshments
 **Adult Registrations:**
 
  
-AM Aerobics – 5:45am – 6:45am (Tuesdays & Fridays)
+• AM Aerobics – 5:45am – 6:45am (Tuesdays & Fridays)
 
 1 day: $40.00/ 2 days: $80.00
 
 At Tamblyn Field Civic Center
  
+ 
 
-Sunrise Yoga - 9:00am (Tuesdays & Thursdays)
+• Sunrise Yoga - 9:00am (Tuesdays & Thursdays)
 
 1 day: $40.00/ 2 days: $80.00
