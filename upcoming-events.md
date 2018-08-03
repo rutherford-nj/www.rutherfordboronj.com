@@ -3,44 +3,51 @@ layout: page
 title: 'Labor Day Street Fair 2018'
 ---
  
-## Upcoming Events for the Week of July 30 
+## Upcoming Events for the Week of August 6 
 
-**• SUMMER CONCERTS at 8:00PM in Lincoln Park:**
 
-August 2nd—Big House & Trailer Park Mafia (Classic Rock/80’s Metal)
+**Summer Concerts in Lincoln Park at 8:00pm**
 
-**• LAST DAY of our 6 Week Recreation Summer Day Camp is August 3rd!**
+•  August 9th – String Theory (classic rock)
 
-**• FREE Yoga in Lincoln Park as part of the Mayor’s Wellness campaign**
+•  August 16th – Anthony Liquori & Blue Smoke (Elvis tribute)
 
-Saturday Morning at 8:00 AM:
+ 
 
-August 4th
+**Free Yoga in Lincoln Park as part of the Mayor’s Wellness Campaign••
 
-**• Ladies Fall Volleyball Sign-ups have started.**
+•  August 4th at 8:00am
 
-All rosters and payments are due by August 24th , 2018.
+• August 11th at 8:00am – last day
 
-Teams with 10 or more current residents will pay $250.00
+ 
 
-Teams with less than 10 current residents will pay $350.00
+**National Night Out**
 
-There is limit of 16 teams in the league and priority will be given to teams from last year. (Must be at least 18 years old & post high school).There will be a captain’s meeting on September 5 th .
+Tuesday, August 7th
 
-**• First Touch Soccer Camp at Memorial Field: July 30th - August 3rd**
+6:00-9:00pm
 
-Email: first_touchsoccer@yahoo.com
+Lincoln Park
 
-**• Spina Baseball Camp at Memorial Field/Diamond 3: July 30th - August 2nd**
+Visit your hometown heroes, free rides & refreshments
 
-Email: spinabaseball@gmail.com
+ 
 
-**• Be a fan! Weeknights at Memorial Field check out the action:**
+**Fall Childrens Registration is open!** [Click here to see catalog](/sports-and-activities/childrens-catalog/)
 
-Adult Ladies Softball games Monday-Thursday from 6:30-9:30 at D1, 5 & 6
+ 
 
-Co-Ed Adult Volleyball games Tuesday & Thursday from 8:00-10:00pm at the open field behind D4 (near the river)
+**Adult Registrations:**
 
-**• SAVE the Date!! NATIONAL NIGHT OUT in LINCOLN PARK on August 7th.**
+ 
+AM Aerobics – 5:45am – 6:45am (Tuesdays & Fridays)
 
-Weather Hotline: 201-460-3177
+1 day: $40.00/ 2 days: $80.00
+
+At Tamblyn Field Civic Center
+ 
+
+Sunrise Yoga - 9:00am (Tuesdays & Thursdays)
+
+1 day: $40.00/ 2 days: $80.00
