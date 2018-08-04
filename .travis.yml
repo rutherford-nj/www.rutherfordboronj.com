@@ -2,7 +2,10 @@ sudo: required
 
 language: ruby
 
-cache: bundler
+cache:
+  bundler: true
+  directories:
+    - node_modules
 
 rvm:
 - 2.4.1
@@ -20,26 +23,10 @@ branches:
 env:
   global:
   - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
+  - secure: LRN6B8uQUcWiR74XJuJPoaUnfeekNm/InWyVxbW10hNktHCW8xazpygg85wnGP2Z4rDeWg4dn+zUHzr8VG5GXs4Liu4Sl0AGdOMIt5F1TOB/qrEVR2NFX8qc7D/D7FMCy9+0AwQW2x/vMHEokwa7u9+0vJH8J7W2b6uYr8lfPy9+uiXALWjA27oOq3iQvJ9y5YpyJNiQ3qV0D+dft1qKGR05LZmEE/DCV4xFhFG5L8WYs1sWeoZjc/tySClXfhKrdkn2KeYwDepkowaAzcPsHz+87MpOTXofavd0L4ZSZJihMSlPPYXGBEmejN3YMAIZwp8efIRab+YeAQv49kKMOo7X2VgidUab7deYuZvQnRtqB3iDIb6bDkWi2PoKs3rh38I0sQmG98MNvPJsQ9YAqZ7kUTD82kB+MCQb13QjJ0R1j1TZ6ip1GcORMVNz5UjMr90CGxds+A9m/M5hOzLq9v8t8T5T7PrpHwwmDEA5oA2Xmo3KD2TVMYQQPL9IygqBO0CIvbFcd67Q3IB5wJ/KF2r1M40q6jXrDFArUq3zsF+JAC6ijkgs/oSRr6X2CVSsUxO9motNKbc6JqaqAPnJ03eSfJb/sPO1v3xWoQa7BZdO8H22qK5pA3rmcjQwe4ChWhQiMMpo8DeNGbrvngLPTPC9X+rFX02DPDXG+w1TlP0=
 
 deploy:
-- provider: firebase
-  token:
-    secure: NA+TODC4bPWzkzB8SjdNShxqhACejgQpw1jbmMOQJBIV3cTLekAjHDmKnuwUlNOERtYcTZequuCw+/EjBN5lxSbXVITSf7VwniFnsGA2BIDNyShEhXvp1d9BG+UXvsVBissDlY2UqG+Twl/fE6VALnzd+NAYZCHZubYpYVPcJvLCLZ4d/zjIFW/rQDXxfAjzchLwJhDvUZroHY8BJWSjayErIpTP/1PFmK0YNUhDwp7vj650SJ+IcKZGBQuIogiGjxvcw2Myvr1a15RTKGRJ2DB43XHTlw+bruDQGlgbW/wymmmOHwUd/xgks8Mk4743C88Mt/J1+Sb8ntK/k9Fm9BwX5qo2qu/vtu5pHVbwjhIDCyIK96h1Op6e/AWOVTkkKPxdB1lSOz7IfdRpkgO9m+3BUBmqL3ZFXov9UtHEJ1EaP6cwOyxBTS4AewjDdqvr7u9QdYot8YSsncp8x5deb+dqe8x5kisSQCReX7mFqOQuwljkLByDs7J7RusL5TVZtVExjQxdcACDPtjOb7LU6kPBeNJZusoiz90/U7mKCI9iWCN6GpMB/xzqgS1opNVuMNSgpSXurVoAEJ+KLNEEjNPVd9BvWttlvli2hGaqwly60WHh8yYUs6W56xfOyMYsyxR7U1y448S2FqFrFe2DjVrEACP0xDlRavnWRnL1qnY=
   skip_cleanup: true
-  project: rutherford-nj
-  local-dir: _site
-  on:
-    repo: rutherford-nj/www.rutherfordboronj.com
-    branch: www
-- provider: firebase
-  token:
-    secure: NA+TODC4bPWzkzB8SjdNShxqhACejgQpw1jbmMOQJBIV3cTLekAjHDmKnuwUlNOERtYcTZequuCw+/EjBN5lxSbXVITSf7VwniFnsGA2BIDNyShEhXvp1d9BG+UXvsVBissDlY2UqG+Twl/fE6VALnzd+NAYZCHZubYpYVPcJvLCLZ4d/zjIFW/rQDXxfAjzchLwJhDvUZroHY8BJWSjayErIpTP/1PFmK0YNUhDwp7vj650SJ+IcKZGBQuIogiGjxvcw2Myvr1a15RTKGRJ2DB43XHTlw+bruDQGlgbW/wymmmOHwUd/xgks8Mk4743C88Mt/J1+Sb8ntK/k9Fm9BwX5qo2qu/vtu5pHVbwjhIDCyIK96h1Op6e/AWOVTkkKPxdB1lSOz7IfdRpkgO9m+3BUBmqL3ZFXov9UtHEJ1EaP6cwOyxBTS4AewjDdqvr7u9QdYot8YSsncp8x5deb+dqe8x5kisSQCReX7mFqOQuwljkLByDs7J7RusL5TVZtVExjQxdcACDPtjOb7LU6kPBeNJZusoiz90/U7mKCI9iWCN6GpMB/xzqgS1opNVuMNSgpSXurVoAEJ+KLNEEjNPVd9BvWttlvli2hGaqwly60WHh8yYUs6W56xfOyMYsyxR7U1y448S2FqFrFe2DjVrEACP0xDlRavnWRnL1qnY=
-  skip_cleanup: true
-  project: rutherford-nj-beta-site
-  local-dir: _site
-  on:
-    repo: rutherford-nj/www.rutherfordboronj.com
-    all_branches: true
 
 notifications:
   slack:
