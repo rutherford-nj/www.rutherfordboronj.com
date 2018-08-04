@@ -1,5 +1,5 @@
 jQuery(function() {
-  var display_search_results = function(results) {
+  var displaySearchResults = function(results) {
     var search_results = $("#search_results");
 
     // Wait for data to load
@@ -42,7 +42,7 @@ jQuery(function() {
     // Put search query into the DOM.
     $('#search_query').text(query);
     // Hand the results off to be displayed
-    display_search_results(results);
+    displaySearchResults(results);
   };
   
   var searchQueryText = window.location.hash.substr(1);
