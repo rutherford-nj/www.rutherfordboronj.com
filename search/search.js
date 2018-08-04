@@ -1,32 +1,32 @@
 jQuery(function() {
   var displaySearchResults = function(results) {
-    var search_results = $("#search_results");
+    var searchResults = $("#search_results");
 
     // Wait for data to load
-    window.data.then(function(loaded_data) {
+    window.data.then(function(loadedData) {
 
       // Are there any results?
       if (results.length) {
-        search_results.empty(); // Clear any old results
+        searchResults.empty(); // Clear any old results
 
         // Iterate over the results
         results.forEach(function(result) {
-          var item = loaded_data[result.ref];
+          var item = loadedData[result.ref];
 
           // Build a snippet of HTML for this result
           var appendString = '<li><a href="' + item.url + '">' + item.title + '</a></li>';
 
           // Add it to the results
-          search_results.append(appendString);
+          searchResults.append(appendString);
         });
       } else {
-        search_results.html('<li>No results found</li>');
+        searchResults.html('<li>No results found</li>');
       }
     });
   }
   
-  var createIndex = function(loaded_data){
-    $.each(loaded_data, function(index, value){
+  var createIndex = function(loadedData){
+    $.each(loadedData, function(index, value){
       window.idx.add(
         $.extend({ "id": index }, value)
       );
