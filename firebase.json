@@ -24,6 +24,11 @@
         "source": "/contacts/",
         "destination": "/departments/",
         "type": 301
+      },
+      {
+        "source": "/static/images/boroughfacebookicon.jpg",
+        "destination": "/static/images/boroughfacebookicon_gray.jpg",
+        "type": 301
       }
     ]
   }
