@@ -7,6 +7,9 @@
 - src: /static/images/homepage-photos/firefighter_park.jpg
   alt: Firefighter Park
 
+- src: /static/images/homepage-photos/2018_nno_group.jpg
+  alt: National Night Out 2018
+
 - src: /static/images/homepage-photos/playspot.jpg
   alt: Playspot
 
@@ -15,6 +18,9 @@
 
 - src: /static/images/homepage-photos/tryon_field.jpg
   alt: Tryon Field
+  
+- src: /static/images/homepage-photos/nno2018.jpg
+  alt: National Night Out 2018
 
 - src: /static/images/homepage-photos/williams_center.jpg
   alt: Williams Center
