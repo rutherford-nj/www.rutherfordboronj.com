@@ -59,6 +59,14 @@
   margin: 10px 7px 0 5px;
   padding: 5px;
   width: 260px;
+
+  > a:first-child {
+    padding-top: 0;
+  }
+
+  > a:last-child {
+    padding-bottom: 0;
+  }
 }
 
 .homepage-calendar-button {
@@ -73,10 +81,11 @@
   padding: 5px;
   width: 260px;
   
-  > div:first-child {
+  > div:nth-child(2) {
     color: #700;
     font-size: 130%;
     font-weight: 700;
+    margin-top: 10px;
   }
   
   > div:last-child {
