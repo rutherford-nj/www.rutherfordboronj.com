@@ -1,54 +1,42 @@
 ---
 layout: page
-title: 'Labor Day Street Fair 2018'
+title: 'Upcoming Events 8/13'
 ---
  
-## Upcoming Events for the Week of August 6 
+## Upcoming Events for the Week of August 13 
 
 
-**Summer Concerts in Lincoln Park at 8:00pm**
+**• SUMMER CONCERTS at 8:00PM in Lincoln Park:**
 
-•  August 9th – String Theory (classic rock)
+August 16th - Anthony Liguori and Blue Smoke (Elvis Tribute)
 
-•  August 16th – Anthony Liquori & Blue Smoke (Elvis tribute)
+**• Be a fan! Weeknights at Memorial Field check out the action:**
 
- 
+Adult Ladies Softball playoff and championship games Monday-Thursday from 6:30-9:30 at D1, 5 and 6
 
-**Free Yoga in Lincoln Park as part of the Mayor’s Wellness Campaign**
+**• Fall Sign-ups for Children!** Cross Country, Gymnastics, Girls Volleyball, Dance and Tennis Lessons.
+[Click here for more information](/departments/recreation/sports-and-activities/childrens-catalog/)
 
-•  August 4th at 8:00am
+**• Pre-School at our Tamblyn Field Civic Center!** A few openings left!
 
-• August 11th at 8:00am – last day
+- Preschool 3 year olds by 10/1/18
 
- 
+- Preschool 4 year olds by 10/1/18
 
-**National Night Out**
+[Click here for more information](/departments/recreation/sports-and-activities/childrens-catalog/)
 
-Tuesday, August 7th
+**• Fall Sign-ups for Adults!** 
 
-6:00-9:00pm
+[Click here for more information](/departments/recreation/sports-and-activities/adult-catalog/)
 
-Lincoln Park
+**• Ladies Fall Volleyball Sign-ups have started.** All rosters and payments are due by August 24th ,
+2018.
 
-Visit your hometown heroes, free rides & refreshments
+- Teams with 10 or more current residents will pay $250.00
 
- 
+- Teams with less than 10 current residents will pay $350.00
 
-**Fall Childrens Registration is open!** [Click here to see catalog](/departments/recreation/sports-and-activities/childrens-catalog/)
+There is limit of 16 teams in the league and priority will be given to teams from last year. (Must be at
+least 18 years old and post high school).There will be a captain’s meeting on September 5th .
 
- 
-
-**Adult Registrations:**
-
- 
-• AM Aerobics – 5:45am – 6:45am (Tuesdays & Fridays)
-
-1 day: $40.00/ 2 days: $80.00
-
-At Tamblyn Field Civic Center
- 
- 
-
-• Sunrise Yoga - 9:00am (Tuesdays & Thursdays)
-
-1 day: $40.00/ 2 days: $80.00
+**Weather Hotline: 201-460-3177**
