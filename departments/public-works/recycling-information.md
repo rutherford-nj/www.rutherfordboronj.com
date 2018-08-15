@@ -6,6 +6,8 @@ parent: 'Public Works'
 
 ## What to do with trash, recyclables & hazardous waste.
 
+[**Rutherford Recycles - A List of What Is and Isn't Acceptable**](https://storage.googleapis.com/static.rutherford-nj.com/public-works/recycle%20info%20update.pdf)
+
 **Recycle Drop-Off**
 
 Saturday drop-off is available at the DPW garage, 220 Highland Cross between 9AM – 1PM.
