@@ -32,3 +32,5 @@ Historic Preservation
 Public Information
 
 [Shade Tree](/committees/shade-tree-commission/)
+
+Rutherford Volunteer Committee
