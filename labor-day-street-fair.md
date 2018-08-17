@@ -9,7 +9,9 @@ title: 'Labor Day Street Fair 2018'
 
 The Street Fair will take place on and around Park Avenue in Downtown Rutherford from Ames Avenue to Donaldson Avenue and is being produced by Cliffhanger Productions.
 
-**Vendor Spaces still available, Contact  Jimmy Spadola at 201-460-8335**
+**Last Day to register for vendors and community non-profit groups will be** 
+
+**Friday, August 24th - Contact Jimmy Spadola at 201-460-8335**
 
 [Click here for all business and non-profit vendor forms and events schedule](http://cliffhangerproductions.com/43rd-annual-rutherford-labor-day-street-fair-2018/)
 
