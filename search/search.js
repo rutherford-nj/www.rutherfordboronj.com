@@ -26,10 +26,18 @@ jQuery(function() {
   }
   
   var createIndex = function(loadedData){
-    $.each(loadedData, function(index, value){
-      window.idx.add(
-        $.extend({ "id": index }, value)
-      );
+    // Initalize lunr with the fields it will be searching on.
+    window.idx = lunr(function () {
+      this.field('id');
+      this.field('content');
+      this.ref('id');
+      var that = this;
+
+      $.each(loadedData, function(index, value){
+        that.add(
+          $.extend({ "id": index }, value)
+        );
+      });
     });
   };
   
@@ -49,12 +57,6 @@ jQuery(function() {
   searchQueryText = window.decodeURI(searchQueryText);
   $('#search_query').text(searchQueryText);
   
-  // Initalize lunr with the fields it will be searching on.
-  window.idx = lunr(function () {
-    this.field('id');
-    this.field('content');
-  });
-
   // Download the data from the JSON file we generated
   window.data = $.getJSON('/search/data.json');
 
