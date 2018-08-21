@@ -55,7 +55,7 @@ least 18 years old and post high school). There will be a captain’s meeting on
 
 **• SAVE THE DATES! More details to follow…**
 
-- September 6th - Community Conversations with Bergen County Prosecutors Office
+- September 6th - [Community Conversations with Bergen County Prosecutors Office](https://storage.googleapis.com/static.rutherford-nj.com/police/Opioids%20Townhall%20invitation.pdf)
 
 - September 23rd - [Touch-A Truck Event](https://storage.googleapis.com/static.rutherford-nj.com/recreation/Touch%20a%20truck.pdf)
 
