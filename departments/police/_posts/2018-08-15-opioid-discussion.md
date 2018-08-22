@@ -4,7 +4,7 @@ title: Alternatives to Opioids 9/6
 event: true
 ---
 
-[See Flyer Here](https://storage.googleapis.com/static.rutherford-nj.com/police/Opioids%20Townhall%20invitation.pdf)
+[See Flyer Here](https://storage.googleapis.com/static.rutherford-nj.com/police/21_21_Opioids_Printable%202018.pdf)
 
 Athletes, Injuries and Pain: A Discussion of Alternatives to Opioids
 
