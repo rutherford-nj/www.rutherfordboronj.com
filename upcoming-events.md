@@ -1,18 +1,14 @@
 ---
 layout: page
-title: 'Upcoming Events 8/20'
+title: 'Upcoming Events 8/27'
 ---
  
-## Upcoming Events for the Week of August 20 
+## Upcoming Events for the Week of August 27 
 
-
-**• NEW SUMMER TENNIS CAMP**! Presented by Tennis Dynamics
-
-Week of 8/27-8/31 – [Please see this flyer](https://storage.googleapis.com/static.rutherford-nj.com/recreation/Tennis%20Camp%20new%20flyer.pdf)
 
 **• Fall Sign-ups!** 
 
-Cross Country, Gymnastics, Girls Volleyball, Dance, Tennis Lessons, Basketball and
+Cross Country, Gymnastics, Girls Volleyball, Dance, Tennis Lessons, Basketball &amp;
 Wrestling
 
 [Click here for more information](/departments/recreation/sports-and-activities/childrens-catalog/)
@@ -28,30 +24,27 @@ Preschool 4 year olds by 10/1/18
 
 **• For Adults!** 
 
-- Aerobics –Tues and Fridays at Tamblyn Field Civic Center at 5:30-6:30 AM
-8 weeks-$40 one class a week, $80 for two classes a week
+- Aerobics – Tues and Fridays at Tamblyn Field Civic Center at 5:30-6:30 AM
 
-- Yoga- Mondays and Thursdays at Tryon Field
-8 weeks-$40 one class a week, $80 for two classes a week
+- Yoga-  Mondays and Thursdays at Tryon Field
 
 - Tennis Lessons-Sundays at Memorial Field at 10:00 AM
 
-$70 for 6 -one hour lessons (Intermediate)
-
-$60 for 6-one hour lessons (Beginner)
-
 [Click here for more information](/departments/recreation/sports-and-activities/adult-catalog/)
 
-**• Ladies Fall Volleyball Sign-ups have started.**
+**Join us! The Mayor's Wellness Bike Ride**
 
-All rosters and payments are due by August 24th, 2018.
+When:  Monday, August 27th 2018
 
-- Teams with 10 or more current residents will pay $250.00
+Time: 6:30pm – 7:15pm
 
-- Teams with less than 10 current residents will pay $350.00
+Where: Meet at the Rutherford Borough Hall parking lot @ 176 Park Ave  
 
-There is limit of 16 teams in the league and priority will be given to teams from last year. (Must be at
-least 18 years old and post high school). There will be a captain’s meeting on September 5 th .
+Rain date: Tuesday, August 28 th at 6:00PM
+
+Reminder – please wear your helmet!!
+
+Thank you to the Rutherford Police Department for escorting the Mayor’s Wellness Bike Rides!!!
 
 **• SAVE THE DATES! More details to follow…**
 
@@ -59,5 +52,5 @@ least 18 years old and post high school). There will be a captain’s meeting on
 
 - September 23rd - [Touch-A Truck Event](https://storage.googleapis.com/static.rutherford-nj.com/recreation/Touch%20a%20truck.pdf)
 
-**Weather Hotline: 201-460-3177**
+**Weather Hotline: 201-460-3000 ext 3177**
 
