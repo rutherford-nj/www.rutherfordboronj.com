@@ -8,6 +8,12 @@ title: 'Borough Codes & Ordinances'
 ## Recently Adopted Borough Codes and Ordinances:
 
 
+[Ordinance No. 3472-18 - Fire Department Members in Good Standing](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3472-18%20%20Fire%20Department%20Members%20in%20Good%20Standing.pdf)
+
+[Ordinance No. 3471-18 - Establishing Handicap Space at Chestnut Street](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3471-18%20Establishing%20Handicap%20Space%20-%20Chestnut%20Street.pdf)
+
+[Ordinance No. 3470-18 - Establishing Handicap Space at Highland Cross](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3470-18%20Establishing%20Handicap%20Space%20-%20Highland%20Cross.pdf)
+
 [Ordinance No. 3464-18 - Amendment to Chapter 5](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3464-18%20Amend%20Chapter%205%20-%20Signatures%20for%20Purchases.pdf)
 
 [Ordinance No. 3465-18 - Amendment to Section 81-9](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3465-18%20Amendment%20to%20Section%2081-9%20-%20Bidding%20Prodedure.pdf)
