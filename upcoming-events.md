@@ -1,9 +1,14 @@
 ---
 layout: page
-title: 'Upcoming Events 8/27'
+title: 'Upcoming Events 9/3'
 ---
  
-## Upcoming Events for the Week of August 27 
+## Upcoming Events for the Week of September 3 
+
+
+**• Rutherford’s 43rd Annual Labor Day Street Fair:** 
+
+Monday, September 3rd 10 am-5 pm. [Click here for more details](/labor-day-street-fair/)
 
 
 **• Fall Sign-ups!** 
@@ -13,11 +18,23 @@ Wrestling
 
 [Click here for more information](/departments/recreation/sports-and-activities/childrens-catalog/)
 
+
+**• Rutherford Recreation Fall Soccer:**
+
+Meet and Greet on Saturday, September 8th - specific details will follow from coaches
+
+
+**• Pre-School Open House for ENROLLED students:**
+
+- PK 3: September 6 th 9:30-11:30 Tamblyn Field Civic Center
+
+- PK4: September 7 th : 9:30-11:30 Tamblyn Field Civic Center
+
 **• Pre-School at our Tamblyn Field Civic Center! A few openings left!**
 
-Preschool 3 year olds by 10/1/18
+- Preschool 3 year olds by 10/1/18
 
-Preschool 4 year olds by 10/1/18
+- Preschool 4 year olds by 10/1/18
 
 
 [Click here for more information](/departments/recreation/sports-and-activities/childrens-catalog/)
@@ -32,25 +49,11 @@ Preschool 4 year olds by 10/1/18
 
 [Click here for more information](/departments/recreation/sports-and-activities/adult-catalog/)
 
-**Join us! The Mayor's Wellness Bike Ride**
+**More Events:**
 
-When:  Monday, August 27th 2018
+**• September 6th** - [Community Conversations with Bergen County Prosecutors Office](https://storage.googleapis.com/static.rutherford-nj.com/police/Opioids%20Townhall%20invitation.pdf)
 
-Time: 6:30pm – 7:15pm
-
-Where: Meet at the Rutherford Borough Hall parking lot @ 176 Park Ave  
-
-Rain date: Tuesday, August 28 th at 6:00PM
-
-Reminder – please wear your helmet!!
-
-Thank you to the Rutherford Police Department for escorting the Mayor’s Wellness Bike Rides!!!
-
-**• SAVE THE DATES! More details to follow…**
-
-- September 6th - [Community Conversations with Bergen County Prosecutors Office](https://storage.googleapis.com/static.rutherford-nj.com/police/Opioids%20Townhall%20invitation.pdf)
-
-- September 23rd - [Touch-A Truck Event](https://storage.googleapis.com/static.rutherford-nj.com/recreation/Touch%20a%20truck.pdf)
+**• September 23rd** - [Touch-A Truck Event](https://storage.googleapis.com/static.rutherford-nj.com/recreation/Touch%20a%20truck.pdf)
 
 **Weather Hotline: 201-460-3000 ext 3177**
 
