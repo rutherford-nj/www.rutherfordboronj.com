@@ -4,6 +4,8 @@ title: 'Employment & Bids'
 parent: Government
 ---
 
+[Bid - 2018 Road Improvement Program](https://storage.googleapis.com/static.rutherford-nj.com/finance/Employment/BID001.pdf)
+
 [Job Posting - Clerk 1](https://storage.googleapis.com/static.rutherford-nj.com/finance/Employment/CLERK000.pdf)
 
 [Job Posting - Fire Protection Subcode Official](https://storage.googleapis.com/static.rutherford-nj.com/finance/Employment/subcode-official.pdf)
