@@ -7,10 +7,6 @@ title: 'Upcoming Events 9/10'
 
 **Weather Hotline: 201-460-3000 ext 3177**
 
-**• Rutherford’s 43rd Annual Labor Day Street Fair:** 
-
-Monday, September 3rd 10 am-5 pm. [Click here for more details](/labor-day-street-fair/)
-
 
 **• Fall Sign-ups!** 
 
