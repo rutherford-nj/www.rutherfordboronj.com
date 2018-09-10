@@ -54,4 +54,6 @@ an additional fee)
 
 **• September 23rd** - [Touch-A Truck Event](https://storage.googleapis.com/static.rutherford-nj.com/recreation/Touch%20a%20truck.pdf)
 
+**• September 24th** - Mayor’s Wellness Monthly Family Bike Ride…more details to follow
+
 **• October 3rd** - [Stop the Bleed](https://storage.googleapis.com/static.rutherford-nj.com/recreation/Stop%20the%20Bleed%20Flyer.pdf)
