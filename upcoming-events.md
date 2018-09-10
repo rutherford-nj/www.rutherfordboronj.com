@@ -50,8 +50,6 @@ an additional fee)
 
 **More Events:**
 
-**• September 6th** - [Community Conversations with Bergen County Prosecutors Office](https://storage.googleapis.com/static.rutherford-nj.com/police/Opioids%20Townhall%20invitation.pdf)
-
 **• September 22nd** -Town-Wide Garage Sale. For information email LARFD1947@gmail.com
 
 **• September 23rd** - [Touch-A Truck Event](https://storage.googleapis.com/static.rutherford-nj.com/recreation/Touch%20a%20truck.pdf)
