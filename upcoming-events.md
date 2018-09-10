@@ -1,10 +1,11 @@
 ---
 layout: page
-title: 'Upcoming Events 9/3'
+title: 'Upcoming Events 9/10'
 ---
  
-## Upcoming Events for the Week of September 3 
+## Upcoming Events for the Week of September 10 
 
+**Weather Hotline: 201-460-3000 ext 3177**
 
 **• Rutherford’s 43rd Annual Labor Day Street Fair:** 
 
@@ -13,31 +14,11 @@ Monday, September 3rd 10 am-5 pm. [Click here for more details](/labor-day-stree
 
 **• Fall Sign-ups!** 
 
-Cross Country, Gymnastics, Girls Volleyball, Dance, Tennis Lessons, Basketball &amp;
-Wrestling
+Cross Country, Gymnastics, Girls Volleyball, Dance, Tennis Lessons,
+Basketball and Wrestling
 
 [Click here for more information](/departments/recreation/sports-and-activities/childrens-catalog/)
 
-
-**• Rutherford Recreation Fall Soccer:**
-
-Meet and Greet on Saturday, September 8th - specific details will follow from coaches
-
-
-**• Pre-School Open House for ENROLLED students:**
-
-- PK 3: September 6 th 9:30-11:30 Tamblyn Field Civic Center
-
-- PK4: September 7 th : 9:30-11:30 Tamblyn Field Civic Center
-
-**• Pre-School at our Tamblyn Field Civic Center! A few openings left!**
-
-- Preschool 3 year olds by 10/1/18
-
-- Preschool 4 year olds by 10/1/18
-
-
-[Click here for more information](/departments/recreation/sports-and-activities/childrens-catalog/)
 
 **• For Adults!** 
 
@@ -45,15 +26,34 @@ Meet and Greet on Saturday, September 8th - specific details will follow from co
 
 - Yoga-  Mondays and Thursdays at Tryon Field
 
-- Tennis Lessons-Sundays at Memorial Field at 10:00 AM
+- Tennis Lessons - Sundays at Memorial Field at 10:00 AM
 
 [Click here for more information](/departments/recreation/sports-and-activities/adult-catalog/)
+
+**• Rutherford Recreation Elks Soccer Shoot:** 
+
+Saturday, September 15 th 9am-11am @ Memorial Park Diamond #1. Ages 5-17. More details to follow…
+
+**• Halfway to St. Patricks’ Day: Saturday, September 15th 12noon – 6pm @ Lincoln Park!**
+Join us for food, friends and music!
+
+**• Pre-School at our Tamblyn Field Civic Center! A few openings left!**
+
+- Preschool 3 year olds by 10/1/18
+
+- Preschool 4 year olds by 10/1/18
+
+(Pre-K 4 only-after-care available until 1:15pm on Mondays, Wednesdays and Fridays for
+an additional fee)
+
+[Click here for more information](/departments/recreation/sports-and-activities/childrens-catalog/)
 
 **More Events:**
 
 **• September 6th** - [Community Conversations with Bergen County Prosecutors Office](https://storage.googleapis.com/static.rutherford-nj.com/police/Opioids%20Townhall%20invitation.pdf)
 
+**• September 22nd** -Town-Wide Garage Sale. For information email LARFD1947@gmail.com
+
 **• September 23rd** - [Touch-A Truck Event](https://storage.googleapis.com/static.rutherford-nj.com/recreation/Touch%20a%20truck.pdf)
 
-**Weather Hotline: 201-460-3000 ext 3177**
-
+**• October 3rd** - [Stop the Bleed](https://storage.googleapis.com/static.rutherford-nj.com/recreation/Stop%20the%20Bleed%20Flyer.pdf)
