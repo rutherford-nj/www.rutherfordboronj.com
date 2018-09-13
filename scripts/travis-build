@@ -1,6 +1,9 @@
 #!/usr/bin/env bash
 set -e # halt script on error
 
+npm install modernizr
+./node_modules/.bin/modernizr --config=modernizr-config.json --dest=static/js/modernizr.js
+
 bundle exec jekyll build
 if [[ "$TRAVIS_BRANCH" != "www" ]]; then
   echo "On beta branch, doing beta things..."

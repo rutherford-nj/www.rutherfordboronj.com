@@ -1,3 +1,6 @@
-_site/*
 .DS_Store
 Gemfile.lock
+node_modules
+package-lock.json
+_site
+static/js/modernizr.js

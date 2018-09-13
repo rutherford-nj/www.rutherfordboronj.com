@@ -39,8 +39,15 @@ a, a:visited, a:hover, a:active {
 }
 
 .site-container {
-  background: url("/static/images/website-background.jpg") no-repeat top center, #040000;
   min-height: calc(100vh - 152px);
+}
+
+.webp .site-container {
+  background: url("/static/images/website-background.webp") no-repeat top center, #040000;
+}
+
+.no-webp .site-container {
+  background: url("/static/images/website-background.jpg") no-repeat top center, #040000;
 }
 
 .content-container {

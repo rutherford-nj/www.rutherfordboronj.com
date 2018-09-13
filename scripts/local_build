@@ -1,3 +1,5 @@
 #!/bin/sh
 
+npm install modernizr
+./node_modules/.bin/modernizr --config=modernizr-config.json --dest=static/js/modernizr.js
 docker run --rm   --volume=$PWD:/srv/jekyll   -it jekyll/jekyll:3.5   jekyll build --watch
