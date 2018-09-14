@@ -7,6 +7,11 @@ title: 'Borough Codes & Ordinances'
 
 ## Recently Adopted Borough Codes and Ordinances:
 
+[Ordinance No. 3475-18 - Authorizing Execution of Financial Agreement](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3475-18%20Ordinance%20Authorizing%20Execution%20of%20Financial%20Agreement.pdf)
+
+[Ordinance No. 3474-18 - Amendment to Chapter 125 - Abandoned Vehicle](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3474-18%20Amendment%20to%20Chapter%20125%20-%20Abandoned%20Vehicle.pdf)
+
+[Ordinance No. 3473-18 - Prohibiting Short Term Rentals](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3473-18%20Prohibiting%20Short%20Term%20Rentals.pdf)
 
 [Ordinance No. 3472-18 - Fire Department Members in Good Standing](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3472-18%20%20Fire%20Department%20Members%20in%20Good%20Standing.pdf)
 
