@@ -1,9 +1,9 @@
 ---
 layout: page
-title: 'Upcoming Events 9/10'
+title: 'Upcoming Events 9/17'
 ---
  
-## Upcoming Events for the Week of September 10 
+## Upcoming Events for the Week of September 17 
 
 **Weather Hotline: 201-460-3000 ext 3177**
 
@@ -26,12 +26,6 @@ Basketball and Wrestling
 
 [Click here for more information](/departments/recreation/sports-and-activities/adult-catalog/)
 
-**• Rutherford Recreation Elks Soccer Shoot:** 
-
-Saturday, September 15 th 9am-11am @ Memorial Park Diamond #1. Ages 5-17. More details to follow…
-
-**• Halfway to St. Patricks’ Day: Saturday, September 15th 12noon – 6pm @ Lincoln Park!**
-Join us for food, friends and music!
 
 **• Pre-School at our Tamblyn Field Civic Center! A few openings left!**
 
@@ -44,6 +38,12 @@ an additional fee)
 
 [Click here for more information](/departments/recreation/sports-and-activities/childrens-catalog/)
 
+**• Rutherford Recreation Fall Soccer Photo Day!** Saturday 9/22 (Raindate 9/29)- [See
+link for times](https://storage.googleapis.com/static.rutherford-nj.com/recreation/Fall%20Soccer%20Photo%20Schedule%20(1).pdf)
+
+**• Radio City Christmas Spectacular Show tickets are now on sale!**[See Flyer](https://storage.googleapis.com/static.rutherford-nj.com/recreation/Christmas%20Spectacular%20Flyer%20(1).pdf)
+
+
 **More Events:**
 
 **• September 22nd** -Town-Wide Garage Sale. For information email LARFD1947@gmail.com
@@ -53,3 +53,5 @@ an additional fee)
 **• September 24th** - Mayor’s Wellness Monthly Family Bike Ride…more details to follow
 
 **• October 3rd** - [Stop the Bleed](https://storage.googleapis.com/static.rutherford-nj.com/recreation/Stop%20the%20Bleed%20Flyer.pdf)
+
+**• October 27th** - Annual Halloween Parade @ 10:00am…more details to follow
