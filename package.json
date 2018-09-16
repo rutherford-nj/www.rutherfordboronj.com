@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "firebase-tools": "4.2.1",
+    "modernizr": "3.6.0"
+  }
+}

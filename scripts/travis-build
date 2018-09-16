@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 set -e # halt script on error
 
-npm install modernizr
+npm install
 ./node_modules/.bin/modernizr --config=modernizr-config.json --dest=static/js/modernizr.js
 
 bundle exec jekyll build
@@ -14,7 +14,6 @@ fi
 bundle exec htmlproofer ./_site --only-4xx --check-favicon --check-html --disable-external
 
 # Deploy to Firebase
-npm install firebase-tools
 FB=./node_modules/.bin/firebase
 if [[ "$TRAVIS_BRANCH" == "www" ]]; then
   $FB deploy --non-interactive --token=$RBH_FIREBASE_TOKEN --project=rutherford-nj
