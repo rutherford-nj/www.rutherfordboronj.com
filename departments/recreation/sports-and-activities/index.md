@@ -10,7 +10,6 @@ parent: 'Recreation'
 
 **The Recreation Department is proud to partner with the following organizations that offer programs for Rutherford Residents:** 
 
-[Summer Tennis Camp](https://storage.googleapis.com/static.rutherford-nj.com/recreation/Tennis%20Camp%20new%20flyer.pdf)
 
 Tennis Lessons - [Tennis Dynamics](https://storage.googleapis.com/static.rutherford-nj.com/recreation/Tennis%20lessons.pdf)
 
