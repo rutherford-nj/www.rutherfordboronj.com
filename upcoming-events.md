@@ -39,7 +39,7 @@ an additional fee)
 [Click here for more information](/departments/recreation/sports-and-activities/childrens-catalog/)
 
 **• Rutherford Recreation Fall Soccer Photo Day!** Saturday 9/22 (Raindate 9/29)- [See
-link for times](https://storage.googleapis.com/static.rutherford-nj.com/recreation/091818_fall%20soccer%20photo%20schedule.pdf)
+link for times](https://storage.googleapis.com/static.rutherford-nj.com/recreation/091918_fall%20soccer%20photo%20schedule_2.pdf)
 
 **• Radio City Christmas Spectacular Show tickets are now on sale!**[See Flyer](https://storage.googleapis.com/static.rutherford-nj.com/recreation/Christmas%20Spectacular%20Flyer%20(1).pdf)
 
