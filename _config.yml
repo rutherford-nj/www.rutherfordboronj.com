@@ -1,5 +1,5 @@
 # Exclude vendor directory so travis can build.
-exclude: [node_modules, package-lock.json, vendor]
+exclude: [node_modules, vendor]
 permalink: pretty
 future: false
 sass:
