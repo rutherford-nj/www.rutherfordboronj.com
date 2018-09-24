@@ -1,9 +1,9 @@
 ---
 layout: page
-title: 'Upcoming Events 9/17'
+title: 'Upcoming Events 9/24'
 ---
  
-## Upcoming Events for the Week of September 17 
+## Upcoming Events for the Week of September 24 
 
 **Weather Hotline: 201-460-3000 ext 3177**
 
@@ -38,19 +38,23 @@ an additional fee)
 
 [Click here for more information](/departments/recreation/sports-and-activities/childrens-catalog/)
 
-**• Rutherford Recreation Fall Soccer Photo Day!** Saturday 9/22 (Raindate 9/29)- [See
-link for times](https://storage.googleapis.com/static.rutherford-nj.com/recreation/091918_fall%20soccer%20photo%20schedule_2.pdf)
 
 **• Radio City Christmas Spectacular Show tickets are now on sale!**[See Flyer](https://storage.googleapis.com/static.rutherford-nj.com/recreation/Christmas%20Spectacular%20Flyer%20(1).pdf)
 
 
 **More Events:**
 
-**• September 22nd** -Town-Wide Garage Sale. For information email LARFD1947@gmail.com
+**• September 24th** - Mayor’s Wellness Monthly Family Bike Ride
 
-**• September 23rd** - [Touch-A Truck Event](https://storage.googleapis.com/static.rutherford-nj.com/recreation/Touch%20a%20truck.pdf)
+Monday, September 24th 2018 Time: 6:30pm – 7:15pm
 
-**• September 24th** - Mayor’s Wellness Monthly Family Bike Ride…more details to follow
+Where: Meet at the Rutherford Borough Hall parking lot @ 176 Park Ave
+
+Rain date: Tuesday, September 25th th at 6:00PM
+
+Reminder – please wear your helmet!!
+
+Thank you to the Rutherford Police Department for escorting the Mayor’s Wellness Bike Rides!!!
 
 **• October 3rd** - [Stop the Bleed](https://storage.googleapis.com/static.rutherford-nj.com/recreation/Stop%20the%20Bleed%20Flyer.pdf)
 
