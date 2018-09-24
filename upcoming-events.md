@@ -38,7 +38,7 @@ an additional fee)
 
 [Click here for more information](/departments/recreation/sports-and-activities/childrens-catalog/)
 
-**Starting September 30 th : Mix-It-Up!** [See schedule here](https://storage.googleapis.com/static.rutherford-nj.com/recreation/posts/MIx%20it%20up%20flyer%20-%202018-2019.pdf)
+**• Starting September 30th: Mix-It-Up!** [See schedule here](https://storage.googleapis.com/static.rutherford-nj.com/recreation/posts/MIx%20it%20up%20flyer%20-%202018-2019.pdf)
 
 
 **• Radio City Christmas Spectacular Show tickets are now on sale!**[See Flyer](https://storage.googleapis.com/static.rutherford-nj.com/recreation/Christmas%20Spectacular%20Flyer%20(1).pdf)
