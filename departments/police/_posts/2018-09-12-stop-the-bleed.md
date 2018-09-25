@@ -19,7 +19,7 @@ Join members of Rutherford Recreation, Rutherford Police Department and
 Rutherford Volunteer Ambulance Corp. for this FREE training from
 Hackensack University Medical Center and learn how you can help save a life!
 
-Date: Wednesday, October 3, 2018
+**Date: Wednesday, October 3, 2018**
 
 Time: 7 PM (90 Minute Session)
 
@@ -36,3 +36,5 @@ Please R.S.V.P before 9/26/2018 : Sgt. Zeigler 201-460-3054 or jzeigler@rutherfo
 Any questions about the program should be directed to Meliam Gonzales, MSN, RN
 
 at trauma@hackensackmeridian.org
+
+[**Come early for Coffee With A Cop!**](https://storage.googleapis.com/static.rutherford-nj.com/police/Coffee%20with%20a%20Cop%202019.pdf)
