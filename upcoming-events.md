@@ -65,6 +65,8 @@ Location: Meet at corner of Raymond Ave and Washington Ave
 
 **• October 3rd** - [Stop the Bleed](https://storage.googleapis.com/static.rutherford-nj.com/recreation/Stop%20the%20Bleed%20Flyer.pdf)
 
+**• October 6th** - [Band Competition](https://storage.googleapis.com/static.rutherford-nj.com/recreation/Competition%20Flyer.pdf)
+
 **• October 10th** - Walk to School with the Mayor at Pierrepont School…more details to follow
 
 **• October 17th** - Walk to School with Mayor at Lincoln School…more details to follow
