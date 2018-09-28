@@ -1,64 +1,72 @@
 ---
 layout: page
-title: 'Upcoming Events 9/24'
+title: 'Upcoming Events 10/1'
 ---
  
-## Upcoming Events for the Week of September 24 
+## Upcoming Events for the Week of October 1 
 
 **Weather Hotline: 201-460-3000 ext 3177**
 
 
 **• Fall Sign-ups!** 
 
-Cross Country, Gymnastics, Girls Volleyball, Dance, Tennis Lessons,
 Basketball and Wrestling
 
 [Click here for more information](/departments/recreation/sports-and-activities/childrens-catalog/)
 
 
-**• For Adults!** 
+**• Rutgers Coaches Safety Certification**
 
-- Aerobics – Tues and Fridays at Tamblyn Field Civic Center at 5:30-6:30 AM
+If you are interested in coaching or assisting a
+Recreation team you MUST be certified.
 
-- Yoga-  Mondays and Thursdays at Tryon Field
+Date: Monday, October 8 th
 
-- Tennis Lessons - Sundays at Memorial Field at 10:00 AM
+Time: 6:30 pm
 
-[Click here for more information](/departments/recreation/sports-and-activities/adult-catalog/)
+Location: Tamblyn Field Civic Center
+
+Please call to reserve your spot at the Recreation Department 201-460-3015
+On-line Concussion Training: All coaches must also take an on-line concussion course and
+send their certificate to the Recreation Department. This is a lifetime certification.
+
+[Click here for more information](http://www.cdc.gov/concussion/HeadsUp/Training/HeadsUpConcussion.html)
 
 
-**• Pre-School at our Tamblyn Field Civic Center! A few openings left!**
+**• Mix-It-Up!** [See schedule here]
 
-- Preschool 3 year olds by 10/1/18
+12 noon- 2:00 pm on 6 Sunday afternoons. $10 for the entire program.
 
-- Preschool 4 year olds by 10/1/18
+Mix-It-Up playgroup exposes typically developing kids aged 5-13 years to their special need peers so they can
+learn about each other FROM each other
 
-(Pre-K 4 only-after-care available until 1:15pm on Mondays, Wednesdays and Fridays for
-an additional fee)
-
-[Click here for more information](/departments/recreation/sports-and-activities/childrens-catalog/)
-
-**• Starting September 30th: Mix-It-Up!** [See schedule here](https://storage.googleapis.com/static.rutherford-nj.com/recreation/posts/MIx%20it%20up%20flyer%20-%202018-2019.pdf)
+[Click here for more information](https://storage.googleapis.com/static.rutherford-nj.com/recreation/posts/MIx%20it%20up%20flyer%20-%202018-2019.pdf)
 
 [**• Exceptional Individuals Fall Program**](https://storage.googleapis.com/static.rutherford-nj.com/recreation/Exceptional%20Individuals%20Program%20Fall%202018.pdf)
+
+**• Walk to School with the Mayor at Washington School**
+
+As part of the Mayor’s Wellness Campaign
+
+Date: Wednesday, October 3rd
+
+Time: promptly at 8:00 am
+
+Location: Meet at corner of Raymond Ave and Washington Ave
 
 **• Radio City Christmas Spectacular Show tickets are now on sale!** [See Flyer](https://storage.googleapis.com/static.rutherford-nj.com/recreation/Christmas%20Spectacular%20Flyer%20(1).pdf)
 
 
 **More Events:**
 
-**• September 24th** - Mayor’s Wellness Monthly Family Bike Ride
-
-Monday, September 24th 2018 Time: 6:30pm – 7:15pm
-
-Where: Meet at the Rutherford Borough Hall parking lot @ 176 Park Ave
-
-Rain date: Tuesday, September 25th th at 6:00PM
-
-Reminder – please wear your helmet!!
-
-Thank you to the Rutherford Police Department for escorting the Mayor’s Wellness Bike Rides!!!
+**• October 3rd** - [Coffee With A Cop](https://storage.googleapis.com/static.rutherford-nj.com/police/Coffee%20with%20a%20Cop%202019.pdf)
 
 **• October 3rd** - [Stop the Bleed](https://storage.googleapis.com/static.rutherford-nj.com/recreation/Stop%20the%20Bleed%20Flyer.pdf)
 
-**• October 27th** - Annual Halloween Parade @ 10:00am…more details to follow
+**• October 10th** - Walk to School with the Mayor at Pierrepont School…more details to follow
+
+**• October 17th** - Walk to School with Mayor at Lincoln School…more details to follow
+
+**• October 24th** - Walk to School with the Mayor at Kindergarten Center…more details to follow
+
+**• October 27th** - Annual Halloween Parade @10:00am…more details to follow
