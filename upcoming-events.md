@@ -33,7 +33,7 @@ send their certificate to the Recreation Department. This is a lifetime certific
 [Click here for more information](http://www.cdc.gov/concussion/HeadsUp/Training/HeadsUpConcussion.html)
 
 
-**• Mix-It-Up!** [See schedule here]
+**• Mix-It-Up!** 
 
 12 noon- 2:00 pm on 6 Sunday afternoons. $10 for the entire program.
 
