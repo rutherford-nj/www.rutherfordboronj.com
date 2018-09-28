@@ -59,6 +59,8 @@ Location: Meet at corner of Raymond Ave and Washington Ave
 
 **More Events:**
 
+**• October 3rd** - [The Andrew Ortega Foundation Cardiac Screening Day](https://storage.googleapis.com/static.rutherford-nj.com/recreation/2018_Ortega.pdf)
+
 **• October 3rd** - [Coffee With A Cop](https://storage.googleapis.com/static.rutherford-nj.com/police/Coffee%20with%20a%20Cop%202019.pdf)
 
 **• October 3rd** - [Stop the Bleed](https://storage.googleapis.com/static.rutherford-nj.com/recreation/Stop%20the%20Bleed%20Flyer.pdf)
