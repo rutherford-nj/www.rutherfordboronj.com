@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: Coffee With A Cop 10/3
-event: true
+
 ---
 
 [See Flyer Here](https://storage.googleapis.com/static.rutherford-nj.com/police/Coffee%20with%20a%20Cop%202019.pdf)

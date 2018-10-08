@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: National Night Out 8/7
-event: true
+
 ---
 
 [See Flyer Here](https://storage.googleapis.com/static.rutherford-nj.com/police/police%20blog%20posts/PDF%20National%20Night%20Out%20Events%202018%20Agencies.pdf)

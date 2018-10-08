@@ -1,7 +1,7 @@
 ---
 layout: community-blog
 title: Blood Bank Drive 4/23
-event: true
+
 ---
 
 

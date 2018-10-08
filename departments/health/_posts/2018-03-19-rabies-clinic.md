@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Free Rabies Clinic 4/7"
-event: true
+
 ---
 
 The Rutherford Health Department will be conducting its Annual Free Rabies Clinic for Rutherford cats and

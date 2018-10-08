@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: Rutgers Coaches Safety Certification 4/16
-event: true
+
 ---
 
 The next Rutgers Coaches Safety Certification will be on:

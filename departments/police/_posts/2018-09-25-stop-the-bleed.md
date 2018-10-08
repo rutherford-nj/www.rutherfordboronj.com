@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: Stop The Bleed 10/3
-event: true
+
 ---
 
 [See Flyer Here](https://storage.googleapis.com/static.rutherford-nj.com/police/police%20blog%20posts/Stop%20the%20Bleed%20Flyer%20Rutherford%20Coaches%20and%20Public%202018.pdf)

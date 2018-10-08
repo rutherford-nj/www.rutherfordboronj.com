@@ -1,7 +1,7 @@
 ---
 layout: community-blog
 title: FREE Composting Workshop 6/2
-event: true
+
 ---
 
 **A free one-hour backyard composting workshop will be offered by the Rutherford Green Team at the Rutherford Community Garden, West Erie and Grand Avenues in Rutherford, at 10:00 a.m. on Saturday June 2.** 

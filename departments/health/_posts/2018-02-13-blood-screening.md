@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Blood Screening 4/20"
-event: true
+
 ---
 
 The Rutherford Health Department will sponsor a Multi-Phasic Blood Screening Program for Rutherford

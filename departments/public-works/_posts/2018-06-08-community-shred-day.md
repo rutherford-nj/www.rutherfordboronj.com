@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Community Shred Day 6/16"
-event: true
+
 ---
 Community Shred Day
 

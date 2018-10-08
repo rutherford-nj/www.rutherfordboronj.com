@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: May Walk To School with the Mayor
-event: true
+
 ---
 
 [See flyer here](https://storage.googleapis.com/static.rutherford-nj.com/recreation/posts/May%20Walk%20to%20School%20w-%20Mayor.pdf)

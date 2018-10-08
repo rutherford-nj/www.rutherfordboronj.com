@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: Multicultural Fest. Rescheduled to 5/20
-event: true
+
 ---
 
 [2018 Multicultural Festival Flyer](https://storage.googleapis.com/static.rutherford-nj.com/committees/civil-rights/multicultural_May20.pdf)

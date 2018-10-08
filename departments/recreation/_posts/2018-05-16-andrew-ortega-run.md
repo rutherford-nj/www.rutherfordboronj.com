@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: Andrew Ortega 5K 6/16
-event: true
+
 ---
 
 

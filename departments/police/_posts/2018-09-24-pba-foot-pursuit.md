@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: PBA Foot Pursuit
-event: true
+
 ---
 
 7th Annual Rutherford PBA Halloween Foot Pursuit

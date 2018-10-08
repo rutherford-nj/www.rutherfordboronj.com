@@ -1,7 +1,7 @@
 ---
 layout: community-blog
 title: Recycling Workshop 7/17
-event: true
+
 ---
 
 Recycling and Reducing Waste in Rutherford

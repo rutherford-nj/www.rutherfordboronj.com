@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: Mayor's Wellness Bike Ride 4/23
-event: true
+
 ---
 **The Mayor's Wellness First Bike Ride for 2018**   
 

@@ -1,7 +1,7 @@
 ---
 layout: community-blog
 title: Rainwater Workshop 10/9
-event: true
+
 ---
 
 [See Flyer Here](https://storage.googleapis.com/static.rutherford-nj.com/community-events/rainwater%20press%20release_%20revised.pdf)

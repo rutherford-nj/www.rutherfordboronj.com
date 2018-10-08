@@ -1,7 +1,7 @@
 ---
 layout: community-blog
 title: Kids Spot Park Reopening 6/22
-event: true
+
 ---
 
 Rutherford Borough is pleased to announce the opening of the much anticipated “Kid Spot Park” at Memorial Field on Friday, June 22.

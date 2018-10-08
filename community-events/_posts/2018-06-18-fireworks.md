@@ -1,7 +1,7 @@
 ---
 layout: community-blog
 title: Fireworks 7/1
-event: true
+
 ---
 
 **The Borough of Rutherford is pleased to announce that Rutherford’s annual fireworks display

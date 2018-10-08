@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: Rec Events Week of 7/23
-event: true
+
 ---
 
 **7/23: Mayor’s Wellness Bike Ride. Join us as we ride past Rutherford Historical Sites!**

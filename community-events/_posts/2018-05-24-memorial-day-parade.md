@@ -1,7 +1,7 @@
 ---
 layout: community-blog
 title: Memorial Day Parade 5/28
-event: true
+
 ---
 
 **Memorial Day Parade: Monday, May 28. 2018** 
