@@ -16,4 +16,4 @@ Street Smart NJ is a public education, awareness and behavioral change pedestria
 
 Rutherford Police Chief John R. Russo has announced that Rutherford will be participating in a month long Street Smart NJ pedestrian safety education campaign aimed at reducing pedestrian-motor vehicle crashes and promoting pedestrian safety to make our roads safer. 
  
-Complete the short online survey, then enter the drawing to win one of three iPads.
+Complete the [short online survey here,](https://rutgersbcsr.co1.qualtrics.com/jfe/form/SV_0rLxck8uQ6vXGQt) then enter the drawing to win one of three iPads.
