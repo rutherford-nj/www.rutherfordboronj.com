@@ -1,4 +1,7 @@
+/*globals lscache, jQuery */
 (function($){
+
+var key = 'dynamic-message';
 
 var url = 'https://sheets.googleapis.com/v4/spreadsheets/' +
     '16Y8NNYSn0yBWrtK3lStuFxJCxg7PThJpmBBxhUFsWvw/values/Message!A1%3AB1?key=' +
@@ -15,10 +18,20 @@ var handleCells = function(a1, b1){
     addClass('dynamic-message-' + a1);
 };
 
-var success = function(response) {
+var processResponse = function(response) {
   handleCells(response['values'][0][0], response['values'][0][1]);
 };
 
-$.getJSON(url, success);
+var success = function(response) {
+  lscache.set(key, response, 5);
+  processResponse(response);
+};
+
+var response = lscache.get(key);
+if (response){
+  processResponse(response);
+} else {
+  $.getJSON(url, success);
+}
 
 })(jQuery);

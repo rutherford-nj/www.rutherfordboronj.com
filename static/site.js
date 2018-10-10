@@ -1,6 +1,8 @@
 ---
 ---
 
+{% include_relative js/lscache.min.js %}
+
 jQuery(function() {
 
 window._apiKey = 'AIzaSyBqwbJKMfVDLzhMkfu8bCycNa-N5opENbo';

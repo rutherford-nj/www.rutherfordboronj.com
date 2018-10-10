@@ -13,10 +13,6 @@ rvm:
 
 script: make deploy
 
-branches:
-  only:
-  - www
-  - beta
 
 env:
   global:

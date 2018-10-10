@@ -1,6 +1,7 @@
 {
   "dependencies": {
     "firebase-tools": "4.2.1",
+    "lscache": "1.2.0",
     "modernizr": "3.6.0"
   }
 }
