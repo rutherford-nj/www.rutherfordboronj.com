@@ -1,7 +1,7 @@
 (function($){
 
 var makeUrl = function(responseObject) {
-  return 'http://static.rutherford-nj.com/' + responseObject['name'];
+  return 'https://storage.googleapis.com/static.rutherford-nj.com/' + responseObject['name'];
 };
 
 var itemsCompare = function (a, b) {
