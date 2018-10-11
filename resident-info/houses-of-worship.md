@@ -35,8 +35,5 @@ title: 'Houses of Worship'
 
 **Canaan Presbyterian Church** (Korean PCA) 245 Union Ave., 201-460-8276
 
-**Global Mission Church** 23 W. Passaic Ave.
-
 **Abundant Grace Christian Church** 70 Home Ave., 201-933-1191
 
-**Church Alive** 1 Williams Plaza, 201-241-2402
