@@ -2,6 +2,7 @@
   "dependencies": {
     "firebase-tools": "4.2.1",
     "lscache": "1.2.0",
+    "lunr": "2.3.3",
     "modernizr": "3.6.0",
     "serve": "^10"
   }

@@ -15,6 +15,7 @@ endif
 
 pre-jekyll-build: npm-packages bundle-packages
 	cp ./node_modules/lscache/lscache.min.js static/js/lscache.min.js
+	cp ./node_modules/lunr/lunr.js search/lunr.js
 	./node_modules/.bin/modernizr --config=modernizr-config.json --dest=static/js/modernizr.js
 
 

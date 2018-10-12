@@ -1,5 +1,6 @@
 .DS_Store
 node_modules
 _site
+search/lunr.js
 static/js/lscache.min.js
 static/js/modernizr.js
