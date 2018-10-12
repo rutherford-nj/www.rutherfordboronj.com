@@ -4,7 +4,7 @@ title: Ragamuffin Parade 10/27
 ---
 
 
-[See Flyer](https://storage.googleapis.com/static.rutherford-nj.com/recreation/upcoming-events/Ragamuffin_parade%202018%20(1).pdf)
+[See Flyer](https://storage.googleapis.com/static.rutherford-nj.com/recreation/upcoming-events/Ragamuffin_parade%202018_1pdf)
 
 **Announcing The Rutherford Recreation Department’s Annual Ragamuffin Parade!**
 
