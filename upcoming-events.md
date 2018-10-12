@@ -51,7 +51,7 @@ Location: Meet at Lincoln Park corner of Park Ave/Highland Cross
 **• A few tickets left! Radio City Christmas Spectacular Show tickets are now on sale!** [See Flyer](https://storage.googleapis.com/static.rutherford-nj.com/recreation/Christmas%20Spectacular%20Flyer%20(1).pdf)
 
 
-##More Events:
+## More Events:
 
 **• October 21st** - PBA 5K Run. Sign up now! [www.rutherfordpba5k.com](https://www.rutherfordpba5k.com/)
 
@@ -59,6 +59,6 @@ Location: Meet at Lincoln Park corner of Park Ave/Highland Cross
 
 **• October 24th** - Walk to School with the Mayor at Kindergarten Center [See Flyer Here](https://storage.googleapis.com/static.rutherford-nj.com/recreation/posts/Walk%20to%20School%20-%20color.pdf)
 
-**• October 27th** - Annual Halloween Ragamuffin Parade @10:00am [See Flyer](https://storage.googleapis.com/static.rutherford-nj.com/recreation/upcoming-events/Ragamuffin%20parade%202018.pdf)
+**• October 27th** - Annual Halloween Ragamuffin Parade @ 10:00am [See Flyer](https://storage.googleapis.com/static.rutherford-nj.com/recreation/upcoming-events/Ragamuffin%20parade%202018.pdf)
 
 **• October 30th** - Annual Spooktacular @ Memorial and Tryon Field [See Flyer](https://storage.googleapis.com/static.rutherford-nj.com/recreation/2018_Halloween_Spooktacular.pdf)
