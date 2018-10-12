@@ -60,6 +60,6 @@ Location: Meet at Lincoln Park corner of Park Ave/Highland Cross
 
 **• October 24th** - Walk to School with the Mayor at Kindergarten Center [See Flyer](https://storage.googleapis.com/static.rutherford-nj.com/recreation/posts/Walk%20to%20School%20-%20color.pdf)
 
-**• October 27th** - Annual Halloween Ragamuffin Parade @ 10:00am [See Flyer](https://storage.googleapis.com/static.rutherford-nj.com/recreation/upcoming-events/Ragamuffin_parade%202018%20(1).pdf)
+**• October 27th** - Annual Halloween Ragamuffin Parade @ 10:00am [See Flyer](https://storage.googleapis.com/static.rutherford-nj.com/recreation/upcoming-events/Ragamuffin_parade%202018_1pdf)
 
 **• October 30th** - Annual Spooktacular @ Memorial and Tryon Field [See Flyer](https://storage.googleapis.com/static.rutherford-nj.com/recreation/2018_Halloween_Spooktacular.pdf)
