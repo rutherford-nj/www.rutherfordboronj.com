@@ -18,7 +18,7 @@ The program will feature the following:
 
 • The Presentation of Colors by the Rutherford Veteran’s Alliance
 
-•  Program speakers Mayor Joseph DeSalvo, Jr. and Rod Leigh, Rutherford borough historian
+• Program speakers Mayor Joseph DeSalvo, Jr. and Rod Leith, Rutherford borough historian
 
 • Unveiling of the US Postal Stamp, Turning the Tide
 
