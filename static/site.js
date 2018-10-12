@@ -1,6 +1,8 @@
 ---
 ---
 
+{% include_relative js/modernizr.js %}
+
 {% include_relative js/lscache.min.js %}
 
 jQuery(function() {

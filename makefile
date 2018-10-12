@@ -15,11 +15,14 @@ endif
 
 pre-jekyll-build: npm-packages bundle-packages
 	cp ./node_modules/lscache/lscache.min.js static/js/lscache.min.js
+	cp ./node_modules/lunr/lunr.js search/lunr.js
 	./node_modules/.bin/modernizr --config=modernizr-config.json --dest=static/js/modernizr.js
 
 
 dev: pre-jekyll-build
-	$(JEKYLL_BUILD) --watch
+	mkdir -p _site & \
+	$(JEKYLL_BUILD) --watch & \
+	./node_modules/.bin/serve --listen 8080 _site/
 
 
 prod: pre-jekyll-build
