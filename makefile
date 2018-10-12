@@ -19,7 +19,9 @@ pre-jekyll-build: npm-packages bundle-packages
 
 
 dev: pre-jekyll-build
-	$(JEKYLL_BUILD) --watch
+	mkdir -p _site & \
+	$(JEKYLL_BUILD) --watch & \
+	./node_modules/.bin/serve --listen 8080 _site/
 
 
 prod: pre-jekyll-build
