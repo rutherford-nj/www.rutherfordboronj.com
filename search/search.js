@@ -1,5 +1,7 @@
 jQuery(function() {
   var displaySearchResults = function(results) {
+    $('.loading').remove();
+
     var searchResults = $("#search_results");
 
     // Wait for data to load
