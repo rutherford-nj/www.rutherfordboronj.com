@@ -14,8 +14,11 @@ endif
 
 
 pre-jekyll-build: npm-packages bundle-packages
+	mkdir -p third_party
+	cp ./node_modules/jquery/dist/jquery.min.js third_party/jquery.min.js
 	cp ./node_modules/lscache/lscache.min.js static/js/lscache.min.js
-	cp ./node_modules/lunr/lunr.js search/lunr.js
+	cp ./node_modules/lunr/lunr.js third_party/lunr.js
+	cp -R ./node_modules/slick-carousel/slick third_party/
 	./node_modules/.bin/modernizr --config=modernizr-config.json --dest=static/js/modernizr.js
 
 
