@@ -1,3 +1,4 @@
+### BEGIN Variables ###
 FIREBASE_DEPLOY = ./node_modules/.bin/firebase deploy --non-interactive --token=$(RBH_FIREBASE_TOKEN)
 
 
@@ -10,16 +11,37 @@ ifeq ($(TRAVIS_BRANCH), www)
 else
 	PROJECT=rutherford-nj-beta-site
 endif
+### END Variables ###
 
 
+### BEGIN Third Party Packages ###
+package-jquery: npm-packages
+	mkdir -p third_party/jquery
+	cp ./node_modules/jquery/dist/jquery.min.js third_party/jquery/jquery.min.js
 
-pre-jekyll-build: npm-packages bundle-packages
-	mkdir -p third_party
-	cp ./node_modules/jquery/dist/jquery.min.js third_party/jquery.min.js
+package-lscache: npm-packages
 	cp ./node_modules/lscache/lscache.min.js static/js/lscache.min.js
-	cp ./node_modules/lunr/lunr.js third_party/lunr.js
+
+package-lunr: npm-packages
+	mkdir -p third_party/lunr
+	cp ./node_modules/lunr/lunr.js third_party/lunr/lunr.js
+
+package-slick-carousel: npm-packages
 	cp -R ./node_modules/slick-carousel/slick third_party/
+
+package-modernizr: npm-packages
 	./node_modules/.bin/modernizr --config=modernizr-config.json --dest=static/js/modernizr.js
+
+third-party-packages: \
+	package-jquery \
+	package-lscache \
+	package-lunr \
+	package-slick-carousel \
+	package-modernizr
+### END Third Party Packages ###
+
+
+pre-jekyll-build: third-party-packages bundle-packages
 
 
 dev: pre-jekyll-build

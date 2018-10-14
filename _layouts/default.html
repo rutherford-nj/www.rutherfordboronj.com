@@ -9,9 +9,9 @@
   <meta property="og:image" content="https://www.rutherfordboronj.com/static/images/boroughfacebookicon.png" />
   <link href="/static/site.css?zx={{ "now" | date: "%s" }}" rel="stylesheet" type="text/css" />
   <link href='//fonts.googleapis.com/css?family=Roboto:400,700,900' rel='stylesheet' type='text/css' />
-  <link rel="shortcut icon" href="/favicon.ico" />
-  <link rel="stylesheet" type="text/css" href="/third_party/slick/slick.css"/>
-  <link rel="stylesheet" type="text/css" href="/third_party/slick/slick-theme.css"/>
+  <link rel="shortcut icon" href="/favicon.ico?zx={{ "now" | date: "%s" }}" />
+  <link rel="stylesheet" type="text/css" href="/third_party/slick/slick.css?zx={{ "now" | date: "%s" }}"/>
+  <link rel="stylesheet" type="text/css" href="/third_party/slick/slick-theme.css?zx={{ "now" | date: "%s" }}"/>
 </head>
 <body>
 <div id="fb-root"></div>
@@ -60,7 +60,7 @@
       {{content}}
     </div>
   </div>
-  <script src="/third_party/jquery.min.js"></script>
-  <script src="/third_party/slick/slick.min.js"></script>
+  <script src="/third_party/jquery/jquery.min.js?zx={{ "now" | date: "%s" }}"></script>
+  <script src="/third_party/slick/slick.min.js?zx={{ "now" | date: "%s" }}"></script>
   <script src="/static/site.js?zx={{ "now" | date: "%s" }}"></script>
 </body>
