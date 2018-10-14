@@ -48,5 +48,7 @@ bundle-packages:
 
 
 clean:
+	rm package-lock.json
+	rm Gemfile.lock
 	rm -rf node_modules
 	rm -rf _site
