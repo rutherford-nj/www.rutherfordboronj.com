@@ -44,7 +44,7 @@ third-party-packages: \
 pre-jekyll-build: third-party-packages bundle-packages
 
 
-dev: pre-jekyll-build
+dev: pre-jekyll-build npm-packages
 	mkdir -p _site & \
 	$(JEKYLL_BUILD) --watch & \
 	./node_modules/.bin/serve --listen 8080 _site/
