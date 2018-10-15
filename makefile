@@ -32,6 +32,8 @@ package-slick-carousel: npm-packages
 package-modernizr: npm-packages
 	./node_modules/.bin/modernizr --config=modernizr-config.json --dest=static/js/modernizr.js
 
+package-serve: npm-packages
+
 third-party-packages: \
 	package-jquery \
 	package-lscache \
@@ -44,7 +46,7 @@ third-party-packages: \
 pre-jekyll-build: third-party-packages bundle-packages
 
 
-dev: pre-jekyll-build npm-packages
+dev: pre-jekyll-build package-serve
 	mkdir -p _site & \
 	$(JEKYLL_BUILD) --watch & \
 	./node_modules/.bin/serve --listen 8080 _site/
