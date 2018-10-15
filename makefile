@@ -32,9 +32,12 @@ package-slick-carousel: npm-packages
 package-modernizr: npm-packages
 	./node_modules/.bin/modernizr --config=modernizr-config.json --dest=static/js/modernizr.js
 
+package-firebase-tools: npm-packages
 package-serve: npm-packages
+package-jekyll: bundle-packages
+package-htmlproofer: bundle-packages
 
-third-party-packages: \
+third-party-js-packages: \
 	package-jquery \
 	package-lscache \
 	package-lunr \
@@ -43,21 +46,21 @@ third-party-packages: \
 ### END Third Party Packages ###
 
 
-pre-jekyll-build: third-party-packages bundle-packages
+build-requirements: third-party-js-packages package-jekyll
 
 
-dev: pre-jekyll-build package-serve
+dev: build-requirements package-serve
 	mkdir -p _site & \
 	$(JEKYLL_BUILD) --watch & \
 	./node_modules/.bin/serve --listen 8080 _site/
 
 
-prod: pre-jekyll-build
+prod: build-requirements package-htmlproofer
 	$(JEKYLL_BUILD)
 	bundle exec htmlproofer ./_site --only-4xx --check-favicon --check-html --disable-external
 
 
-deploy: npm-packages prod
+deploy: prod package-firebase-tools
 	$(PREDEPLOY)
 	$(FIREBASE_DEPLOY) --project=$(PROJECT)
 
