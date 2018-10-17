@@ -5,6 +5,7 @@
     "lscache": "1.2.0",
     "lunr": "2.3.3",
     "modernizr": "3.6.0",
+    "nanogallery2": "2.3.0",
     "serve": "^10",
     "slick-carousel": "1.8.1"
   }

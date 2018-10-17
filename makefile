@@ -32,6 +32,9 @@ package-slick-carousel: npm-packages
 package-modernizr: npm-packages
 	./node_modules/.bin/modernizr --config=modernizr-config.json --dest=static/js/modernizr.js
 
+package-nanogallery2: npm-packages
+	cp -R ./node_modules/nanogallery2/dist third_party/nanogallery2
+
 package-firebase-tools: npm-packages
 package-serve: npm-packages
 package-jekyll: bundle-packages
@@ -42,7 +45,8 @@ third-party-js-packages: \
 	package-lscache \
 	package-lunr \
 	package-slick-carousel \
-	package-modernizr
+	package-modernizr \
+	package-nanogallery2
 ### END Third Party Packages ###
 
 
@@ -79,3 +83,4 @@ clean:
 	rm Gemfile.lock
 	rm -rf node_modules
 	rm -rf _site
+	rm -rf third_party
