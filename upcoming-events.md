@@ -56,7 +56,7 @@ Location: Meet at Lincoln Park corner of Park Ave/Highland Cross
 
 **• October 21st** - PBA 5K Run. Sign up now! [www.rutherfordpba5k.com](https://www.rutherfordpba5k.com/)
 
-**• October 22nd** - Rutherford Police Department Street Smart NJ Kickoff 11 AM at the Williams Center Plaza [Learn more](/departments/police/2018/10/08/street-smart-nj/)
+**• October 22nd** - Rutherford Police Department Street Smart NJ Kickoff 11 AM at the Williams Center Plaza [Learn more](/departments/police/2018/10/17/street-smart-nj/)
 
 **• October 24th** - Walk to School with the Mayor at Kindergarten Center [See Flyer](https://storage.googleapis.com/static.rutherford-nj.com/recreation/posts/Walk%20to%20School%20-%20color.pdf)
 
