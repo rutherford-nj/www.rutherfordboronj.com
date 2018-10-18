@@ -11,11 +11,13 @@ Currently, payment for programs must be made in person or mailed to the Recreati
 
 | Program | Age | Fee |	Day | Time | Dates |	No. of Classes | Location |
 |:--------|:---------:|:---:|:---:|:----:|:-------------:|:---------:|:--------:|
-| **Yoga**     | 18+ | $40 for 1 Class/Week Per Session | Mon & Thur | 9:00-10:00AM | 7/30-9/21  | 8 weeks | Tryon Field |
-|              | 18+ | $80 for 2 Classes/Week Per Session | Mon & Thur | 9:00-10:00AM | 9/24-10/16 | 8 weeks | Tryon Field |
-| **Aerobics** | 18+ | $40 for 1 Class/Week Per Session | Tues & Fri | 5:30-6:30AM  |  8/6-9/28  | 8 weeks | Tamblyn Field Civic Center |
-|              | 18+ | $80 for 2 Classes/Week Per Session | Tues & Fri | 5:30-6:30AM  | 10/1-11/23 | 8 weeks | Tamblyn Field Civic Center |
-| **Tennis Lessons** | 18+ | $70 for 6 - One Hour Lessons Intermediate | Sundays | 10:00AM  | Starts 9/23  | 6 Sessions | Memorial Field Tennis Courts |
-|                    | 18+ | $60 for 6 - One Hour Lessons Beginner | Sundays | 3:00PM  | Starts 9/23  | 6 Sessions | Memorial Field Tennis Courts |
+| **Yoga**     | 18+ | $40 for 1 Class/Week Per Session | Mon & Thur | 9:00-10:00AM | 9/10-11/2 | 8 weeks | Rutherford Congregational Church, 251 Union Ave |
+|              | 18+ | $80 for 2 Classes/Week Per Session | Mon & Thur | 9:00-10:00AM | 9/10-11/2 | 8 weeks | Rutherford Congregational Church, 251 Union Ave |
+|              | 18+ | $40 for 1 Class/Week Per Session | Mon & Thur | 9:00-10:00AM | 11/5-1/18 | 8 weeks | Rutherford Congregational Church, 251 Union Ave |
+|              | 18+ | $80 for 2 Classes/Week Per Session | Mon & Thur | 9:00-10:00AM | 11/5-1/18 | 8 weeks | Rutherford Congregational Church, 251 Union Ave |
+| **Aerobics** | 18+ | $40 for 1 Class/Week Per Session | Tues & Fri | 5:30-6:30AM  |  10/1-12/7  | 10 weeks | Tamblyn Field Civic Center |
+|              | 18+ | $80 for 2 Classes/Week Per Session | Tues & Fri | 5:30-6:30AM  | 10/1-12/7 | 10 weeks | Tamblyn Field Civic Center |
+|              | 18+ | $40 for 1 Class/Week Per Session | Tues & Fri | 5:30-6:30AM  |  12/10-2/15  | 10 weeks | Tamblyn Field Civic Center |
+|              | 18+ | $80 for 2 Classes/Week Per Session | Tues & Fri | 5:30-6:30AM  | 12/10-2/15 | 10 weeks | Tamblyn Field Civic Center |
 |---------|-----------|-----|-----|------|-------------|------------------|-------------------|----------|
 {: .hover-table .recreation-table}
