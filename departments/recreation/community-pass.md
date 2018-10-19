@@ -4,6 +4,14 @@ title: 'Community Pass'
 parent: 'Recreation'
 ---
 
+<style>
+  .cp-strong {
+  	font-weight: bold;
+  	text-decoration: underline;
+  }
+</style>
+
+Please <span class="cp-strong">do not attempt to use the credit card option</span> on Community Pass to register for any of the Recreation programs at this time.  It is currently in a <span class="cp-strong">testing</span> phase.  Any payments and applications processed via this feature will <span class="cp-strong">NOT</span> be received by the Recreation Department.  The Borough of Rutherford will not be responsible for any lost payments made during this testing phase.  This feature will go live in the very near future.  Thank you for your patience.
 
 Please set up an account with Community Pass to receive important emails and information.
 
