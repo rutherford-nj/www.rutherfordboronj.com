@@ -1,19 +1,25 @@
 ---
 layout: page
-title: 'Upcoming Events 10/15'
+title: 'Upcoming Events 10/22'
 ---
  
-## Upcoming Events for the Week of October 15 
+## Upcoming Events for the Week of October 22 
 
 **Weather Hotline: 201-460-3000 ext 3177**
 
 
 **• Fall Sign-ups!** 
 
+For Kids:
+
+Last day for Basketball Sign-Ups is October 26 th ! A $10 late fee will be incurred
+after that day IF there are openings.
+
 Basketball and Wrestling
 
-[Click here for more information](/departments/recreation/sports-and-activities/childrens-catalog/)
+[Click here for kids' sports](/departments/recreation/sports-and-activities/childrens-catalog/)
 
+[**Adults Aerobics and Yoga** Click here for more information](/departments/recreation/sports-and-activities/adult-catalog/)
 
 **• 4th Annual Pumpkin People in the Park started Saturday October 13th**
 
@@ -23,7 +29,7 @@ businesses, organizations, or families.
 
 **• Mix-It-Up!** 
 
-12 noon- 2:00 pm  4 Sunday afternoons left. $10 for the entire program.
+12 noon- 2:00 pm  $10 for the entire program.
 
 Mix-It-Up playgroup exposes typically developing kids aged 5-13 years to their special need peers so they can
 learn about each other FROM each other
@@ -32,21 +38,18 @@ learn about each other FROM each other
 
 [**• Exceptional Individuals Fall Program**](https://storage.googleapis.com/static.rutherford-nj.com/recreation/Exceptional%20Individuals%20Program%20Fall%202018.pdf)
 
-**• Please join us! Re-dedication of KIDSPOT PLAYGROUND**
 
-Sunday, October 14 th at 12:00 Noon [See flyer here](https://storage.googleapis.com/static.rutherford-nj.com/recreation/upcoming-events/kidspot%20flyer%203.pdf)
-
-**• Walk to School with the Mayor at Lincoln School**
+**• Walk to School with the Mayor at The Kindergarten Center**
 
 [See Flyer Here](https://storage.googleapis.com/static.rutherford-nj.com/recreation/posts/Walk%20to%20School%20-%20color.pdf)
 
 As part of the Mayor’s Wellness Campaign
 
-Date: Wednesday, October 7th
+Date: Wednesday, October 24th
 
-Time: promptly at 8:00 am
+Time: promptly at 8:25 am
 
-Location: Meet at Lincoln Park corner of Park Ave/Highland Cross
+Location: Meet at Lincoln Park corner of Lincoln Ave/Highland Cross
 
 
 **• A few tickets left! Radio City Christmas Spectacular Show tickets are now on sale!** [See Flyer](https://storage.googleapis.com/static.rutherford-nj.com/recreation/Christmas%20Spectacular%20Flyer%20(1).pdf)
