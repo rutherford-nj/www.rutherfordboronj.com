@@ -12,7 +12,7 @@ title: Ragamuffin Parade 10/27
 All Rutherford ghosts and goblins are invited to attend in costume!
 
 
-**Due to the weather forecast, the “Ragamuffin Parade” sponsored by Adrian Edwards Realty scheduled for Saturday, October 27th will be indoors starting at 10:00AM in the Rutherford High School Auditorium.**
+**Due to the weather forecast, the “Ragamuffin Parade” sponsored by Adrian Edwards Realty scheduled for Saturday, October 27th will be indoors starting at 10:00AM in the Rutherford High School Auditorium, located at 56 Elliot Place.**
 
 
 Thank You to our Sponsors & Volunteers:
