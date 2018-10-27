@@ -10,7 +10,7 @@ title: 'Upcoming Events 10/29'
 
 **• Fall Sign-ups!** 
 
-Wrestling Sign-ups still available![Click here for kids' sports](/departments/recreation/sports-and-activities/childrens-catalog/)
+Wrestling Sign-ups still available! [Click here for kids' sports](/departments/recreation/sports-and-activities/childrens-catalog/)
 
 
 After October 26th you can still sign up for Recreation Basketball for a $10 late fee.
