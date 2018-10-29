@@ -7,6 +7,8 @@ title: 'Borough Codes & Ordinances'
 
 ## Recently Adopted Borough Codes and Ordinances:
 
+[Ordinance No. 3477-18 - Establishing Handicap Space on Eastern Way](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3477-18%20Establishing%20Handicap%20Space%20-%20Eastern%20Way.pdf)
+
 [Ordinance No. 3475-18 - Authorizing Execution of Financial Agreement](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3475-18%20Ordinance%20Authorizing%20Execution%20of%20Financial%20Agreement.pdf)
 
 [Ordinance No. 3474-18 - Amendment to Chapter 125 - Abandoned Vehicle](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3474-18%20Amendment%20to%20Chapter%20125%20-%20Abandoned%20Vehicle.pdf)
