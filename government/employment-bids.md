@@ -4,6 +4,8 @@ title: 'Employment & Bids'
 parent: Government
 ---
 
+[Notice to Bid: New Single-Engine Hydrostatic Pure Vacuum Sweeper](https://storage.googleapis.com/static.rutherford-nj.com/finance/Employment/2018%20Street%20Sweeper%20Advertisement%20rev.pdf)
+
 [RFP: POLICE OFF-DUTY DETAIL MANAGEMENT SYSTEM
 SERVICES](https://storage.googleapis.com/static.rutherford-nj.com/finance/Employment/Police%20Off%20Duty%20Detail%20Management%20System.pdf)
 
