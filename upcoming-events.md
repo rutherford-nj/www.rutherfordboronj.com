@@ -1,14 +1,12 @@
 ---
 layout: page
-title: 'Upcoming Events 11/5'
+title: 'Upcoming Events 11/12'
 ---
  
-## Upcoming Events for the Week of November 5 
+## Upcoming Events for the Week of November 12 
 
 **Weather Hotline: 201-460-3000 ext 3177**
 
-
-• **DONATE!** Rutherford Community Blood Bank Fall Drive is Monday, November 5th at the Kip Center, 55 Kip Avenue, Rutherford from 3 to 8 PM
 
 **• Fall Sign-ups!** 
 
@@ -31,4 +29,9 @@ special need peers so they can learn about each other FROM each other
 [Click here for more information](https://storage.googleapis.com/static.rutherford-nj.com/recreation/posts/MIx%20it%20up%20flyer%20-%202018-2019.pdf)
 
 [**• Exceptional Individuals Fall Program**](https://storage.googleapis.com/static.rutherford-nj.com/recreation/Exceptional%20Individuals%20Program%20Fall%202018.pdf)
+
+
+## More Events
+
+• **Saturday, November 25th** - Holiday Parade - 4:00PM & Holiday Festival in Lincoln Park - 5:00 - 8:00PM - More details to follow.
 
