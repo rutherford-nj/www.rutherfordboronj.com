@@ -33,5 +33,5 @@ special need peers so they can learn about each other FROM each other
 
 ## More Events
 
-• **Saturday, November 25th** - Holiday Parade - 4:00PM & Holiday Festival in Lincoln Park - 5:00 - 8:00PM - More details to follow.
+• **Saturday, November 24th** - Holiday Parade - 4:00PM & Holiday Festival in Lincoln Park - 5:00 - 8:00PM - More details to follow.
 
