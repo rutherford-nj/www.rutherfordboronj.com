@@ -4,7 +4,7 @@ title: Holiday Parade and Festival 11/24
 
 ---
 
-[Please see flyer here](https://storage.googleapis.com/static.rutherford-nj.com/community-events/RutherfordHolidayFest_8.5x11_2018.pdf)
+[Please see flyer here](https://storage.googleapis.com/static.rutherford-nj.com/community-events/RutherfordHolidayFest_8.5x11_2018_2.pdf)
 
 **Rutherford Holiday Parade & Festival**
 
@@ -49,3 +49,5 @@ Special thanks to our generous sponsors:
 BCB Community Bank- Rutherford
 
 Franks GMC • Professional Insurance Associates, Inc.
+
+Felician University
