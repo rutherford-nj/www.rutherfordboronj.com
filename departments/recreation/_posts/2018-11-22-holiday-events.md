@@ -3,6 +3,8 @@ layout: blog
 title: Holiday Events in December
 ---
 
+[See Flyer Here](https://storage.googleapis.com/static.rutherford-nj.com/recreation/posts/RL%20xmas%20flyer%202018%20(003)%20(002).pdf)
+
 **• RUTHERFORD COMMUNITY FREE HOLIDAY BAND CONCERT**
 
 Saturday, December 1st at 4:00 pm @ Rutherford High School Auditorium
