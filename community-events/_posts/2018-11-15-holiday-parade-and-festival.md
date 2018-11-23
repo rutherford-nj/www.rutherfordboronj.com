@@ -1,14 +1,12 @@
 ---
 layout: community-blog
-title: Holiday Parade and Festival 11/24
+title: Holiday Parade and Festival Postponed to 11/25
 
 ---
 
 [Please see flyer here](https://storage.googleapis.com/static.rutherford-nj.com/community-events/RutherfordHolidayFest_8.5x11_2018_2.pdf)
 
-**Rutherford Holiday Parade & Festival**
-
-**Saturday, November 24th**
+**Due to the weather forecast, the Rutherford Holiday Parade & Festival has been postponed to Sunday, November 25th**
 
  
 **12:00pm St. Mary vs. Rutherford Alumni Flag Football Game @ Tryon Field**
