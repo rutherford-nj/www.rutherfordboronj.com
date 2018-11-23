@@ -24,7 +24,7 @@ Payment can pay made online via Community Pass or in person or mailed to the Rec
 
 
 | Program | Age/Grade | Fee |	Day | Time | Start Date | End Date | Number of classes | Location |
-|:--------|:---------:|:---:|:---:|:--------------:|:-------------:|:-----------------:|:--------:|
+|:--------|:---------:|:---:|:---:|:--------------:|:-------------:|:-------------:|:-----------------:|:--------:|
 | **Gymnastics** | 3-5yrs  | $55 | Saturdays | 9 - 10am         | Jan 12  | March 2 |  8 | Tamblyn Field Civic Center |
 |                | 3-5yrs  | $55 | Saturdays | 10 - 11am        | Jan 12  | March 2 |  8 | Tamblyn Field Civic Center |
 |                | 6-8yrs  | $55 | Saturdays | 11am - 12pm      | Jan 12  | March 2 |  8 | Tamblyn Field Civic Center |
