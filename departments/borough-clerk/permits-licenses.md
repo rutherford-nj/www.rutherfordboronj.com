@@ -31,7 +31,7 @@ Please click on an item below to download the appropriate form and return to the
 
 **Liquor License** – Renewed yearly – 4 club licenses and 10 store licenses. Application process in compliance with Alcohol Beverage Control Commission requirements.
 
-[**Mobile Storage Unit (POD)**](https://storage.googleapis.com/static.rutherford-nj.com/borough-clerk/permits-licenses/MobileStorage_POD_Application.pdf)
+[**Mobile Storage Unit (POD)**](https://storage.googleapis.com/static.rutherford-nj.com/borough-clerk/permits-licenses/Forms/POD.pdf)
 – Maintenance of container must meet requirements of Ordinance # 3126-06.  Storage units must be legally parking in compliance with NJ Motor Vehicle laws.  Fee $25 – If being placed in meter spaces $5 per day per meter.
 
 [**OPRA – Public Records Request**](https://storage.googleapis.com/static.rutherford-nj.com/borough-clerk/permits-licenses/Forms/OPRA%20REQUEST.pdf)
@@ -47,8 +47,6 @@ Ettrick Terrace and Kip Garage – $50.00 per month. Contact Clerk’s Office fo
 
 [**Parking Meters**](https://storage.googleapis.com/static.rutherford-nj.com/borough-clerk/permits-licenses/Forms/PARKING%20METER%20PERMIT.pdf)
 – May be reserved for purpose of construction job or moving van in the business districts.Meters are $5 per day per meter.
-
-[**POD**](https://storage.googleapis.com/static.rutherford-nj.com/borough-clerk/permits-licenses/Forms/POD.pdf)
 
 [**Resident Parking Permits**](/departments/police/parking/)
 
