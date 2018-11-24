@@ -8,13 +8,15 @@ title: Holiday Parade and Festival Postponed to 11/25
 
 **Due to the weather forecast, the Rutherford Holiday Parade & Festival has been postponed to Sunday, November 25th**
 
+The St. Mary vs. Rutherford Alumni Flag Football Game, Kip Center Festival of Trees and St. Mary's Craft Fair will take place as scheduled on Saturday, Nov. 24th. 
+
  
-**12:00pm St. Mary vs. Rutherford Alumni Flag Football Game @ Tryon Field**
+**Saturday, Nov. 24th: 12:00pm St. Mary vs. Rutherford Alumni Flag Football Game @ Tryon Field**
 
 Please bring non-perishable food items to the game to donate to the Rutherford Community Food Pantry. 
 
 
-**4:00pm Holiday Parade** with Grand Marshall Rutherford Fire Department
+**Sunday, Nov. 25th: 4:00pm Holiday Parade** with Grand Marshall Rutherford Fire Department
 
 Begins at Beech Street and Ends at Lincoln Park
 
@@ -23,7 +25,7 @@ Tree Lighting in front of the Library
 Immediately following the parade 
 
 
-**5:00-8:00pm Holiday Village in Lincoln Park**
+**Sunday, Nov. 25th: 5:00-8:00pm Holiday Village in Lincoln Park**
 
 • Crafts with the Girl Scouts
 
