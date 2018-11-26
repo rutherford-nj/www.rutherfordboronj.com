@@ -11,8 +11,6 @@ Please click on an item below to download the appropriate form and return to the
 
 **Block Party Requests** – Letter to be sent to the Mayor & Council requesting date at least three weeks prior to event.
 
-[**Clothing Bin**](https://storage.googleapis.com/static.rutherford-nj.com/borough-clerk/permits-licenses/Forms/CLOTHING%20BIN.pdf)
-
 [**Dumpster**](https://storage.googleapis.com/static.rutherford-nj.com/borough-clerk/permits-licenses/Forms/DUMPSTER.pdf)
 – If you need to place a dumpster on the street or driveway, a permit is required at the cost of $25.00 for 15 days.  If being placed in meter spaces $5.00 per day, per meter.
   
