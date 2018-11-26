@@ -1,19 +1,23 @@
 ---
 layout: page
-title: 'Upcoming Events 11/12'
+title: 'Upcoming Events 11/26'
 ---
  
-## Upcoming Events for the Week of November 12 
+## Upcoming Events for the Week of November 26 
 
 **Weather Hotline: 201-460-3000 ext 3177**
 
+The Recreation Basketball Program starts on Saturday, December 1st.
+Please be patient as coaches will be contacting players after the the drafts
+this week.
 
-**• Fall Sign-ups!** 
 
-Wrestling Sign-ups still available! [Click here for kids' sports](/departments/recreation/sports-and-activities/childrens-catalog/)
+**• Winter Sign-ups!** 
 
+Gymnastics, Dance, Tennis Lessons, and Indoor Soccer.
 
-Limited spots open for Recreation Basketball with a $10 late fee.
+Please click on the link to see the schedule of Recreation children’s winter
+classes. [Click here for kids' sports](/departments/recreation/sports-and-activities/childrens-catalog/)
 
 
 [**Adults Aerobics and Yoga** Click here for more information](/departments/recreation/sports-and-activities/adult-catalog/)
@@ -33,5 +37,6 @@ special need peers so they can learn about each other FROM each other
 
 ## More Events
 
-• **Saturday, November 24th** - Holiday Parade - 4:00PM & Holiday Festival in Lincoln Park - 5:00 - 8:00PM - More details to follow.
+• **FREE CONCERT - RUTHERFORD COMMUNITY FREE HOLIDAY BAND** Saturday, December 1 st at 4:00 pm @ Rutherford High School Auditorium
 
+• **Santa Clause comes to town on Saturday, December 15th**
