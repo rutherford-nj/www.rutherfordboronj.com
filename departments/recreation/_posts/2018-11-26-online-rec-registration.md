@@ -3,7 +3,7 @@ layout: blog
 title: Online Rec Registration
 ---
 
-ONLINE REGISTATION IS AVAILABLE! We are pleased to announce that the Rutherford Recreation Department has just launched online registration.  Payments by check and cash accepted today and credit cards also! 
+ONLINE REGISTRATION IS AVAILABLE! We are pleased to announce that the Rutherford Recreation Department has just launched online registration.  Payments by check and cash accepted today and credit cards also! 
  
 
 Registration for all Recreation Programs can be done online by clicking the following link:
