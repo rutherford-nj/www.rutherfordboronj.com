@@ -37,6 +37,14 @@ special need peers so they can learn about each other FROM each other
 
 ## More Events
 
-• **FREE CONCERT - RUTHERFORD COMMUNITY FREE HOLIDAY BAND** Saturday, December 1 st at 4:00 pm @ Rutherford High School Auditorium
+• **Parade of Champions -** The Parade of Champions honoring State Champs Rutherford HS football team, Rutherford Junior Football and Cheer will take place Saturday, December 1st at 1pm
+
+The route will begin at Rutherford High School (56 Elliot Place) and navigate to Borough Hall
+
+Rain date will be Sunday Dec. 2 at same time
+
+• **FREE CONCERT - RUTHERFORD COMMUNITY FREE HOLIDAY BAND -** Saturday, December 1 st at 4:00 pm @ Rutherford High School Auditorium
+
+• **Ortega Hoop Shoot -** Sunday, December 2nd, Rutherford High School [See Flyer](https://storage.googleapis.com/static.rutherford-nj.com/community-events/Ortega%20Hoop%20Shoot.pdf)
 
 • **Santa Clause comes to town on Saturday, December 15th**
