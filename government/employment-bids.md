@@ -8,6 +8,6 @@ parent: Government
 
 [Request for Proposals: Professional Services](https://storage.googleapis.com/static.rutherford-nj.com/finance/Employment/PROFESSIONAL%20SERVICES.pdf)
 
-[Notice of Sale of Property](https://storage.googleapis.com/static.rutherford-nj.com/finance/Employment/Notice%20of%20Sale%20of%20Property%20(1).pdf)
+[Notice of Sale of Property-Revised](https://storage.googleapis.com/static.rutherford-nj.com/finance/Employment/NOTICE%20OF%20SALE%20OF%20PROPERTY_Revised.pdf)
 
 [Click here to download an employment application](https://storage.googleapis.com/static.rutherford-nj.com/borough-clerk/permits-licenses/Employment%20Application.pdf)
