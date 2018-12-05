@@ -31,7 +31,7 @@ Payment can pay made online via Community Pass or in person or mailed to the Rec
 |                | 9-12yrs | $55 | Saturdays | 12 - 1pm         | Jan 12  | March 2 |  8 | Tamblyn Field Civic Center |
 | **Dance**      | 3-5yrs  | $55 | Fridays  | 3:30 - 4:20pm    | Jan 11  | March 1 | 8 | Tamblyn Field Civic Center |
 |                | 6-8yrs  | $55 | Tuesdays  | 4:30 - 5:20pm    | Jan 11  | March 1 |  6 | Tamblyn Field Civic Center |     
-| **Tennis Lessons**| All Ages | $55 | Sat and Sun  | Call - 973-916-1882 | Jan 5  | Feb 10 |  6 | Wayne Indoor Cts |
+| **Tennis Lessons**| 5 - Adult | $115-150 | Fri and Sat  | Call - 973-916-1882 | Jan 11  | Feb 16 |  6 | Wayne Indoor Cts |
 | **Indoor Soccer** | 3rd-8th Gr | $30 | Sundays  | Varies | Jan 6  | Feb 24 |  8 | School Gyms |
 |---------|-----------|-----|-----|------|-------------|------------------|-------------------|----------|
 {: .hover-table .recreation-table}
