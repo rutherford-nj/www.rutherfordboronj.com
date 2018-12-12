@@ -16,6 +16,10 @@ var itemsCompare = function (a, b) {
 var success = function(response, elt) {
   var urls = [];
   var items = response['items'];
+  if (items.length === 1) {
+    // Only the directory was returned, the directory is empty.
+    elt.append($('<div>Content coming soon.</div>'));
+  }
   items.sort(itemsCompare);
   items.reverse();
   $.each(items, function(i, val) {
