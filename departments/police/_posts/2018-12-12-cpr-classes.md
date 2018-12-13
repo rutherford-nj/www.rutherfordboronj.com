@@ -4,7 +4,7 @@ title: CPR Class Schedule
 
 ---
 
-[See Flyer and Registration Form Here](https://storage.googleapis.com/static.rutherford-nj.com/police/police%20blog%20posts/CPR%202019.pdf)
+[See Flyer and Registration Form Here](https://storage.googleapis.com/static.rutherford-nj.com/police/police%20blog%20posts/CPR%202019%20(1).pdf)
 
 **Heartsaver Program**
 
@@ -14,9 +14,9 @@ Ideal for teachers, students, parents, babysitters, troop leaders andvworkplace 
 
 Rutherford Volunteer Ambulance Building : 44 Ames Avenue
  
-Thursday, January 17, 2019, 6 PM – 9 PM Registration & payment due: 01/14/19
+Thursday, January 17, 2019, 6 PM – 9 PM  Registration deadline: 01/14/19
 
-Saturday, February 9, 2019, 9 AM – 12 PM Registration & payment due: 02/06/19
+Saturday, February 9, 2019, 9 AM – 12 PM  Registration deadline: 02/06/19
 
 Fee: $20/Person. Minimum of 10 students per class. Maximum of 20 students per class.
 
