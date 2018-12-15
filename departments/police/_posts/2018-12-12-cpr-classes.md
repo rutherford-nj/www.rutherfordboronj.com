@@ -12,11 +12,13 @@ Designed for anyone who wants to be prepared for an emergency in any setting and
 
 Ideal for teachers, students, parents, babysitters, troop leaders andvworkplace safety personnel. Receive Completion Card valid for 2 years.
 
-Rutherford Volunteer Ambulance Building : 44 Ames Avenue
- 
-Thursday, January 17, 2019, 6 PM – 9 PM  Registration deadline: 01/14/19
+Rutherford Volunteer Ambulance Building - 44 Ames Avenue
 
-Saturday, February 9, 2019, 9 AM – 12 PM  Registration deadline: 02/06/19
+ 
+**Thursday, January 17, 2019, 6 PM – 9 PM**  Registration deadline: 01/14/19
+
+
+**Saturday, February 9, 2019, 9 AM – 12 PM**  Registration deadline: 02/06/19
 
 Fee: $20/Person. Minimum of 10 students per class. Maximum of 20 students per class.
 
