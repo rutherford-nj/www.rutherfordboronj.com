@@ -4,6 +4,8 @@ title: 'Employment & Bids'
 parent: Government
 ---
 
+[RFP for Police Headquarters Architect and Engineer](https://storage.googleapis.com/static.rutherford-nj.com/finance/Employment/12.21.18%20-%20NOTICE%20of%20RFP's%20Police%20Headquarters%20Architect.pdf)
+
 [Job Posting: Fire Subcode Official](https://storage.googleapis.com/static.rutherford-nj.com/finance/Employment/Fire%20Subcode%20Official%20Posting.pdf)
 
 [Job Posting: Crossing Guards](https://storage.googleapis.com/static.rutherford-nj.com/finance/Employment/GUARDS.pdf)
