@@ -7,6 +7,18 @@ title: 'Borough Codes & Ordinances'
 
 ## Recently Adopted Borough Codes and Ordinances:
 
+[Ordinance No. 3484-18 - Extending Rent Control](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3484-18%20Ordinance%20Extending%20Rent%20Control%20-%202018.pdf)
+
+[Ordinance No. 3483-18 - Amending Chapter 33A – Age of Membership for Fire Department](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3483-18%20Ordinance%20amending%20Chapter%2033A.pdf)
+
+[Ordinance No. 3482-18 - Reserved and Visitor Parking](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3482-18%20Reserved%20and%20Visitor%20Parking.pdf)
+
+[Ordinance No. 3481-18 - Reserved and Visitor Parking for Electronic Vehicles](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3481-18%20Electric%20Vehicle%20Charging%20Stations.pdf)
+
+[Ordinance No. 3480-18 - Repeal of Handicap Spaces](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3480-18%20Repeal%20of%20(3)%20Handicap%20Spaces.pdf)
+
+[Ordinance No. 3479-18 - Establishing Handicap Spaces](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3479-18%20Establishing%203%20handicap%20spaces.pdf)
+
 [Ordinance No. 3477-18 - Establishing Handicap Space on Eastern Way](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3477-18%20Establishing%20Handicap%20Space%20-%20Eastern%20Way.pdf)
 
 [Ordinance No. 3475-18 - Authorizing Execution of Financial Agreement](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3475-18%20Ordinance%20Authorizing%20Execution%20of%20Financial%20Agreement.pdf)
