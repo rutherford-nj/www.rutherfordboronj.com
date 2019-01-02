@@ -17,20 +17,17 @@ mgoldsack@rutherfordboronj.com
 **Term of Office**  
 1/1/17 to 12/31/19
 
-**Public Works Chair**
+**Finance Chair**
 {: style="clear: both;" }
 
 **Committee Assignments:**  
-[Board of Adjustment](/committees/board-of-adjustment/)
 
-Community Quality of Life
+Citizen Finance
 
-Environmental and Recycling
+Community Events/Public Information
 
-Historic Preservation
+Local Assistance Board
 
-Public Information
+Streetscape Committee
 
-[Shade Tree](/committees/shade-tree-commission/)
-
-Rutherford Volunteer Committee
+Volunteer/Community Quality of Life
