@@ -7,7 +7,7 @@ title: 'Mayor and Council'
 ![Council Headshot](mayor and council_2019.jpg)
 
 [Mayor Joseph DeSalvo, Jr](joseph-desalvo)               |                                                     |
-[Council President Stephanie McGowan](stephanie-mcgowan) | [Councilman Sean C. Walker](sean-walker)            |
+[Council President Stephanie McGowan](stephanie-mcgowan) | [Councilwoman Maria Begg-Roberson](maria-begg-roberson) |
 [Councilman Eddie Narucki](eddie-narucki)              | [Councilman Frank Nunziato](frank-nunziato) |
 [Councilman Mark Goldsack](mark-goldsack)                | [Councilman Thomas Mullahey](thomas-mullahey)       |
 {: style="border-spacing: 10px;" }
