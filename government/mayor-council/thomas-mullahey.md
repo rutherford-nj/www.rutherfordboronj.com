@@ -22,6 +22,7 @@ tmullahey@rutherfordboronj.com
 {: style="clear: both;" }
 
 **Committee Assignments:**  
+
 [Board of Education](https://www.rutherfordschools.org/boardofeducation/)
 
 Felician University
@@ -31,3 +32,5 @@ Green Acres
 Recreation Advisory
 
 Municipal Alliance
+
+Williams Center Advisory
