@@ -15,7 +15,7 @@ parent: 'Mayor and Council'
 mbegg-roberson@rutherfordboronj.com
 
 **Term of Office**  
-1/1/19 to 12/31/22
+1/1/19 to 12/31/21
 
 **Buildings, Grounds and Public Utilities Chair**
 {: style="clear: both;" }
