@@ -4,7 +4,7 @@ title: 'Mayor and Council'
 ---
 
 
-![Council Headshot](mayor and council_2018.jpg)
+![Council Headshot](mayor and council_2019.jpg)
 
 [Mayor Joseph DeSalvo, Jr](joseph-desalvo)               |                                                     |
 [Council President Stephanie McGowan](stephanie-mcgowan) | [Councilman Sean C. Walker](sean-walker)            |
