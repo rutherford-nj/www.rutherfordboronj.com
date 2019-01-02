@@ -19,20 +19,19 @@ smcgowan@rutherfordboronj.com
 
 1/1/15 to 12/31/17 
 
-**Finance Chair**
+**Fire Chair**
 {: style="clear: both;" }
 
 **Committee Assignments:**  
+
 55 Kip Center
 
 Access for All
 
-Citizen Finance
+Ambulance Corp.
 
-Community Events
+Local Emergency Planning
 
-[Local Assistance Board](/committees/local-assistance-board/)
+New Jersey Sports & Exposition Authority
 
-Downhill Derby
-
-Stigma Free Committee
+Stigma Free
