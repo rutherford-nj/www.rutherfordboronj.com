@@ -17,16 +17,18 @@ mbegg-roberson@rutherfordboronj.com
 **Term of Office**  
 1/1/19 to 12/31/22
 
-**Fire Chair**
+**Buildings, Grounds and Public Utilities Chair**
 {: style="clear: both;" }
 
 **Committee Assignments:**  
-Ambulance Corp.
 
-Local Emergency Planning
+[Board of Adjustment](/committees/board-of-adjustment/)
 
-New Jersey Sports and Exposition Authority
+[Green Team](/committees/green-team/)
 
-[Planning Board](/committees/planning-board/)
+Nereid Boat Club
 
-Streetscape Committee
+Passaic River Coalition
+
+Technology Upgrade
+
