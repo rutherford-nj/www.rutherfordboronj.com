@@ -18,7 +18,7 @@ enarucki@rutherfordboronj.com
 **Term of Office**  
 1/1/18 to 12/31/20
 
-**Buildings, Grounds and Public Utilities Chair**
+**Public Works Chair**
 {: style="clear: both;" }
 
 **Committee Assignments:**  
