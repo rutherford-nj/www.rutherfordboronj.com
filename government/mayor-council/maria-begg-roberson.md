@@ -1,10 +1,10 @@
 ---
 layout: interior-page
-title: 'Councilman Sean Walker'
+title: 'Councilwoman Maria Begg-Roberson'
 parent: 'Mayor and Council'
 ---
 
-## Councilman Sean C. Walker
+## Councilwoman Maria Begg-Roberson
 
 ![Council Headshot](../sean-walker.png)
 {: style="float: left; margin: 0 20px 20px 0;"}
@@ -12,10 +12,10 @@ parent: 'Mayor and Council'
 **Contact:**  
 201-460-3022
 
-swalker@rutherfordboronj.com
+mbegg-roberson@rutherfordboronj.com
 
 **Term of Office**  
-1/1/16 to 12/31/18
+1/1/19 to 12/31/22
 
 **Fire Chair**
 {: style="clear: both;" }
