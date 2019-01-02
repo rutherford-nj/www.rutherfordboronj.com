@@ -22,14 +22,11 @@ enarucki@rutherfordboronj.com
 {: style="clear: both;" }
 
 **Committee Assignments:**  
+
 [Civil Rights Commission](/committees/civil-rights-commission/)
 
-[Green Team](/committees/green-team/) 
+Environmental & Recycling
 
-Nereid Boat Club
+Historic Preservation   
 
-Passaic River Coalition    
-
-Technology Upgrade
-
-Williams Center Advisory
+Shade Tree Commission
