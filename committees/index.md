@@ -7,7 +7,7 @@ title: 'Committees'
 
 ---
 
-[Click here for the 2018 Meeting Schedule.](https://storage.googleapis.com/static.rutherford-nj.com/committees/Annual-notice-2018.pdf)
+[Click here for the 2019 Meeting Schedule.](https://storage.googleapis.com/static.rutherford-nj.com/committees/AnnualNotice2019.pdf)
 
 During the course of the year it may become necessary for a committee or the mayor and council to change the day or time of a meeting or to cancel/add meetings. Please confirm meeting dates and times by contacting the liaison via e-mail or calling 201-460-3004.
 
@@ -27,7 +27,7 @@ During the course of the year it may become necessary for a committee or the may
 
 ---
 
-**Citizens's Finance Advisory Committee** - Council Liaison: Stephanie McGowan
+**Citizens's Finance Advisory Committee** - Council Liaison: Mark Goldsack
 
 > The Citizens Finance Advisory Committee is tasked to financially analyze and offer strategic advice to the Mayor and Council concerning existing and /or new programs established in the Borough.
 
@@ -37,7 +37,7 @@ During the course of the year it may become necessary for a committee or the may
 
 ---
 
-**Community Quality of Life/Board of Aesthetic Review** - Council Liaison Mark Goldsack
+**Volunteer/Community Quality of Life** - Council Liaison Mark Goldsack
 
 > Highlights of the committee’s work since its inception include: Sponsoring Club Fairs to encourage residents to become involved and make positive contributions to our Borough. Sponsoring the Summer Reading in Lincoln Park program, in partnership with the Rutherford Public Library and Rutherford Recreation staff. Initiating an Outstanding Citizen Award program. Hosting an educational forum for Rutherford residents featuring members of Courage to Connect NJ. In February 2016, the Community/Quality of Life Committee welcomed new members of the former Board of Aesthetic Review
 
@@ -47,7 +47,7 @@ During the course of the year it may become necessary for a committee or the may
 
 ---
 
-**Historic Preservation Committee** - Council Liaison Mark Goldsack
+**Historic Preservation Committee** - Council Liaison Eddie Narucki
 
 > [www.rutherfordhpc.org](http://rutherfordhpc.org/)
 
