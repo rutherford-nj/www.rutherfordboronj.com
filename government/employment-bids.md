@@ -4,6 +4,10 @@ title: 'Employment & Bids'
 parent: Government
 ---
 
+[RFQ for Planning Board Engineer, Planner and Attorney](https://storage.googleapis.com/static.rutherford-nj.com/finance/Employment/2019%20RFQ%20Planning%20Board%20Engineer%20Planning%20Attorney%20original%20prepared%20by%20Bd%20Attorney.pdf)
+
+[RFQ for Zoning Board Engineer, Planner and Attorney](https://storage.googleapis.com/static.rutherford-nj.com/finance/Employment/2019%20%20%20%20RFQ%20Zoning%20BOA%20Board%20%20Engineer%20%20Planner%20%20Attorney%20Orig%20prepared%20by%20Bd%20Attorney.pdf)
+
 [RFP for Memorial Park Field House/Locker Room Alteration](https://storage.googleapis.com/static.rutherford-nj.com/finance/Employment/12.18.20%20Advertisement%20for%20Bids%20Memorial%20Field%20House.pdf)
 
 [RFP for Police Headquarters Architect and Engineer](https://storage.googleapis.com/static.rutherford-nj.com/finance/Employment/12.21.18%20-%20NOTICE%20of%20RFP's%20Police%20Headquarters%20Architect.pdf)
