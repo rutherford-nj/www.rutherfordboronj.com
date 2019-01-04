@@ -14,7 +14,7 @@ cleats).
 
 **• Winter Sign-ups!** 
 
-Gymnastics, Dance, Tennis Lessons, and Indoor Soccer.
+Gymnastics, Dance and Tennis Lessons.
 
 Please click on the link to see the schedule of Recreation children’s winter
 classes. [Click here for kids' sports](/departments/recreation/sports-and-activities/childrens-catalog/)
