@@ -1,14 +1,15 @@
 ---
 layout: page
-title: 'Upcoming Events 12/17'
+title: 'Upcoming Events 1/6'
 ---
  
-## Upcoming Events for the Week of December 17 
+## Upcoming Events for the Week of January 6th
 
 **Weather Hotline: 201-460-3000 ext 3177**
 
-Basketball is under way! Please note there is NO GYM USAGE from
-December 21st through January 1st.
+**• Boys Indoor Soccer starts Sunday 1/6** for registered participants (3rd
+through 8th grade). Please wear shin guards and sneakers (or indoor soccer
+cleats).
 
 
 **• Winter Sign-ups!** 
@@ -32,8 +33,3 @@ special need peers so they can learn about each other FROM each other. [See Flye
 [Click here for more information](https://storage.googleapis.com/static.rutherford-nj.com/recreation/posts/MIx%20it%20up%20flyer%20-%202018-2019.pdf)
 
 [**• Exceptional Individuals 2019 Winter/Spring Program**](https://storage.googleapis.com/static.rutherford-nj.com/recreation/upcoming-events/Winter-Spring%202019%20Exceptional%20Individuals%20Page.pdf)
-
-
-## More Events
-
-• **Santa Claus comes to town on Saturday, December 15th**
