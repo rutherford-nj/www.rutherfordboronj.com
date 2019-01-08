@@ -4,6 +4,8 @@ title: 'Employment & Bids'
 parent: Government
 ---
 
+[Help Wanted: Summer Camp Staff](https://storage.googleapis.com/static.rutherford-nj.com/finance/Employment/2019%20Rec%20Summer%20Camp%20Staff%20Ad.pdf)
+
 [RFQ for Planning Board Engineer, Planner and Attorney](https://storage.googleapis.com/static.rutherford-nj.com/finance/Employment/2019%20RFQ%20Planning%20Board%20Engineer%20Planning%20Attorney%20original%20prepared%20by%20Bd%20Attorney.pdf)
 
 [RFQ for Zoning Board Engineer, Planner and Attorney](https://storage.googleapis.com/static.rutherford-nj.com/finance/Employment/2019%20%20%20%20RFQ%20Zoning%20BOA%20Board%20%20Engineer%20%20Planner%20%20Attorney%20Orig%20prepared%20by%20Bd%20Attorney.pdf)
