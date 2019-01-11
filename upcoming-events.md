@@ -23,7 +23,7 @@ Farleigh Dickinson University Knights vs. LIU Brooklyn @ FDU Teaneck Campus
 
 Rothman Center - 100 University Plaza Drive, Hackensack, NJ 07601
 
-**Green Team Movie Night! 1/15/19 - 6:30 pm**
+**• Green Team Movie Night! 1/15/19 - 6:30 pm**
 
 The Rutherford Green Team will launch its new series of movie nights for 2019 with the
 screening of Reuse! Because You Can't Recycle the Planet, at 6:30 pm, Tuesday,
