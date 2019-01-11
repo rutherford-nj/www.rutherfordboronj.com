@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Special Olympics Fundraiser 1/18
+title: Special Olympics Fundraiser 2/18
 
 ---
 
