@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "firebase-tools": "4.2.1",
+    "firebase-tools": "^6.3.0",
     "jquery": "3.3.1",
     "lscache": "1.2.0",
     "lunr": "2.3.3",
