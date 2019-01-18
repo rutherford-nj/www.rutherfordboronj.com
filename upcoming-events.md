@@ -11,37 +11,24 @@ title: 'Upcoming Events 1/14'
 Six tickets maximum per a family. Tickets MUST be picked up at the Recreation
 Department. No reservations accepted!
 
-• Game 1: Wednesday, 1/16/2019 @ 7:00 pm
-
-NJIT Highlanders vs. Lipscomb University Bisons @ Wellness &amp; Events Center/NJIT
-
-FREE PARKING! @ 42 Wilsey Street, Newark, NJ 07102
-
-• Game 2: Thursday, 1/31/2019 @ 5:00 pm
+• Thursday, 1/31/2019 @ 5:00 pm
 
 Farleigh Dickinson University Knights vs. LIU Brooklyn @ FDU Teaneck Campus
 
 Rothman Center - 100 University Plaza Drive, Hackensack, NJ 07601
 
-**• Green Team Movie Night! 1/15/19 - 6:30 pm**
+**• Track and Field Sign-Ups!*
 
-The Rutherford Green Team will launch its new series of movie nights for 2019 with the
-screening of Reuse! Because You Can't Recycle the Planet, at 6:30 pm, Tuesday,
-January 15th at the Rutherford Public Library. Admission is free to the screening,
-which will take place in the library's auditorium. Following the movie, there will be a
-brief discussion about ways to reuse items and to purchase reused or re-purposed
-goods.
+Registration is open for the Recreation Track and Field Program.
 
-
-**• Winter Sign-ups!** 
-
-Gymnastics, Dance and Tennis Lessons.
-
-Please click on the link to see the schedule of Recreation children’s winter
-classes. [Click here for kids' sports](/departments/recreation/sports-and-activities/childrens-catalog/)
+The fee is $45.00.The Parent Information Meeting will be in March at the Tamblyn Field Civic
+Center. Practices are on Tuesday and Thursdays from 5:30-6:30 for 1st and 2nd graders and 6:30-
+7:30PM for 3rd through 8th graders at Tryon Field. We need coaches!! It is not mandatory to
+attend track meets but there are a few if you would like to compete. Our home track meet is
+on Sunday, May 19th.
 
 
-[**Adults Aerobics and Yoga** Click here for more information](/departments/recreation/sports-and-activities/adult-catalog/)
+[**• Adults Aerobics and Yoga** Click here for more information](/departments/recreation/sports-and-activities/adult-catalog/)
 
 
 **• Mix-It-Up!** 
