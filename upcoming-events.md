@@ -17,7 +17,7 @@ Farleigh Dickinson University Knights vs. LIU Brooklyn @ FDU Teaneck Campus
 
 Rothman Center - 100 University Plaza Drive, Hackensack, NJ 07601
 
-**• Track and Field Sign-Ups!*
+**• Track and Field Sign-Ups!**
 
 Registration is open for the Recreation Track and Field Program.
 
