@@ -9,7 +9,7 @@ Please set up an account with [Community Pass](https://register.communitypass.ne
 
 Payment can pay made online via Community Pass or in person or mailed to the Recreation Department in the Ground Floor of Borough Hall, 176 Park Avenue.  Please print and complete [this form](https://storage.googleapis.com/static.rutherford-nj.com/recreation/Recreation_ProgramRegistration.pdf) and attach it to your check upon payment. Registration is complete only upon payment.
 
-## 2018-19 Children's Winter Sports and Activities
+## 2018-19 Children's Sports and Activities
 **Registration is open and on a First Come, First Served Basis**
 
 **Pre-School**
@@ -33,6 +33,8 @@ Payment can pay made online via Community Pass or in person or mailed to the Rec
 |                | 6-8yrs  | $55 | Tuesdays  | 4:30 - 5:20pm    | Jan 11  | March 1 |  6 | Tamblyn Field Civic Center |     
 | **Tennis Lessons**| 5 - Adult | $115-150 | Fri and Sat  | Call - 973-916-1882 | Jan 11  | Feb 16 |  6 | Wayne Indoor Cts |
 | **Indoor Soccer** | 3rd-8th Gr | $30 | Sundays  | Varies | Jan 6  | Feb 24 |  8 | School Gyms |
+| **Track and Field** | 1st-2nd Gr | $45 | Tues and Thurs  | 5:30 - 6:30pm | Spring  |     |  Varies | Tryon Field |
+|                     | 3rd-8th Gr | $45 | Tues and Thurs  | 6:30 - 7:30pm | Spring  |     |  Varies | Tryon Field |
 |---------|-----------|-----|-----|------|-------------|------------------|-------------------|----------|
 {: .hover-table .recreation-table}
 
