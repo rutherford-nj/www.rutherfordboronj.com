@@ -1,9 +1,9 @@
 ---
 layout: page
-title: 'Upcoming Events 1/14'
+title: 'Upcoming Events 1/21'
 ---
  
-## Upcoming Events for the Week of January 14th
+## Upcoming Events for the Week of January 21st
 
 **Weather Hotline: 201-460-3000 ext 3177**
 
