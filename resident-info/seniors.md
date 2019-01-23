@@ -18,7 +18,7 @@ $15 for non-residents
 
 ---
 
-[**Senior Care Options Available in NJ**](https://www.caring.com/senior-living/assisted-living/new-jersey/)
+[**Resources for Seniors Citizens in New Jersey**](https://www.caring.com/senior-living/assisted-living/new-jersey/)
 
 ---
 
