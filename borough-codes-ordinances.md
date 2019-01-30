@@ -7,6 +7,10 @@ title: 'Borough Codes & Ordinances'
 
 ## Recently Adopted Borough Codes and Ordinances:
 
+[Ordinance No. 3486-19 - Repealing Handicap Space on Cooper Place](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3486-19%20repealing%20a%20handicap%20space%20on%20Cooper%20Place.pdf)
+
+[Ordinance No. 3485-19 - Establishing Handicap Space on Wood Street](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3485-19%20establishing%20a%20handicap%20space%20on%20Wood%20Street.pdf)
+
 [Ordinance No. 3484-18 - Extending Rent Control](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3484-18%20Ordinance%20Extending%20Rent%20Control%20-%202018.pdf)
 
 [Ordinance No. 3483-18 - Amending Chapter 33A – Age of Membership for Fire Department](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3483-18%20Ordinance%20amending%20Chapter%2033A.pdf)
