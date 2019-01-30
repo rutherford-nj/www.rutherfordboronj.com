@@ -4,7 +4,7 @@ title: 'Employment & Bids'
 parent: Government
 ---
 
-[Help Wanted: Summer Camp Supervisor]([Help Wanted: Summer Camp Staff](https://storage.googleapis.com/static.rutherford-nj.com/finance/Employment/2019%20Rec%20Summer%20Camp%20Staff%20Ad.pdf))
+[Help Wanted: Summer Camp Supervisor](https://storage.googleapis.com/static.rutherford-nj.com/finance/Employment/2019%20Rec%20Summer%20Camp%20Staff%20Ad.pdf)
 
 [Help Wanted: Summer Camp Staff](https://storage.googleapis.com/static.rutherford-nj.com/finance/Employment/2019%20Rec%20Summer%20Camp%20Staff%20Ad.pdf)
 
