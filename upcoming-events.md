@@ -7,7 +7,7 @@ title: 'Upcoming Events 2/4'
 
 **• Weather Hotline: 201-460-3000 ext 3177**
 
-**Mayor’s Wellness Campaign OPEN SWIM!!** TFriday evenings in March there will be free,
+**Mayor’s Wellness Campaign OPEN SWIM!!** Friday evenings in March there will be free,
 open swim at the Rutherford High School Pool (56 Elliott Place, enter by field on Fairview Ave
 behind school) on a first-come, first-serve basis (70 Maximum). The dates are March 8th, 15th,
 22nd, and 29th from 6:30-8:30 PM. Children under 10 must have adult supervision. Long Hair
