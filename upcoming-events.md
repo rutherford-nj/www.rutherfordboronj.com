@@ -1,21 +1,18 @@
 ---
 layout: page
-title: 'Upcoming Events 1/21'
+title: 'Upcoming Events 2/4'
 ---
  
-## Upcoming Events for the Week of January 21st
+## Upcoming Events for the Week of February 4th
 
-**Weather Hotline: 201-460-3000 ext 3177**
+**• Weather Hotline: 201-460-3000 ext 3177**
 
-**Free College Basketball Tickets!** These tickets are on a first come, first serve basis.
-Six tickets maximum per a family. Tickets MUST be picked up at the Recreation
-Department. No reservations accepted!
+**Mayor’s Wellness Campaign OPEN SWIM!!** TFriday evenings in March there will be free,
+open swim at the Rutherford High School Pool (56 Elliott Place, enter by field on Fairview Ave
+behind school) on a first-come, first-serve basis (70 Maximum). The dates are March 8th, 15th,
+22nd, and 29th from 6:30-8:30 PM. Children under 10 must have adult supervision. Long Hair
+must be secured. Please call 201-460-3015 to reserve your spot.
 
-• Thursday, 1/31/2019 @ 5:00 pm
-
-Farleigh Dickinson University Knights vs. LIU Brooklyn @ FDU Teaneck Campus
-
-Rothman Center - 100 University Plaza Drive, Hackensack, NJ 07601
 
 **• Track and Field Sign-Ups!**
 
@@ -31,6 +28,9 @@ on Sunday, May 19th.
 [**• Adults Aerobics and Yoga** Click here for more information](/departments/recreation/sports-and-activities/adult-catalog/)
 
 
+[**• Exceptional Individuals 2019 Winter/Spring Program**](https://storage.googleapis.com/static.rutherford-nj.com/recreation/upcoming-events/Winter-Spring%202019%20Exceptional%20Individuals%20Page.pdf)
+
+
 **• Mix-It-Up!** 
 
 12 noon- 2:00 pm  $10 for the entire program.
@@ -40,4 +40,3 @@ special need peers so they can learn about each other FROM each other. [See Flye
 
 [Click here for more information](https://storage.googleapis.com/static.rutherford-nj.com/recreation/posts/MIx%20it%20up%20flyer%20-%202018-2019.pdf)
 
-[**• Exceptional Individuals 2019 Winter/Spring Program**](https://storage.googleapis.com/static.rutherford-nj.com/recreation/upcoming-events/Winter-Spring%202019%20Exceptional%20Individuals%20Page.pdf)
