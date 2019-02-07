@@ -8,7 +8,7 @@ parent: 'Borough Clerk'
 
 **GENERAL ELECTIONS/SCHOOL ELECTIONS** are held on the first Tuesday after the first Monday in November to elect various National, State, County and Municipal officials to office. Polls for the Primary and the General Elections are open from 6:00 a.m. to 8:00 p.m.
 
-**VOTER REGISTRATION FORM** [Click Here](http://www.state.nj.us/state/elections/form_pdf/voter-regis-forms/76-voter-registration-english-bergen.pdf)
+**VOTER REGISTRATION FORM** [Click Here](https://www.state.nj.us/state/elections/voter-registration.shtml)
 Please call the Borough Clerk’s Office if you have any questions at 201-460-3001.
 
 **SPECIAL ELECTIONS** may be held at various times throughout the year, but generally on a Tuesday. Notification of such elections is advertised in your local newspapers.
