@@ -30,29 +30,34 @@ Sunday and Holidays.
 
 **Evening Shuttle**
 
-| Stop | Trip 1 | Trip 2 | Trip 3 | Trip 4 | Trip 5 |
-|:----------------------------|:----:|:----:|:----:|:----:|:----:|
-| Washington Ave & Erie Ave | 4:49 PM | 5:18 PM | 5:43 PM | 6:22 PM | 6:52 PM |
-| Washington Ave & Beech Street |4:53 PM | 5:23 PM | 5:48 PM | 6:20 PM | 6:53 PM |
-| Union Ave & Carmita Ave |4:54 PM | 5:24 PM | 5:49 PM | 6:22 PM | 6:55 PM |
-| Carmita Ave & W. Pierrepont | 4:56 PM | 5:26 PM | 5:51 PM | 6:24 PM | 6:57 PM |
-| Park Ave & W. Pierrepont | 4:58 PM | 5:28 PM | 5:53 PM | 6:26 PM | 6:59 PM |
-| Orient Way & Woodland St | 5:00 PM | 5:30 PM | 5:55 PM | 6:28 PM | 7:01 PM |
-| Arrive at Train Station | 5:03 PM | 5:33 PM | 5:58 PM | 6:31 PM | 7:04 PM |
-| Train Departs | 5:06 PM | 5:36 PM | 6:01 PM | 6:34 PM | 7:07 PM |
-{: .hover-table }
+Shuttle leaves the Train Station at the following times: 
+
+4:37 pm, 5:15 pm, 5:45 pm, 6:20 pm and 6:55 pm. 
+
+Time is based on train arrival.
+
+The Shuttle makes stops at Washington Avenue, Union Avenue, Carmita Avenue, West
+Pierrepont Avenue, Woodland Avenue and Orient Way.
 
 
 ## Downtowner Bus - 
 
-The Downtowner Bus is offered Free to all residents. The bus operates Monday through Friday from
-9am to 3:58pm and travels two loops throughout the Borough. There are no services on Saturday,
-Sunday and Holidays.  
+The Downtowner Bus is offered FREE to all residents. The bus operates Monday
+through Friday from 9 am to 3:58 pm and travels two loops throughout the Borough.
+
+Due to the Shop-Rite Shuttle on Monday and Wednesday mornings, the Downtowner will
+NOT be in operation for Trips and 3. There is no service on Saturday, Sunday and
+Holidays.  
 
 <div style="float: right;">
   <iframe src="https://www.google.com/maps/d/embed?mid=z9E2BG8u0Qag.kkVKv7_elh6M" width="300" height="500"></iframe>
 </div>
 
+**Shop-Rite Shuttle -** 
+
+Monday and Wednesday mornings the Downtown Shuttle starts at 9:00 am at Kip
+Avenue and continues through loops A and B. It arrives at Lyndhurst Shop-Rite
+approximately 10:00 am and leaves at 11:00 am.
 
 **Loop A**
 
