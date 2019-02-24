@@ -30,15 +30,15 @@ on Sunday, May 19th.
 
 [**• Tennis Lessons**](https://storage.googleapis.com/static.rutherford-nj.com/recreation/2019%20Spring%20Tennis%20Lessons.pdf)
 
-[**• Rutherford Recreation Pre-School!**] In-person registration starts March 18th at our
+**• Rutherford Recreation Pre-School!** In-person registration starts March 18th at our
 office at 176 Park Ave. Registration packets may be picked up prior to registration.
 
-[**• 2nd Annual Rutherford St. Patrick’s Day Parade!**] 
+**• 2nd Annual Rutherford St. Patrick’s Day Parade!** 
 The Rutherford Irish American Association is proud to host the 2nd Annual Rutherford St. Patrick's Day Parade on
 March 3rd, 2019 at 1:00pm. For more information, please visit their website at
 [www.RutherfordIrish.com](https://rutherfordirish.com/) or email to RutherfordIrishAmericans@gmail.com
 
-## Upcoming Events:
+## More Events:
 
 March 16th - Michael Cassidy Shamrock N Run 5K - [www.shamrocknrun5k.org](https://shamrocknrun5k.org/)
 
