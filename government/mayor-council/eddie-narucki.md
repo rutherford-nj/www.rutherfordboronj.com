@@ -29,4 +29,6 @@ Environmental & Recycling
 
 Historic Preservation   
 
-Shade Tree Commission
+Nereid Boat Club
+
+Passaic River Coalition
