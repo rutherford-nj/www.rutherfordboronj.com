@@ -26,9 +26,11 @@ mbegg-roberson@rutherfordboronj.com
 
 [Green Team](/committees/green-team/)
 
-Nereid Boat Club
+Local Assistance Board
 
-Passaic River Coalition
+Green Acres
+
+Felician University
 
 Technology Upgrade
 
