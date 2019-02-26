@@ -26,7 +26,7 @@ Citizen Finance
 
 Community Events/Public Information
 
-Local Assistance Board
+Shade Tree Commission
 
 Streetscape Committee
 
