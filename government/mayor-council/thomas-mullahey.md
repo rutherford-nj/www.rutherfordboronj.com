@@ -25,10 +25,6 @@ tmullahey@rutherfordboronj.com
 
 [Board of Education](https://www.rutherfordschools.org/boardofeducation/)
 
-Felician University
-
-Green Acres
-
 Recreation Advisory
 
 Municipal Alliance
