@@ -7,6 +7,8 @@ title: 'Borough Codes & Ordinances'
 
 ## Recently Adopted Borough Codes and Ordinances:
 
+[Ordinance No. 3492-19 - Arbor Day Festival Fees](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3492-19%20Arbor%20Day%20Festival%20Fees.pdf)
+
 [Ordinance No. 3490-19 - Establishing a handicap space – Mountain Way](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3490-19%20Establishing%20a%20handicap%20space%20-%20Mountain%20Way.pdf)
 
 [Ordinance No. 3489-19 - Committee Liaison Amendments](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3489-19%20Proposed%20Amendments%20to%20Chapter%205-8%20-%20Committees%20(002).pdf)
