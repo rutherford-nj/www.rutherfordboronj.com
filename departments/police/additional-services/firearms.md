@@ -5,8 +5,9 @@ grandparent: 'Police Department'
 parent: 'Additional Police Services'
 ---
 
-[New Jersey Portal Directions](https://storage.googleapis.com/static.rutherford-nj.com/police/police-NJPortalDirections.pdf)
+The new online application is APPLICANT DRIVEN. If you as the applicant makes a mistake while applying, you can simply RE-APPLY. You applicant should understand that all application fees are non-refundable and non-transferable. You MUST utilize the correct ORI for the correct Police Department (see below). Most of the ISSUES INCURRED/CREATED by the APPLICANT during the online application process are unable to be altered after submission and will be reviewed on a case by case basis. After determination that the error occurred on the applicant’s side, the Police Department has the discretion to instruct the applicant to re-apply.
+ 
+**Applicants can apply via [https://njportal.com/NJSP/FARS](https://njportal.com/NJSP/FARS)**
 
-[Firearms Applications Instructions - New Applicant](https://storage.googleapis.com/static.rutherford-nj.com/police/New%20Firearms%20Applicant%20Instruction%20Sheet.pdf)
 
-[Firearms Applications Instructions - Existing ID Card Holder](https://storage.googleapis.com/static.rutherford-nj.com/police/Existing%20Firearms%20ID%20Card%20Holders%20Applicant%20Instructions.pdf)
+The required ORI for the Rutherford Police Department is:  **NJ0025600**
