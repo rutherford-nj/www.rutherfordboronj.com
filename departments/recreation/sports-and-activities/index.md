@@ -31,4 +31,4 @@ Rutherford Junior Football - [www.meadowlandsfootball.net](https://www.meadowlan
 
 Rutherford Travel Soccer - [www.rutherfordfc.com](http://www.rutherfordfc.com/)
 
-Meadowlands YMCA - [www.meadowlandsymca.org](https://www.meadowlandsymca.org/)
+Meadowlands YMCA Swim Club - [www.meadowlandsymca.org](https://www.meadowlandsymca.org/main/rutherford-swim-club/)
