@@ -31,7 +31,7 @@ on Sunday, May 19th.
 [**• Tennis Lessons**](https://storage.googleapis.com/static.rutherford-nj.com/recreation/2019%20Spring%20Tennis%20Lessons.pdf)
 
 **• Rutherford Recreation Pre-School!** In-person registration starts March 18th at our
-office at 176 Park Ave. Registration packets may be picked up prior to registration. [See flyer here](https://storage.googleapis.com/static.rutherford-nj.com/recreation/Revised%20Preschool%202019-2020.pdf)
+office at 176 Park Ave. Registration packets may be picked up prior to registration. [See flyer here](https://storage.googleapis.com/static.rutherford-nj.com/recreation/Preschool%20flyer%202019-20.pdf)
 
 **• 2nd Annual Rutherford St. Patrick’s Day Parade!** 
 The Rutherford Irish American Association is proud to host the 2nd Annual Rutherford St. Patrick's Day Parade on
