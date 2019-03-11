@@ -41,6 +41,8 @@ information.
 
 [**• Exceptional Individuals 2019 Winter/Spring Program**](https://storage.googleapis.com/static.rutherford-nj.com/recreation/upcoming-events/Winter-Spring%202019%20Exceptional%20Individuals%20Page.pdf)
 
+[**• Top Dawgs Exceptional Individuals](https://storage.googleapis.com/static.rutherford-nj.com/recreation/Top%20Dawgs.pdf)
+
 [**• Tennis Lessons**](https://storage.googleapis.com/static.rutherford-nj.com/recreation/2019%20Spring%20Tennis%20Lessons.pdf)
 
 **• Rutherford Recreation Pre-School!** In-person registration starts March 18th at 8:30am at our
