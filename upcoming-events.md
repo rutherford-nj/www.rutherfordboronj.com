@@ -22,12 +22,12 @@ membership needed. Contact the YMCA for pricing and more information 201-955-530
 
 Registration is open for the Recreation Track and Field Program.
 
-The fee is $45.00.The Parent Information Meeting will be in March at the Tamblyn Field Civic
-Center. Practices are on Tuesday and Thursdays from 5:30-6:30 for 1st and 2nd graders and 6:30-
-7:30PM for 3rd through 8th graders at Tryon Field. We need coaches!! 
+The fee is $45.00.The **Parent Information Meeting on March 19th at 7 pm** at the Tamblyn Field
+Civic Center. Practices are on Tuesday and Thursdays from 5:30-6:30 for 1st and 2nd graders and
+6:30-7:30PM for 3rd through 8th graders at Tryon Field. We need coaches!! 
 
-It is not mandatory to attend track meets but there are a few if you would like to compete. Our home track meet is
-on Sunday, May 19th.
+It is not mandatory to attend track meets but there are a few if you would like to compete. Our home
+track meet is on Sunday, May 19th.
 
 [**• Adults Aerobics and Yoga** Click here for more information](/departments/recreation/sports-and-activities/adult-catalog/)
 
