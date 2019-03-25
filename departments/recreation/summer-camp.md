@@ -34,4 +34,20 @@ online by credit card, you must pick up t-shirts at the Recreation Department, a
 
 [**Summer Camp Medical Form**](https://storage.googleapis.com/static.rutherford-nj.com/recreation/Summer%20Camp/2019%20Summer%20Camp%20registration_medical%20form.pdf)
 
+[**Kinder Camp Calendar**](https://storage.googleapis.com/static.rutherford-nj.com/recreation/Summer%20Camp/2019%20RRD%20Kinder%20Day%20Camp%20Calendar.pdf)
+
+[**Kinder Camp Day Trips**](https://storage.googleapis.com/static.rutherford-nj.com/recreation/Summer%20Camp/2019%20RRD%20Kinder%20Day%20Camp%20Trips.pdf)
+
+[**Junior Camp Calendar**](https://storage.googleapis.com/static.rutherford-nj.com/recreation/Summer%20Camp/2019%20RRD%20Junior%20Day%20Camp%20Calendar.pdf)
+
+[**Junior Camp Day Trips**](https://storage.googleapis.com/static.rutherford-nj.com/recreation/Summer%20Camp/2019%20RRD%20Junior%20Day%20Camp%20Trips.pdf)
+
+[**Senior Camp Calendar**](https://storage.googleapis.com/static.rutherford-nj.com/recreation/Summer%20Camp/2019%20RRD%20Senior%20Day%20Camp%20Calendar.pdf)
+
+[**Senior Camp Day Trips**](https://storage.googleapis.com/static.rutherford-nj.com/recreation/Summer%20Camp/2019%20RRD%20Senior%20Day%20Camp%20Trips.pdf)
+
+[**Senior Camp Early Dismissal Form**](https://storage.googleapis.com/static.rutherford-nj.com/recreation/Summer%20Camp/2019%20RRD%20Senior%20Early%20Dismissal%20Form.pdf)
+
+
+
 
