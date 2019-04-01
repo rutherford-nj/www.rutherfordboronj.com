@@ -7,6 +7,8 @@ title: 'Borough Codes & Ordinances'
 
 ## Recently Adopted Borough Codes and Ordinances:
 
+[Ordinance No. 3494-19 - Amending Zoning Code Pertaining to Off-Street Parking](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3494-19%20Ordinnce%20amending%20the%20zoning%20code%20pertaining%20to%20off-street%20parking.pdf)
+
 [Ordinance No. 3492-19 - Arbor Day Festival Fees](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3492-19%20Arbor%20Day%20Festival%20Fees.pdf)
 
 [Ordinance No. 3490-19 - Establishing a handicap space – Mountain Way](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3490-19%20Establishing%20a%20handicap%20space%20-%20Mountain%20Way.pdf)
