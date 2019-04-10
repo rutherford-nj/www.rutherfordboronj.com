@@ -27,3 +27,4 @@ NOTE: Completed permit application, including any and all necessary seals may be
 
 [**9. Demolition Permit Requirements**](https://storage.googleapis.com/static.rutherford-nj.com/building/Building%20Dept%20Forms/09-Demo%20Permit%20Requirements.pdf)
 
+[**10. Specific Permit Application Requirements**](https://storage.googleapis.com/static.rutherford-nj.com/building/Building%20Dept%20Forms/10-Permit%20Requirements.pdf)
