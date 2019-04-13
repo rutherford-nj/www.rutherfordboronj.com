@@ -6,6 +6,8 @@ parent: 'Public Works'
 
 ## What to do with trash, recyclables & hazardous waste.
 
+**Recycle Coach - [the app that helps you with all your recycling questions! Learn more here](https://app.my-waste.mobi/api/plugin/US/NJ/Rutherford)**
+
 [**Rutherford Recycles - A List of What Is and Isn't Acceptable**](https://storage.googleapis.com/static.rutherford-nj.com/public-works/Rutherford%202019%20recycling.pdf)
 
 **Recycle Drop-Off**
