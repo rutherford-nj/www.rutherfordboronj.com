@@ -6,7 +6,7 @@ parent: 'Public Works'
 
 ## What to do with trash, recyclables & hazardous waste.
 
-[**Rutherford Recycles - A List of What Is and Isn't Acceptable**](https://storage.googleapis.com/static.rutherford-nj.com/public-works/recycle%20info%20update.pdf)
+[**Rutherford Recycles - A List of What Is and Isn't Acceptable**](https://storage.googleapis.com/static.rutherford-nj.com/public-works/Rutherford%202019%20recycling.pdf)
 
 **Recycle Drop-Off**
 
