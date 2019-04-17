@@ -6,7 +6,6 @@ parent: 'Public Works'
 
 ## What to do with trash, recyclables & hazardous waste.
 
-**Recycle Coach - [the app that helps you with all your recycling questions! Learn more here](https://app.my-waste.mobi/api/plugin/US/NJ/Rutherford)**
 
 <iframe src="https://app.my-waste.mobi/US/NJ/Rutherford?resize" width="100%" height="700" frameborder="0"></iframe>
 <script src="https://app.my-waste.mobi/resources/js/release/client.min.js" type="text/javascript"></script>
