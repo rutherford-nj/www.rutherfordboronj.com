@@ -7,7 +7,7 @@
 
 jQuery(function() {
 
-window._apiKey = 'AIzaSyBj6KgdO9EhguyJXUZw6lBvb4CJlmIjXI8';
+window._apiKey = 'AIzaSyCUqPb2PfDBOnKzhoASmcb9YXm-QumKkas';
 
 {% include_relative js/search.js %}
 
