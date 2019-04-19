@@ -7,6 +7,9 @@ parent: 'Recreation'
 
 **The Rutherford Recreation Department Day Camp will be held from June 24 – August 2, 2019.** 
 
+[Register for camp online here](
+https://register.communitypass.net/reg/login.cfm?cuBOC%2F3ClZwtomy3Erh3n%2B7doRdPXoxk9V2eh8RZkO%2BWj9UZiY3p8g%3D%3D)
+
 Our Day Camp program is available to all resident children, ages three years old through 8th
 grade (three-year olds are half-day, morning session only).
 
