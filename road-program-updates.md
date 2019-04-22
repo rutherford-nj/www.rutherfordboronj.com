@@ -24,3 +24,9 @@ Ivy, Ayer, Chestnut, Glen and Spring Dell
 **Monday 4/15/19**
 
 Home Avenue
+
+**Tuesday 4/23/19**
+
+Paving will be done on:
+
+Spring Dell, Glen Road, Ames to Chestnut
