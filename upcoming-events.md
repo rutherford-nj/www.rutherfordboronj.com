@@ -7,7 +7,7 @@ title: 'Upcoming Events 4/24'
 
 **• Weather Hotline: 201-460-3000 ext 3177**
 
-**• Rutherford Recreation Pre-School!** 
+**• Rutherford Recreation Pre-School!** [More info here](https://storage.googleapis.com/static.rutherford-nj.com/recreation/Preschool%20flyer%202019-20.pdf)
 
 **• Rutherford Recreation Day Camp-Registration has begun!** [More info here](/departments/recreation/summer-camp/)
 
@@ -30,7 +30,7 @@ information.
 
 **• 2019 Summer Co-Ed Volleyball** Rosters will be accepted on a first come, first serve basis
 through May 31st. Only 3 spots left. Contact the Rutherford Recreation Department for more
-information.
+information. [See form here](https://storage.googleapis.com/static.rutherford-nj.com/recreation/2019_CoEdVolleyball.pdf)
 
 [**• Exceptional Individuals 2019 Winter/Spring Program**](https://storage.googleapis.com/static.rutherford-nj.com/recreation/upcoming-events/Winter-Spring%202019%20Exceptional%20Individuals%20Page.pdf)
 
