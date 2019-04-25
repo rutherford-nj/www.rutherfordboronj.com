@@ -7,7 +7,7 @@ title: 'Upcoming Events 4/24'
 
 **• Weather Hotline: 201-460-3000 ext 3177**
 
-**• Rutherford Recreation Pre-School! 
+**• Rutherford Recreation Pre-School!** 
 
 **• Rutherford Recreation Day Camp-Registration has begun!** [More info here](/departments/recreation/summer-camp/)
 
