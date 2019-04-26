@@ -50,7 +50,7 @@ Rutherford First-Aid Volunteer Ambulance Corps [More info here](https://storage.
 
 5/18 Multicultural Festival [More info here](https://storage.googleapis.com/static.rutherford-nj.com/committees/civil-rights/2019%20Multicultural/web-cover.pdf)
 
-5/18 Relay For Life
+5/18 Relay For Life [More info here](https://storage.googleapis.com/static.rutherford-nj.com/recreation/Rutherford%20%202019%20Flyer%203-19.pdf)
 
 6/5 Senior Olympics [More info here](https://storage.googleapis.com/static.rutherford-nj.com/recreation/posts/2019%20Senior%20Olympics_revised.pdf)
 
