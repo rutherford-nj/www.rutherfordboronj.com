@@ -11,13 +11,13 @@ Currently, payment for programs must be made in person or mailed to the Recreati
 
 | Program | Age | Fee |	Day | Time | Dates |	No. of Classes | Location |
 |:--------|:---------:|:---:|:---:|:----:|:-------------:|:---------:|:--------:|
-| **Yoga**     | 18+ | $40 for 1 Class/Week Per Session | Mon & Thur | 9:00-10:00AM | 9/10-11/2 | 8 weeks | Rutherford Congregational Church, 251 Union Ave |
-|              | 18+ | $80 for 2 Classes/Week Per Session | Mon & Thur | 9:00-10:00AM | 9/10-11/2 | 8 weeks | Rutherford Congregational Church, 251 Union Ave |
-|              | 18+ | $40 for 1 Class/Week Per Session | Mon & Thur | 9:00-10:00AM | 11/5-1/18 | 8 weeks | Rutherford Congregational Church, 251 Union Ave |
-|              | 18+ | $80 for 2 Classes/Week Per Session | Mon & Thur | 9:00-10:00AM | 11/5-1/18 | 8 weeks | Rutherford Congregational Church, 251 Union Ave |
-| **Aerobics** | 18+ | $40 for 1 Class/Week Per Session | Tues & Fri | 5:30-6:30AM  |  10/1-12/7  | 10 weeks | Tamblyn Field Civic Center |
-|              | 18+ | $80 for 2 Classes/Week Per Session | Tues & Fri | 5:30-6:30AM  | 10/1-12/7 | 10 weeks | Tamblyn Field Civic Center |
-|              | 18+ | $40 for 1 Class/Week Per Session | Tues & Fri | 5:30-6:30AM  |  12/10-2/15  | 10 weeks | Tamblyn Field Civic Center |
-|              | 18+ | $80 for 2 Classes/Week Per Session | Tues & Fri | 5:30-6:30AM  | 12/10-2/15 | 10 weeks | Tamblyn Field Civic Center |
+| **Yoga**     | 18+ | $40 for 1 Class/Week Per Session | Mon & Thur | 9:00-10:00AM | 1/21-3/15 | 8 weeks | Rutherford Congregational Church, 251 Union Ave |
+|              | 18+ | $80 for 2 Classes/Week Per Session | Mon & Thur | 9:00-10:00AM | 1/21-3/15 | 8 weeks | Rutherford Congregational Church, 251 Union Ave |
+|              | 18+ | $40 for 1 Class/Week Per Session | Mon & Thur | 9:00-10:00AM | 3/18-5/10 | 8 weeks | Rutherford Congregational Church, 251 Union Ave |
+|              | 18+ | $80 for 2 Classes/Week Per Session | Mon & Thur | 9:00-10:00AM | 3/18-5/10 | 8 weeks | Rutherford Congregational Church, 251 Union Ave |
+| **Aerobics** | 18+ | $40 for 1 Class/Week Per Session | Tues & Fri | 5:30-6:30AM  |  2/18-4/26  | 10 weeks | Tamblyn Field Civic Center |
+|              | 18+ | $80 for 2 Classes/Week Per Session | Tues & Fri | 5:30-6:30AM  | 2/18-4/26 | 10 weeks | Tamblyn Field Civic Center |
+|              | 18+ | $40 for 1 Class/Week Per Session | Tues & Fri | 5:30-6:30AM  |  4/29-7/5  | 10 weeks | Tamblyn Field Civic Center |
+|              | 18+ | $80 for 2 Classes/Week Per Session | Tues & Fri | 5:30-6:30AM  | 4/29-7/5 | 10 weeks | Tamblyn Field Civic Center |
 |---------|-----------|-----|-----|------|-------------|------------------|-------------------|----------|
 {: .hover-table .recreation-table}
