@@ -12,7 +12,7 @@ Stop by the Recreation Office
 
 176 Park Avenue  201.460.3015 (M-F 8:30am-4:30pm)
 
-or visit [Community Pass](https://register.communitypass.net/reg/index.cfm) to register online
+or visit [Community Pass]({{site.data.links.community-pass.href}}) to register online
 
 **COACHES**
 
