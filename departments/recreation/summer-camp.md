@@ -10,6 +10,8 @@ parent: 'Recreation'
 [Register for camp online here](
 https://register.communitypass.net/reg/login.cfm?cuBOC%2F3ClZwtomy3Erh3n%2B7doRdPXoxk9V2eh8RZkO%2BWj9UZiY3p8g%3D%3D)
 
+**Please note: Rutherford Recreation's Kinder Camp (ages 4-2nd grade) is now FULL! We still have some spots open in Junior Camp (grades 3-5) & Senior Camp (grades 6-8).**
+
 Our Day Camp program is available to all resident children, ages three years old through 8th
 grade (three-year olds are half-day, morning session only).
 
