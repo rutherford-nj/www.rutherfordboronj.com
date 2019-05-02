@@ -30,7 +30,7 @@ Items that may be dropped off are:
 
 **Tires** – Contact your local tire dealership or auto service provider.
 
-**Stumps/Logs (NO DIRT), Concrete/Brick/Stone** – Pre-scheduled collection, call the DPW for appointment @ 201 460-3000 x 4000
+**Stumps/Logs (NO DIRT)** – Pre-scheduled collection, call the DPW for appointment @ 201 460-3000 x 4000
 
 **Household Hazardous Wastes (HHW)** [www.bcua.org](http://www.bcua.org/) – check for disposal schedule and all proper disposal procedures. Or call the Bergen County Utilities Authority at 201 807-5825. Items such as: Paints, Anti-freeze, Motor Oil & Filters, Pesticides, Fluorescent lights, Mercury switches, Drain cleaners, Bug sprays, and Batteries. All types, Propane Cylinders, Varnishes, Glues and Gasoline.
 
