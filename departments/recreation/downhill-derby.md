@@ -8,7 +8,7 @@ parent: 'Recreation'
 
 Saturday, June 15th
 
-Official Downhill Derby Website: [Rutherforddownhillderby.com](http://rutherforddownhillderby.com/)
+Official Downhill Derby Website: [Rutherforddownhillderby.org](https://www.rutherforddownhillderby.org/)
 
 414 Montross Ave. Rutherford NJ
 
