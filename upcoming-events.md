@@ -1,9 +1,9 @@
 ---
 layout: page
-title: 'Upcoming Events 5/6'
+title: 'Upcoming Events 5/13'
 ---
  
-## Upcoming Events for the Week of May 6th
+## Upcoming Events for the Week of May 13th
 
 <span style="color: red">Weather Hotline: 201-460-3000 ext. 3177 (M-F)</span>
 
