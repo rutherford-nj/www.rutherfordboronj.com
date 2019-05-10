@@ -44,9 +44,11 @@ information — [RutherfordDownhillDerby.org](https://www.rutherforddownhillde
 **• Rutherford’s Fifth Annual Cruisin’ the Ave** Tuesday, June 25th to benefit the Rutherford Ambulance
 Rutherford First-Aid Volunteer Ambulance Corps [More info here](https://storage.googleapis.com/static.rutherford-nj.com/community-events/2019_CarShow.pdf)
 
+**• 2019 Discount Theme Park Tickets Now Available** [See Flyer](https://storage.googleapis.com/static.rutherford-nj.com/recreation/posts/Amusement%20Park%20Flyer%202019.pdf)
+
 ## More Events:
 
-5/8 Walk to School with the Mayor-(Washington School) [See full schedule](https://storage.googleapis.com/static.rutherford-nj.com/recreation/posts/Corrected%20Walk%20with%20Mayor%20flyer%202019.pdf)
+5/15 Walk to School with the Mayor-(Pierrepont School) [See full schedule](https://storage.googleapis.com/static.rutherford-nj.com/recreation/posts/Corrected%20Walk%20with%20Mayor%20flyer%202019.pdf)
 
 5/18 Multicultural Festival [More info here](https://storage.googleapis.com/static.rutherford-nj.com/committees/civil-rights/2019%20Multicultural/web-cover.pdf)
 
