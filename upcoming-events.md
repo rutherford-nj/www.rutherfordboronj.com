@@ -9,6 +9,8 @@ title: 'Upcoming Events 5/13'
 
 <span style="color: red">Follow Us on [Twitter @RutherfordRec](https://twitter.com/rutherfordrec) (Field Closures will be posted)</span>
 
+**• Fall Soccer Registration Now Open** [See flyer here](https://storage.googleapis.com/static.rutherford-nj.com/recreation/posts/2019%20Fall%20Soccer%20Registration.pdf)
+
 **• Rutherford Recreation Pre-School!** [More info here](https://storage.googleapis.com/static.rutherford-nj.com/recreation/Preschool%20flyer%202019-20.pdf)
 
 **• Rutherford Recreation Day Camp-Registration has begun!** [More info here](/departments/recreation/summer-camp/)
@@ -53,6 +55,8 @@ Rutherford First-Aid Volunteer Ambulance Corps [More info here](https://storage.
 5/18 Multicultural Festival [More info here](https://storage.googleapis.com/static.rutherford-nj.com/committees/civil-rights/2019%20Multicultural/web-cover.pdf)
 
 5/18 Relay For Life [More info here](https://storage.googleapis.com/static.rutherford-nj.com/recreation/Rutherford%20%202019%20Flyer%203-19.pdf)
+
+5/20 Mayor’s Wellness Bike Ride [More info here](/departments/recreation/2019/05/09/mayors-wellness-bike-rides/)
 
 5/27 Memorial Day Parade
 
