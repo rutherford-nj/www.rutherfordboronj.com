@@ -8,6 +8,8 @@ title: 'Borough Codes & Ordinances'
 ## Recently Adopted Borough Codes and Ordinances:
 
 
+[Ordinance No. 3500-19 - Amendment to the Massage Therapy Ordinance](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3500-19%20CHAPTER%2055%20-%20Repeal%20and%20Replace.pdf)
+
 [Ordinance No. 3496-19 - Redevelopment Plan Union Chestnut Area B](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3496-19%20Redevelopment%20Plan%20-%20Union%20%26%20Chestnut%20Area%20B.pdf)
 
 [Ordinance No. 3495-19 - Redevelopment Plan Agnew Area A](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3495-19%20Redevelopment%20Plan%20-%20Agnew%20Area%20A.pdf)
