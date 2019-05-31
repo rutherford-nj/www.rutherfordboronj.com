@@ -6,7 +6,7 @@
     "lunr": "2.3.6",
     "modernizr": "3.7.1",
     "nanogallery2": "2.4.2",
-    "serve": "11.*",
+    "serve": "11.0.1",
     "slick-carousel": "1.8.1"
   }
 }
