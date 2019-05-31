@@ -7,6 +7,17 @@ title: 'Borough Codes & Ordinances'
 
 ## Recently Adopted Borough Codes and Ordinances:
 
+
+[Ordinance No. 3502-19 - Ordinance Amending Electric Charging Stations](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3502-19%20Ordinance%20Amending%20Electric%20Charging%20Stations.pdf)
+
+[Ordinance No. 3501-19 - Ordinance Amending Vehicles and Traffic Chapter 126](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3501-19%20Ordinance%20Amending%20Chapter%20126.pdf)
+
+[Ordinance No. 3500-19 - Amendment to the Massage Therapy Ordinance](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3500-19%20CHAPTER%2055%20-%20Repeal%20and%20Replace.pdf)
+
+[Ordinance No. 3496-19 - Redevelopment Plan Union Chestnut Area B](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3496-19%20Redevelopment%20Plan%20-%20Union%20%26%20Chestnut%20Area%20B.pdf)
+
+[Ordinance No. 3495-19 - Redevelopment Plan Agnew Area A](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3495-19%20Redevelopment%20Plan%20-%20Agnew%20Area%20A.pdf)
+
 [Ordinance No. 3494-19 - Amending Zoning Code Pertaining to Off-Street Parking](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/ORDINANCE%203494-19.pdf)
 
 [Ordinance No. 3492-19 - Arbor Day Festival Fees](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3492-19%20Arbor%20Day%20Festival%20Fees.pdf)
