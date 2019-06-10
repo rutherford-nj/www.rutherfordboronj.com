@@ -20,6 +20,23 @@ Hope to see you at the market!
 
 The Rutherford Farmer’s Market is returning for its 22nd season. The market is sponsored this year by the Borough of Rutherford. The governing body welcomes the opportunity to support regional farmers by allowing them to market quality products in our downtown area.  To remain competitive, farmers need to be able to develop new markets for agricultural products grown on their farms. These markets provide the economic activity necessary to help preserve farmland and open space, which in turn contributes to a better quality of life in our region.  Our borough benefits because market patrons have access to fresh, high quality produce and our local businesses enjoy increased business activity.
 
+Vendors for this year include:
+
+• Becca’s Bakery –Amish baked goods: apple dumplings, whoopie pies, donuts,
+breads, cookies, honey, jams and apple butter - Wednesdays
+
+• Sy Grisconis Farm – Fresh produce
+
+• Dr. Pickle – Pickles and brine cured products - Wednesdays
+
+• Black Sheep Irish Bakery – Scottish and Irish sweet and savory baked goods,
+Wednesdays beginning July 3 through August 28
+
+• Dutch Hill Farm – Organic pork/products and poultry, every other Wednesday
+beginning June 19th  
+
+• Kariba Farms – All natural and organic dried fruits and nuts
+
 
 For General Information,
 
