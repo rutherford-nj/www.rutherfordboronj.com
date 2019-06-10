@@ -38,7 +38,7 @@ beginning June 19th  
 • Kariba Farms – All natural and organic dried fruits and nuts
 
 
-For General Information,
+**For General Information:**
 
 Contact: Rose Inguanti
 
