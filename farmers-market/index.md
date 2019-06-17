@@ -32,7 +32,7 @@ breads, cookies, honey, jams and apple butter - Wednesdays
 • Black Sheep Irish Bakery – Scottish and Irish sweet and savory baked goods,
 Wednesdays beginning July 3 through August 28
 
-• Dutch Hill Farm – Organic pork/products and poultry, every other Wednesday
+• Dutch Hill Farm – Pork products and poultry, every other Wednesday
 beginning June 19th  
 
 • Kariba Farms – All natural and organic dried fruits and nuts
