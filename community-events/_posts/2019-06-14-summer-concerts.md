@@ -6,6 +6,8 @@ title: Summer Concert Series
 
 **Summer Concert Series at Lincoln Park Line-up**
 
+[See flyer here](https://storage.googleapis.com/static.rutherford-nj.com/community-events/Summer%20Concerts-flyer%20with%20sponsors.pdf)
+
 June 27 – August 8th (Thursday evenings at 8:00PM)
 
 *Note: In case of rain, concerts will be held the following Monday.
