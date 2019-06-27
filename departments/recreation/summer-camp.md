@@ -15,6 +15,8 @@ https://register.communitypass.net/reg/login.cfm?cuBOC%2F3ClZwtomy3Erh3n%2B7doRd
 Our Day Camp program is available to all resident children, ages three years old through 8th
 grade (three-year olds are half-day, morning session only).
 
+[**Day Camp Brochure**](https://storage.googleapis.com/static.rutherford-nj.com/recreation/2019%20Day%20Camp%20Brochure.pdf)
+
 Children will enjoy six fun-filled weeks of sports, arts & crafts, special events & theme days.
 
 • All campers receive two t-shirts (additional t-shirts are available to purchase for $7.00 each).
