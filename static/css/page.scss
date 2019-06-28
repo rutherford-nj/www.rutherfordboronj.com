@@ -25,7 +25,7 @@
 }
 
 .page-title-name {
-  color: #036;
+  color: var(--main-dark-blue);
   font-weight: 900;
 }
 
@@ -42,7 +42,7 @@
 }
 
 .page-link-bar {
-  color: #036;
+  color: var(--main-dark-blue);
   font-size: 150%;
   text-align: center;
   text-transform: uppercase;
@@ -76,7 +76,7 @@
 .page-gradient-box {
   background-color: #DDD;
   background-image: linear-gradient(#EEE, #CCC);
-  color: #036;
+  color: var(--main-dark-blue);
   font-size: 125%;
   line-height: 1;
   margin-bottom: 15px;

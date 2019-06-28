@@ -1,15 +1,7 @@
 .header {
-  background-color: #0F3B66;
+  background-color: var(--header-bg-color);
   min-width: 1020px;
-  padding-top: 21px;
-}
-
-.header-transition {
-  background: #0f3b66;
-  background: linear-gradient(270deg,#0f3b66 0%, #040000 100%);
-  background: -webkit-linear-gradient(270deg,#0f3b66 0%, #040000 100%);
-  background: -moz-linear-gradient(270deg,#0f3b66 0%, #040000 100%);
-  height: 15px;
+  padding: 21px 0 10px 0;
 }
 
 .header-container {

@@ -1,5 +1,5 @@
 html {
-  background: #040000;
+  background: var(--main-bg-color);
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -21,7 +21,7 @@ h2 {
 }
 
 a, a:visited, a:hover, a:active {
-  color: #036;
+  color: var(--main-dark-blue);
 }
 
 #dynamic-field {
@@ -43,11 +43,11 @@ a, a:visited, a:hover, a:active {
 }
 
 .webp .site-container {
-  background: url("/static/images/website-background.webp") no-repeat top center, #040000;
+  background: url("/static/images/website-background.webp") no-repeat top center, var(--main-bg-color);
 }
 
 .no-webp .site-container {
-  background: url("/static/images/website-background.jpg") no-repeat top center, #040000;
+  background: url("/static/images/website-background.jpg") no-repeat top center, var(--main-bg-color);
 }
 
 .content-container {

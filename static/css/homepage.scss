@@ -7,7 +7,7 @@
 }
 
 .homepage-top-links, .homepage-bottom-links {
-  color: #036;
+  color: var(--main-dark-blue);
   font-size: 150%;
   text-transform: uppercase;
   
@@ -19,7 +19,7 @@
   }
   
   a:not(:last-child) {
-    border-bottom: 1px solid #036;
+    border-bottom: 1px solid var(--main-dark-blue);
   }
 }
 

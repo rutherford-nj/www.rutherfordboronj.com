@@ -1,5 +1,10 @@
 ---
 ---
+:root {
+    --header-bg-color: #0F3B66;
+    --main-bg-color: #040000;
+    --main-dark-blue: #036;
+}
 {% include_relative css/core.scss %}
 {% include_relative css/header.scss %}
 {% include_relative css/homepage.scss %}
