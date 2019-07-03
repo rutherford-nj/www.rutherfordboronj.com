@@ -6,7 +6,7 @@ title: National Night Out Poster Contest
 
 [See flyer here](https://storage.googleapis.com/static.rutherford-nj.com/police/police%20blog%20posts/NNO%20Poster%20Contest%202019%20Rutherford's%20(1).pdf)
 
-To help kick off National Night Out 2019, we have added a Poster Contest this year. The Rutherford Police Department is inviting the children of Rutherford to design a National Night Out poster. 
+To help kick off [National Night Out 2019](/departments/police/2019/07/02/national-night-out/), we have added a Poster Contest this year. The Rutherford Police Department is inviting the children of Rutherford to design a National Night Out poster. 
 
 Prizes will be awarded for the best poster in each of the following categories: 
 
