@@ -35,6 +35,8 @@ online by credit card, you must pick up t-shirts at the Recreation Department, a
 
 **Please find important forms below:**
 
+[**Summer Camp Extra Weeks Form**](https://storage.googleapis.com/static.rutherford-nj.com/recreation/Summer%20Camp/Extra%20Weeks.pdf)
+
 [**Summer Camp Flyer**](https://storage.googleapis.com/static.rutherford-nj.com/recreation/Summer%20Camp/2019%20Rec%20Summer%20Camp%20Flyer_FULL.pdf)
 
 [**Summer Camp Registration Form**](https://storage.googleapis.com/static.rutherford-nj.com/recreation/Summer%20Camp/2019%20Summer%20Camp%20registration%20form.pdf)
