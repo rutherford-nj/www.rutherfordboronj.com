@@ -37,14 +37,14 @@ Engine Co. #3 and Rescue Co. #5 respond out of the West End Firehouse on Union A
 
 If you have any questions or are interested in joining the Rutherford Volunteer Fire Dept., applications can be obtained at the Rutherford Borough Clerks Office.
 
-Chief - Christopher Seidler
+Chief: Scott Koen
 
-Deputy Chief – Jason Frahm
+Deputy Chief: Rob Van Winkle
 
-1st Assistant Chief - Scott Koen
+1st Assistant Chief: Dennis Gentile
 
-2nd Assistant Chief - Robert Van Winkle
+2nd Assistant Chief: Tom Twist lll
 
-3rd Assistant Chief – Dennis Gentile
+3rd Assistant Chief: Tom Riser
 
 
