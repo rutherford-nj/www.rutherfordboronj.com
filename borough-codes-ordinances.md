@@ -18,7 +18,7 @@ title: 'Borough Codes & Ordinances'
 
 [Ordinance No. 3495-19 - Redevelopment Plan Agnew Area A](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3495-19%20Redevelopment%20Plan%20-%20Agnew%20Area%20A.pdf)
 
-[Ordinance No. 3494-19 - Amending Zoning Code Pertaining to Off-Street Parking](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3494-19%20amending%20the%20zoning%20code%20pertaining%20to%20off-street%20parking.pdf)
+[Ordinance No. 3494-19 - Amending Zoning Code Pertaining to Off-Street Parking](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3494-19%20amending%20the%20zoning%20code%20pertaining%20to%20off-street%20parking_1.pdf)
 
 [Ordinance No. 3492-19 - Arbor Day Festival Fees](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3492-19%20Arbor%20Day%20Festival%20Fees.pdf)
 
