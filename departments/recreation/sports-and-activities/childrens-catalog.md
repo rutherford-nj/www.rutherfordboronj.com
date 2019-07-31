@@ -24,14 +24,13 @@ Payment can pay made online via Community Pass or in person or mailed to the Rec
 
 | Program | Age/Grade | Fee |	Day | Time | Start Date | End Date | Number of classes | Location |
 |:--------|:---------:|:---:|:---:|:--------------:|:-------------:|:-------------:|:-----------------:|:--------:|
-| **Tennis Lessons** | ages 5-7  | $60 | Sundays | 12 PM - 1 PM | May 5 | June 16 |  6 | Memorial Park Tennis Courts |
-|                    | ages 8-11 | $60 | Sundays | 1 PM - 2 PM  | May 5 | June 16 |  6 | Memorial Park Tennis Courts |
-|                    | ages 12-14| $60 | Sundays | 2 PM - 3 PM  | May 5 | June 16 |  6 | Memorial Park Tennis Courts |
-|                    | age 15-Adult | $70 | Sundays | 3 PM - 4 PM |  May 5 | June 16  |  6 | Memorial Park Tennis Courts|
-|                    | age 15-Adult Inter | $55 | Sundays | 3 PM - 4 PM  |  May 5 | June 16  |  6 | Memorial Park Tennis Courts |  
-| **[Register at United Soccer Academy](http://unitedsocceracademy.com/)**| Soccer Squirts | $125 | Fridays  | Select Time | April 24  | June 6 |  6 | Wall Field |
-| **[Register at United Soccer Academy](http://unitedsocceracademy.com/)**| Multi Sports   | $99-$134 | Wednesdays  | Select Time | April 26  | June 7 |  6 | Wall Field |
-| **Fall Soccer** | K-8th Gr | $50 | Varies  | Games-Saturdays | Sept  | Nov |  8 | Varies |
+| **Gymnastics**| 3-5 years | $55 | Saturdays  | 9:00-10:00am  | Sept 21  |      |  8 | Tambly Field Civic Center |
+|               | 3-5 years | $55 | Saturdays  | 10:00-11:00am | Sept 21  |      |  8 | Tambly Field Civic Center |
+|               | 6-8 years | $55 | Saturdays  | 11:00-12:00pm | Sept 21  |      |  8 | Tambly Field Civic Center |
+|               | 9-12 years | $55 | Saturdays  | 12:00-1:00pm | Sept 21  |      |  8 | Tambly Field Civic Center |
+| **Cross Country Track**| 2nd-8th grade | $45 | Mon & Wed  | 5:30-6:30pm  | Sept 16  |      |  8 | Tryon/Memorial Field |
+| **Tennis Lessons** | Kinder-Adult  | $60/$70 | Sundays | Call - 973-916-1882 | Sept 22 |      |  6 | Memorial Park Tennis Courts | 
+| **Girls Volleyball**| 6th-8th grade | $35 | Fridays  | 7:00-9:00pm  | Sept 13  |      |  6 | Lincoln School |
 |---------|-----------|-----|-----|------|-------------|------------------|-------------------|----------|
 {: .hover-table .recreation-table}
 
