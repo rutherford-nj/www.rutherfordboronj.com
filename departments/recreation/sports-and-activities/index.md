@@ -21,7 +21,7 @@ Nereid Boat Club – [nereidbc.org](http://nereidbc.org/) nereidprograms@hotmail
 
 Lyndhurst Hockey – [Lyndhurst Youth Hockey](http://www.leaguelineup.com/welcome.asp?url=lyhl) -  Lyndhockey@ymail.com
 
-[US Sports Institute](/departments/recreation/sports-and-activities/)
+[US Sports Institute](https://usasportgroup.com/orgs/?oid=219)
 
 Lacrosse – [Rutherfordlax.weebly.com](http://rutherfordlax.weebly.com/)
 
