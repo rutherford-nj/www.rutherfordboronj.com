@@ -15,11 +15,14 @@ title: News Archives
   {% endif %}
   <div class="page-post-link">
     {% for category in post.categories %}
-      {% if category != 'departments' and category != 'community-events' %}
+      {% if category != 'departments' and category != 'community-events' and category != 'bergen-county' %}
         <img alt="{{category}} post" class="page-post-icon" src="/departments/{{category}}/icon.png" />
       {% endif %}
       {% if category == 'community-events' %}
         <img alt="community events post" class="page-post-icon" src="/community-events/icon.png" />
+      {% endif %}
+      {% if category == 'bergen-county' %}
+        <img alt="community events post" class="page-post-icon" src="/bergen-county/icon.png" />
       {% endif %}
     {% endfor %}
     <div>{{ post.date | date:"%b %d" }} - <a href="{{ post.url }}">{{ post.title }}</a></div>
