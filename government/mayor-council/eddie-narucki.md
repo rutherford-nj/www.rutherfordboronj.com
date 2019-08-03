@@ -6,7 +6,7 @@ parent: 'Mayor and Council'
 
 ## Councilman Eddie Narucki
 
-![Council Headshot](../EdNarucki.png)
+![Council Headshot](../eddie-narucki.jpg)
 {: style="float: left; margin: 0 20px 20px 0;"}
 
 
