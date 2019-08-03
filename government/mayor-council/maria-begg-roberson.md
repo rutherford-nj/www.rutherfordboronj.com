@@ -6,7 +6,7 @@ parent: 'Mayor and Council'
 
 ## Councilwoman Maria Begg-Roberson
 
-![Council Headshot](../MBR.png)
+![Council Headshot](../maria-begg-roberson.png)
 {: style="float: left; margin: 0 20px 20px 0;"}
 
 **Contact:**  
