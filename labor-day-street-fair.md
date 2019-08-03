@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 'Labor Day Street Fair 2018'
+title: 'Labor Day Street Fair 2019'
 ---
  
 ## Rutherford's 44rd Annual Labor Day Street Fair will be held 
