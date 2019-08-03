@@ -11,13 +11,9 @@ Currently, payment for programs must be made in person or mailed to the Recreati
 
 | Program | Age | Fee |	Day | Time | Dates |	No. of Classes | Location |
 |:--------|:---------:|:---:|:---:|:----:|:-------------:|:---------:|:--------:|
-| **Yoga**     | 18+ | $40 for 1 Class/Week Per Session | Mon & Thur | 9:00-10:00AM | 1/21-3/15 | 8 weeks | Rutherford Congregational Church, 251 Union Ave |
-|              | 18+ | $80 for 2 Classes/Week Per Session | Mon & Thur | 9:00-10:00AM | 1/21-3/15 | 8 weeks | Rutherford Congregational Church, 251 Union Ave |
-|              | 18+ | $40 for 1 Class/Week Per Session | Mon & Thur | 9:00-10:00AM | 3/18-5/10 | 8 weeks | Rutherford Congregational Church, 251 Union Ave |
-|              | 18+ | $80 for 2 Classes/Week Per Session | Mon & Thur | 9:00-10:00AM | 3/18-5/10 | 8 weeks | Rutherford Congregational Church, 251 Union Ave |
-| **Aerobics** | 18+ | $40 for 1 Class/Week Per Session | Tues & Fri | 5:30-6:30AM  |  2/18-4/26  | 10 weeks | Tamblyn Field Civic Center |
-|              | 18+ | $80 for 2 Classes/Week Per Session | Tues & Fri | 5:30-6:30AM  | 2/18-4/26 | 10 weeks | Tamblyn Field Civic Center |
-|              | 18+ | $40 for 1 Class/Week Per Session | Tues & Fri | 5:30-6:30AM  |  4/29-7/5  | 10 weeks | Tamblyn Field Civic Center |
-|              | 18+ | $80 for 2 Classes/Week Per Session | Tues & Fri | 5:30-6:30AM  | 4/29-7/5 | 10 weeks | Tamblyn Field Civic Center |
+| **Summer Yoga** | 18+ | $40 for 1 Class/Week Per Session | Mon & Thur | 9:00-10:00AM | 7/8-8/30 | 8 weeks |  Meet at Tryon Field entrance |
+| **Fall Yoga**   | 18+ | $40 for 1 Class/Week Per Session | Mon & Thur | 9:00-10:00AM | 9/2-10/25 | 8 weeks |  TBD |
+| **Summer Aerobics** | 18+ | $40 for 1 Class/Week Per Session | Tues & Fri | 5:30-6:30AM  |  7/8-9/13  | 10 weeks | Tamblyn Field Civic Center |
+| **Fall Aerobics** | 18+ | $40 for 1 Class/Week Per Session | Tues & Fri | 5:30-6:30AM  |  9/16-11/22  | 10 weeks | Tamblyn Field Civic Center |
 |---------|-----------|-----|-----|------|-------------|------------------|-------------------|----------|
 {: .hover-table .recreation-table}
