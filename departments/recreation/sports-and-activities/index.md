@@ -29,7 +29,7 @@ Rutherford Cub Scout Pack 168 - [Pack 168 Website](https://pack168rutherford.wor
 
 Theatre Enrichment – [www.theatre4children.com](https://www.theatre4children.com/)
 
-Rutherford Junior Football - [www.meadowlandsfootball.net](https://www.meadowlandsfootball.net/)
+[Rutherford Junior Football](https://www.leaguelineup.com/welcome.asp?url=rjfbulldogs)
 
 Rutherford Travel Soccer - [www.rutherfordfc.com](http://www.rutherfordfc.com/)
 
