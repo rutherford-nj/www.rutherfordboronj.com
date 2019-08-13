@@ -15,5 +15,7 @@ Payment can pay made online via Community Pass or in person or mailed to the Rec
 | **Fall Yoga**   | 18+ | $40 for 1 Class/Week Per Session | Tues & Thur | 9:00-10:00AM | 9/2-10/25 | 8 weeks |  TBD |
 | **Summer Aerobics** | 18+ | $40 for 1 Class/Week Per Session | Tues & Fri | 5:30-6:30AM  |  7/8-9/13  | 10 weeks | Tamblyn Field Civic Center |
 | **Fall Aerobics** | 18+ | $40 for 1 Class/Week Per Session | Tues & Fri | 5:30-6:30AM  |  9/16-11/22  | 10 weeks | Tamblyn Field Civic Center |
+| **Tennis/Beginner** | 18+ | $60 | Sundays | 3:00-4:00pm  |  9/22  | 6 classes | Memorial Park Tennis Courts |
+| **Tennis/Intermediate** | 18+ | $70 | Sundays | 10:00-11:00am  |  9/22  | 6 classes | Memorial Park Tennis Courts |
 |---------|-----------|-----|-----|------|-------------|------------------|-------------------|----------|
 {: .hover-table .recreation-table}
