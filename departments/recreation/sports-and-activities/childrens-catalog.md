@@ -24,10 +24,12 @@ Payment can pay made online via Community Pass or in person or mailed to the Rec
 
 | Program | Age/Grade | Fee |	Day | Time | Start Date | End Date | Number of classes | Location |
 |:--------|:---------:|:---:|:---:|:--------------:|:-------------:|:-------------:|:-----------------:|:--------:|
-| **Gymnastics**| 3-5 years | $55 | Saturdays  | 9:00-10:00am  | Sept 21  |      |  8 | Tambly Field Civic Center |
-|               | 3-5 years | $55 | Saturdays  | 10:00-11:00am | Sept 21  |      |  8 | Tambly Field Civic Center |
-|               | 6-8 years | $55 | Saturdays  | 11:00-12:00pm | Sept 21  |      |  8 | Tambly Field Civic Center |
-|               | 9-12 years | $55 | Saturdays  | 12:00-1:00pm | Sept 21  |      |  8 | Tambly Field Civic Center |
+| **Gymnastics**| 3-5 years | $55 | Saturdays  | 9:00-10:00am  | Sept 21  |      |  8 | Tamblyn Field Civic Center |
+|               | 3-5 years | $55 | Saturdays  | 10:00-11:00am | Sept 21  |      |  8 | Tamblyn Field Civic Center |
+|               | 6-8 years | $55 | Saturdays  | 11:00-12:00pm | Sept 21  |      |  8 | Tamblyn Field Civic Center |
+|               | 9-12 years | $55 | Saturdays  | 12:00-1:00pm | Sept 21  |      |  8 | Tamblyn Field Civic Center |
+| **Dance**| 3-5 years | $55 | Saturdays  | 1:30-2:30pm  | Sept 21  |      |  8 | Tamblyn Field Civic Center |
+|          | 6-8 years | $55 | Saturdays  | 2:30-3:30pm  | Sept 21  |      |  8 | Tamblyn Field Civic Center |
 | **Cross Country Track**| 2nd-8th grade | $45 | Mon & Wed  | 5:30-6:30pm  | Sept 16  |      |  8 | Tryon/Memorial Field |
 | **Tennis Lessons** | Kinder-Adult  | $60/$70 | Sundays | Varies | Sept 22 |      |  6 | Memorial Park Tennis Courts | 
 | **Girls Volleyball**| 6th-8th grade | $35 | Fridays  | 7:00-9:00pm  | Sept 27  |      |  6 | Lincoln School |
