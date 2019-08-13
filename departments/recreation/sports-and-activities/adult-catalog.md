@@ -7,7 +7,7 @@ parent: Sports and Activities
 
 Please set up an account with [Community Pass]({{site.data.links.community-pass.href}}) to receive important emails and information. 
 
-Currently, payment for programs must be made in person or mailed to the Recreation Department in the Ground Floor of Borough Hall, 176 Park Avenue.  Please print and complete [this form](https://storage.googleapis.com/static.rutherford-nj.com/recreation/Recreation_ProgramRegistration.pdf) and attach it to your check upon payment. Registration is complete only upon payment. 
+Payment can pay made online via Community Pass or in person or mailed to the Recreation Department in the Ground Floor of Borough Hall, 176 Park Avenue. Please print and complete this form and attach it to your check upon payment. Registration is complete only upon payment.
 
 | Program | Age | Fee |	Day | Time | Dates |	No. of Classes | Location |
 |:--------|:---------:|:---:|:---:|:----:|:-------------:|:---------:|:--------:|
