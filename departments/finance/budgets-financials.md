@@ -30,6 +30,7 @@ parent: 'Department of Finance'
 <div style="float: left;">
 ## Financials
   
+* [2018 Audit](https://storage.googleapis.com/static.rutherford-nj.com/finance/financials/2018%20Audit%20Report.pdf)
 * [2018 AFS Unaudited Financials](https://storage.googleapis.com/static.rutherford-nj.com/finance/financials/AFS%202018.pdf)
 * [2017 Audit](https://storage.googleapis.com/static.rutherford-nj.com/finance/financials/2017%20Audit%20Report.pdf)
 * [2017 AFS Unaudited Financials](https://storage.googleapis.com/static.rutherford-nj.com/finance/budgets/AFS%202017.pdf)
