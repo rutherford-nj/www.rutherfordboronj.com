@@ -8,6 +8,18 @@ title: 'Borough Codes & Ordinances'
 ## Recently Adopted Borough Codes and Ordinances:
 
 
+[Ordinance No. 3510-19 - Flood Damage Prevention](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3510-19%20Flood%20Damage%20Prevention.pdf)
+
+[Ordinance No. 3509-19 - Amending Percentage Changes for COAH](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3509-19%20Amending%20Percentage%20Changes%20for%20COAH.pdf)
+
+[Ordinance No. 3508-19 - Amendment to Towing Fees - Chapter 117](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3508-19%20%20Amendment%20to%20Towing%20Fees%20-%20Chapter%20117.pdf)
+
+[Ordinance No. 3507-19 - Ordinance Repealing a Handicap Space at 114 Wheaton Place](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3507-19%20repealing%20a%20handicap%20space%20-%20114%20Wheaton%20Place.pdf)
+
+[Ordinance No. 3506-19 - Ordinance Establishing a Handicap Space at 55 Montross Avenue](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3506-19%20establishing%20a%20handicap%20space-%2055%20Montross%20Avenue.pdf)
+
+[Ordinance No. 3505-19 - Ordinance Establishing a Handicap Space at 250 Ridge Road](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3505-19%20establishing%20a%20handicap%20space%20-%20250%20Ridge%20Road.pdf)
+
 [Ordinance No. 3502-19 - Ordinance Amending Electric Charging Stations](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3502-19%20Ordinance%20Amending%20Electric%20Charging%20Stations.pdf)
 
 [Ordinance No. 3501-19 - Ordinance Amending Vehicles and Traffic Chapter 126](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3501-19%20Ordinance%20Amending%20Chapter%20126.pdf)
