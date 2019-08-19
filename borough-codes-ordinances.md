@@ -16,8 +16,6 @@ title: 'Borough Codes & Ordinances'
 
 [Ordinance No. 3507-19 - Ordinance Repealing a Handicap Space at 114 Wheaton Place](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3507-19%20repealing%20a%20handicap%20space%20-%20114%20Wheaton%20Place.pdf)
 
-[Ordinance No. 3506-19 - Ordinance Establishing a Handicap Space at 55 Montross Avenue](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3506-19%20establishing%20a%20handicap%20space-%2055%20Montross%20Avenue.pdf)
-
 [Ordinance No. 3505-19 - Ordinance Establishing a Handicap Space at 250 Ridge Road](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3505-19%20establishing%20a%20handicap%20space%20-%20250%20Ridge%20Road.pdf)
 
 [Ordinance No. 3502-19 - Ordinance Amending Electric Charging Stations](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3502-19%20Ordinance%20Amending%20Electric%20Charging%20Stations.pdf)
