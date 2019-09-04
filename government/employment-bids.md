@@ -4,7 +4,9 @@ title: 'Employment & Bids'
 parent: Government
 ---
 
-[Job Posting: Laborer](https://storage.googleapis.com/static.rutherford-nj.com/finance/Employment/Laborer%201.pdf)
+
+
+[Job Announcement: Fire Inspector](https://storage.googleapis.com/static.rutherford-nj.com/finance/Employment/JA%20fire%20inspector.docx.pdf)
 
 [Job Posting: Crossing Guards](https://storage.googleapis.com/static.rutherford-nj.com/finance/Employment/GUARDS.pdf)
 
