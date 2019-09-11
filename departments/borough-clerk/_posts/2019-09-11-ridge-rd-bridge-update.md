@@ -3,6 +3,8 @@ layout: blog
 title: Ridge Road Bridge Update
 ---
 
+[See Original Notice Here](https://storage.googleapis.com/static.rutherford-nj.com/borough-clerk/posts/2019-09-10%20Route%203%20temporary%20overnight%20lane%20closures%20for%20Ridge%20Road%20Bridge%20beam%20installation.pdf)
+
 Route 3 overnight lane closures needed for beam installation on Ridge Road Bridge over Route 3 in Rutherford
 
 Temporary 15-minute closures needed at night for two weeks for beam installation
@@ -16,26 +18,7 @@ The federally-funded $26.7 million project began in March 2018 and will replace 
 
 The project is being constructed in five stages and NJDOT is using Accelerated Bridge Construction (ABC) techniques to reduce the time it will take to replace the bridges. The entire project is expected to be completed by the fall of 2020. As the Ridge Road and Orient Way Bridges over Route 3 project advances, NJDOT will provide additional information including ramp or lane closures and detours.
 
-The precise timing of the work is subject to change due to weather or other factors. Motorists are encouraged to check NJDOT’s traffic information website www.511nj.org for real-time travel information and for NJDOT news follow us on Twitter @NJDOT_info and on our Facebook page.
+The precise timing of the work is subject to change due to weather or other factors. Motorists are encouraged to check NJDOT’s traffic information website [www.511nj.org](https://www.511nj.org/home) for real-time travel information and for NJDOT news follow us on Twitter @NJDOT_info and on our [Facebook page](https://www.facebook.com/NewJerseyDOT/).
 
  
 
-If you have any questions, please contract Debbie Hirt, Assistant to the Regional Manager, NJDOT-Office of Community and Constituent Relations at (609) 963-1982.
-
-Thank you,
-
- 
-
-Susan Durkee
-
-New Jersey Department of Transportation
-
-Office of Community & Constituent Relations
-
-1035 Parkway Avenue, P.O. Box 600
-
-Trenton, NJ 08625-0600
-
-NEW PHONE #
-
-V: (609) 963 - 1982
