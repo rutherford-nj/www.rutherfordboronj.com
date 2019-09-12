@@ -19,6 +19,7 @@ var success = function(response, elt) {
   if (items.length === 1) {
     // Only the directory was returned, the directory is empty.
     elt.append($('<div>Content coming soon.</div>'));
+    return;
   }
   items.sort(itemsCompare);
   items.reverse();
