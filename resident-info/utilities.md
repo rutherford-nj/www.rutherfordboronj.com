@@ -24,11 +24,8 @@ Local Newspapers:
 [Suez Water / Water Supply](http://www.mysuezwater.com/)  
 800-422-5987
 
-[Verizon Telephone, TV and Internet Service](http://www.verizon.com/)  
+[Verizon Telephone, TV and Internet Service](https://www.verizon.com/local/new-jersey/)  
 800-440-8000
-
-[Verizon for Business](http://fios.verizon.com/fios-business.html)  
-877-602-2394
 
 [United States Post Office (USPS)](https://www.usps.com/)  
 156 Park Ave, Rutherford, NJ  
