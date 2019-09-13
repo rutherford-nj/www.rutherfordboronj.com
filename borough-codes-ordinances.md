@@ -8,6 +8,8 @@ title: 'Borough Codes & Ordinances'
 ## Recently Adopted Borough Codes and Ordinances:
 
 
+[Ordinance No. 3511-19 - Ordinance Relocating Chapter 80 to Chapter 96A](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3511-19%20%20Repealing%20Chapter%2080%20and%20Amend%20to%20Create%20Chapter%2096A.pdf)
+
 [Ordinance No. 3510-19 - Flood Damage Prevention](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3510-19%20Flood%20Damage%20Prevention.pdf)
 
 [Ordinance No. 3509-19 - Amending Percentage Changes for COAH](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3509-19%20Amending%20Percentage%20Changes%20for%20COAH.pdf)
