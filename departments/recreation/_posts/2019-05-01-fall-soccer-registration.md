@@ -19,7 +19,6 @@ or visit [Community Pass]({{site.data.links.community-pass.href}}) to register o
 If you are interested in coaching, please e-mail Erin Petrosino
 at epetrosino@Rutherfordboronj.com
 
-
 **K-8TH GRADERS (IN SEPTEMBER 2019)**
 
 FEE $50.00* per child (third
@@ -28,6 +27,10 @@ child is half price)
 *$10.00 late fee after
 July 31th – if there are
 openings)
+
+**K – 4TH GRADE GIRLS**
+
+Will play in Rutherford.
 
 **5TH – 8TH GRADE GIRLS**
 
