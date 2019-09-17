@@ -20,7 +20,7 @@ If you are interested in coaching, please e-mail Erin Petrosino
 at epetrosino@Rutherfordboronj.com
 
 
-**K-8 TH GRADERS (IN SEPTEMBER 2019)**
+**K-8TH GRADERS (IN SEPTEMBER 2019)**
 
 FEE $50.00* per child (third
 child is half price)
@@ -31,19 +31,15 @@ openings)
 
 **5TH – 8TH GRADE GIRLS**
 
-Will play in the South
-Bergen League vs. East
-Rutherford, Carlstadt,
-Hasbrouck Heights,
-and North Arlington.
-(note: there are five
-home games)
+Will play in the South Bergen League vs. East Rutherford, Carlstadt, Hasbrouck Heights, and North Arlington. (note: there are five home games)
 
-**5TH – 8TH GRADE BOYS**
+**K – 6TH GRADE BOYS**
 
 Will play in Rutherford.
 
-**TRAVEL SOCCER**
+**7TH – 8TH GRADE BOYS**
+
+Will play in the South Bergen League vs. East Rutherford, Carlstadt, Hasbrouck Heights, and North Arlington. (note: there are five home games)
 
 For information on
 Northern Counties travel
