@@ -5,12 +5,16 @@ section: blog
 
 <div class="blog-container">
   {% if page.tag == 'health' %}
-  <div class="blog-icon" style="background-image: url(../../../../health-icon.png)"></div>
+    <div class="blog-icon" style="background-image: url(../../../../health-icon.png)"></div>
   {% else %}
-  <div class="blog-icon" style="background-image: url(../../../../icon.png)"></div>
+    <div class="blog-icon" style="background-image: url(../../../../icon.png)"></div>
   {% endif %}
   <div class="blog-content">
-    <h3><a href="/news-archives/">View complete News and Updates archive</a></h3>
+    {% if page.categories contains 'bergen-county' %}
+      <h3><a href="/bergen-county/">View complete Bergen County News and Updates archive</a></h3>
+    {% else %}
+      <h3><a href="/news-archives/">View complete News and Updates archive</a></h3>
+    {% endif %}
     <div class="blog-title">{{page.title}}</div>
     <div class="blog-date">Posted {{page.date | date:"%A %B %-d, %Y"}}</div>
     
