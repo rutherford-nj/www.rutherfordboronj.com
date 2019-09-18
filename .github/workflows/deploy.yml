@@ -1,0 +1,21 @@
+name: Deploy Site
+
+on: [push]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout site
+      uses: actions/checkout@v1
+    - name: Set up Ruby 2.6
+      uses: actions/setup-ruby@v1
+      with:
+        ruby-version: 2.6.x
+    - name: Build the site and deploy
+      env:
+        RBH_FIREBASE_TOKEN: ${{ secrets.RBH_FIREBASE_TOKEN }}
+      run: |
+        gem install bundler
+        make deploy
