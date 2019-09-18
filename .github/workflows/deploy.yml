@@ -22,7 +22,7 @@ jobs:
         export FIREBASE_PROJECT="rutherford-nj-beta-site"
         [[ "$GITHUB_REF" == refs/heads/deploy-gh ]] && \
           export FIREBASE_PROJECT="rutherford-nj" && \
-          export PREDEPLOY=rm ./_site/robots.txt
+          export PREDEPLOY="rm ./_site/robots.txt"
         echo $FIREBASE_PROJECT
         echo $PREDEPLOY
         gem install bundler
