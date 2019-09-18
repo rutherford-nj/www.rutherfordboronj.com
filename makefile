@@ -20,7 +20,6 @@ package-nanogallery2: npm-packages
 	cp -R ./node_modules/nanogallery2/dist third_party/nanogallery2
 
 package-firebase-tools: npm-packages
-package-serve: npm-packages
 
 third-party-js-packages: \
 	package-jquery \
@@ -35,12 +34,11 @@ third-party-js-packages: \
 build-requirements: third-party-js-packages
 
 
-dev: build-requirements package-serve
+dev: build-requirements
 	mkdir -p _site
-	docker run \
+	docker run -it -p 8080:8080 \
         -v $(PWD):/srv/jekyll -v $(PWD)/_site:/srv/jekyll/_site \
-        jekyll/builder:latest /bin/bash -c "chmod 777 /srv/jekyll && jekyll build"
-	./node_modules/.bin/serve --listen 8080 _site/
+        jekyll/builder:latest /bin/bash -c "chmod 777 /srv/jekyll && jekyll serve --watch -P 8080 -p /dev/null/"
 
 
 prod: build-requirements
