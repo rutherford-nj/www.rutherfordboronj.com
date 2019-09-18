@@ -3,14 +3,6 @@ FIREBASE_DEPLOY = ./node_modules/.bin/firebase deploy --non-interactive --token=
 
 
 JEKYLL_BUILD = bundle exec jekyll build
-
-
-ifeq ($(TRAVIS_BRANCH), www)
-	PREDEPLOY=rm ./_site/robots.txt
-	PROJECT=rutherford-nj
-else
-	PROJECT=rutherford-nj-beta-site
-endif
 ### END Variables ###
 
 
@@ -66,7 +58,7 @@ prod: build-requirements package-htmlproofer
 
 deploy: prod package-firebase-tools
 	$(PREDEPLOY)
-	$(FIREBASE_DEPLOY) --project=$(PROJECT)
+	$(FIREBASE_DEPLOY) --project=$(FIREBASE_PROJECT)
 
 
 
