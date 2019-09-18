@@ -16,7 +16,7 @@ title: News Archives
   {% if post.categories contains 'bergen-county' %}{% continue %}{% else %}
   <div class="page-post-link">
     {% for category in post.categories %}
-      {% if category != 'departments' and category != 'community-events' and category != 'bergen-county' %}
+      {% if category != 'departments' and category != 'community-events' %}
         <img alt="{{category}} post" class="page-post-icon" src="/departments/{{category}}/icon.png" />
       {% endif %}
       {% if category == 'community-events' %}
