@@ -36,10 +36,10 @@ build-requirements: third-party-js-packages
 
 
 dev: build-requirements package-serve
-	mkdir -p _site & \
+	mkdir -p _site
 	docker run \
-        -v $(SITE_WORKSPACE):/srv/jekyll -v $(SITE_WORKSPACE)/_site:/srv/jekyll/_site \
-        jekyll/builder:latest /bin/bash -c "chmod 777 /srv/jekyll && jekyll build --watch" & \
+        -v $(PWD):/srv/jekyll -v $(PWD)/_site:/srv/jekyll/_site \
+        jekyll/builder:latest /bin/bash -c "chmod 777 /srv/jekyll && jekyll build"
 	./node_modules/.bin/serve --listen 8080 _site/
 
 
