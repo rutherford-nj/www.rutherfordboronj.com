@@ -5,6 +5,6 @@ Jekyll::Hooks.register :site, :post_write do |site|
     :check_favicon => true,
     :check_html => true,
     :disable_external => true,
-    :only-4xx => true,
+    :only_4xx => true,
   }).run
 end
