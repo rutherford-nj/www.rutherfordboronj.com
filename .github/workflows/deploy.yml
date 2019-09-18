@@ -11,10 +11,6 @@ jobs:
       uses: actions/checkout@v1
       with:
         fetch-depth: 1
-    - name: Set up Ruby 2.6
-      uses: actions/setup-ruby@v1
-      with:
-        ruby-version: 2.6.x
     - name: Build the site and deploy
       env:
         RBH_FIREBASE_TOKEN: ${{ secrets.RBH_FIREBASE_TOKEN }}
@@ -24,4 +20,7 @@ jobs:
           export FIREBASE_PROJECT="rutherford-nj" && \
           export PREDEPLOY="rm ./_site/robots.txt"
         gem install bundler
-        make deploy
+        make third-party-js-packages
+        docker run \
+        -v ${{ github.workspace }}:/srv/jekyll -v ${{ github.workspace }}/_site:/srv/jekyll/_site \
+        jekyll/builder:latest /bin/bash -c "chmod 777 /srv/jekyll && jekyll build --future"
