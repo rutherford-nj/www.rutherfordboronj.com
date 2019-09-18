@@ -1,11 +1,3 @@
-### BEGIN Variables ###
-FIREBASE_DEPLOY = ./node_modules/.bin/firebase deploy --non-interactive --token=$(RBH_FIREBASE_TOKEN)
-
-
-JEKYLL_BUILD = bundle exec jekyll build
-### END Variables ###
-
-
 ### BEGIN Third Party Packages ###
 package-jquery: npm-packages
 	mkdir -p third_party/jquery
@@ -29,8 +21,6 @@ package-nanogallery2: npm-packages
 
 package-firebase-tools: npm-packages
 package-serve: npm-packages
-package-jekyll: bundle-packages
-package-htmlproofer: bundle-packages
 
 third-party-js-packages: \
 	package-jquery \
@@ -42,31 +32,30 @@ third-party-js-packages: \
 ### END Third Party Packages ###
 
 
-build-requirements: third-party-js-packages package-jekyll
+build-requirements: third-party-js-packages
 
 
 dev: build-requirements package-serve
 	mkdir -p _site & \
-	$(JEKYLL_BUILD) --watch & \
+	docker run \
+        -v $(SITE_WORKSPACE):/srv/jekyll -v $(SITE_WORKSPACE)/_site:/srv/jekyll/_site \
+        jekyll/builder:latest /bin/bash -c "chmod 777 /srv/jekyll && jekyll build --future --watch" & \
 	./node_modules/.bin/serve --listen 8080 _site/
 
 
-prod: build-requirements package-htmlproofer
-	$(JEKYLL_BUILD)
+prod: build-requirements
+	docker run \
+        -v $(SITE_WORKSPACE):/srv/jekyll -v $(SITE_WORKSPACE)/_site:/srv/jekyll/_site \
+        jekyll/builder:latest /bin/bash -c "chmod 777 /srv/jekyll && jekyll build --future"
 
 
 deploy: prod package-firebase-tools
 	$(PREDEPLOY)
-	$(FIREBASE_DEPLOY) --project=$(FIREBASE_PROJECT)
-
+	./node_modules/.bin/firebase deploy --non-interactive --token=$(RBH_FIREBASE_TOKEN) --project=$(FIREBASE_PROJECT)
 
 
 npm-packages:
 	npm install
-
-
-bundle-packages:
-	bundle install
 
 
 clean:
