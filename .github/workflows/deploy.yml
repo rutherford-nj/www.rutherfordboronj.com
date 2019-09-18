@@ -19,7 +19,6 @@ jobs:
         [[ "$GITHUB_REF" == refs/heads/www ]] && \
           export FIREBASE_PROJECT="rutherford-nj" && \
           export PREDEPLOY="rm ./_site/robots.txt"
-        gem install bundler
         make third-party-js-packages
         docker run \
         -v ${{ github.workspace }}:/srv/jekyll -v ${{ github.workspace }}/_site:/srv/jekyll/_site \
