@@ -60,7 +60,6 @@ dev: build-requirements package-serve
 
 
 prod: build-requirements package-htmlproofer
-	echo $(TEST_SECRET)
 	$(JEKYLL_BUILD)
 	bundle exec htmlproofer ./_site --only-4xx --check-favicon --check-html --disable-external
 
