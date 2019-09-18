@@ -1,0 +1,23 @@
+name: Deploy Site
+
+on: [push]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout site
+      uses: actions/checkout@v1
+      with:
+        fetch-depth: 1
+    - name: Build the site and deploy
+      env:
+        RBH_FIREBASE_TOKEN: ${{ secrets.RBH_FIREBASE_TOKEN }}
+        SITE_WORKSPACE: ${{ github.workspace}}
+      run: |
+        export FIREBASE_PROJECT="rutherford-nj-beta-site"
+        [[ "$GITHUB_REF" == refs/heads/www ]] && \
+          export FIREBASE_PROJECT="rutherford-nj" && \
+          export PREDEPLOY="rm ./_site/robots.txt"
+        make deploy
