@@ -15,8 +15,7 @@ jobs:
     - name: Build the site and deploy
       env:
         RBH_FIREBASE_TOKEN: ${{ secrets.RBH_FIREBASE_TOKEN }}
-        TEST_SECRET: ${{ secrets.TEST_SECRET }}
+        SITE_WORKSPACE: ${{ github.workspace }}
       run: |
-        echo $TEST_SECRET
         gem install bundler
         make deploy
