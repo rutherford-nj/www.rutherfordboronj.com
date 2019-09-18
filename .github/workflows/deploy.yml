@@ -15,6 +15,7 @@ jobs:
         ruby-version: 2.6.x
     - name: Build the site and deploy
       env:
+        NOKOGIRI_USE_SYSTEM_LIBRARIES: true
         RBH_FIREBASE_TOKEN: ${{ secrets.RBH_FIREBASE_TOKEN }}
       run: |
         gem install bundler
