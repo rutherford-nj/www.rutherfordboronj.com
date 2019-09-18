@@ -4,7 +4,11 @@ section: blog
 ---
 
 <div class="blog-container">
+  {% if page.tag == 'health' %}
+  <div class="blog-icon" style="background-image: url(../../../../health-icon.png)"></div>
+  {% else %}
   <div class="blog-icon" style="background-image: url(../../../../icon.png)"></div>
+  {% endif %}
   <div class="blog-content">
     <h3><a href="/news-archives/">View complete News and Updates archive</a></h3>
     <div class="blog-title">{{page.title}}</div>
