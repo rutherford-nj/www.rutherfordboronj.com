@@ -61,7 +61,7 @@ dev: build-requirements package-serve
 
 prod: build-requirements package-htmlproofer
 	docker run \
-        -v ${{ github.workspace }}:/srv/jekyll -v ${{ github.workspace }}/_site:/srv/jekyll/_site \
+        -v $(SITE_WORKSPACE):/srv/jekyll -v $(SITE_WORKSPACE)/_site:/srv/jekyll/_site \
         jekyll/builder:latest /bin/bash -c "chmod 777 /srv/jekyll && jekyll build --future"
 	bundle exec htmlproofer ./_site --only-4xx --check-favicon --check-html --disable-external
 
