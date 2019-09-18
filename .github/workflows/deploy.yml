@@ -15,7 +15,9 @@ jobs:
         ruby-version: 2.6.x
     - name: Build the site and deploy
       env:
+        GITHUB_REF: ${{ github.ref }}
         RBH_FIREBASE_TOKEN: ${{ secrets.RBH_FIREBASE_TOKEN }}
       run: |
+        echo $GITHUB_REF
         gem install bundler
         make deploy
