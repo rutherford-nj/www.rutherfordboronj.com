@@ -39,14 +39,14 @@ dev: build-requirements package-serve
 	mkdir -p _site & \
 	docker run \
         -v $(SITE_WORKSPACE):/srv/jekyll -v $(SITE_WORKSPACE)/_site:/srv/jekyll/_site \
-        jekyll/builder:latest /bin/bash -c "chmod 777 /srv/jekyll && jekyll build --future --watch" & \
+        jekyll/builder:latest /bin/bash -c "chmod 777 /srv/jekyll && jekyll build --watch" & \
 	./node_modules/.bin/serve --listen 8080 _site/
 
 
 prod: build-requirements
 	docker run \
         -v $(SITE_WORKSPACE):/srv/jekyll -v $(SITE_WORKSPACE)/_site:/srv/jekyll/_site \
-        jekyll/builder:latest /bin/bash -c "chmod 777 /srv/jekyll && jekyll build --future"
+        jekyll/builder:latest /bin/bash -c "chmod 777 /srv/jekyll && jekyll build"
 
 
 deploy: prod package-firebase-tools
