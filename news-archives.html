@@ -13,8 +13,6 @@ title: News Archives
   {% if year != lyear %}
     <h3>{{ post.date | date: '%Y' }}</h3>
   {% endif %}
-  <div class="page-post-link">
-    {% include post_link.html post=post post_date=post.date %}
-  </div>
+  {% include post_link.html post=post post_date=post.date %}
   {% capture lyear %}{{ post.date | date: '%Y' }}{% endcapture %}
 {% endfor %}
