@@ -11,8 +11,13 @@ jobs:
       uses: actions/checkout@v1
     - name: Emit env
       run: |
-        env
+        env | sort
     - name: Archive site
       run: |
         export BACKUP_FILE="$HOME/rutherford-nj-git-$(/bin/date +%Y%m%d).tgz"
         tar czvf $BACKUP_FILE $GITHUB_WORKSPACE
+    - name: Upload to GCS
+      run: |
+        echo "$GCLOUD_AUTH" | base64 --decode > "$HOME"/gcloud.json
+        docker run -ti --name gcloud-config google/cloud-sdk gcloud auth activate-service-account --key-file=$HOME/gcloud.json 
+        docker run -ti --name gcloud-config google/cloud-sdk gsutil cp $BACKUP_FILE gs://rutherford-nj-cron/
