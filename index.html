@@ -36,14 +36,14 @@ title: '07070'
     {%- for post in site.posts -%}
       {%- if post.pinned -%}
         {%- assign count = count | plus: 1 -%}
-        {%- include homepage_post.html post=post -%}
+        {%- include post_link.html post=post -%}
       {%- endif -%}
     {%- endfor -%}
     {%- for post in site.posts -%}
       {%- unless post.pinned -%}
         {%- assign count = count | plus: 1 -%}
         {%- if count < 10 -%}
-          {%- include homepage_post.html post=post -%}
+          {%- include post_link.html post=post -%}
         {%- endif -%}
       {%- endunless -%}
     {%- endfor -%}
