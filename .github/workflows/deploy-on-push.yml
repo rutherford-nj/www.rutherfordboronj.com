@@ -18,6 +18,5 @@ jobs:
       run: |
         export FIREBASE_PROJECT="rutherford-nj-beta-site"
         [[ "$GITHUB_REF" == refs/heads/www ]] && \
-          export FIREBASE_PROJECT="rutherford-nj" && \
-          export PREDEPLOY="chmod 644 ./_site/robots.txt; rm ./_site/robots.txt"
+          export FIREBASE_PROJECT="rutherford-nj"
         make deploy

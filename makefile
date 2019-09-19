@@ -42,13 +42,13 @@ dev: build-requirements
 
 
 prod: build-requirements
+	rm $(SITE_WORKSPACE)/robots.txt
 	docker run \
         -v $(SITE_WORKSPACE):/srv/jekyll -v $(SITE_WORKSPACE)/_site:/srv/jekyll/_site \
         jekyll/builder:latest /bin/bash -c "chmod 777 /srv/jekyll && jekyll build"
 
 
 deploy: prod package-firebase-tools
-	$(PREDEPLOY)
 	./node_modules/.bin/firebase deploy --non-interactive --token=$(RBH_FIREBASE_TOKEN) --project=$(FIREBASE_PROJECT)
 
 
