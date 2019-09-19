@@ -17,6 +17,8 @@ jobs:
         export BACKUP_FILE="$HOME/rutherford-nj-git-$(/bin/date +%Y%m%d).tgz"
         tar czvf $BACKUP_FILE $GITHUB_WORKSPACE
     - name: Upload to GCS
+      with:
+        GCLOUD_AUTH: ${{ secrets.GCLOUD_AUTH }}
       run: |
         echo "$GCLOUD_AUTH" | base64 --decode > "$HOME"/gcloud.json
         docker run -ti --name gcloud-config google/cloud-sdk gcloud auth activate-service-account --key-file=$HOME/gcloud.json 
