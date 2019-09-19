@@ -10,5 +10,5 @@
       <img alt="Bergen County post" class="page-post-icon" src="/bergen-county/icon.png" />
     {% endif %}
   {% endfor %}
-  <a href="{{ post.url }}">{{ include.post.title }}</a>
+  {% if include.post_date %}{{ include.post_date | date:"%b %d" }} - {% endif %}<a href="{{ include.post.url }}">{{ include.post.title }}</a>
 </div>
