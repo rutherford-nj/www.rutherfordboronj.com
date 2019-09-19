@@ -26,7 +26,9 @@ Jekyll is not strictly necessary for the site to function. The result of `jekyll
 
 Just as Jekyll is not necessary, neither are GitHub Actions. Another option for deploying is to modify the Jekyll site and manually run `jekyll build` when it's time to deploy the site. The resulting `_site` directory can be manually uploaded to any hosting provider. Doing so would not be as pleasant as using Jekyll and the continuous build process, but it would work.
 
-## Firebase Hosting
+## Hosting
+
+### Firebase Hosting
 
 There are two projects that host all of the content on the site. The www site is served from the [rutherford-nj project](https://console.firebase.google.com/project/rutherford-nj/hosting), the beta site is served from the [rutherford-nj-beta project](https://console.firebase.google.com/project/rutherford-nj-beta/hosting)
 
