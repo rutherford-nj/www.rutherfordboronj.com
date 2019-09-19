@@ -1,4 +1,4 @@
-All changes happen by default on the `beta` branch. When you have confirmed that beta.rutherford-nj.com is good to "go live", follow these steps:
+All changes happen by default on the `beta` branch. When you have confirmed that beta.rutherfordboronj.com is good to "go live", follow these steps:
 
 ## (Optional) Inspect the changes that will "go live"
 
@@ -18,4 +18,4 @@ Navigate to the [**home page of the GitHub Repository**](https://github.com/ruth
 Type in **www** in the "Find or create a branch..." box, then click the option to "Create branch: www".  
 ![Branch Create](images/deploy/branch-create.png)
 
-Once you've done this, the [**Travis CI build**](https://travis-ci.org/rutherford-nj/www.rutherfordboronj.com/builds) should start and when complete, it will update www.rutherfordboronj.com.
+Once you've done this, the [**GitHub Action**](https://github.com/rutherford-nj/www.rutherfordboronj.com/actions) to deploy the site should start. When complete, it will update www.rutherfordboronj.com.
