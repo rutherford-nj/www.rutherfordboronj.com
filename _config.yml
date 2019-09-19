@@ -1,4 +1,4 @@
-exclude: [.git, node_modules]
+exclude: [.git, documentation, node_modules]
 permalink: pretty
 future: false
 sass:
