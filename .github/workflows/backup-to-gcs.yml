@@ -1,6 +1,8 @@
 name: Backup to GCS
 
-on: [push]
+on:
+  schedule:
+    - cron:  '42 9 * * *'
 
 jobs:
   build:
