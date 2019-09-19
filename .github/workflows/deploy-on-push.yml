@@ -19,4 +19,5 @@ jobs:
         export FIREBASE_PROJECT="rutherford-nj-beta-site"
         [[ "$GITHUB_REF" == refs/heads/www ]] && \
           export FIREBASE_PROJECT="rutherford-nj"
+          rm $SITE_WORKSPACE/robots.txt
         make deploy
