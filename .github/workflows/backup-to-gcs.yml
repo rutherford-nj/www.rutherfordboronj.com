@@ -21,5 +21,5 @@ jobs:
         GCLOUD_AUTH: ${{ secrets.GCLOUD_AUTH }}
       run: |
         echo "$GCLOUD_AUTH" | base64 --decode > "$HOME"/gcloud.json
-        docker run --name gcloud-config google/cloud-sdk gcloud auth activate-service-account --key-file=$HOME/gcloud.json 
-        docker run --name gcloud-config google/cloud-sdk gsutil cp $BACKUP_FILE gs://rutherford-nj-cron/
+        docker run -v $HOME:/srv --name gcloud-config google/cloud-sdk gcloud auth activate-service-account --key-file=/srv/gcloud.json 
+        docker run -v $HOME:/srv --name gcloud-config google/cloud-sdk gsutil cp "/srv/rutherford-nj-git-*" gs://rutherford-nj-cron/
