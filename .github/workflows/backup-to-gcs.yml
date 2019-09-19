@@ -11,9 +11,6 @@ jobs:
     steps:
     - name: Checkout site
       uses: actions/checkout@v1
-    - name: Emit env
-      run: |
-        env | sort
     - name: Archive site
       run: |
         export BACKUP_FILE="$HOME/rutherford-nj-git-$(/bin/date +%Y%m%d).tgz"
