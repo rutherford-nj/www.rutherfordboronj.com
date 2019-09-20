@@ -3,14 +3,6 @@
     "public": "_site",
     "ignore": [
       "firebase.json",
-      "Gemfile",
-      "Gemfile.lock",
-      "makefile",
-      "modernizr-config.json",
-      "package-lock.json",
-      "package.json",
-      "README.md",
-      "scripts"
     ],
     "headers": [
       {
