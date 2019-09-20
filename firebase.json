@@ -3,8 +3,8 @@
     "public": "_site",
     "ignore": [
       "firebase.json",
-      "static/css",
-      "static/js"
+      "static/css/**",
+      "static/js/**"
     ],
     "headers": [
       {
