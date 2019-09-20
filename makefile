@@ -4,17 +4,20 @@ package-jquery: npm-packages
 	cp ./node_modules/jquery/dist/jquery.min.js third_party/jquery/jquery.min.js
 
 package-lscache: npm-packages
-	cp ./node_modules/lscache/lscache.min.js static/js/lscache.min.js
+	mkdir -p third_party/lscache
+	cp ./node_modules/lscache/lscache.min.js third_party/lscache/lscache.min.js
 
 package-lunr: npm-packages
 	mkdir -p third_party/lunr
 	cp ./node_modules/lunr/lunr.js third_party/lunr/lunr.js
 
 package-slick-carousel: npm-packages
+	mkdir -p third_party
 	cp -R ./node_modules/slick-carousel/slick third_party/
 
 package-modernizr: npm-packages
-	./node_modules/.bin/modernizr --config=modernizr-config.json --dest=static/js/modernizr.js
+	mkdir -p third_party/modernizr
+	./node_modules/.bin/modernizr --config=modernizr-config.json --dest=third_party/modernizr/modernizr.js
 
 package-nanogallery2: npm-packages
 	cp -R ./node_modules/nanogallery2/dist third_party/nanogallery2
