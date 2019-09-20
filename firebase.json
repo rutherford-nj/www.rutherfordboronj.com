@@ -2,7 +2,9 @@
   "hosting": {
     "public": "_site",
     "ignore": [
-      "firebase.json"
+      "firebase.json",
+      "static/css/**",
+      "static/js/**"
     ],
     "headers": [
       {
