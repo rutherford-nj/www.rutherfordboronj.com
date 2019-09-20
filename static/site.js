@@ -1,10 +1,6 @@
 ---
 ---
 
-{% include_relative js/modernizr.js %}
-
-{% include_relative js/lscache.min.js %}
-
 jQuery(function() {
 
 window._apiKey = 'AIzaSyAQUEHBBtF_eBmFzjJmzNwaeFodn7PrkYE';
