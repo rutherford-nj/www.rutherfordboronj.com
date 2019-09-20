@@ -1,4 +1,4 @@
-exclude: [.git, documentation, node_modules]
+exclude: [.git, documentation, makefile, modernizr-config.json, package-lock.json, package.json, node_modules, README.md, scripts]
 permalink: pretty
 future: false
 sass:
