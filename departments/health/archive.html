@@ -4,5 +4,4 @@ title: 'Health Department Archive'
 parent: 'Health Department'
 ---
 
-{% assign blocked_categories = "bergen-county" | split: "," %}
-{% include archive.html posts=site.categories.health blocked_categories=blocked_categories %}
+{% include archive.html posts=site.categories.health blocked_category='bergen-county' %}

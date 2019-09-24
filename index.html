@@ -32,26 +32,26 @@ title: '07070'
   <div class="homepage-news-and-updates-section">
     <a href="/comments-and-concerns/"><img src="/static/images/comments_concerns_260.png?v=2" alt="Comments and Concerns" /></a>
     <div>News &amp; Updates</div>
-    {%- assign count = 0 -%}
-    {%- for post in site.posts -%}
-      {%- if post.pinned -%}
-        {%- assign count = count | plus: 1 -%}
-        {%- include post_link.html post=post -%}
-      {%- endif -%}
-    {%- endfor -%}
-    {%- for post in site.posts -%}
+    {% assign count = 0 %}
+    {% for post in site.posts %}
+      {% if post.pinned %}
+        {% assign count = count | plus: 1 %}
+        {% include post_link.html post=post %}
+      {% endif %}
+    {% endfor %}
+    {% for post in site.posts %}
       {% if post.categories contains 'bergen-county' %}
         {% if post.categories contains 'health' %}
           {% continue %}
         {% endif %}
       {% endif %}
-      {%- unless post.pinned -%}
-        {%- assign count = count | plus: 1 -%}
-        {%- if count < 10 -%}
-          {%- include post_link.html post=post -%}
-        {%- endif -%}
-      {%- endunless -%}
-    {%- endfor -%}
+      {% unless post.pinned %}
+        {% assign count = count | plus: 1 %}
+        {% if count < 10 %}
+          {% include post_link.html post=post %}
+        {% endif %}
+      {% endunless %}
+    {% endfor %}
     <div><a href="news-archives/">Click here for news archives</a></div>
   </div>
   <div class="homepage-bottom-links">
