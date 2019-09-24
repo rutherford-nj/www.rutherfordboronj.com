@@ -40,6 +40,11 @@ title: '07070'
       {%- endif -%}
     {%- endfor -%}
     {%- for post in site.posts -%}
+      {% if post.categories contains 'bergen-county' %}
+        {% if post.categories contains 'health' %}
+          {% continue %}
+        {% endif %}
+      {% endif %}
       {%- unless post.pinned -%}
         {%- assign count = count | plus: 1 -%}
         {%- if count < 10 -%}
