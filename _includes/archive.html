@@ -1,4 +1,7 @@
 {% for post in include.posts %}
+  {% for blocked_category in include.blocked_categories %}
+    {% if post.categories contains blocked_category %}{% continue %}{% endif %}
+  {% endfor %}
   {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
   {% if forloop.first %}
     {% capture lyear %}{{ post.date | date: '%Y' }}{% endcapture %}
