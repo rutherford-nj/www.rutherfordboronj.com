@@ -5,7 +5,7 @@
   {% endif %}
   {% if post.categories contains include.blocked_category %}{% continue %}{% endif %}
   {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
-  {% if forloop_first = 0 %}
+  {% if forloop_first == 0 %}
     {% assign forloop_first = 1 %}
     {% capture lyear %}{{ post.date | date: '%Y' }}{% endcapture %}
     <h3>{{ post.date | date: '%Y' }}</h3>
