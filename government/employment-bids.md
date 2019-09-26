@@ -5,8 +5,7 @@ parent: Government
 ---
 
 
-
-[Job Announcement: Fire Inspector](https://storage.googleapis.com/static.rutherford-nj.com/finance/Employment/JA%20fire%20inspector.docx.pdf)
+[Job Announcement: Fire Administrator](https://storage.googleapis.com/static.rutherford-nj.com/finance/Employment/JA%20fire%20administrator%20PT.pdf)
 
 [Job Posting: Crossing Guards](https://storage.googleapis.com/static.rutherford-nj.com/finance/Employment/GUARDS.pdf)
 
