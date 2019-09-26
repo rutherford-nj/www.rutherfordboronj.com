@@ -5,6 +5,7 @@ title: News Archives
 
 <h2>News Archive</h2>
 {% for post in site.posts %}
+  {% if post.categories contains 'bergen-county' %}{% if post.categories contains 'health' %}{% continue %}{% endif %}{% endif %}
   {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
   {% if forloop.first %}
     {% capture lyear %}{{ post.date | date: '%Y' }}{% endcapture %}
