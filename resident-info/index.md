@@ -16,6 +16,7 @@ title: 'Resident Information'
 {: style="height: 146px; width: 900px;" }
 
 <ul>
+  <li><a href="/departments/building/">Construction & Zoning Information</a></li>
   <li><a href="/departments/recreation/">Recreation</a></li>
   <li><a href="/departments/recreation/parks-facilities/">Parks &amp; Facilities</a></li>
   <li><a href="/departments/social-services/">Social Services</a></li>
