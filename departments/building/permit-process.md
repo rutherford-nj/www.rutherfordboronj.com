@@ -11,7 +11,7 @@ Frank Recanati, Construction Official, Plumbing Subcode Official
 
 Keith Matino, Building Subcode Official
 
-Michael Hoffman, Fire Subcode Official
+Bradley Gibbons, Fire Subcode Official
 
 Nicholas Lordo, Electrical Subcode Officical
 
