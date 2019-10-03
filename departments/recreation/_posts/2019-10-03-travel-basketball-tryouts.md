@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: NEW FOR 2019: Travel Basketball Tryout Information
+title: NEW FOR 2019 Travel Basketball Tryout Information
 ---
 
 TRYOUT DATES:
