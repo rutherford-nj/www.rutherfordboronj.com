@@ -13,4 +13,4 @@ special class we want you! Please contact Barbara Bennett at 201-460-3015 to dis
 
 **Become a Sponsor**
 
-We are also looking for sponsors to help defray the costs of our “Special Events”  such as the Annual Egg Hunt, “Ragamuffin” Parade, Touch – A – Truck, etc . .   If you know of an individual or company that may be interested, we would appreciate them contacting the Recreation Department. Please contact Barbara Bennett at 201-460-3015 to discuss sponsorship opportunities.
+We are also looking for sponsors to help defray the costs of our “Special Events”  such as the Annual Egg Hunt, “Ragamuffin” Parade, Touch – A – Truck, etc . .   If you know of an individual or company that may be interested, we would appreciate them contacting the Recreation Department. Please contact the Recreation Department to discuss sponsorship opportunities.
