@@ -136,7 +136,7 @@
   width: 75px;
 }
 
-.page-post-icon-departments {
+.page-post-icon-departments, .page-post-icon-committees {
   display: none;
 }
 
@@ -150,6 +150,10 @@
 
 .page-post-icon-borough-clerk {
   content: url("/departments/borough-clerk/icon.png")
+}
+
+.page-post-icon-green-team {
+  content: url("/committees/green-team/icon.png")
 }
 
 .page-post-icon-fire-safety {
