@@ -140,8 +140,44 @@
   display: none;
 }
 
+.page-post-icon-bergen-county {
+  content: url("/bergen-county/icon.png")
+}
+
+.page-post-icon-community-events {
+  content: url("/community-events/icon.png")
+}
+
+.page-post-icon-borough-clerk {
+  content: url("/departments/borough-clerk/icon.png")
+}
+
+.page-post-icon-fire-safety {
+  content: url("/departments/fire-safety/icon.png")
+}
+
+.page-post-icon-health {
+  content: url("/departments/health/icon.png")
+}
+
+.page-post-icon-police {
+  content: url("/departments/police/icon.png")
+}
+
+.page-post-icon-public-works {
+  content: url("/departments/public-works/icon.png")
+}
+
 .page-post-icon-recreation {
   content: url("/departments/recreation/icon.png")
+}
+
+.page-post-icon-social-services {
+  content: url("/departments/social-services/icon.png")
+}
+
+.page-post-icon-tax-collector {
+  content: url("/departments/tax-collector/icon.png")
 }
 
 .page-post-links > div:not(:last-child) {
