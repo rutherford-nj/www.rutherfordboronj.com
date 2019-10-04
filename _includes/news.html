@@ -11,7 +11,7 @@
       {% endif %}
     {% endif %}
     {% if include.tag %}
-      {% if post.tag = include.tag %}
+      {% if post.tag == include.tag %}
         {% assign should_include = should_include | plus: 1 %}
       {% endif %}
     {% endif %}
