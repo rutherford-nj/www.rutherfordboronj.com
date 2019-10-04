@@ -43,7 +43,9 @@ During the course of the year it may become necessary for a committee or the may
 
 ---
 
-[**Green Team**](green-team/)
+[**Green Team**](green-team/) - Council Liaison Maria Begg-Roberson
+
+> The Rutherford Green Team’s primary mission is to lead and coordinate the sustainability activities of the community. Specifically, we advise the Borough Council and develop initiatives and projects that contribute to the long range sustainable development of the Borough of Rutherford and beyond.
 
 ---
 
