@@ -3,7 +3,9 @@
   <div class="page-post-links">
   {% assign count = 0 %}
   {% for post in include.posts %}
-    {% if post.categories contains include.blocked_category %}{% continue %}{% endif %}
+    {% if include.blocked_category %}{% if post.categories contains include.blocked_category %}{% continue %}{% endif %}{% endif %}
+    {% if include.tag %}{% if post.tag != include.tag %}{% continue %}{% endif %}{% endif %}
+    {% if include.category %}{% unless post.categories contains include.category %}{% continue %}{% endif %}{% endif %}
     <div class="page-post-link">
       <div class="page-post-title">
         <a href="{{ post.url }}">{{ post.title }}</a>
