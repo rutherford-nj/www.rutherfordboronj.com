@@ -1,9 +1,19 @@
 {% assign forloop_first = 0 %}
 {% for post in include.posts %}
-  {% if include.include_only_category %}
-    {% unless post.categories contains include.include_only_category %}{% continue %}{% endunless %}
-  {% endif %}
   {% if post.categories contains include.blocked_category %}{% continue %}{% endif %}
+  {% assign should_include = 0 %}
+  {% if include.include_only_category %}
+    {% if post.categories contains include.include_only_category %}
+      {% assign should_include = should_include | plus: 1 %}
+    {% endif %}
+  {% endif %}
+  {% if include.tag %}
+    {% if post.tag == include.tag %}
+      {% assign should_include = should_include | plus: 1 %}
+    {% endif %}
+  {% endif %}
+  {% if include.include_only_category %}{% if should_include == 0 %}{% continue %}{% endif %}{% endif %}
+  {% if include.tag %}{% if should_include == 0 %}{% continue %}{% endif %}{% endif %}
   {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
   {% if forloop_first == 0 %}
     {% assign forloop_first = 1 %}
