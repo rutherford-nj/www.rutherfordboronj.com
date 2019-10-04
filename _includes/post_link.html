@@ -1,6 +1,6 @@
 <div class="page-post-link">
   {% for category in include.post.categories %}
-    <img alt="{{category}} post" class="page-post-icon page-post-icon-{{category}}" data-proofer-ignore />
+    <img alt="{{category}} post" class="page-post-icon page-post-icon-{{category}}" src="/static/images/clear.gif" />
   {% endfor %}
   <div>
     {% if include.post_date %}{{ include.post_date | date:"%b %d" }} - {% endif %}<a href="{{ include.post.url }}">{{ include.post.title }}</a>
