@@ -136,6 +136,14 @@
   width: 75px;
 }
 
+.page-post-icon-departments {
+  display: none;
+}
+
+.page-post-icon-recreation {
+  content: url("/departments/recreation/icon.png")
+}
+
 .page-post-links > div:not(:last-child) {
   border-bottom: 1px solid #700;
 }
