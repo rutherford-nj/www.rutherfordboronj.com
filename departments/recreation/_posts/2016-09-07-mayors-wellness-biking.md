@@ -1,6 +1,7 @@
 ---
 layout: blog
 title: Mayor's Wellness/Green Team Family Biking
+tag: green-team
 ---
 
 **Announcing Mayor's Wellness Campaign/Green Team Family Bike Rides**
