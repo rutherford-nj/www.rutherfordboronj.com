@@ -1,6 +1,7 @@
 ---
 layout: blog
 title: Walk Rutherford Maps
+tag: green-team
 ---
 
 The Walk Rutherford trail system was created by Jessica Clancy as a part of her Girl Scout Gold Award, as a way for citizens to enjoy the towns scenery while also getting exercise and keeping track of their mileage. 
