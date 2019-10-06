@@ -1,5 +1,5 @@
 ---
-layout: community-blog
+layout: blog
 title: Rainwater Workshop 10/9
 
 ---
