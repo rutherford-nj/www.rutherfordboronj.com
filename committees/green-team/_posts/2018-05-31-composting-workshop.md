@@ -1,5 +1,5 @@
 ---
-layout: community-blog
+layout: blog
 title: FREE Composting Workshop 6/2
 
 ---
