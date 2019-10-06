@@ -1,6 +1,7 @@
 ---
 layout: blog
 title: Rutherford Clean Up Day 4/23
+tag: green-team
 ---
 **Rutherford Town Clean Up Day**
 
