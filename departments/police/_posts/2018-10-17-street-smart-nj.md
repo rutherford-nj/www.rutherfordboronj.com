@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: Street Smart NJ Kickoff 10/22
-
+tag: green-team
 ---
 
 [See Flyer Here](https://storage.googleapis.com/static.rutherford-nj.com/police/police%20blog%20posts/ss_rutherford_flyer_v3.pdf)
