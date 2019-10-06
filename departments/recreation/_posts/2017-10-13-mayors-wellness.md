@@ -1,6 +1,7 @@
 ---
 layout: blog
 title: Mayor's Wellness Bike Ride 10/16
+tag: green-team
 ---
 
 **Mayor's Wellness Bike Ride at Memorial Park**
