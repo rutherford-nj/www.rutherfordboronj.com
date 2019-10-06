@@ -1,6 +1,7 @@
 ---
 layout: blog
 title: Rutherford Launches Recycle Coach
+tag: green-team
 ---
 
 **Rutherford Launches Recycle Coach** 
