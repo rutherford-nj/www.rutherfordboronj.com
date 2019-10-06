@@ -1,6 +1,7 @@
 ---
 layout: blog
 title: Mayor's Wellness Bike Rides
+tag: green-team
 ---
 
 Mayor’s Wellness Bike Rides

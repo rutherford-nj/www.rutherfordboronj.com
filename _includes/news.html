@@ -4,6 +4,19 @@
   {% assign count = 0 %}
   {% for post in include.posts %}
     {% if post.categories contains include.blocked_category %}{% continue %}{% endif %}
+    {% assign should_include = 0 %}
+    {% if include.include_only_category %}
+      {% if post.categories contains include.include_only_category %}
+        {% assign should_include = should_include | plus: 1 %}
+      {% endif %}
+    {% endif %}
+    {% if include.tag %}
+      {% if post.tag == include.tag %}
+        {% assign should_include = should_include | plus: 1 %}
+      {% endif %}
+    {% endif %}
+    {% if include.include_only_category %}{% if should_include == 0 %}{% continue %}{% endif %}{% endif %}
+    {% if include.tag %}{% if should_include == 0 %}{% continue %}{% endif %}{% endif %}
     <div class="page-post-link">
       <div class="page-post-title">
         <a href="{{ post.url }}">{{ post.title }}</a>

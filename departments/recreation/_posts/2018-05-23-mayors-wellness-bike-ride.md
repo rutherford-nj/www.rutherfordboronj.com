@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: Mayor's Wellness Bike Ride 5/29
-
+tag: green-team
 ---
 
 When: Tuesday, May 29th 2018, 6:30pm – 7:15pm

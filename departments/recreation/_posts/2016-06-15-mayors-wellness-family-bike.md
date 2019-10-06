@@ -1,6 +1,7 @@
 ---
 layout: blog
 title: Mayor's Wellness Family Bike Ride 6/20
+tag: green-team
 ---
 
 **Monday, June 20th**

@@ -1,6 +1,7 @@
 ---
 layout: blog
 title: Rutherford Clean Up Day 4/29
+tag: green-team
 ---
 
 [View Flyer Here](https://storage.googleapis.com/static.rutherford-nj.com/recreation/posts/Rutherford%20Town%20Clean%20Up%20Day.pdf)
