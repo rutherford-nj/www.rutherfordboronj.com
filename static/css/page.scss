@@ -184,6 +184,10 @@
   content: url("/departments/tax-collector/icon.png")
 }
 
+.page-post-links {
+  margin-bottom: 10px;
+}
+
 .page-post-links > div:not(:last-child) {
   border-bottom: 1px solid #700;
 }
