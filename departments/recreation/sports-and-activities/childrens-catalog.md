@@ -33,6 +33,8 @@ Payment can pay made online via Community Pass or in person or mailed to the Rec
 | **Cross Country Track**| 2nd-8th grade | $45 | Mon & Wed  | 5:30-6:30pm  | Sept 16  |      |  8 | Tryon/Memorial Field |
 | **Tennis Lessons** | Kinder-Adult  | $60/$70 | Sundays | Varies | Sept 22 |      |  6 | Memorial Park Tennis Courts | 
 | **Girls Volleyball**| 6th-8th grade | $35 | Fridays  | 7:00-9:00pm  | Sept 27  |      |  6 | Lincoln School |
+| **Basketball**| K-8th | $50.00 until 10/26 ($10.00 late fee after 10/26 if spots open) | Saturday (Games); Varies (Practices)  | Varies  | December 7  |      |  Games + Practices TBA | Rutherford School Gyms (TBA) |
+| **Wrestling**| 2nd -8th | $120 (includes: $60 registration fee + $60.00 singlet deposit) | Tues & Thurs (Practices); Varies (Matches)  | 5:30-7:30pm  | December 3  |      |  Games + Practices TBA | Rutherford School Gyms (TBA) |
 |---------|-----------|-----|-----|------|-------------|------------------|-------------------|----------|
 {: .hover-table .recreation-table}
 
