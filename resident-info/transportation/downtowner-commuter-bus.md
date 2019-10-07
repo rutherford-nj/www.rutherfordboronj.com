@@ -18,13 +18,13 @@ Sunday and Holidays.
 | Stop | Trip 1 | Trip 2 | Trip 3 | Trip 4 | Trip 5 | Trip 6  | 
 |:----------------------------|:----:|:----:|:----:|:----:|:----:|:----:|
 | Washington Avenue & Erie Avenue |6:00 AM | 6:14 AM | 6:34 AM | 7:00 AM | 7:35 AM | 8:10 AM |
-| Washington Avenue & Beech Street |5:58 AM | 6:26 AM | 6:53 AM | 7:23 AM | 7:43 AM |8:02 AM |
-| Union Avenue & Carmita Avenue |6:00 AM | 6:28 AM | 6:55 AM | 7:26 AM | 7:45 AM | 8:04 AM |
-| Carmita Avenue & West Pierrepont | 6:03 AM | 6:30 AM | 6:58 AM | 7:28 AM | 7:48 AM | 8:07 AM |
-| Park Avenue & West Pierrepont | 6:06 AM | 6:32 AM | 7:00 AM | 7:30 AM | 7:51 AM | 8:10 AM |
-| Orient Way & Woodland Street | 6:07 AM | 6:34 AM | 7:02 AM | 7:32 AM | 7:54 AM | 8:13 AM |
-| Arrive at Train Station | 6:10 AM | 6:38 AM | 7:04 AM | 7:34 AM | 7:57 AM | 8:16 AM  |
-| Train Departs | 6:18 AM	| 6:49 AM	 | 7:11 AM | 7:46 AM	| 8:11 AM	 | 8:49 AM	|
+| Washington Avenue & Beech Street |6:02 AM | 6:16 AM | 6:38 AM | 7:05 AM | 7:40 AM |8:15 AM |
+| Union Avenue & Carmita Avenue |6:04 AM | 6:18 AM | 6:42 AM | 7:10 AM | 7:45 AM | 8:20 AM |
+| Carmita Avenue & West Pierrepont | 6:06 AM | 6:20 AM | 6:46 AM | 7:15 AM | 7:50 AM | 8:25 AM |
+| Park Avenue & West Pierrepont | 6:08 AM | 6:22 AM | 6:50 AM | 7:20 AM | 7:55 AM | 8:30 AM |
+| Orient Way & Woodland Street | 6:10 AM | 6:24 AM | 6:52 AM | 7:25 AM | 8:00 AM | 8:35 AM |
+| Arrive at Train Station | 6:12 AM | 6:26 AM | 6:56 AM | 7:30 AM | 8:05 AM | 8:40 AM  |
+| Train Departs |      	| 6:36 AM	 | 7:12 AM | 7:47 AM	| 8:13 AM	 | 8:53 AM	|
 {: .hover-table }
 
 
