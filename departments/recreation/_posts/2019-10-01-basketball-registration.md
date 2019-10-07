@@ -3,6 +3,8 @@ layout: blog
 title: Basketball Registration Open
 ---
 
+[See Flyer Here](https://storage.googleapis.com/static.rutherford-nj.com/recreation/posts/2019%20Basketball%20Registration%20Flyer.pdf)
+
 Basketball registration is now open for children in grades Kindergarten through 8th grade.
 
 Games will be scheduled in various Rutherford school gyms on Saturdays, beginning on 12/7/19 through 2/29/20. 
