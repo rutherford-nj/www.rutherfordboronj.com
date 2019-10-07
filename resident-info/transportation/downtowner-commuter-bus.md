@@ -17,7 +17,7 @@ Sunday and Holidays.
 
 | Stop | Trip 1 | Trip 2 | Trip 3 | Trip 4 | Trip 5 | Trip 6  | 
 |:----------------------------|:----:|:----:|:----:|:----:|:----:|:----:|
-| Washington Avenue & Erie Avenue |5:56 AM | 6:24 AM | 6:51 AM | 7:21 AM | 7:41 AM | 8:00 AM |
+| Washington Avenue & Erie Avenue |6:00 AM | 6:14 AM | 6:34 AM | 7:00 AM | 7:35 AM | 8:10 AM |
 | Washington Avenue & Beech Street |5:58 AM | 6:26 AM | 6:53 AM | 7:23 AM | 7:43 AM |8:02 AM |
 | Union Avenue & Carmita Avenue |6:00 AM | 6:28 AM | 6:55 AM | 7:26 AM | 7:45 AM | 8:04 AM |
 | Carmita Avenue & West Pierrepont | 6:03 AM | 6:30 AM | 6:58 AM | 7:28 AM | 7:48 AM | 8:07 AM |
