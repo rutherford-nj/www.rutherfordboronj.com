@@ -6,7 +6,7 @@ layout: page
 ## Commuter Shuttle - 
 
 The Commuter Shuttle is offered free to all residents. The bus operates Monday through Friday from
-5:56 am to 8:16 am in the mornings and 4:49 pm to 7:04 pm in the evenings. There is no service on Saturday,
+6:00 am to 8:40 am in the mornings and 4:49 pm to 7:04 pm in the evenings. There is no service on Saturday,
 Sunday and Holidays.  
 
 <div style="float: right;">
@@ -35,10 +35,6 @@ Shuttle leaves the Train Station at the following times:
 4:37 pm, 5:15 pm, 5:45 pm, 6:20 pm and 6:55 pm. 
 
 Time is based on train arrival.
-
-Shuttle leaves the Train Station at the following times:  4:37 pm, 5:15 pm, 5:45 pm, 6:20 pm & 6:55 pm.  
-
-Time is based on train arrival.	
 
 The Shuttle makes stops at Washington Avenue, Union Avenue, Carmita Avenue, West Pierrepont Avenue, Woodland Avenue and Orient Way.	
 
