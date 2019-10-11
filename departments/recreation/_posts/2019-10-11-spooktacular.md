@@ -11,23 +11,23 @@ Location: Memorial Park
 
 
 
-Time: 5-6 pm –For Little Kids (Aged 3rd grade or younger)
+**Time: 5-6 pm –For Little Kids (Aged 3rd grade or younger)**
 
-                * Non-Spooky Hayride
+• Non-Spooky Hayride
 
-                * Trackless Train Ride
+• Trackless Train Ride
 
-                *Bounce House
+• Bounce House
 
-                * Character Picture Opportunities
+• Character Picture Opportunities
 
-                * Spooky Vintage Firetruck equipped with candy
+• Spooky Vintage Firetruck equipped with candy
 
                
 
-Time: 6-9 PM-For Big Kids (4th grade and up)
+**Time: 6-9 PM-For Big Kids (4th grade and up)**
 
-              * Haunted Hayride (no refreshments of any kind allowed on the ride)
+• Haunted Hayride (no refreshments of any kind allowed on the ride)
 
  
 
