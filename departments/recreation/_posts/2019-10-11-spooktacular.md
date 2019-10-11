@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: 6th Annual Spooktacular 11/30
+title: 6th Annual Spooktacular 10/30
 ---
 
 Event: Halloween Spooktacular
@@ -33,6 +33,6 @@ Location: Memorial Park
 
 The Borough of Rutherford will host its 6th Annual Halloween Spooktacular on October 30th at Memorial Field. This Halloween themed event will begin with fun offerings for younger children earlier in the evening and then transform into a scary atmosphere upon nightfall for our older children & teens.
 
-Parents & Children are encouraged to wear their costumes but please NO weapons. This is a family-friendly event.
+Parents & children are encouraged to wear their costumes but please NO weapons. This is a family-friendly event.
 
 Refreshments will be available to purchase from RHS Project Grad at the Snack Shack on Tryon Field.
