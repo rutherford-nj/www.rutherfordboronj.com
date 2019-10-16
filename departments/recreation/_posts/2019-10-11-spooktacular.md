@@ -18,8 +18,11 @@ vintage fire truck equipped with candy and treats!
 **Time: 5pm - Dusk For Little Kids (Aged 3rd grade or younger)**
 
 • Non-spooky Hayride
+
 • Character Photo Opportunities
+
 • Bounce House
+
 • Trackless Train
 
 Attention families of children and young adults
@@ -30,6 +33,7 @@ to help expedite your wait in lines.
 **Time: Dusk - 9pm -For Big Kids (4th grade and up)**
 
 • SCARY HAYRIDE!
+
 A terrifying and gory experience that will
 haunt your dreams. Enter at your own risk!
 NOT RECOMMENDED for the faint of heart or little kids.
