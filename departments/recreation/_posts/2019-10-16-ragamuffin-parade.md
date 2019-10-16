@@ -1,3 +1,4 @@
+---
 layout: blog
 title: 44th Annual Ragamuffin Parade 10/26
 ---
