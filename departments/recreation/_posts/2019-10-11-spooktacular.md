@@ -3,13 +3,14 @@ layout: blog
 title: 6th Annual Spooktacular 10/30
 ---
 
-Event: Halloween Spooktacular
+[See Flyer with Map Here](https://storage.googleapis.com/static.rutherford-nj.com/recreation/posts/2019_Halloween_Spooktacular.pdf)
 
-Date: October 30th
 
-Location: Memorial Park
+**Event: Halloween Spooktacular**
 
-[See Flyer Here](https://storage.googleapis.com/static.rutherford-nj.com/recreation/posts/2019_Halloween_Spooktacular.pdf)
+**Date: October 30th**
+
+**Location: Memorial Park**
 
 
 Throughout the night there will be carnival games, a selfie station and
