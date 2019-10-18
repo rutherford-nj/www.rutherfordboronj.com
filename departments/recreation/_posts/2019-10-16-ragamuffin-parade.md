@@ -3,7 +3,7 @@ layout: blog
 title: 44th Annual Ragamuffin Parade 10/26
 ---
 
-[See Flyer Here](https://storage.googleapis.com/static.rutherford-nj.com/recreation/posts/Ghost2.pdf)
+[See Flyer Here](https://storage.googleapis.com/static.rutherford-nj.com/recreation/2019Ragamuffin.pdf)
 
 **When: Saturday, October 26th** 
 
