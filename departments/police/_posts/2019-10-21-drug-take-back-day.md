@@ -6,6 +6,8 @@ title: Prescription Drug Take Back Day 10/26
 
 [See flyer here](https://storage.googleapis.com/static.rutherford-nj.com/police/police%20blog%20posts/DEA_TakeBack2019_Poster_8.5x11_Eng_1.pdf)
 
+[Disposal of Vaping Products](https://storage.googleapis.com/static.rutherford-nj.com/police/police%20blog%20posts/Vaping%20Disposal-Final.pdf)
+
 **Saturday, October 26**
 
 **10 a.m. - 2 p.m.** 
