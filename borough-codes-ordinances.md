@@ -8,6 +8,8 @@ title: 'Borough Codes & Ordinances'
 ## Recently Adopted Borough Codes and Ordinances:
 
 
+[Ordinance No. 3513-19 - Chapter 17 Amendment to Towing Fees](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3513-19%20Chapter%20117%20Amendment%20to%20Towing%20Fees.pdf)
+
 [Ordinance No. 3512-19 - Ordinance Amending parking on Darwin and Monona](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3512-19%20%20Ordinance%20Amending%20Chapter%20126-1.pdf)
 
 [Ordinance No. 3511-19 - Ordinance Relocating Chapter 80 to Chapter 96A](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3511-19%20%20Repealing%20Chapter%2080%20and%20Amend%20to%20Create%20Chapter%2096A.pdf)
