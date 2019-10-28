@@ -5,8 +5,9 @@ title: 2019 General Election Notice
 
 [See Original Notice Here](https://storage.googleapis.com/static.rutherford-nj.com/borough-clerk/posts/Notice%20General%202019.pdf)
 
-The deadline to REGISTER to vote for this Election is Tuesday, October 15,
-2019. The Borough Clerk’s office will be opened from 8:30 a.m. to 9:00 p.m. for
+The deadline to REGISTER to vote for this Election is Tuesday, October 15, 2019. 
+
+The Borough Clerk’s office will be opened from 8:30 a.m. to 9:00 p.m. for
 registration.
 
 Residents may register to vote in the Borough Clerk's Office in Borough Hall at
