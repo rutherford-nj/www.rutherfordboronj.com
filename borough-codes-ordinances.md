@@ -7,6 +7,8 @@ title: 'Borough Codes & Ordinances'
 
 ## Recently Adopted Borough Codes and Ordinances:
 
+[Ordinance No. BH 1-2019 - Ordinance Establishing Increase in Food Establishment License Fees
+for the years 2020, 2021, and 2022](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/BH1-19%20Amending%20Food%20Establishment%20License%20Fees.pdf)
 
 [Ordinance No. 3513-19 - Chapter 17 Amendment to Towing Fees](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3513-19%20Chapter%20117%20Amendment%20to%20Towing%20Fees.pdf)
 
