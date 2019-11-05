@@ -51,7 +51,9 @@ Ettrick Terrace and Kip Garage – $50.00 per month. Contact Clerk’s Office fo
 [**Resident Parking Permits**](/departments/police/parking/)
 
 **Raffle Licenses** - Available to qualified organizations licensed by Legalized Games of Chance. License needed for each occasion.  Fees dependent on value of prize.  
-[**50/50 Cash Prize Application and Merchandise Prize**](http://nebula.wsimg.com/38ca36bc1c8681e304e55d515ea7cdd0?AccessKeyId=EA714469E7A9EE8874A6&disposition=0&alloworigin=1)
+
+[**- 50/50 Cash Prize Application and Merchandise Prize**](http://nebula.wsimg.com/38ca36bc1c8681e304e55d515ea7cdd0?AccessKeyId=EA714469E7A9EE8874A6&disposition=0&alloworigin=1)
+
 [**- Off-Site Merchandise Sample Ticket (Required with Application)**](https://storage.googleapis.com/static.rutherford-nj.com/borough-clerk/permits-licenses/Raffle_Off-Site-Draw-Awarding-Merchandise-as-a-Prize.pdf)
 
 [**Pet Licensing**](/departments/police/additional-services/pets-animals/) - Handled by Rutherford Police Department. 
