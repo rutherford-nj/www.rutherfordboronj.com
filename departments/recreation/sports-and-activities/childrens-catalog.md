@@ -22,19 +22,22 @@ Payment can pay made online via Community Pass or in person or mailed to the Rec
 {: .hover-table .recreation-table}
 
 
-| Program | Age/Grade | Fee |	Day | Time | Start Date | End Date | Number of classes | Location |
+| Program | Age/Grade | Fee |	Day | Time | Start Date | Number of classes | Location |
 |:--------|:---------:|:---:|:---:|:--------------:|:-------------:|:-------------:|:-----------------:|:--------:|
-| **Gymnastics**| 3-5 years | $55 | Saturdays  | 9:00-10:00am  | Sept 21  |      |  8 | Tamblyn Field Civic Center |
-|               | 3-5 years | $55 | Saturdays  | 10:00-11:00am | Sept 21  |      |  8 | Tamblyn Field Civic Center |
-|               | 6-8 years | $55 | Saturdays  | 11:00-12:00pm | Sept 21  |      |  8 | Tamblyn Field Civic Center |
-|               | 9-12 years | $55 | Saturdays  | 12:00-1:00pm | Sept 21  |      |  8 | Tamblyn Field Civic Center |
-| **Dance**| 3-5 years | $55 | Saturdays  | 1:30-2:30pm  | Sept 21  |      |  8 | Tamblyn Field Civic Center |
-|          | 6-8 years | $55 | Saturdays  | 2:30-3:30pm  | Sept 21  |      |  8 | Tamblyn Field Civic Center |
-| **Cross Country Track**| 2nd-8th grade | $45 | Mon & Wed  | 5:30-6:30pm  | Sept 16  |      |  8 | Tryon/Memorial Field |
-| **Tennis Lessons** | Kinder-Adult  | $60/$70 | Sundays | Varies | Sept 22 |      |  6 | Memorial Park Tennis Courts | 
-| **Girls Volleyball**| 6th-8th grade | $35 | Fridays  | 7:00-9:00pm  | Sept 27  |      |  6 | Lincoln School |
-| **Basketball**| K-8th | $50.00 until 10/26 ($10.00 late fee after 10/26 if spots open) | Saturday (Games); Varies (Practices)  | Varies  | December 7  |      |  Games + Practices TBA | Rutherford School Gyms (TBA) |
-| **Wrestling**| 2nd -8th | $120 (includes: $60 registration fee + $60.00 singlet deposit) | Tues & Thurs (Practices); Varies (Matches)  | 5:30-7:30pm  | December 3  |      |  Games + Practices TBA | Rutherford School Gyms (TBA) |
+| **Gymnastics: MINI SESSION**| 3-5 years | $30 | Saturdays  | 9:00-10:00am  | 11/23, 11/20, 12/7, 12/14  | 4 | Tamblyn Field Civic Center |
+|              | 3-5 years | $30 | Saturdays | 10:00-11:00am  | 11/23, 11/20, 12/7, 12/14  | 4 | Tamblyn Field Civic Center |
+|              | 6-8 years | $30 | Saturdays | 11:00-12 Noon  | 11/23, 11/20, 12/7, 12/14  | 4 | Tamblyn Field Civic Center |
+|              | 9-12 years| $30 | Saturdays | 12 Noon-1:00pm  | 11/23, 11/20, 12/7, 12/14  | 4 | Tamblyn Field Civic Center |
+| **Gymnastics: WINTER SESSION**| 3-5 years | $55 | Saturdays  | 9:00-10:00am  | February 1 | 8 | Tamblyn Field Civic Center |
+|              | 3-5 years | $55 | Saturdays  | 10:00-11:00am  | February 1 | 8 | Tamblyn Field Civic Center |
+|              | 6-8 years | $55 | Saturdays  | 11:00-12 Noon  | February 1 | 8 | Tamblyn Field Civic Center |
+|              | 9-12 years| $55 | Saturdays  | 12 Noon-1:00pm | February 1 | 8 | Tamblyn Field Civic Center |
+| **Dance: MINI SESSION**| 3-4 yrs Pre-Ballet/Pre-Tap | $30 | Saturdays  | 1:15-2:00pm  | 11/23, 11/30, 12/7, 12/14 | 4 | Tamblyn Field Civic Center |
+|              | 5-6 yrs Ballet/Tap | $30 | Saturdays  | 2:15-3:00am  | 11/23, 11/30, 12/7, 12/14 | 4 | Tamblyn Field Civic Center |
+|              | 7-10 yrs Jazz | $30 | Saturdays  | 3:00-4:00pm  | 11/23, 11/30, 12/7, 12/14 | 4 | Tamblyn Field Civic Center |   
+| **Dance: WINTER SESSION**| 3-4 yrs Pre-Ballet/Pre-Tap | $55 | Saturdays  | 1:15-2:00pm  | February 1 | 8 | Tamblyn Field Civic Center |
+|              | 5-6 yrs Ballet/Tap | $55 | Saturdays  | 2:15-3:00am  | February 1 | 8 | Tamblyn Field Civic Center |
+|              | 7-10 yrs Jazz | $55 | Saturdays  | 3:00-4:00pm  | February 1 | 8  | Tamblyn Field Civic Center |   
 |---------|-----------|-----|-----|------|-------------|------------------|-------------------|----------|
 {: .hover-table .recreation-table}
 
