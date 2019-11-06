@@ -23,7 +23,7 @@ Payment can pay made online via Community Pass or in person or mailed to the Rec
 
 
 | Program | Age/Grade | Fee |	Day | Time | Start Date | Number of classes | Location |
-|:--------|:---------:|:---:|:---:|:--------------:|:-------------:|:-------------:|:-----------------:|:--------:|
+|:--------|:---------:|:---:|:---:|:--------------:|:-------------:|:-------------:|:--------:|
 | **Gymnastics: MINI SESSION**| 3-5 years | $30 | Saturdays  | 9:00-10:00am  | 11/23, 11/20, 12/7, 12/14  | 4 | Tamblyn Field Civic Center |
 |              | 3-5 years | $30 | Saturdays | 10:00-11:00am  | 11/23, 11/20, 12/7, 12/14  | 4 | Tamblyn Field Civic Center |
 |              | 6-8 years | $30 | Saturdays | 11:00-12 Noon  | 11/23, 11/20, 12/7, 12/14  | 4 | Tamblyn Field Civic Center |
@@ -38,7 +38,7 @@ Payment can pay made online via Community Pass or in person or mailed to the Rec
 | **Dance: WINTER SESSION**| 3-4 yrs Pre-Ballet/Pre-Tap | $55 | Saturdays  | 1:15-2:00pm  | February 1 | 8 | Tamblyn Field Civic Center |
 |              | 5-6 yrs Ballet/Tap | $55 | Saturdays  | 2:15-3:00am  | February 1 | 8 | Tamblyn Field Civic Center |
 |              | 7-10 yrs Jazz | $55 | Saturdays  | 3:00-4:00pm  | February 1 | 8  | Tamblyn Field Civic Center |   
-|---------|-----------|-----|-----|------|-------------|------------------|-------------------|----------|
+|---------|-----------|-----|-----|------|-------------|-------------------|----------|
 {: .hover-table .recreation-table}
 
 
