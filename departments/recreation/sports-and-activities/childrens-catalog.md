@@ -42,14 +42,7 @@ Payment can pay made online via Community Pass or in person or mailed to the Rec
 {: .hover-table .recreation-table}
 
 
-**For more information on the programs below call (866)345-BALL or [Click US Sports Institute](https://usasportgroup.com/orgs/?oid=219)**
 
-| Program | Age/Grade | Fee |	Day | Time | Start Date |	Number of Classes | Location |
-|:--------|:---------:|:---:|:---:|:----:|:-------------:|:---------:|:--------:|
-| **Soccer Programs** | 2-5 year olds | $99-$139 | Fridays | Varies | Sept 13 | 7 | Wall Field |
-| **Multi Sport Programs** | 2-5 year olds | $99-$139 | Wednesdays | Varies | Sept 18 | 7 | Wall Field |
-|---------|-----------|-----|-----|------|-------------|------------------|-------------------|----------|
-{: .hover-table .recreation-table}
 
 
 
