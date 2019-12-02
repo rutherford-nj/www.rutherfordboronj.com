@@ -11,9 +11,7 @@ Saturday, December 7th at 4:00 pm @ Rutherford High School Auditorium
 
 ----
 
-**RUTHERFORD VOLUNTEER FIRE DEPARTMENT will be escorting Santa Claus**
-
-around town on Saturday, December 14th.
+**RUTHERFORD VOLUNTEER FIRE DEPARTMENT will be escorting Santa Claus around town on Saturday, December 14th.**
 
 Please listen for the sirens!
 
