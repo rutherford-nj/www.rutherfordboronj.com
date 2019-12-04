@@ -33,4 +33,4 @@ Theatre Enrichment – [www.theatre4children.com](https://www.theatre4children.c
 
 Rutherford Travel Soccer - [www.rutherfordfc.com](http://www.rutherfordfc.com/)
 
-Meadowlands YMCA Swim Club - [www.meadowlandsymca.org](https://www.meadowlandsymca.org/main/rutherford-swim-club/)
+Rutherford Swim Association - [www.rutherfordswim.org](https://www.rutherfordswim.org/)
