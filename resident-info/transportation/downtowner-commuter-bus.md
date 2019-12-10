@@ -5,9 +5,7 @@ layout: page
 
 ## Commuter Shuttle - 
 
-The Commuter Shuttle is offered free to all residents. The bus operates Monday through Friday from
-6:00 am to 8:40 am in the mornings and 4:49 pm to 7:04 pm in the evenings. There is no service on Saturday,
-Sunday and Holidays.  
+The Commuter Shuttle is offered free to all residents. The bus operates Monday through Friday from 6:00 am to 8:43 am in the mornings and 4:49 pm to 7:04 pm in the evenings. There is no service on Saturday, Sunday and Holidays.  
 
 <div style="float: right;">
 <iframe src="https://www.google.com/maps/d/embed?mid=z9E2BG8u0Qag.kLkdVR40gGZo" width="300" height="500"></iframe>
@@ -17,13 +15,13 @@ Sunday and Holidays.
 
 | Stop | Trip 1 | Trip 2 | Trip 3 | Trip 4 | Trip 5 | Trip 6  | 
 |:----------------------------|:----:|:----:|:----:|:----:|:----:|:----:|
-| Washington Avenue & Erie Avenue |6:00 AM | 6:14 AM | 6:34 AM | 7:00 AM | 7:35 AM | 8:10 AM |
-| Washington Avenue & Beech Street |6:02 AM | 6:16 AM | 6:38 AM | 7:05 AM | 7:40 AM |8:15 AM |
-| Union Avenue & Carmita Avenue |6:04 AM | 6:18 AM | 6:42 AM | 7:10 AM | 7:45 AM | 8:20 AM |
-| Carmita Avenue & West Pierrepont | 6:06 AM | 6:20 AM | 6:46 AM | 7:15 AM | 7:50 AM | 8:25 AM |
-| Park Avenue & West Pierrepont | 6:08 AM | 6:22 AM | 6:50 AM | 7:20 AM | 7:55 AM | 8:30 AM |
-| Orient Way & Woodland Street | 6:10 AM | 6:24 AM | 6:52 AM | 7:25 AM | 8:00 AM | 8:35 AM |
-| Arrive at Train Station | 6:12 AM | 6:26 AM | 6:56 AM | 7:30 AM | 8:05 AM | 8:40 AM  |
+| Washington Avenue & Erie Avenue |6:00 AM | 6:14 AM | 6:38 AM | 7:13 AM | 7:39 AM | 8:19 AM |
+| Washington Avenue & Beech Street |6:02 AM | 6:16 AM | 6:42 AM | 7:17 AM | 7:43 AM |8:23 AM |
+| Union Avenue & Carmita Avenue |6:04 AM | 6:18 AM | 6:46 AM | 7:21 AM | 7:47 AM | 8:27 AM |
+| Carmita Avenue & West Pierrepont | 6:06 AM | 6:20 AM | 6:50 AM | 7:25 AM | 7:51 AM | 8:31 AM |
+| Park Avenue & West Pierrepont | 6:08 AM | 6:22 AM | 6:54 AM | 7:29 AM | 7:55 AM | 8:35 AM |
+| Orient Way & Woodland Street | 6:10 AM | 6:24 AM | 6:58 AM | 7:33 AM | 7:59 AM | 8:39 AM |
+| Arrive at Train Station | 6:12 AM | 6:26 AM | 7:02 AM | 7:37 AM | 8:03 AM | 8:43 AM  |
 | Train Departs |      	| 6:36 AM	 | 7:12 AM | 7:47 AM	| 8:13 AM	 | 8:53 AM	|
 {: .hover-table }
 
@@ -32,9 +30,9 @@ Sunday and Holidays.
 
 Shuttle leaves the Train Station at the following times: 
 
-4:37 pm, 5:15 pm, 5:45 pm, 6:20 pm and 6:55 pm. 
+4:37 pm, 5:15 pm, 5:45 pm, 6:20 pm and 6:55 pm.
 
-Time is based on train arrival.
+Departure time based on train arrival.
 
 The Shuttle makes stops at Washington Avenue, Union Avenue, Carmita Avenue, West Pierrepont Avenue, Woodland Avenue and Orient Way.	
 
