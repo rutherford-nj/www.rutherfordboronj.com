@@ -4,7 +4,7 @@ title: 'Employment & Bids'
 parent: Government
 ---
 
-[RFQ - Planning Board 2020](https://storage.googleapis.com/static.rutherford-nj.com/finance/Employment/Planning%20Board%202020%20REQUEST%20FOR%20QUALIFICATIONS.pdf)
+[RFQ – Planning Board 2020](https://storage.googleapis.com/static.rutherford-nj.com/finance/Employment/Planning%20Board%202020%20REQUEST%20FOR%20QUALIFICATIONS.pdf)
 
 [RFQ – Board of Adjustment Professionals](https://storage.googleapis.com/static.rutherford-nj.com/finance/Employment/RFQ_Board%20of%20Adjustment%20Professionals.pdf)
 
