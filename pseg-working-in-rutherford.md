@@ -14,7 +14,7 @@ title: 'PSE&G Working in Rutherford'
 
 [Customized PSEG email blast](https://storage.googleapis.com/static.rutherford-nj.com/pseg/Rutherford%20GC%20Town%20Email%2012.12.2019.pdf)
 
-[Face Sheet](https://storage.googleapis.com/static.rutherford-nj.com/pseg/GSMP%20II%20Fact%20Sheet%20-%20English-Spanish.pdf)
+[Fact Sheet](https://storage.googleapis.com/static.rutherford-nj.com/pseg/GSMP%20II%20Fact%20Sheet%20-%20English-Spanish.pdf)
 
 [https://nj.pseg.com/inthecommunity/constructioninyourtown/gasworkinyourtown/rutherford-gasconstruction](https://nj.pseg.com/inthecommunity/constructioninyourtown/gasworkinyourtown/rutherford-gasconstruction)
 
