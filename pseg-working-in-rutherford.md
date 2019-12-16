@@ -6,6 +6,8 @@ title: 'PSE&G Working in Rutherford'
 
 ## PSE&G Working In Rutherford December 2019 thru March 2020
 
+[Letter from PSE&G](https://storage.googleapis.com/static.rutherford-nj.com/pseg/gsmp%20release%20rutherforddec2019.pdf)
+
 [Rutherford FAQs](https://storage.googleapis.com/static.rutherford-nj.com/pseg/Rutherford%20-%20PSEG%20Large%20Project%20FAQ.pdf)
 
 [Sample doorhanger](https://storage.googleapis.com/static.rutherford-nj.com/pseg/SAMPLE%20-%20Construction%20Door%20Hanger%202019.pdf)
