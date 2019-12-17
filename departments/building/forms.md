@@ -16,7 +16,6 @@ NOTE: Completed permit application, including any and all necessary seals may be
 (Any exterior work) 
 
 [**5. Residential CCO Application and Requirements (Includes Transfer of Title)**](https://storage.googleapis.com/static.rutherford-nj.com/building/Building%20Dept%20Forms/05_CO%20CCO%20for%20Residential%20Application%20Complete%20Packet_1.pdf) 
-(Includes Temporary CCO) 
 
 [**6. Commercial CCO Application**](https://storage.googleapis.com/static.rutherford-nj.com/building/Building%20Dept%20Forms/06-CCO-Commercial%20Application.pdf) 
 
