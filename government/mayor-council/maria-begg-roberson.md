@@ -32,5 +32,3 @@ Green Acres
 
 Felician University
 
-Technology Upgrade
-
