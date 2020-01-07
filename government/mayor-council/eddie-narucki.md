@@ -18,7 +18,7 @@ enarucki@rutherfordboronj.com
 **Term of Office**  
 1/1/18 to 12/31/20
 
-**Public Works Chair**
+**Recreation and Human Resources Chair**
 {: style="clear: both;" }
 
 **Committee Assignments:**  
