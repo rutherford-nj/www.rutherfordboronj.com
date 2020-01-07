@@ -4,7 +4,7 @@ title: "Councilman Thomas Mullahey"
 parent: 'Mayor and Council'
 ---
 
-## Councilman Thomas Mullahey
+## Council President Thomas Mullahey
 
 ![Council Headshot](../tom-mullahey.png)
 {: style="float: left; margin: 0 20px 20px 0;"}
@@ -14,19 +14,29 @@ parent: 'Mayor and Council'
 
 tmullahey@rutherfordboronj.com
 
-**Term of Office**  
+**Terms of Office**  
+
+1/1/20 to 12/31/22
 
 1/1/17 to 12/31/19
 
-**Recreation and Human Resources Chair**
+**Police Chair**
 {: style="clear: both;" }
 
 **Committee Assignments:**  
 
 [Board of Education](https://www.rutherfordschools.org/boardofeducation/)
 
-Recreation Advisory
+[Board of Health](/committees/board-of-health/)
 
-Municipal Alliance
+Crossing Guards*
 
-Williams Center Advisory
+Municipal Court*
+
+OEM*
+
+Pedestrian Safety*
+
+William Center Advisory 
+
+*By Laws
