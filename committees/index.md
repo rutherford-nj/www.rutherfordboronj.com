@@ -7,7 +7,7 @@ title: 'Committees'
 
 ---
 
-[Click here for the 2019 Meeting Schedule.](https://storage.googleapis.com/static.rutherford-nj.com/committees/ANNUAL%20NOTICE_2019.pdf)
+[Click here for the 2020 Meeting Schedule.](https://storage.googleapis.com/static.rutherford-nj.com/committees/ANNUAL%20NOTICE_2020.pdf)
 
 During the course of the year it may become necessary for a committee or the mayor and council to change the day or time of a meeting or to cancel/add meetings. Please confirm meeting dates and times by contacting the liaison via e-mail or calling 201-460-3004.
 
@@ -49,7 +49,7 @@ During the course of the year it may become necessary for a committee or the may
 
 ---
 
-**Historic Preservation Committee** - Council Liaison Eddie Narucki
+**Historic Preservation Committee** 
 
 > [www.rutherfordhpc.org](http://rutherfordhpc.org/)
 
@@ -69,7 +69,7 @@ During the course of the year it may become necessary for a committee or the may
 
 ---
 
-**Recreation Advisory Committee** - Council Liaison Tom Mullahey
+**Recreation Advisory Committee** - Council Liaison Eddie Narucki
 
 > The Recreation Advisory Committee meets monthly to discuss issues pertaining to Recreation.  The committee meets with coaches and coordinators before the season to ensure proper preparation and after the season to reflect on what needs improvement and what we can build upon.
 
