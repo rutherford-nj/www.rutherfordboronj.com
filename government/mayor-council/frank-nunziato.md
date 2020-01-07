@@ -1,10 +1,10 @@
 ---
 layout: interior-page
-title: 'Councilman Frank Nunziato'
+title: 'Mayor Frank Nunziato'
 parent: 'Mayor and Council'
 ---
 
-## Councilman Frank Nunziato
+## Mayor Frank Nunziato
 
 ![Council Headshot](../frank-nunziato.png)
 {: style="float: left; margin: 0 20px 20px 0;"}
@@ -15,25 +15,15 @@ parent: 'Mayor and Council'
 fnunziato@rutherfordboronj.com
 
 **Term of Office**  
-1/1/19 to 12/31/21
+1/1/20 to 12/31/23
+
+**Previous Terms of Office as Council**  
+1/1/19 to 12/31/19
 1/1/16 to 12/31/18  
 1/1/13 to 12/31/15 
 
-**Police Chair**
-{: style="clear: both;" }
-
 **Committee Assignments:**  
 
-Auxiliary Police
+NJ Sports and Exposition Authority
 
-[Board of Health](/committees/board-of-health/)
-
-Crossing Guards
-
-Municipal Court
-
-OEM
-
-Pedestrian Safety
-
-[Planning Board](/committees/planning-board/)
+Streetscape Committee
