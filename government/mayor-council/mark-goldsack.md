@@ -14,7 +14,9 @@ parent: 'Mayor and Council'
 
 mgoldsack@rutherfordboronj.com
 
-**Term of Office**  
+**Terms of Office**  
+1/1/20 to 12/31/22
+
 1/1/17 to 12/31/19
 
 **Finance Chair**
@@ -22,12 +24,16 @@ mgoldsack@rutherfordboronj.com
 
 **Committee Assignments:**  
 
-Citizen Finance
+Citizen Finance*
 
 Community Events/Public Information
 
-Shade Tree Commission
+Economic Development
 
-Streetscape Committee
+[Planning Board](/committees/planning-board/)
+
+[Shade Tree Commission](/committees/shade-tree-commission/)
 
 Volunteer/Community Quality of Life
+
+*By laws
