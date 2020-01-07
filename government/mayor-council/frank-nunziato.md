@@ -19,6 +19,7 @@ fnunziato@rutherfordboronj.com
 
 **Previous Terms of Office as Council**  
 1/1/19 to 12/31/19
+
 1/1/16 to 12/31/18  
 1/1/13 to 12/31/15 
 
