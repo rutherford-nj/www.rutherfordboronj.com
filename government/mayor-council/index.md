@@ -7,8 +7,11 @@ title: 'Mayor and Council'
 ![Council Headshot](mayor and council_2019.jpg)
 
 [Mayor Frank Nunziato](frank-nunziato)                   |                                                     |
+
 [Council President Thomas Mullahey](thomas-mullahey)     |                                                     |
+
 [Councilwoman Maria Begg-Roberson](maria-begg-roberson)  | [Councilman Mark Goldsack](mark-goldsack)           |
+
 [Councilwoman Stephanie McGowan](stephanie-mcgowan)      | [Councilman Eddie Narucki](eddie-narucki)           | 
 {: style="border-spacing: 10px;" }
 
