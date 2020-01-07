@@ -28,10 +28,8 @@ smcgowan@rutherfordboronj.com
 
 Access for All
 
-Ambulance Corp.
-
-Local Emergency Planning
-
-New Jersey Sports & Exposition Authority
+Ambulance Corp.*
 
 Stigma Free
+
+*By laws
