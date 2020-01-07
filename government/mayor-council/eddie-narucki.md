@@ -25,10 +25,10 @@ enarucki@rutherfordboronj.com
 
 [Civil Rights Commission](/committees/civil-rights-commission/)
 
-Environmental & Recycling
-
-Historic Preservation   
+Art Committee
 
 Nereid Boat Club
 
 Passaic River Coalition
+
+Recreation Advisory
