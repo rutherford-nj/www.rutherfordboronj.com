@@ -4,7 +4,7 @@ title: 'Mayor and Council'
 ---
 
 
-![Council Headshot](mayor and council_2019.jpg)
+![Council Headshot](mayor and council_2020.jpg)
 
 [Mayor Frank Nunziato](frank-nunziato)                   |                                                     |
 
