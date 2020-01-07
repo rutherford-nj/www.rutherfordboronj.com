@@ -10,9 +10,9 @@ title: 'Mayor and Council'
 
 [Council President Thomas Mullahey](thomas-mullahey)     |                                                     |
 
-[Councilwoman Maria Begg-Roberson](maria-begg-roberson)  |  [ Councilman Mark Goldsack](mark-goldsack)         |
+[Councilwoman Maria Begg-Roberson](maria-begg-roberson)  |  [Councilman Mark Goldsack](mark-goldsack)          |
 
-[Councilwoman Stephanie McGowan](stephanie-mcgowan)      | [Councilman Eddie Narucki](eddie-narucki)           | 
+[Councilwoman Stephanie McGowan](stephanie-mcgowan)      |  [Councilman Eddie Narucki](eddie-narucki)           | 
 {: style="border-spacing: 10px;" }
 
 Rutherford was incorporated in 1881 under the Borough form of government, the most common type in New Jersey. With a seven member governing body, the mayor of the Borough is elected every four years and two council members are elected at large each year for 3-year terms. Under this form of government, council members act as the legislative body with the mayor voting only in the event of a tie. Most appointments are made by the mayor with the advice and consent of the council.
