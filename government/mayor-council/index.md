@@ -4,7 +4,7 @@ title: 'Mayor and Council'
 ---
 
 
-![Council Headshot](mayor and council_2020.jpg)
+![Council Headshot](mayor_and_council_2020.jpg)
 
 [Mayor Frank Nunziato](frank-nunziato)                   |                                                     |
 [Council President Thomas Mullahey](thomas-mullahey)     |                                                     |
