@@ -6,9 +6,11 @@ parent: 'Mayor and Council'
 
 ## Councilman Mark Goldsack
 
+<div class="mayor-and-council-profile">
+<div markdown=1>
 ![Council Headshot](../mark-goldsack.png)
-{: style="float: left; margin: 0 20px 20px 0;"}
-
+</div>
+<div markdown=1>
 **Contact:**  
 201-460-3022
 
@@ -37,3 +39,5 @@ Economic Development
 Volunteer/Community Quality of Life
 
 *By laws
+</div>
+</div>

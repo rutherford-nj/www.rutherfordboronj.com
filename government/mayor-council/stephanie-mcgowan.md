@@ -6,9 +6,11 @@ parent: 'Mayor and Council'
 
 ## Councilwoman Stephanie McGowan
 
+<div class="mayor-and-council-profile">
+<div markdown=1>
 ![Council Headshot](../stephanie-mcgowan.png)
-{: style="float: left; margin: 0 20px 20px 0;"}
-
+</div>
+<div markdown=1>
 **Contact:**  
 201-460-3022
 
@@ -33,3 +35,5 @@ Ambulance Corp.*
 Stigma Free
 
 *By laws
+</div>
+</div>

@@ -6,9 +6,11 @@ parent: 'Mayor and Council'
 
 ## Council President Thomas Mullahey
 
+<div class="mayor-and-council-profile">
+<div markdown=1>
 ![Council Headshot](../tom-mullahey.png)
-{: style="float: left; margin: 0 20px 20px 0;"}
-
+</div>
+<div markdown=1>
 **Contact:**  
 201-460-3022
 
@@ -40,3 +42,5 @@ Pedestrian Safety*
 William Center Advisory 
 
 *By Laws
+</div>
+</div>

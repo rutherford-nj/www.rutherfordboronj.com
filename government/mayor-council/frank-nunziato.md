@@ -6,9 +6,11 @@ parent: 'Mayor and Council'
 
 ## Mayor Frank Nunziato
 
+<div class="mayor-and-council-profile">
+<div markdown="1">
 ![Council Headshot](../frank-nunziato.png)
-{: style="float: left; margin: 0 20px 20px 0;"}
-
+</div>
+<div markdown="1">
 **Contact:**  
 201-460-3022
 
@@ -30,3 +32,5 @@ fnunziato@rutherfordboronj.com
 NJ Sports and Exposition Authority
 
 Streetscape Committee
+</div>
+</div>

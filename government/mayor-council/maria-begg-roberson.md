@@ -6,9 +6,11 @@ parent: 'Mayor and Council'
 
 ## Councilwoman Maria Begg-Roberson
 
+<div class="mayor-and-council-profile">
+<div markdown=1>
 ![Council Headshot](../maria-begg-roberson.png)
-{: style="float: left; margin: 0 20px 20px 0;"}
-
+</div>
+<div markdown=1>
 **Contact:**  
 201-460-3022
 
@@ -31,4 +33,5 @@ Local Assistance Board
 Green Acres
 
 Felician University
-
+</div>
+</div>
