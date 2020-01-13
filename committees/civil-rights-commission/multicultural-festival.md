@@ -18,7 +18,7 @@ Hosted by The Rutherford Civil Rights Commission
 International Food, Dances and Music from around the world!
 
 
-[**Rutherford Multicultural Festival Sponsor Form**]https://storage.googleapis.com/static.rutherford-nj.com/committees/civil-rights/Multicultural-2020/RMFSponsorForm.pdf)
+[**Rutherford Multicultural Festival Sponsor Form**](https://storage.googleapis.com/static.rutherford-nj.com/committees/civil-rights/Multicultural-2020/RMFSponsorForm.pdf)
 
 [**Rutherford Multicultural Festival Vendor Form**](https://storage.googleapis.com/static.rutherford-nj.com/committees/civil-rights/Multicultural-2020/RMFVendorForm.pdf)
 
