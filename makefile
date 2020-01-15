@@ -15,6 +15,11 @@ package-slick-carousel: npm-packages
 	mkdir -p third_party
 	cp -R ./node_modules/slick-carousel/slick third_party/
 
+package-moment-tz: npm-packages
+	mkdir -p third_party/moment
+	cp ./node_modules/moment/min/moment.min.js third_party/moment/moment.min.js
+	cp ./node_modules/moment-timezone/builds/moment-timezone-with-data-10-year-range.min.js third_party/moment/moment-tz-with-data.min.js
+
 package-modernizr: npm-packages
 	mkdir -p third_party/modernizr
 	./node_modules/.bin/modernizr --config=modernizr-config.json --dest=third_party/modernizr/modernizr.js
@@ -29,6 +34,7 @@ third-party-js-packages: \
 	package-lscache \
 	package-lunr \
 	package-slick-carousel \
+	package-moment-tz \
 	package-modernizr \
 	package-nanogallery2
 ### END Third Party Packages ###
