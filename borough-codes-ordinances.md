@@ -7,6 +7,12 @@ title: 'Borough Codes & Ordinances'
 
 ## Recently Adopted Borough Codes and Ordinances:
 
+[Ordinance No. 3516-19 - Extending Residential Parking Permit](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3516-19%20Phase%202%20residential%20parking.pdf)
+
+[Ordinance No. 3515-19 - Extending Erie Avenue Permit Parking Area](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3515-19%20Expand%20Monthly%20Permit%20Parking%20-%20Erie%20Avenue.pdf)
+
+[Ordinance No. 3514-19 - Amending Recycling Regulations](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3514-19%20Ordinance%20Amending%20Chapter%2082A.pdf)
+
 [Ordinance No. BH 1-2019 - Ordinance Establishing Increase in Food Establishment License Fees
 for the years 2020, 2021, and 2022](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/BH1-19%20Amending%20Food%20Establishment%20License%20Fees.pdf)
 

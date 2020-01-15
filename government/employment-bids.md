@@ -4,6 +4,7 @@ title: 'Employment & Bids'
 parent: Government
 ---
 
+[Job Posting: Zoning CEO](https://storage.googleapis.com/static.rutherford-nj.com/finance/Employment/Zoning%20CEO%20Description.pdf)
 
 [Job Posting: Crossing Guards](https://storage.googleapis.com/static.rutherford-nj.com/finance/Employment/GUARDS.pdf)
 

@@ -1,14 +1,14 @@
 ---
 layout: interior-page
-title: '2019 Multicultural Festival'
+title: '2020 Multicultural Festival'
 parent: 'Civil Rights Commission'
 ---
 
-**Saturday May 18th**
+**Saturday May 16th**
 
-**Rain date 5/19**
+**Rain date 5/17**
 
-**12-6pm**
+**11am-5pm**
 
 
 Lincoln Park, Rutherford (across from Borough Hall)
@@ -18,9 +18,9 @@ Hosted by The Rutherford Civil Rights Commission
 International Food, Dances and Music from around the world!
 
 
-[**Rutherford Multicultural Festival Sponsor Form**](https://storage.googleapis.com/static.rutherford-nj.com/committees/civil-rights/2019%20Multicultural/RMFSponsorForm.pdf)
+[**Rutherford Multicultural Festival Sponsor Form**](https://storage.googleapis.com/static.rutherford-nj.com/committees/civil-rights/Multicultural-2020/RMFSponsorForm.pdf)
 
-[**Rutherford Multicultural Festival Vendor Form**](https://storage.googleapis.com/static.rutherford-nj.com/committees/civil-rights/2019%20Multicultural/RMFVendorForm.pdf)
+[**Rutherford Multicultural Festival Vendor Form**](https://storage.googleapis.com/static.rutherford-nj.com/committees/civil-rights/Multicultural-2020/RMFVendorForm.pdf)
 
 Vendors can also email any questions directly to multiculturalfestivalvendor@gmail.com
 
