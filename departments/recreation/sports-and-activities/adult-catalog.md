@@ -17,8 +17,8 @@ Payment can pay made online via Community Pass or in person or mailed to the Rec
 | **Exceptional Individuals**| YEAR ROUND | 18+ | $6 PER SESSION PER NIGHT  |
 | **Women's Volleyball**| SEPT-MARCH | 18+ | $250 resident (10 or more from Rutherford) $350 non resident   |
 | **Women's Softball**| JUNE-AUGUST | 18+ |$150 /$250   |
-| **Mens Basketball**| JAN-MARCH | 40+ |$10 PER PARTICIPANT FOR ENTIRE SESSION    |
-| **Mens Softball**| APRIL | 40+ |$10 PER PARTICIPANT FOR ENTIRE SESSION    |
+| **Men's Basketball**| JAN-MARCH | 40+ |$10 PER PARTICIPANT FOR ENTIRE SESSION    |
+| **Men's Softball**| APRIL | 40+ |$10 PER PARTICIPANT FOR ENTIRE SESSION    |
 | **Co-Ed Volleyball**| APRIL | 40+ |$200 FOR RESIDENT $250 NON     |
 | **Senior Olympics**| MARCH-JUNE | 60+ |$5   |
 |---------|-----------|-----|----------------------|
