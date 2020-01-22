@@ -9,7 +9,7 @@ Please set up an account with [Community Pass]({{site.data.links.community-pass.
 
 Payment can pay made online via Community Pass or in person or mailed to the Recreation Department in the Ground Floor of Borough Hall, 176 Park Avenue.  Please print and complete [this form](https://storage.googleapis.com/static.rutherford-nj.com/recreation/Recreation_ProgramRegistration.pdf) and attach it to your check upon payment. Registration is complete only upon payment.
 
-## 2019 Children's Sports and Activities
+## 2020 Children's Sports and Activities
 **Registration is open and on a First Come, First Served Basis**
 
 **Pre-School**
@@ -22,25 +22,45 @@ Payment can pay made online via Community Pass or in person or mailed to the Rec
 {: .hover-table .recreation-table}
 
 
-| Program | Age/Grade | Fee |	Day | Time | Start Date | Number of classes | Location |
-|:--------|:---------:|:---:|:---:|:--------------:|:-------------:|:-------------:|:--------:|
-| **Gymnastics: MINI SESSION**| 3-5 years | $30 | Saturdays  | 9:00-10:00am  | 11/23, 11/30, 12/7, 12/14  | 4 | Tamblyn Field Civic Center |
-|              | 3-5 years | $30 | Saturdays | 10:00-11:00am  | 11/23, 11/30, 12/7, 12/14  | 4 | Tamblyn Field Civic Center |
-|              | 6-8 years | $30 | Saturdays | 11:00-12 Noon  | 11/23, 11/30, 12/7, 12/14  | 4 | Tamblyn Field Civic Center |
-|              | 9-12 years| $30 | Saturdays | 12 Noon-1:00pm  | 11/23, 11/30, 12/7, 12/14  | 4 | Tamblyn Field Civic Center |
-| **Gymnastics: WINTER SESSION**| 3-5 years | $55 | Saturdays  | 9:00-10:00am  | February 1 | 8 | Tamblyn Field Civic Center |
-|              | 3-5 years | $55 | Saturdays  | 10:00-11:00am  | February 1 | 8 | Tamblyn Field Civic Center |
-|              | 6-8 years | $55 | Saturdays  | 11:00-12 Noon  | February 1 | 8 | Tamblyn Field Civic Center |
-|              | 9-12 years| $55 | Saturdays  | 12 Noon-1:00pm | February 1 | 8 | Tamblyn Field Civic Center |
-| **Dance: MINI SESSION**| 3-4 yrs Pre-Ballet/Pre-Tap | $30 | Saturdays  | 1:15-2:00pm  | 11/23, 11/30, 12/7, 12/14 | 4 | Tamblyn Field Civic Center |
-|              | 5-6 yrs Ballet/Tap | $30 | Saturdays  | 2:15-3:00am  | 11/23, 11/30, 12/7, 12/14 | 4 | Tamblyn Field Civic Center |
-|              | 7-10 yrs Jazz | $30 | Saturdays  | 3:00-4:00pm  | 11/23, 11/30, 12/7, 12/14 | 4 | Tamblyn Field Civic Center |   
-| **Dance: WINTER SESSION**| 3-4 yrs Pre-Ballet/Pre-Tap | $55 | Saturdays  | 1:15-2:00pm  | February 1 | 8 | Tamblyn Field Civic Center |
-|              | 5-6 yrs Ballet/Tap | $55 | Saturdays  | 2:15-3:00am  | February 1 | 8 | Tamblyn Field Civic Center |
-|              | 7-10 yrs Jazz | $55 | Saturdays  | 3:00-4:00pm  | February 1 | 8  | Tamblyn Field Civic Center |   
-|              | 7-12 yrs Dance Sports | $55 | Tuesdays  | 5:00-6:00pm  | February 4 | 8  | Tamblyn Field Civic Center |   
+**Fall**
+
+| Program | Time Frame | Age |	Fee Per Participant |
+|:--------|:----------:|:---:|:-------------------:|
+| **Rec Soccer**      | SEPT-NOV          | K-8th Gr   | $50  |
+| **Travel Soccer**   | SEPT-NOV          |            | $50  |
+| **Cross Country**   | SEPT-NOV 8 Weeks  | 2nd-8th Gr | $45  |
+| **Tennis**          | SEPT-NOV          | K-8th Gr   | $60, $70  |
+| **Girls Volleyball**| SEPT-6 Weeks      | 6th-8th Gr | $35  |
+| **Dance**           | SEPT-NOV          | 2 1/2-6 Yrs| $55  |
+| **Mini Dance**      | DECEMBER          | 2 1/2-6 Yrs| $30 4 Wks  |
+| **Gymnastics**      | SEPT-NOV          | 3-5 Yrs    | $55  |
+| **Top Dawg Basketball**| SEPT-NOV       | K-8th Gr   | $0  |
+| **Mix It Up**       | SEPT-NOV          | K-8th Gr   | $6/Session Per Night  |
 |---------|-----------|-----|-----|------|-------------|-------------------|----------|
 {: .hover-table .recreation-table}
+
+**Winter**
+
+| Program | Time Frame | Age |	Fee Per Participant |
+|:--------|:----------:|:---:|:-------------------:|
+| **Rec Basketball**  | NOV-FEB           | K-8th Gr   | $50  |
+| **Travel Basketball**| NOV-FEB          | 4-8th Gr   | $150 |
+| **Wrestling**       | DEC-MARCH         | 2nd-8th Gr | $120  |
+| **Indoor Soccer**   | JAN-MARCH         | K-8th Gr   | $30  |
+|---------|-----------|-----|-----|------|-------------|-------------------|----------|
+{: .hover-table .recreation-table}
+
+**Winter**
+
+| Program | Time Frame | Age |	Fee Per Participant |
+|:--------|:----------:|:---:|:-------------------:|
+| **Rec Basketball**  | NOV-FEB           | K-8th Gr   | $50  |
+| **Travel Basketball**| NOV-FEB          | 4-8th Gr   | $150 |
+| **Wrestling**       | DEC-MARCH         | 2nd-8th Gr | $120  |
+| **Indoor Soccer**   | JAN-MARCH         | K-8th Gr   | $30  |
+|---------|-----------|-----|-----|------|-------------|-------------------|----------|
+{: .hover-table .recreation-table}
+
 
 
 
