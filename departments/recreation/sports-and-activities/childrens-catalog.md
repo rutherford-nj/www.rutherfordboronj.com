@@ -50,17 +50,24 @@ Payment can pay made online via Community Pass or in person or mailed to the Rec
 |---------|-----------|-----|-----|------|-------------|-------------------|----------|
 {: .hover-table .recreation-table}
 
-**Winter**
+**Spring**
 
 | Program | Time Frame | Age |	Fee Per Participant |
 |:--------|:----------:|:---:|:-------------------:|
-| **Rec Basketball**  | NOV-FEB           | K-8th Gr   | $50  |
-| **Travel Basketball**| NOV-FEB          | 4-8th Gr   | $150 |
-| **Wrestling**       | DEC-MARCH         | 2nd-8th Gr | $120  |
-| **Indoor Soccer**   | JAN-MARCH         | K-8th Gr   | $30  |
+| **Track and Field**  | MARCH-JUNE       | K-8th Gr   | $45  |
+| **Top DawgSoccer**  | MARCH-MAY         | K-8th Gr   | $0  |
 |---------|-----------|-----|-----|------|-------------|-------------------|----------|
 {: .hover-table .recreation-table}
 
+**Summer Camps - June-August**
+
+| Program | Time Frame | Age |	Fee Per Participant |
+|:--------|:----------:|:---:|:-------------------:|
+| **Kinder**  |        | K-2nd Gr   | $435  |
+| **Junior**  |        | 3rd-5th Gr | $435  |
+| **Senior**  |        | 6th-8th Gr | $250  |
+|---------|-----------|-----|-----|------|-------------|-------------------|----------|
+{: .hover-table .recreation-table}
 
 
 
