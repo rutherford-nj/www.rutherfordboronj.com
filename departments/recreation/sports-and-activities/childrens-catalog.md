@@ -22,7 +22,7 @@ Payment can pay made online via Community Pass or in person or mailed to the Rec
 {: .hover-table .recreation-table}
 
 
-**Fall**
+## Fall
 
 | Program | Time Frame | Age |	Fee Per Participant |
 |:--------|:----------:|:---:|:-------------------:|
@@ -39,7 +39,7 @@ Payment can pay made online via Community Pass or in person or mailed to the Rec
 |---------|-----------|-----|-----|------|-------------|-------------------|----------|
 {: .hover-table .recreation-table}
 
-**Winter**
+## Winter
 
 | Program | Time Frame | Age |	Fee Per Participant |
 |:--------|:----------:|:---:|:-------------------:|
@@ -50,7 +50,7 @@ Payment can pay made online via Community Pass or in person or mailed to the Rec
 |---------|-----------|-----|-----|------|-------------|-------------------|----------|
 {: .hover-table .recreation-table}
 
-**Spring**
+## Spring
 
 | Program | Time Frame | Age |	Fee Per Participant |
 |:--------|:----------:|:---:|:-------------------:|
@@ -59,7 +59,7 @@ Payment can pay made online via Community Pass or in person or mailed to the Rec
 |---------|-----------|-----|-----|------|-------------|-------------------|----------|
 {: .hover-table .recreation-table}
 
-**Summer Camps - June-August**
+## Summer Camps - June-August
 
 | Program | Time Frame | Age |	Fee Per Participant |
 |:--------|:----------:|:---:|:-------------------:|
