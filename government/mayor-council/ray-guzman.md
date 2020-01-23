@@ -1,0 +1,37 @@
+---
+layout: interior-page
+title: 'Councilman Ray Guzman'
+parent: 'Mayor and Council'
+---
+
+## Councilman Ray Guzman
+
+<div class="mayor-and-council-profile">
+<div markdown=1>
+![Council Headshot](../eddie-narucki.jpg)
+</div>
+<div markdown=1>
+**Contact:**  
+201-460-3022
+
+rguzman@rutherfordboronj.com
+
+**Term of Office**  
+1/13/20 to 12/31/20
+
+**Public Works Chair**
+{: style="clear: both;" }
+
+**Committee Assignments:**  
+
+Environmental & Recycling
+
+Historic Preservation
+
+Library Board
+
+Municipal Alliance
+
+Technology Upgrade
+</div>
+</div>
