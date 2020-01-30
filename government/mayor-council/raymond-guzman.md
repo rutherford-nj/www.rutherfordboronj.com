@@ -1,14 +1,14 @@
 ---
 layout: interior-page
-title: 'Councilman Ray Guzman'
+title: 'Councilman Raymond Guzman'
 parent: 'Mayor and Council'
 ---
 
-## Councilman Ray Guzman
+## Councilman Raymond Guzman
 
 <div class="mayor-and-council-profile">
 <div markdown=1>
-![Council Headshot](../eddie-narucki.jpg)
+![Council Headshot](../raymond-guzman.png)
 </div>
 <div markdown=1>
 **Contact:**  
