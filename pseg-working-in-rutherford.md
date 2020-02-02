@@ -6,6 +6,9 @@ title: 'PSE&G Working in Rutherford'
 
 ## PSE&G Working In Rutherford December 2019 thru March 2020
 
+
+**Street Restoration -** At the completion of gas pipe replacement project this spring, PSEG will begin restoring streets impacted by the work in those neighborhoods.  We understand there is an inconvenience but appreciate your patience throughout this service upgrade for the Borough. 
+
 [Letter from PSE&G](https://storage.googleapis.com/static.rutherford-nj.com/pseg/gsmp%20release%20rutherforddec2019.pdf)
 
 [Rutherford FAQs](https://storage.googleapis.com/static.rutherford-nj.com/pseg/Rutherford%20-%20PSEG%20Large%20Project%20FAQ.pdf)
