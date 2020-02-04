@@ -1,3 +1,5 @@
+SITE_WORKSPACE := $(if $(SITE_WORKSPACE),$(SITE_WORKSPACE),$(PWD))
+
 ### BEGIN Third Party Packages ###
 package-jquery: npm-packages
 	mkdir -p third_party/jquery
@@ -22,7 +24,12 @@ package-moment-tz: npm-packages
 
 package-modernizr: npm-packages
 	mkdir -p third_party/modernizr
-	./node_modules/.bin/modernizr --config=modernizr-config.json --dest=third_party/modernizr/modernizr.js
+	docker run \
+		-v $(SITE_WORKSPACE):/srv/jekyll \
+		jekyll/builder:latest /bin/bash -c "true && \
+		./node_modules/.bin/modernizr \
+		--config=modernizr-config.json \
+		--dest=third_party/modernizr/modernizr.js"
 
 package-nanogallery2: npm-packages
 	cp -R ./node_modules/nanogallery2/dist third_party/nanogallery2
@@ -61,7 +68,9 @@ deploy: prod package-firebase-tools
 
 
 npm-packages:
-	npm install
+	docker run \
+		-v $(SITE_WORKSPACE):/srv/jekyll \
+		jekyll/builder:latest /bin/bash -c "npm install"
 
 
 clean:
