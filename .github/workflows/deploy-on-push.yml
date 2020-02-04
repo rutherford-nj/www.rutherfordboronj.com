@@ -12,13 +12,6 @@ jobs:
       with:
         fetch-depth: 1
 
-    - name: Cache node_modules
-      id: cache-node-modules
-      uses: actions/cache@v1
-      with:
-        path: node_modules
-        key: ${{ runner.os }}-cache2-node-${{ hashFiles('**/package-lock.json') }}
-
     - name: Build the site and deploy
       env:
         RBH_FIREBASE_TOKEN: ${{ secrets.RBH_FIREBASE_TOKEN }}

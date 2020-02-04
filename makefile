@@ -69,9 +69,7 @@ deploy: prod package-firebase-tools
 
 
 npm-packages:
-	docker run \
-		-v $(SITE_WORKSPACE):/srv/jekyll \
-		jekyll/builder:latest /bin/bash -c "time npm install"
+	./scripts/build/npm_install.bash
 
 
 clean:
