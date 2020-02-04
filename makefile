@@ -1,3 +1,4 @@
+# Set SITE_WORKSPACE when running locally.
 SITE_WORKSPACE := $(if $(SITE_WORKSPACE),$(SITE_WORKSPACE),$(PWD))
 
 ### BEGIN Third Party Packages ###
