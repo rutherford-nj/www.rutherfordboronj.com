@@ -28,9 +28,9 @@ package-modernizr: npm-packages
 	docker run \
 		-v $(SITE_WORKSPACE):/srv/jekyll \
 		jekyll/builder:latest /bin/bash -c "true && \
-		./node_modules/.bin/modernizr \
-		--config=modernizr-config.json \
-		--dest=third_party/modernizr/modernizr.js"
+			./node_modules/.bin/modernizr \
+			--config=modernizr-config.json \
+			--dest=third_party/modernizr/modernizr.js"
 
 package-nanogallery2: npm-packages
 	cp -R ./node_modules/nanogallery2/dist third_party/nanogallery2
