@@ -75,7 +75,7 @@ approximately 10:00 am and leaves at 11:00 am.
 | Felician University & West Passaic Avenue | 9:36 | 10:36 | 11:36 | 1:36 | 2:36 | 3:36 |
 | Carmita Avenue & Union Avenue | 9:38 | 10:38 | 11:38 | 1:38 | 2:38 | 3:38 |
 | Hastings Avenue & Darwin Avenue | 9:41 | 10:41 | 11:41 | 1:41 | 2:41 | 3:41 |
-| Union Avenue & Springfield Avenue | 9:44 | 10:44 | 11:44 | 1:44 | 2:44 | 3:44 |
+| Union Avenue & Springfield Avenue | 9:44 | 10:44 | 11:44 | 1:44 |      | 3:44 |
 | Morse Avenue & Montross Avenue | 9:46 | 10:46 | 11:46 | 1:46 | 2:46 | 3:46 |
 | Washington Avenue & Grove Street | 9:48 | 10:48 | 11:48 | 1:48 | 2:48 | 3:48 |
 {: .hover-table }
