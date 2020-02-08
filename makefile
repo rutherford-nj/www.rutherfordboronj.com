@@ -25,7 +25,7 @@ package-moment-tz: npm-packages
 
 package-modernizr: npm-packages
 	mkdir -p third_party/modernizr
-	docker run \
+	docker run --rm \
 		-v $(SITE_WORKSPACE):/srv/jekyll \
 		jekyll/builder:latest /bin/bash -c "true && \
 			./node_modules/.bin/modernizr \
@@ -53,13 +53,13 @@ build-requirements: third-party-js-packages
 
 dev: build-requirements
 	mkdir -p _site
-	docker run -it -p 8080:8080 \
+	docker run -it --rm -p 8080:8080 \
         -v $(PWD):/srv/jekyll -v $(PWD)/_site:/srv/jekyll/_site \
         jekyll/builder:latest /bin/bash -c "chmod 777 /srv/jekyll && jekyll serve --watch -P 8080 -p /dev/null/"
 
 
 prod: build-requirements
-	docker run \
+	docker run --rm \
         -v $(SITE_WORKSPACE):/srv/jekyll -v $(SITE_WORKSPACE)/_site:/srv/jekyll/_site \
         jekyll/builder:latest /bin/bash -c "chmod 777 /srv/jekyll && jekyll build"
 
