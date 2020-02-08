@@ -7,7 +7,7 @@
 if [ -d node_modules ]; then
   echo "node_modules exists"
 else
-  docker run \
+  docker run --rm \
 	-v $SITE_WORKSPACE:/srv/jekyll \
 	jekyll/builder:latest /bin/bash -c "npm install"
 fi
