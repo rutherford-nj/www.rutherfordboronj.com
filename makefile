@@ -1,5 +1,6 @@
 # Set SITE_WORKSPACE when running locally.
 SITE_WORKSPACE := $(if $(SITE_WORKSPACE),$(SITE_WORKSPACE),$(PWD))
+export SITE_WORKSPACE
 
 ### BEGIN Third Party Packages ###
 package-jquery: npm-packages
@@ -54,7 +55,7 @@ build-requirements: third-party-js-packages
 dev: build-requirements
 	mkdir -p _site
 	docker run -it --rm -p 8080:8080 \
-        -v $(PWD):/srv/jekyll -v $(PWD)/_site:/srv/jekyll/_site \
+        -v $(SITE_WORKSPACE):/srv/jekyll -v $(SITE_WORKSPACE)/_site:/srv/jekyll/_site \
         jekyll/builder:latest /bin/bash -c "chmod 777 /srv/jekyll && jekyll serve --watch -P 8080 -p /dev/null/"
 
 
@@ -73,7 +74,4 @@ npm-packages:
 
 
 clean:
-	rm package-lock.json
-	rm -rf node_modules
-	rm -rf _site
-	rm -rf third_party
+	./scripts/build/cleanup.bash

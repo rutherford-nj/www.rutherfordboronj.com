@@ -1,8 +1,8 @@
 #!/bin/bash
 
-# Set workspace for local builds.
-[[ "$SITE_WORKSPACE" == "" ]] && \
-    SITE_WORKSPACE=`pwd`
+if [ -z "$SITE_WORKSPACE" ]; then
+	exit 1
+fi
 
 if [ -d node_modules ]; then
   echo "node_modules exists"
