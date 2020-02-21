@@ -54,9 +54,9 @@ build-requirements: third-party-js-packages
 
 dev: build-requirements
 	mkdir -p _site
-	docker run -it --rm -p 8080:8080 \
+	docker run -it --rm -p 8888:8888 \
         -v $(SITE_WORKSPACE):/srv/jekyll -v $(SITE_WORKSPACE)/_site:/srv/jekyll/_site \
-        jekyll/builder:latest /bin/bash -c "chmod 777 /srv/jekyll && jekyll serve --watch -P 8080 -p /dev/null/"
+        jekyll/builder:latest /bin/bash -c "chmod 777 /srv/jekyll && jekyll serve --watch -P 8888 -p /dev/null/"
 
 
 prod: build-requirements
