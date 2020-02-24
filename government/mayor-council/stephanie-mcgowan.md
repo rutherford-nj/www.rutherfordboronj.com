@@ -8,7 +8,7 @@ parent: 'Mayor and Council'
 
 <div class="mayor-and-council-profile">
 <div markdown=1>
-![Council Headshot](../stephanie-mcgowan.png)
+![Council Headshot](../stephanie-mcgowan_20.png)
 </div>
 <div markdown=1>
 **Contact:**  
