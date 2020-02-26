@@ -39,6 +39,8 @@ Please click on an item below to download the appropriate form and return to the
 
 [**Parking Lot Permits**](https://storage.googleapis.com/static.rutherford-nj.com/borough-clerk/permits-licenses/Street_and_Garage_Lot_Parking_Permit.pdf)
 
+**Effective July 1, 2020 all parking areas' monthly fee will be $65 for Rutherford residents and businesses and $125 for non-residents.**
+
 All Erie areas/Rutherford Avenue – $50.00 per month for residents (proof required)/$100 per month for non-residents. 
 
 Ettrick Terrace and Kip Garage – $50.00 per month. Contact Clerk’s Office for availability.
