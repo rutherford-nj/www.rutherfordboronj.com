@@ -7,6 +7,10 @@ title: 'Borough Codes & Ordinances'
 
 ## Recently Adopted Borough Codes and Ordinances:
 
+[Ordinance No. 3520-20 - Amending Permit Parking Fees]https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3520-20%20%20Amending%20Fees%20for%20Parking.pdf)
+
+[Ordinance No. 3519-20 - Amending Application Fees](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3519-20%20Amending%20Chapter%2073.pdf)
+
 [Ordinance No. 3516-19 - Extending Residential Parking Permit](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3516-19%20Phase%202%20residential%20parking.pdf)
 
 [Ordinance No. 3515-19 - Extending Erie Avenue Permit Parking Area](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3515-19%20Expand%20Monthly%20Permit%20Parking%20-%20Erie%20Avenue.pdf)
