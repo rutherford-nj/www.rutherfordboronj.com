@@ -1,0 +1,15 @@
+.calendars-calendar {
+  display: none;
+  width: 100%;
+  @media screen and (min-width: 1000px) {
+    display: block;
+  }
+}
+
+.calendars-agenda {
+  display: none;
+  width: 100%;
+  @media screen and (max-width: 999px) {
+    display: block;
+  }
+}

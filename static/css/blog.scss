@@ -14,13 +14,13 @@
 }
 
 .blog-title {
-  color: var(--main-dark-blue);
+  color: $main-dark-blue;
   font-size: 250%;
   font-weight: 700;
   text-transform: uppercase;
 }
 
 .blog-date {
-  color: #767676;
+  color: $main-gray;
   text-transform: uppercase;
 }

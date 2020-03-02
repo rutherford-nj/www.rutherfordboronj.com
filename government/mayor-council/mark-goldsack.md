@@ -22,7 +22,6 @@ mgoldsack@rutherfordboronj.com
 1/1/17 to 12/31/19
 
 **Finance Chair**
-{: style="clear: both;" }
 
 **Committee Assignments:**  
 

@@ -1,9 +1,8 @@
 #notification-container {
   display: flex;
-  
-  > :nth-child(2) {
-  	background: #CCC;
-  	margin:0 40px;
-  	width: 5px;
+  flex-wrap: wrap;
+
+  div {
+    width: 100%;
   }
 }

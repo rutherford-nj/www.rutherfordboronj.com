@@ -1,11 +1,13 @@
 ---
 ---
-:root {
-    --header-bg-color: #0F3B66;
-    --main-bg-color: #040000;
-    --main-dark-blue: #036;
-}
+$breakpoint: 600px;
+$header-bg-color: #0F3B66;
+$main-bg-color: #040000;
+$main-dark-blue: #036;
+$main-gray: #767676;
+
 {% include_relative css/core.scss %}
+{% include_relative css/calendars.scss %}
 {% include_relative css/header.scss %}
 {% include_relative css/homepage.scss %}
 {% include_relative css/page.scss %}
@@ -19,3 +21,4 @@
 {% include_relative css/minutes-and-agendas.scss %}
 {% include_relative css/gcs-file-list.scss %}
 {% include_relative css/mayor-and-council.scss %}
+{% include_relative css/menu-toggle.scss %}
