@@ -20,7 +20,7 @@ title: 'Mayor and Council'
 </style>
 
 <div>
-  <img src="mayor and council_2020.jpg" alt="" style="width: 100%">
+  <img src="mayor and council_2020.jpg" data-proofer-ignore alt="" style="width: 100%">
 </div>
 
 <div class="council-table">
