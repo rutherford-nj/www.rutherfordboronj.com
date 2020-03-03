@@ -3,7 +3,8 @@ layout: default
 title: '07070'
 ---
 <div class="homepage-address">
-  Rutherford Borough Hall <div class="homepage-address-mobile-break">•</div> 176 Park Ave • Rutherford, NJ 07070 • 201-460-3000
+  Rutherford Borough Hall <div class="homepage-address-mobile-break">•</div> 176 Park Ave • Rutherford, NJ 07070 •
+  201-460-3000
 </div>
 
 <div class="homepage-left">
@@ -20,19 +21,44 @@ title: '07070'
     <a href="/calendars/"><img src="/static/images/calendar.png" alt="Calendars" /></a>
   </div>
   <div class="homepage-calendar">
-    <iframe src="https://calendar.google.com/calendar/embed?showNav=0&amp;showDate=0&amp;showTabs=0&amp;showTitle=0&amp;showPrint=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;src=kkpe6ck0jkpnmsfk59mgj455j4%40group.calendar.google.com&amp;color=%23BE6D00&amp;src=75r5nqe7qson287rauo77tbuek%40group.calendar.google.com&amp;color=%2342104A&amp;src=9mmlg69uroi4c340ulq1461a80%40group.calendar.google.com&amp;color=%232952A3&amp;ctz=America%2FNew_York"
-    style="border-width:0" width="390" height="600" frameborder="0" scrolling="no"></iframe>
+    <iframe
+      src="https://calendar.google.com/calendar/embed?showNav=0&amp;showDate=0&amp;showTabs=0&amp;showTitle=0&amp;showPrint=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;src=kkpe6ck0jkpnmsfk59mgj455j4%40group.calendar.google.com&amp;color=%23BE6D00&amp;src=75r5nqe7qson287rauo77tbuek%40group.calendar.google.com&amp;color=%2342104A&amp;src=9mmlg69uroi4c340ulq1461a80%40group.calendar.google.com&amp;color=%232952A3&amp;ctz=America%2FNew_York"
+      style="border-width:0" width="390" height="600" frameborder="0" scrolling="no"></iframe>
   </div>
 </div>
 
 <div class="homepage-right">
+  <style>
+    .vimeo-embed-container {
+      position: relative;
+      padding-bottom: 56.25%;
+      height: 0;
+      overflow: hidden;
+      max-width: 100%;
+    }
+
+    .vimeo-embed-container iframe,
+    .vimeo-embed-container object,
+    .vimeo-embed-container embed {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+    }
+  </style>
+  <div class="vimeo-embed-container">
+    <iframe src="https://player.vimeo.com/video/395197867?autoplay=1&byline=0&portrait=0" frameborder="0"
+      allow="autoplay; fullscreen" allowfullscreen></iframe>
+  </div>
+  <!--<iframe src="https://player.vimeo.com/video/395197867" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
   <div class="homepage-images homepage-images-hidden" data-proofer-ignore>
     <div id="homepage-rotation" data-slick='{"arrows": false, "autoplay": true, "fade": true}'>
     {% for image in site.data.homepage_images %}
       <div><img src='{{ image.src }}' alt=''></div>
     {% endfor %}
     </div>
-  </div>
+  </div>-->
 
   <div class="homepage-top-links homepage-bottom-links">
     <a style="font-weight: 700;" href="/resident-info/">Resident Information</a>
@@ -43,14 +69,9 @@ title: '07070'
     <a href="https://www.cit-e.net/rutherford-nj/cit-e-access/TaxBill_Std/?TID=167&TPID=15571">Pay Taxes Online</a>
   </div>
   <div class="homepage-twitter">
-    <a class="twitter-timeline"
-   width="100%"
-   data-tweet-limit=4
-   data-screen-name="Rutherford07070"
-   data-chrome="nofooter"
-   data-dnt="true"
-   href="https://twitter.com/Rutherford07070" 
-   data-widget-id="699797621175672833">Tweets by @Rutherford07070</a>
-    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+    <a class="twitter-timeline" width="100%" data-tweet-limit=4 data-screen-name="Rutherford07070"
+      data-chrome="nofooter" data-dnt="true" href="https://twitter.com/Rutherford07070"
+      data-widget-id="699797621175672833">Tweets by @Rutherford07070</a>
+    <script>!function (d, s, id) { var js, fjs = d.getElementsByTagName(s)[0], p = /^http:/.test(d.location) ? 'http' : 'https'; if (!d.getElementById(id)) { js = d.createElement(s); js.id = id; js.src = p + "://platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs); } }(document, "script", "twitter-wjs");</script>
   </div>
 </div>

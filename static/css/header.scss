@@ -56,7 +56,7 @@
 
 .header-small {
   display: block;
-  @media screen and (min-width: $breakpoint) {
+  @media screen and (min-width: calc(#{$breakpoint} + 1px)) {
     display: none;
   }
 }
@@ -65,5 +65,13 @@
   display: block;
   @media screen and (max-width: $breakpoint) {
     display: none;
+  }
+
+  .header-search {
+    margin-bottom: 1em;
+  }
+
+  > * {
+    text-align: right;
   }
 }
