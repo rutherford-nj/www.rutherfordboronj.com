@@ -4,6 +4,10 @@
   text-align: center;
   text-transform: uppercase;
   width: 100%;
+
+  @media screen and (max-width: $breakpoint) {
+    font-size: 3.5vw;
+  }
 }
 
 .homepage-address-mobile-break {
