@@ -19,9 +19,31 @@
   }
 }
 
-#homepage-alerts {
+.homepage-alerts {
+  align-items: center;
   background-color: #700;
   color: white;
+  display: flex;
+  flex-wrap: wrap;
+
+  img {
+    padding-left: 15px;
+    width: 100%;
+  }
+
+  > :nth-child(1) {
+    width: 15%;
+    @media screen and (max-width: $breakpoint) {
+      width: 6%;
+    }
+  }
+
+  > :nth-child(2) {
+    width: 85%;
+    @media screen and (max-width: $breakpoint) {
+      padding-left: 10px;
+    }
+  }
 }
 
 .homepage-top-links {
@@ -33,10 +55,6 @@
     display: block;
     padding: 12px;
     text-decoration: none;
-  }
-
-  img {
-    width: 100%;
   }
   
   a:not(:last-child) {
