@@ -117,18 +117,6 @@
   }
 }
 
-.homepage-images {
-  margin-bottom: 20px;
-
-  img {
-    width: 100%;
-  }
-}
-
-.homepage-images-hidden {
-  visibility: hidden;
-}
-
 .homepage-calendar {
   @media screen and (max-width: $breakpoint) {
     display: none;
