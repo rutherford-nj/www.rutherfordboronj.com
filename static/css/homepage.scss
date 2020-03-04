@@ -109,7 +109,6 @@
   div {
     width: 100%;
     img {
-      //padding: 2px;
       width: 100%;
     }
   }
@@ -144,4 +143,17 @@
 
 .homepage-twitter {
   width: 100%;
+}
+
+.homepage-covid {
+  align-items: center;
+  border-bottom: 1px solid #AAA;
+  display: flex;
+  margin-left: 5px;
+  flex-wrap: wrap;
+
+  img {
+    height: 30px;
+    width: 30px;
+  }
 }
