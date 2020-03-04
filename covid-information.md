@@ -1,8 +1,10 @@
 ---
 layout: page
-title: 'COVID Information'
+title: 'COVID-19 Information'
 ---
- 
+  
+# COVID-19 Information
+
 March 3rd, 2020
 
 Message from Mayor Frank A. Nunziato:
