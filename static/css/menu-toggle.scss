@@ -1,4 +1,4 @@
- #menuToggle
+ .mobile-menu-toggle
  {
    display: block;
    position: relative;
@@ -9,13 +9,13 @@
    user-select: none;
  }
  
- #menuToggle a
+ .mobile-menu-toggle a
  {
    text-decoration: none;
    color: #cdcdcd;
  }
  
- #menuToggle > input
+ .mobile-menu-toggle > input
  {
    display: block;
    width: 40px;
@@ -32,7 +32,7 @@
    -webkit-touch-callout: none;
  }
  
- #menuToggle span
+ .mobile-menu-toggle span
  {
    display: block;
    width: 33px;
@@ -52,48 +52,34 @@
                opacity 0.55s ease;
  }
  
- #menuToggle span:first-child
+ .mobile-menu-toggle span:first-child
  {
    transform-origin: 0% 0%;
  }
  
- #menuToggle span:nth-last-child(2)
+ .mobile-menu-toggle span:nth-last-child(2)
  {
    transform-origin: 0% 100%;
  }
  
- /* 
-  * Transform all the slices of hamburger
-  * into a crossmark.
-  */
- #menuToggle > input:checked ~ span
+ .mobile-menu-toggle > input:checked ~ span
  {
    opacity: 1;
    transform: rotate(45deg) translate(-2px, -1px);
  }
  
- /*
-  * But let's hide the middle one.
-  */
- #menuToggle > input:checked ~ span:nth-last-child(3)
+ .mobile-menu-toggle > input:checked ~ span:nth-last-child(3)
  {
    opacity: 0;
    transform: rotate(0deg) scale(0.2, 0.2);
  }
  
- /*
-  * Ohyeah and the last one should go the other direction
-  */
- #menuToggle > input:checked ~ span:nth-last-child(2)
+ .mobile-menu-toggle > input:checked ~ span:nth-last-child(2)
  {
    transform: rotate(-45deg) translate(0, -1px);
  }
  
- /*
-  * Make this absolute positioned
-  * at the top left of the screen
-  */
- #menu
+ .mobile-menu
  {
    position: fixed;
    top: 0;
@@ -104,7 +90,6 @@
    background: $header-bg-color;
    list-style-type: none;
    -webkit-font-smoothing: antialiased;
-   /* to stop flickering of text in safari */
    
    transform-origin: 0% 0%;
    transform: translate(-100%, 0);
@@ -112,16 +97,13 @@
    transition: transform 0.5s cubic-bezier(0.77,0.2,0.05,1.0);
  }
  
- #menu li
+ .mobile-menu li
  {
    font-size: 22px;
    padding: 10px 0;
  }
  
- /*
-  * And let's slide it in from the left
-  */
- #menuToggle > input:checked ~ ul
+ .mobile-menu-toggle > input:checked ~ ul
  {
    transform: none;
  }
