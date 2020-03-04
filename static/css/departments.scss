@@ -7,7 +7,7 @@
   border-spacing: 0;
   margin: 20px auto;
 
-  @media screen and (max-width: 800px) {
+  @media screen and (max-width: $breakpoint) {
     font-size: 0.8em;
   }
 
@@ -17,25 +17,25 @@
     flex-wrap: wrap;
     padding: 10px;
 
-    :nth-child(1) {
+    > :nth-child(1) {
       width: 30%;
     }
 
-    :nth-child(2) {
+    > :nth-child(2) {
       display: flex;
       flex-wrap: wrap;
       width: 70%;
 
-      :nth-child(1) {
+      > :nth-child(1) {
         width: 40%;
-        @media screen and (max-width: 800px) {
+        @media screen and (max-width: $breakpoint) {
           width: 100%;
         }
       }
 
-      :nth-child(2) {
+      > :nth-child(2) {
         width: 60%;
-        @media screen and (max-width: 800px) {
+        @media screen and (max-width: $breakpoint) {
           width: 100%;
         }
       }
@@ -45,39 +45,39 @@
   > div:nth-child(1) {
     font-weight: 700;
 
-    :nth-child(1) {
+    > :nth-child(1) {
       width: 30%
     }
 
-    :nth-child(n+2) {
+    > :nth-child(n+2) {
       width: 70%;
     }
 
-    :nth-child(2) {
+    > :nth-child(2) {
       display: none;
-      @media screen and (min-width: 801px) {
+      @media screen and (min-width: calc(#{$breakpoint} + 1px)) {
         display: flex;
         flex-wrap: wrap;
   
-        :nth-child(1) {
+        > :nth-child(1) {
           width: 40%;
-          @media screen and (max-width: 800px) {
+          @media screen and (max-width: $breakpoint) {
             width: 100%;
           }
         }
   
-        :nth-child(2) {
+        > :nth-child(2) {
           width: 60%;
-          @media screen and (max-width: 800px) {
+          @media screen and (max-width: $breakpoint) {
             width: 100%;
           }
         }
       }
     }
 
-    :nth-child(3) {
+    > :nth-child(3) {
       display: none;
-      @media screen and (max-width: 800px) {
+      @media screen and (max-width: $breakpoint) {
         display: block;
       }
     }
