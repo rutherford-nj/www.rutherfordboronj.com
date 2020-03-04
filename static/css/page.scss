@@ -12,6 +12,13 @@
   line-height: 1.6;
   margin: 1em 2em 2em 2em;
   width: 100%;
+
+  ul.page-info {
+    float: left;
+    font-size: 1.2em;
+    line-height: 2;
+    margin-right: 100px;
+  }
   
   &:after {
     clear: both;
@@ -192,8 +199,8 @@
 
 .page-post-links {
   margin-bottom: 10px;
-}
 
-.page-post-links > div:not(:last-child) {
-  border-bottom: 1px solid #700;
+  > div:not(:last-child) {
+    border-bottom: 1px solid #700;
+  }
 }
