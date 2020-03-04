@@ -103,20 +103,6 @@
   text-align: left;
 }
 
-.homepage-link-buttons {
-  display: flex;
-  flex-wrap: wrap;
-  div {
-    width: 100%;
-    img {
-      width: 100%;
-    }
-  }
-  div.half-width {
-    width: 50%;
-  }
-}
-
 .homepage-calendar {
   @media screen and (max-width: $breakpoint) {
     display: none;
