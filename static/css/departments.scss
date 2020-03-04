@@ -7,12 +7,79 @@
   border-spacing: 0;
   margin: 20px auto;
 
-  td {
+  > div {
     border-bottom: 1px solid #CCC;
+    display: flex;
+    flex-wrap: wrap;
     padding: 10px;
+
+    :nth-child(1) {
+      width: 30%;
+    }
+
+    :nth-child(2) {
+      display: flex;
+      flex-wrap: wrap;
+      width: 70%;
+
+      :nth-child(1) {
+        width: 40%;
+        @media screen and (max-width: 800px) {
+          width: 100%;
+        }
+      }
+
+      :nth-child(2) {
+        width: 60%;
+        @media screen and (max-width: 800px) {
+          width: 100%;
+        }
+      }
+    }
   }
 
-  tr:nth-child(even) {
+  > div:nth-child(1) {
+    font-weight: 700;
+
+    :nth-child(1) {
+      width: 30%
+    }
+
+    :nth-child(n+2) {
+      width: 70%;
+    }
+
+    :nth-child(2) {
+      display: none;
+      @media screen and (min-width: 801px) {
+        display: flex;
+        flex-wrap: wrap;
+  
+        :nth-child(1) {
+          width: 40%;
+          @media screen and (max-width: 800px) {
+            width: 100%;
+          }
+        }
+  
+        :nth-child(2) {
+          width: 60%;
+          @media screen and (max-width: 800px) {
+            width: 100%;
+          }
+        }
+      }
+    }
+
+    :nth-child(3) {
+      display: none;
+      @media screen and (max-width: 800px) {
+        display: block;
+      }
+    }
+  }
+
+  > div:nth-child(even) {
     background-color: #F5F5F5;
   }
 }
