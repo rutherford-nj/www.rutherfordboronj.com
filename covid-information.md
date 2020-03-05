@@ -51,8 +51,8 @@ COVID-19 Guidance for Child Care and K-12 Schools](https://storage.googleapis.co
 
 [CDC Stop The Spread of Germs](https://storage.googleapis.com/static.rutherford-nj.com/covid/Stop%20the%20Spead%20of%20Germs.pdf)
 
-[American Public Health Association Fact Sheet](https://storage.googleapis.com/static.rutherford-nj.com/covid/GetReady-2019nCovFactSheet.pdf)
-
 [CDC Coronavirus Facts](https://storage.googleapis.com/static.rutherford-nj.com/covid/Coronavirus%20Facts%20-%20CDC%20Branded.pdf)
 
 [The Association for Professionals in Infection Control and Epidemiology (APIC) Coronavirus Facts](https://storage.googleapis.com/static.rutherford-nj.com/covid/02420_Coronavirus_HiresNoBleed.pdf)
+
+[American Public Health Association Fact Sheet](https://storage.googleapis.com/static.rutherford-nj.com/covid/GetReady-2019nCovFactSheet.pdf)
