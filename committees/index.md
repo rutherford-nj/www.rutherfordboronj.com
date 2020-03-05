@@ -3,6 +3,8 @@ layout: page
 title: 'Committees'
 ---
 
+<div class="committee-list" markdown=1>
+
 ## Boards, Commissions and Committees
 
 ---
@@ -77,4 +79,4 @@ During the course of the year it may become necessary for a committee or the may
 
 [**Shade Tree Commission**](shade-tree-commission/)
 
----
+</div>
