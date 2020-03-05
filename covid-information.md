@@ -44,3 +44,15 @@ and preparing to implement existing plans if needed.
 
 [New Jersey Department of Health
 COVID-19 Guidance for Child Care and K-12 Schools](https://storage.googleapis.com/static.rutherford-nj.com/covid/COVID19_schools_FINAL_3.2.20.pdf)
+
+[CDC What You Need To Know About Coronavirus](https://storage.googleapis.com/static.rutherford-nj.com/covid/What%20You%20Need%20To%20Know%20About%20Coronavirus.pdf)
+
+[CDC Wash Your Hands](https://storage.googleapis.com/static.rutherford-nj.com/covid/Wash%20Your%20Hands.pdf)
+
+[CDC Stop The Spread of Germs](https://storage.googleapis.com/static.rutherford-nj.com/covid/Stop%20the%20Spead%20of%20Germs.pdf)
+
+[CDC Coronavirus Facts](https://storage.googleapis.com/static.rutherford-nj.com/covid/Coronavirus%20Facts%20-%20CDC%20Branded.pdf)
+
+[The Association for Professionals in Infection Control and Epidemiology (APIC) Coronavirus Facts](https://storage.googleapis.com/static.rutherford-nj.com/covid/02420_Coronavirus_HiresNoBleed.pdf)
+
+[American Public Health Association Fact Sheet](https://storage.googleapis.com/static.rutherford-nj.com/covid/GetReady-2019nCovFactSheet.pdf)
