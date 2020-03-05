@@ -62,7 +62,7 @@ a, a:visited, a:hover, a:active {
   width: 100%;
 
   > * {
-height: min-content;
+    height: min-content;
   }
 
   @media screen and (max-width: $breakpoint) {
