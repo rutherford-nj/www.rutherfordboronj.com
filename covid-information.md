@@ -45,17 +45,11 @@ and preparing to implement existing plans if needed.
 [New Jersey Department of Health
 COVID-19 Guidance for Child Care and K-12 Schools](https://storage.googleapis.com/static.rutherford-nj.com/covid/COVID19_schools_FINAL_3.2.20.pdf)
 
-[Stop The Spread of Germs](https://storage.googleapis.com/static.rutherford-nj.com/covid/stop-the-spread-of-germs.pdf)
+[CDC What You Need To Know About Coronavirus](https://storage.googleapis.com/static.rutherford-nj.com/covid/What%20You%20Need%20To%20Know%20About%20Coronavirus.pdf)
 
-[What You Need To Know About Coronavirus](https://storage.googleapis.com/static.rutherford-nj.com/covid/What%20You%20Need%20To%20Know%20About%20Coronavirus.pdf)
+[CDC Wash Your Hands](https://storage.googleapis.com/static.rutherford-nj.com/covid/Wash%20Your%20Hands.pdf)
 
-[Wash Your Hands](https://storage.googleapis.com/static.rutherford-nj.com/covid/Wash%20Your%20Hands.pdf)
-
-[Stop The Spread of Germs](https://storage.googleapis.com/static.rutherford-nj.com/covid/Stop%20the%20Spead%20of%20Germs.pdf)
-
-[CDC Hand Washing](https://storage.googleapis.com/static.rutherford-nj.com/covid/Hand%20Washing%20-%20Male.pdf)
-
-[CDC Hand Washing](https://storage.googleapis.com/static.rutherford-nj.com/covid/Hand%20Washing%20-%20Female.pdf)
+[CDC Stop The Spread of Germs](https://storage.googleapis.com/static.rutherford-nj.com/covid/Stop%20the%20Spead%20of%20Germs.pdf)
 
 [American Public Health Association Fact Sheet](https://storage.googleapis.com/static.rutherford-nj.com/covid/GetReady-2019nCovFactSheet.pdf)
 
