@@ -26,8 +26,13 @@ a, a:visited, a:hover, a:active {
 
 #dynamic-field {
   color: #FFF;
-  font-size: 200%;
+  font-size: 2em;
   text-align: center;
+
+  @media screen and (max-width: $breakpoint) {
+    font-size: 1.4em;
+    padding: 0 4px;
+  }
 }
 
 .dynamic-message-emergency {
