@@ -55,7 +55,7 @@
 
     > :nth-child(2) {
       display: none;
-      @media screen and (min-width: calc(#{$breakpoint} + 1px)) {
+      @media screen and (min-width: $breakpoint + 1px) {
         display: flex;
         flex-wrap: wrap;
   
