@@ -2,65 +2,98 @@
 ---
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-  <title>{% if page.title and page.title != '07070' %}{{page.title | escape}} | {% endif %}The Borough of Rutherford, New Jersey</title>
-  <meta charset='UTF-8'/>
+  <title>{% if page.title and page.title != '07070' %}{{page.title | escape}} | {% endif %}The Borough of Rutherford,
+    New Jersey</title>
+  <meta charset='UTF-8' />
+  <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="theme-color" content="#036">
   <meta property="og:image" content="https://www.rutherfordboronj.com/static/images/boroughfacebookicon.png" />
   <link href="/static/site.css?zx={{ "now" | date: "%s" }}" rel="stylesheet" type="text/css" />
   <link href='//fonts.googleapis.com/css?family=Roboto:400,700,900' rel='stylesheet' type='text/css' />
   <link rel="shortcut icon" href="/favicon.ico?zx={{ "now" | date: "%s" }}" />
-  <link rel="stylesheet" type="text/css" href="/third_party/slick/slick.css?zx={{ "now" | date: "%s" }}"/>
-  <link rel="stylesheet" type="text/css" href="/third_party/slick/slick-theme.css?zx={{ "now" | date: "%s" }}"/>
 </head>
+
 <body>
-<div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = 'https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.10';
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
+  <div id="fb-root"></div>
+  <script>(function (d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = 'https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.10';
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script>
   <!-- Google Tag Manager -->
-  <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WJ2VPD"
-  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-  '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-  })(window,document,'script','dataLayer','GTM-WJ2VPD');</script>
+  <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WJ2VPD" height="0" width="0"
+      style="display:none;visibility:hidden"></iframe></noscript>
+  <script>(function (w, d, s, l, i) {
+      w[l] = w[l] || []; w[l].push({
+        'gtm.start':
+          new Date().getTime(), event: 'gtm.js'
+      }); var f = d.getElementsByTagName(s)[0],
+        j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+          '//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-WJ2VPD');</script>
   <!-- End Google Tag Manager -->
   <div class="header">
     <div class="header-container">
-      <h1>
-        <a href="/">
-          <img src="/static/images/borough-logo.png" alt="Borough Logo" />
-        </a>
-      </h1>
+      <div class="header-left">
+        <h1>
+          <a href="/">
+            <img class="header-logo" src="/static/images/borough-logo.png" alt="Borough Logo" />
+          </a>
+        </h1>
+      </div>
       <div class="header-right">
-        <div class="header-search">
-          <input type="search" aria-label="Search" placeholder="Search the site..." id="search_box">
-          <input type="button" value="Search" id="search_button">
+        <div class="header-small">
+          <nav role="navigation">
+            <div class="mobile-menu-toggle">
+              <input type="checkbox" autocomplete="off" />
+              <span></span>
+              <span></span>
+              <span></span>
+              <ul class="mobile-menu">    
+                <a href="/committees/">
+                  <li>Committees</li>
+                </a>  
+                <a href="/departments/">
+                  <li>Departments</li>
+                </a>
+                <a href="/government/mayor-council/">
+                  <li>Elected Officials</li>
+                </a>
+                <li>
+                  <input type="search" aria-label="Search" placeholder="Search the site..." class="search-box">
+                  <input type="button" value="Search" class="search-button">
+                </li>
+              </ul>
+            </div>
+          </nav>
         </div>
-        <div class="header-right-links">
-          <div><a href="/committees/">Committees</a></div>
-          <div>|</div>
-          <div><a href="/departments/">Departments</a></div>
-          <div>|</div>
-          <div><a href="/government/mayor-council/">Elected Officials</a></div>
+        <div class="header-large">
+          <div class="header-search">
+            <input type="search" aria-label="Search" placeholder="Search the site..." class="search-box">
+            <input type="button" value="Search" class="search-button">
+          </div>
+          <div class="header-right-links">
+            <a href="/committees/">Committees</a>
+            &nbsp;|&nbsp;
+            <a href="/departments/">Departments</a>
+            &nbsp;|&nbsp;
+            <a href="/government/mayor-council/">Elected Officials</a>
+          </div>
         </div>
       </div>
     </div>
   </div>
   <div id="dynamic-field" class="dynamic-message-hidden"></div>
-  <div class='site-container'>
-    <div class='content-container'>
+  <div class="site-container">
+    <div class="content-container">
       {{content}}
     </div>
   </div>
   <script>window.jQuery || document.write('<script src="/third_party/jquery/jquery.min.js?zx={{ "now" | date: "%s" }}">\x3C/script>')</script>
-  <script src="/third_party/slick/slick.min.js?zx={{ "now" | date: "%s" }}"></script>
   <script src="/third_party/lscache/lscache.min.js?zx={{ "now" | date: "%s" }}"></script>
   <script src="/third_party/modernizr/modernizr.js?zx={{ "now" | date: "%s" }}"></script>
   <script src="/third_party/moment/moment.min.js?zx={{ "now" | date: "%s" }}"></script>

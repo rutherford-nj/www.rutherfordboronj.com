@@ -20,7 +20,6 @@ mbegg-roberson@rutherfordboronj.com
 1/1/19 to 12/31/21
 
 **Buildings, Grounds and Public Utilities Chair**
-{: style="clear: both;" }
 
 **Committee Assignments:**  
 

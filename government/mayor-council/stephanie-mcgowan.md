@@ -22,7 +22,6 @@ smcgowan@rutherfordboronj.com
 1/1/15 to 12/31/17 
 
 **Fire Chair**
-{: style="clear: both;" }
 
 **Committee Assignments:**  
 

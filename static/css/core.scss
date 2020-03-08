@@ -1,5 +1,5 @@
 html {
-  background: var(--main-bg-color);
+  background: $main-bg-color;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -17,17 +17,22 @@ h1 {
 }
 
 h2 {
-  color: #767676;
+  color: $main-gray;
 }
 
 a, a:visited, a:hover, a:active {
-  color: var(--main-dark-blue);
+  color: $main-dark-blue;
 }
 
 #dynamic-field {
   color: #FFF;
-  font-size: 200%;
+  font-size: 2em;
   text-align: center;
+
+  @media screen and (max-width: $breakpoint) {
+    font-size: 1.4em;
+    padding: 0 4px;
+  }
 }
 
 .dynamic-message-emergency {
@@ -43,23 +48,29 @@ a, a:visited, a:hover, a:active {
 }
 
 .webp .site-container {
-  background: url("/static/images/website-background.webp") no-repeat top center, var(--main-bg-color);
+  background: url("/static/images/website-background.webp") no-repeat top center, $main-bg-color;
 }
 
 .no-webp .site-container {
-  background: url("/static/images/website-background.jpg") no-repeat top center, var(--main-bg-color);
+  background: url("/static/images/website-background.jpg") no-repeat top center, $main-bg-color;
 }
 
 .content-container {
+  overflow: auto;
   background: #FFF;
+  display: flex;
+  flex-wrap: wrap;
   margin: auto;
+  max-width: 1000px;
   min-height: 800px;
   padding: 10px;
-  width: 1000px;
-  
-  &:after {
-    clear: both;
-    content: "";
-    display: table;
+  width: 100%;
+
+  > * {
+    height: min-content;
+  }
+
+  @media screen and (max-width: $breakpoint) {
+    padding: 0;
   }
 }

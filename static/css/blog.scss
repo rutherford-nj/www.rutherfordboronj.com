@@ -1,10 +1,10 @@
 .blog-container {
   margin: 30px;
+  width: 100%;
 }
 
 .blog-content {
   line-height: 1.5;
-  width: 70%;
 }
 
 .blog-icon {
@@ -14,13 +14,13 @@
 }
 
 .blog-title {
-  color: var(--main-dark-blue);
-  font-size: 250%;
+  color: $main-dark-blue;
+  font-size: 2em;
   font-weight: 700;
   text-transform: uppercase;
 }
 
 .blog-date {
-  color: #767676;
+  color: $main-gray;
   text-transform: uppercase;
 }

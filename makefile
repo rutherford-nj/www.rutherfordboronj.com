@@ -15,10 +15,6 @@ package-lunr: npm-packages
 	mkdir -p third_party/lunr
 	cp ./node_modules/lunr/lunr.js third_party/lunr/lunr.js
 
-package-slick-carousel: npm-packages
-	mkdir -p third_party
-	cp -R ./node_modules/slick-carousel/slick third_party/
-
 package-moment-tz: npm-packages
 	mkdir -p third_party/moment
 	cp ./node_modules/moment/min/moment.min.js third_party/moment/moment.min.js
@@ -42,7 +38,6 @@ third-party-js-packages: \
 	package-jquery \
 	package-lscache \
 	package-lunr \
-	package-slick-carousel \
 	package-moment-tz \
 	package-modernizr \
 	package-nanogallery2

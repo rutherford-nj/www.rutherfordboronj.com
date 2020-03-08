@@ -1,8 +1,12 @@
 .minutes-and-agendas {
   display: flex;
+  flex-wrap: wrap;
   
   > div {
-    flex-basis: 0;
-    flex-grow: 1;
+    width: 50%;
+
+    @media screen and (max-width: $breakpoint) {
+      width: 100%;
+    }
   }
 }

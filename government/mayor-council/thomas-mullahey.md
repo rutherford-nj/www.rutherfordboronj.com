@@ -23,7 +23,6 @@ tmullahey@rutherfordboronj.com
 1/1/17 to 12/31/19
 
 **Police Chair**
-{: style="clear: both;" }
 
 **Committee Assignments:**  
 

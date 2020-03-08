@@ -20,7 +20,6 @@ rguzman@rutherfordboronj.com
 1/13/20 to 12/31/20
 
 **Public Works Chair**
-{: style="clear: both;" }
 
 **Committee Assignments:**  
 

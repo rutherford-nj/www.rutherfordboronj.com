@@ -1,6 +1,15 @@
 .mayor-and-council-profile {
 	display: flex;
+	flex-wrap: wrap;
+
 	div:first-child {
-		margin-right: 1em;
+		width: 30%;
+
+		@media screen and (max-width: $breakpoint) {
+			width: 100%;
+		}
+	}
+	div:last-child {
+		width: 60%;
 	}
 }

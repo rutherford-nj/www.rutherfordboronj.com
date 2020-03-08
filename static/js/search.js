@@ -1,16 +1,16 @@
 (function($){
 
-var runSearch = function() {
-  var searchBox = $('#search_box');
-  var newUrl = window.location.protocol + '//' + window.location.hostname + '/search/#' + searchBox.val();
-  window.location.href = newUrl;
+var runSearch = function(e) {
+  var searchBox = $(e.target).parent().children(".search-box");
+  $('#menuToggle > input:checked').prop('checked', false);
+  window.location.replace('/search/#' + searchBox.val());
 }
 
-$('#search_button').click(runSearch);
+$('.search-button').click(runSearch);
 
-$('#search_box').on('keydown', function(event) {
+$('.search-box').on('keydown', function(event) {
   if (event.which == 13) {
-    runSearch();
+    runSearch(event);
   }
 });
 
