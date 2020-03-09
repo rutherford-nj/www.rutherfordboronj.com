@@ -34,9 +34,11 @@ Despite the limited risk, the state is developing plans and a response should
 Borough is following that approach in developing a response strategy that includes reviewing
 and preparing to implement existing plans if needed.
 
-**Below are links to state and federal resources regarding COVID-19:**
+**Below are links to county, state and federal resources regarding COVID-19:**
 
-[www.cdc.gov/coronavirus/2019-nCoV/summary.html](https://www.cdc.gov/coronavirus/2019-nCoV/summary.html)
+From the official Bergen County website: "Regarding the 2019 novel [Wuhan] coronavirus, please note that a 24/7 call center for PUBLIC CALLS ONLY has been opened at the NJ Poison Information and Education System (NJPIES) and can be reached at 1-800-222-1222."
+
+Please seee the [County's website for more resources and information.](https://www.co.bergen.nj.us/health-promotion/2019-novel-corona-virus) 
 
 [www.nj.gov/health/cd/topics/ncov.shtml](https://www.nj.gov/health/cd/topics/ncov.shtml)
 
@@ -44,14 +46,6 @@ and preparing to implement existing plans if needed.
 
 [New Jersey Department of Health
 COVID-19 Guidance for Child Care and K-12 Schools](https://storage.googleapis.com/static.rutherford-nj.com/covid/COVID19_schools_FINAL_3.2.20.pdf)
-
-[CDC What You Need To Know About Coronavirus](https://storage.googleapis.com/static.rutherford-nj.com/covid/What%20You%20Need%20To%20Know%20About%20Coronavirus.pdf)
-
-[CDC Wash Your Hands](https://storage.googleapis.com/static.rutherford-nj.com/covid/Wash%20Your%20Hands.pdf)
-
-[CDC Stop The Spread of Germs](https://storage.googleapis.com/static.rutherford-nj.com/covid/Stop%20the%20Spead%20of%20Germs.pdf)
-
-[CDC Coronavirus Facts](https://storage.googleapis.com/static.rutherford-nj.com/covid/Coronavirus%20Facts%20-%20CDC%20Branded.pdf)
 
 [The Association for Professionals in Infection Control and Epidemiology (APIC) Coronavirus Facts](https://storage.googleapis.com/static.rutherford-nj.com/covid/02420_Coronavirus_HiresNoBleed.pdf)
 
