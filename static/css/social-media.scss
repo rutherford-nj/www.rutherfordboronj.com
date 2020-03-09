@@ -10,4 +10,10 @@
 
 a.twitter-timeline {
   display: none;
+  padding: 10px;
+  text-decoration: none;
+
+  div {
+    text-decoration: underline;
+  }
 }

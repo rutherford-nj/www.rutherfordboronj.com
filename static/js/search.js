@@ -14,8 +14,4 @@ $('.search-box').on('keydown', function(event) {
   }
 });
 
-window.setTimeout(function() {
-  $(a.twitter-timeline).css("display", "block");
-}, 3000);
-
 })(jQuery);
