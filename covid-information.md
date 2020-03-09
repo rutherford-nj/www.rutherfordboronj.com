@@ -38,7 +38,7 @@ and preparing to implement existing plans if needed.
 
 From the official Bergen County website: "Regarding the 2019 novel [Wuhan] coronavirus, please note that a 24/7 call center for PUBLIC CALLS ONLY has been opened at the NJ Poison Information and Education System (NJPIES) and can be reached at 1-800-222-1222."
 
-Please seee the [County's website for more resources and information.](https://www.co.bergen.nj.us/health-promotion/2019-novel-corona-virus) 
+Please see [Bergen County's website for more resources and information.](https://www.co.bergen.nj.us/health-promotion/2019-novel-corona-virus) 
 
 [www.nj.gov/health/cd/topics/ncov.shtml](https://www.nj.gov/health/cd/topics/ncov.shtml)
 
