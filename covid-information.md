@@ -62,7 +62,7 @@ COVID-19, but the best way to protect yourself from contracting or
 spreading viruses is to follow good, common hygiene practices that
 include:
 
--Frequent hand washing w/ soap &amp; water, or use alcohol-based
+- Frequent hand washing w/ soap &amp; water, or use alcohol-based
 hand sanitizer if no access to water.
 
 - Cover your nose and mouth with a tissue or sleeve when coughing
