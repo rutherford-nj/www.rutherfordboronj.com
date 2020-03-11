@@ -44,8 +44,8 @@ Clinical presentation of confirmed cases of COVID-19 have ranged from
 mild symptoms to severe illness and death. Symptoms include fever,
 cough, and shortness of breath. 
 
-It is important to reiterate that at this time, the CDC maintains that for the general American public, the immediate
-health risk from coronavirus is considered low.
+**It is important to reiterate that at this time, the CDC maintains that for the general American public, the immediate
+health risk from coronavirus is considered low.**
 
 If you are experiencing symptoms following possible exposure to COVID-
 19, seek medical care as soon as possible. Remember to call ahead and
