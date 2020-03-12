@@ -5,7 +5,7 @@ title: 'COVID-19 Information'
   
 # COVID-19 Information
 
-[**Announcement of 55 Kip Center Closing**](/covid-related-closures.md)
+[**Announcement of 55 Kip Center Closing**](covid-related-closures.md)
 
 
 March 11th, 2020
