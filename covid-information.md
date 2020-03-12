@@ -5,9 +5,12 @@ title: 'COVID-19 Information'
   
 # COVID-19 Information
 
+[Announcement of 55 Kip Center Closing](
+
+
 March 11th, 2020
 
-Message from Mayor Frank A. Nunziato:
+Message from Mayor Frank A. Nunziato (March 11th, 2020):
 
 The Borough of Rutherford is continuously working in close collaboration
 with State, Federal and local public health partners to closely monitor
