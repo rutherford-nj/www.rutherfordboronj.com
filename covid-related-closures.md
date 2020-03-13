@@ -3,9 +3,9 @@ layout: page
 title: 'COVID-19 Related Closures'
 ---
 
-[Read a message from Rutherford Board of Education regarding closures here.](https://www.rutherfordschools.org/blog/school-closure-distance-learning/)
+[**Read a message from Rutherford Board of Education regarding closures here.**](https://www.rutherfordschools.org/blog/school-closure-distance-learning/)
 
-A message from Mayor Frank Nunziato:
+**A message from Mayor Frank Nunziato regarding 55 Kip Center:**
 
 **55 Kip Center,** which serves the senior citizen population of Rutherford and the greater Bergen County area has closed as a precautionary measure to in order combat the spread of COVID-19 (Coronavirus). This closure is effective immediately (March 12th at 4:30) and will continue until March 27th unless data at that time suggests further closure is advisable.
 
