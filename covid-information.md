@@ -10,7 +10,9 @@ title: 'COVID-19 Information'
 [**Announcement of 55 Kip Center Closing**](/covid-related-closures)
 
 
-# A statement from Mayor Frank Nunziato and Rutherford Borough Council 
+# A statement from Mayor Frank Nunziato 
+
+# and Rutherford Borough Council 
 
 After consulting with the Rutherford Board of Health and Superintendent of Schools Jack Hurley regarding COVID-19, and given the available data, information and guidance received from state and county officials, the Borough has decided to take the necessary steps to limit opportunities for large social interactions within the Borough of Rutherford. 
 
