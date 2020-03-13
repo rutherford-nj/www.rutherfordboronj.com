@@ -5,83 +5,63 @@ title: 'COVID-19 Information'
   
 # COVID-19 Information
 
+[**Rutherford Board of Education**](https://www.rutherfordschools.org/)
+
 [**Announcement of 55 Kip Center Closing**](/covid-related-closures)
 
 
-March 11th, 2020
+# A statement from Mayor Frank Nunziato and Rutherford Borough Council 
 
-Message from Mayor Frank A. Nunziato (March 11th, 2020):
+After consulting with the Rutherford Board of Health and Superintendent of Schools Jack Hurley regarding COVID-19, and given the available data, information and guidance received from state and county officials, the Borough has decided to take the necessary steps to limit opportunities for large social interactions within the Borough of Rutherford. 
 
-The Borough of Rutherford is continuously working in close collaboration
-with State, Federal and local public health partners to closely monitor
-circumstances as they develop. There are currently no known confirmed
-cases of COVID-19 and no PUI (person under investigation) in the
-Borough of Rutherford and the risk of community transmission is
-low. However, Public Health Officials are urging members of the public to
-begin preparing for the possibility of a broader outbreak in the United
-States. Everyone needs to take the necessary steps to prepare in the
-event that a broader outbreak occurs.
+**Effective immediately the following public facilities are closed:**
 
-State and Federal Officials are also prompting members of the public to
-begin to develop contingency plans for work, school, and home in the
-event that an outbreak occurs in our community. While the risk of an
-outbreak remains low, now is the time for families, educators, and
-employers to begin preparing for the possibility of an interruption to
-everyday life in the event of an outbreak.
+- All [Rutherford Public Schools](https://www.rutherfordschools.org/)
 
-Some recommended steps include:
+- [55 Kip Center](https://www.55kipcenter.org/)
 
-- Discuss with your employer if telecommuting/working from home
-options are available in the event of an outbreak.
+- [The Rutherford Public Library](https://www.rutherfordlibrary.org/)
 
-- Store a two-week supply of water and food.
+**In addition, effective immediately, the following events and meetings have been cancelled:**
 
-- Periodically check your regular prescription drugs to ensure a three-
-month supply in your home.
+- All recreation sponsored games, practices, activities and events 
 
-- Have any non-prescription drugs and other health supplies on hand,
-including pain relievers, stomach remedies, cough and cold medicines,
-fluids with electrolytes, and vitamins.
+- All committee meetings
 
-Clinical presentation of confirmed cases of COVID-19 have ranged from
-mild symptoms to severe illness and death. Symptoms include fever,
-cough, and shortness of breath. 
+- Municipal Court sessions
 
-**It is important to reiterate that at this time, the CDC maintains that for the general American public, the immediate
-health risk from coronavirus is considered low.**
+These closures and cancellations will be in effect until March 27th.  However, we reserve the right to extend this timeframe based on available data and guidance from state and county officials.
 
-If you are experiencing symptoms following possible exposure to COVID-
-19, seek medical care as soon as possible. Remember to call ahead and
-tell the healthcare provider’s office about your recent travel, symptoms,
-and concerns. Please also avoid close contact with others while ill and
-avoid travel.
+**Please be advised of the following items of note:**
 
-Anyone with questions about the novel coronavirus, symptoms, or their risk
-of exposure, can call the free, New Jersey 24-hour public hotline at 1-800-
-222-1222
+- Borough operations will continue as normal. If a visit to Borough Hall is necessary, please contact the appropriate department and make an appointment. 
 
-Currently, there is no treatment or vaccine available to treat or prevent
-COVID-19, but the best way to protect yourself from contracting or
-spreading viruses is to follow good, common hygiene practices that
-include:
+- Garbage and recycling will be collected and alternate side parking will continue on a normal schedule at this time.
 
-- Frequent hand washing w/ soap &amp; water, or use alcohol-based
-hand sanitizer if no access to water.
+- Mayor and Council meetings will take place as scheduled, however agendas will consist of essential business only (for example, paying invoices). 
 
-- Cover your nose and mouth with a tissue or sleeve when coughing
-or sneezing
+- Board and Commission meetings (Planning Board, Zoning Board of Adjustment, Shade Tree Commission, and Civil Rights Commission) will meet as scheduled subject to the discretion of their respective Chairpeople. Please refer to the Borough calendar for updates. 
 
-- Avoid touching your eyes, nose, or mouth.
+- The Office of Emergency Management suggests gatherings of over 25 be documented by recording the names and phone numbers of all those in attendance should there be a local outbreak of the virus. The organizer of the event is asked to keep the records for a period of 14 days. We are advising our civic and non-Borough sponsored organizations to exercise caution when deciding whether or not to move forward with any planned events. Governor Murphy has recommended that gatherings larger than 250 people should be cancelled.
 
-- Avoid close contact with people who are sick.
+- All police services provided by the Rutherford Police Department will continue as normal but with a heightened sense of precaution for interactions that may expose our officers to symptoms associated with COVID-19.  RPD personnel answering calls for service have been advised to ask callers if medical issues are consistent with symptoms of COVID-19 which will allow them to advise our assigned first responders.  If calls for services are not medical in nature, we will also inquire if anyone in the household is exhibiting symptoms of COVID-19.  
 
-- If you are sick, stay home from work or school.
+- Out of an abundance of caution for our first responders, in all cases we will be requesting callers meet our officers at the front door of their residence to help limit time in confined spaces. By adhering to these common sense precautions, you are helping us ensure that we will be there for you in your time of need throughout the duration of this pandemic.
 
-Flu activity remains high in NJ, and it is not too late to get the Flu shot!
-The influenza vaccine does not protect against any coronavirus
-infection, but it can help keep you healthy during the flu season.
+- Parks will remain open however all permits will be suspended as we are discouraging large groups from gathering. We strongly encourage residents to exercise extreme caution when allowing their children to play in groups and public spaces. 
 
-**Below are links to county, state and federal resources regarding COVID-19:**
+- The Borough is in contact with Felician University in order to maintain open lines of communication at all times regarding this issue. For additional information please visit the Felician website [www.felician.edu](https://www.felician.edu/) 
+
+- Donations to the Food Pantry will be accepted but by appointment only. Registered visitors to the Pantry will still be able to visit, also by appointment only. Please call Genevieve Kacmarcik at 201-460-3028 for appointments.
+
+We feel these closures are critical in order to safeguard the health and safety of Rutherford residents. In addition to the closure of the above mentioned institutions and events, we would like to take this opportunity to remind our residents to practice social distancing, which means staying 3-6 feet away from people as much as possible as well as practicing common sense personal hygiene techniques. 
+ 
+We want to thank you in advance for your cooperation with this matter. Please continue to check the Rutherford Borough website for the latest news and updates regarding this topic. If you’re a member of an organization and are unsure of what meeting or event protocol your organization should take, please contact JiHee Bagnuolo at jbagnuolo@rutherfordboronj.com
+
+We understand that these closures are inconvenient, but short term sacrifices can lead to long term solutions. Knowing Rutherford, we believe we’re about to see Rutherford at its best. Members of our community have always taken care of each other. Following the steps prescribed to us by experts can protect us all, especially the most vulnerable amongst us. 
+
+
+# Below are links to county, state and federal resources regarding COVID-19:
 
 From the official Bergen County website: "Regarding the 2019 novel [Wuhan] coronavirus, please note that a 24/7 call center for PUBLIC CALLS ONLY has been opened at the NJ Poison Information and Education System (NJPIES) and can be reached at 1-800-222-1222."
 
