@@ -7,15 +7,19 @@ title: 'COVID-19 Information'
 
 # COVID-19 Information
 
-[**Rutherford Board of Education**](https://www.rutherfordschools.org/)
+**Updated Saturday, March 14th 2020**
 
-[**Announcement of 55 Kip Center Closing**](/covid-related-closures)
+In effort to limit areas where large groups can congregate and based on the best available information and guidance from county and state officials, the following Rutherford recreational areas and playgrounds will close starting at dusk tonight, Saturday, March 14: Kidspot, Katie’s Corner, Tryon Field, Wall Field and all public bathrooms. 
 
-## A statement from Mayor Frank Nunziato and Rutherford Borough Council
+[Ordinance 73-61](https://ecode360.com/11345530) prohibiting unpermitted gatherings of 10 or more people will be strictly enforced by the Rutherford Police Department. 
+
+We understand that these closures are inconvenient, but short term sacrifices can lead to long term solutions. Adherence to these measures will help preserve Rutherford’s resources in order to serve and protect our community.
+
+## A statement from Mayor Frank Nunziato and Rutherford Borough Council 
 
 After consulting with the Rutherford Board of Health and Superintendent of Schools Jack Hurley regarding COVID-19, and given the available data, information and guidance received from state and county officials, the Borough has decided to take the necessary steps to limit opportunities for large social interactions within the Borough of Rutherford. 
 
-**Effective immediately the following public facilities are closed:**
+**The following public facilities are currently closed:**
 
 - All [Rutherford Public Schools](https://www.rutherfordschools.org/)
 
@@ -23,7 +27,9 @@ After consulting with the Rutherford Board of Health and Superintendent of Schoo
 
 - [The Rutherford Public Library](https://www.rutherfordlibrary.org/)
 
-**In addition, effective immediately, the following events and meetings have been cancelled:**
+- The following Rutherford recreational areas and playgrounds: Kidspot, Katie’s Corner, Tryon Field, Wall Field and all public bathrooms.
+
+**In addition the following events and meetings have been cancelled:**
 
 - All recreation sponsored games, practices, activities and events 
 
