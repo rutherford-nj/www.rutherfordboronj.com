@@ -119,11 +119,24 @@
   align-items: center;
   border-bottom: 1px solid #AAA;
   display: flex;
+  justify-content: flex-end;
   margin-left: 5px;
   flex-wrap: wrap;
 
   img {
     height: 30px;
     width: 30px;
+  }
+
+  > div:nth-child(2) {
+    margin-right: 5px;
+
+    @media screen and (max-width: $breakpoint) {
+      order: -1;
+    }
+  }
+
+  @media screen and (max-width: $breakpoint) {
+    justify-content: flex-start;
   }
 }

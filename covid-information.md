@@ -2,17 +2,16 @@
 layout: page
 title: 'COVID-19 Information'
 ---
-  
+
+[**Return to Homepage**](/)
+
 # COVID-19 Information
 
 [**Rutherford Board of Education**](https://www.rutherfordschools.org/)
 
 [**Announcement of 55 Kip Center Closing**](/covid-related-closures)
 
-
-# A statement from Mayor Frank Nunziato 
-
-# and Rutherford Borough Council 
+## A statement from Mayor Frank Nunziato and Rutherford Borough Council
 
 After consulting with the Rutherford Board of Health and Superintendent of Schools Jack Hurley regarding COVID-19, and given the available data, information and guidance received from state and county officials, the Borough has decided to take the necessary steps to limit opportunities for large social interactions within the Borough of Rutherford. 
 
@@ -63,7 +62,7 @@ We want to thank you in advance for your cooperation with this matter. Please co
 We understand that these closures are inconvenient, but short term sacrifices can lead to long term solutions. Knowing Rutherford, we believe we’re about to see Rutherford at its best. Members of our community have always taken care of each other. Following the steps prescribed to us by experts can protect us all, especially the most vulnerable amongst us. 
 
 
-# Below are links to county, state and federal resources regarding COVID-19:
+## Below are links to county, state and federal resources regarding COVID-19:
 
 From the official Bergen County website: "Regarding the 2019 novel [Wuhan] coronavirus, please note that a 24/7 call center for PUBLIC CALLS ONLY has been opened at the NJ Poison Information and Education System (NJPIES) and can be reached at 1-800-222-1222."
 
