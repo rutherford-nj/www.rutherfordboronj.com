@@ -7,7 +7,7 @@ title: 'COVID-19 Information'
 
 # COVID-19 Information
 
-**Updated Saturday, March 15th 2020**
+**Updated Sunday, March 15th 2020**
 
 > Please be advised that ALL Rutherford recreational areas and playgrounds are now closed including Lincoln Park, Sunset Park, Memorial Park and Tamblyn Field and all other Borough Parks. 
 
