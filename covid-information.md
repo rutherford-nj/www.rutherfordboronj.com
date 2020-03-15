@@ -9,11 +9,11 @@ title: 'COVID-19 Information'
 
 **Updated Saturday, March 14th 2020**
 
-In effort to limit areas where large groups can congregate and based on the best available information and guidance from county and state officials, the following Rutherford recreational areas and playgrounds will close starting at dusk tonight, Saturday, March 14: Kidspot, Katie’s Corner, Tryon Field, Wall Field and all public bathrooms. 
+> In effort to limit areas where large groups can congregate and based on the best available information and guidance from county and state officials, the following Rutherford recreational areas and playgrounds will close starting at dusk tonight, Saturday, March 14: Kidspot, Katie’s Corner, Tryon Field, Wall Field and all public bathrooms. 
 
-[Ordinance 73-61](https://ecode360.com/11345530) prohibiting unpermitted gatherings of 10 or more people will be strictly enforced by the Rutherford Police Department. 
+> [Ordinance 73-61](https://ecode360.com/11345530) prohibiting unpermitted gatherings of 10 or more people will be strictly enforced by the Rutherford Police Department. 
 
-We understand that these closures are inconvenient, but short term sacrifices can lead to long term solutions. Adherence to these measures will help preserve Rutherford’s resources in order to serve and protect our community.
+> We understand that these closures are inconvenient, but short term sacrifices can lead to long term solutions. Adherence to these measures will help preserve Rutherford’s resources in order to serve and protect our community.
 
 ## A statement from Mayor Frank Nunziato and Rutherford Borough Council 
 
