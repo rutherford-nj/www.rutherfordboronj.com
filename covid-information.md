@@ -30,7 +30,7 @@ After consulting with the Rutherford Board of Health and Superintendent of Schoo
 
 - [The Rutherford Public Library](https://www.rutherfordlibrary.org/)
 
-- The following Rutherford recreational areas and playgrounds: Kidspot, Katie’s Corner, Tryon Field, Wall Field and all public bathrooms.
+- ALL Rutherford recreational areas and playgrounds including Lincoln Park, Sunset Park, Memorial Park and Tamblyn Field and all other Borough Parks. 
 
 **In addition the following events and meetings have been cancelled:**
 
