@@ -7,13 +7,16 @@ title: 'COVID-19 Information'
 
 # COVID-19 Information
 
-**Updated Saturday, March 14th 2020**
+**Updated Saturday, March 15th 2020**
 
-> In effort to limit areas where large groups can congregate and based on the best available information and guidance from county and state officials, the following Rutherford recreational areas and playgrounds will close starting at dusk tonight, Saturday, March 14: Kidspot, Katie’s Corner, Tryon Field, Wall Field and all public bathrooms. 
+> Please be advised that ALL Rutherford recreational areas and playgrounds are now closed including Lincoln Park, Sunset Park, Memorial Park and Tamblyn Field and all other Borough Parks. 
 
-> [Ordinance 73-61](https://ecode360.com/11345530) prohibiting unpermitted gatherings of 10 or more people will be strictly enforced by the Rutherford Police Department. 
+> Please also keep in mind, schools are closed and so are their grounds and playgrounds. COVID-19 is highly contagious and known to exist on hard surfaces for extended periods of time. Current available information suggests usage of these facilities increases your exposure. 
+
+> This is a direct effort to limit areas where large groups can congregate and these directives are  based on the best current available information and guidance from county and state officials.
 
 > We understand that these closures are inconvenient, but short term sacrifices can lead to long term solutions. Adherence to these measures will help preserve Rutherford’s resources in order to serve and protect our community.
+
 
 ## A statement from Mayor Frank Nunziato and Rutherford Borough Council 
 
