@@ -18,6 +18,12 @@ title: 'COVID-19 Information'
 > We understand that these closures are inconvenient, but short term sacrifices can lead to long term solutions. Adherence to these measures will help preserve Rutherford’s resources in order to serve and protect our community.
 
 
+> Today, members of the RPD began the process of visiting our local businesses and restaurants to make sure they’re aware of the Executive Order issued by County Executive James Tedesco on March 13th, 2020. The order states “All places of public gathering shall otherwise limit attendance at any event or gathering in order to comply with CDC guidelines related to ‘social distancing.” Rutherford businesses and restaurants are asked to adjust any operations needed to facilitate social distancing, which requires people to be able to remain 6 feet away from others in order to minimize the spread of the highly contagious COVID virus. 
+
+> Community cooperation is greatly appreciated in this matter as we work together to minimize the COVID impact. We urge business owners to make responsible decisions regarding crowd sizes at their establishments. 
+
+
+
 ## A statement from Mayor Frank Nunziato and Rutherford Borough Council 
 
 After consulting with the Rutherford Board of Health and Superintendent of Schools Jack Hurley regarding COVID-19, and given the available data, information and guidance received from state and county officials, the Borough has decided to take the necessary steps to limit opportunities for large social interactions within the Borough of Rutherford. 
@@ -84,6 +90,8 @@ Please see [Bergen County's website for more resources and information.](https:/
 [www.nj.gov/health/cd/topics/ncov.shtml](https://www.nj.gov/health/cd/topics/ncov.shtml)
 
 [www.nj.gov/health/cd/topics/schoolhealth.shtml](https://www.nj.gov/health/cd/topics/schoolhealth.shtml)
+
+[New Jersey Department of Health Close Contacts to Confirmed COVID-19 Cases](https://storage.googleapis.com/static.rutherford-nj.com/covid/FAQs_For_Close_Contacts_and_People_Being_Tested_3_15_20.108128.pdf)
 
 [New Jersey Department of Health
 COVID-19 Guidance for Child Care and K-12 Schools](https://storage.googleapis.com/static.rutherford-nj.com/covid/COVID19_schools_FINAL_3.2.20.pdf)
