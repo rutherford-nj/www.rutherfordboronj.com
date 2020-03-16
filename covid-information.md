@@ -7,21 +7,33 @@ title: 'COVID-19 Information'
 
 # COVID-19 Information
 
-**Updated Sunday, March 15th 2020**
+**Updated Monday, March 16th 2020**
 
-> Please be advised that ALL Rutherford recreational areas and playgrounds are now closed including Lincoln Park, Sunset Park, Memorial Park and Tamblyn Field and all other Borough Parks. 
+> ## A summary of how State and County Executive Orders affect Rutherford residents:
 
-> Please also keep in mind, schools are closed and so are their grounds and playgrounds. COVID-19 is highly contagious and known to exist on hard surfaces for extended periods of time. Current available information suggests usage of these facilities increases your exposure. 
+> Effective 11pm on 3/17: 
 
-> This is a direct effort to limit areas where large groups can congregate and these directives are  based on the best current available information and guidance from county and state officials.
+> All restaurants and dining establishments with or without a liquor license and all other holders of a liquor license are permitted to operate their normal business hours, but must only offer food delivery and/or curbside pick up. In effort to assist our dining establishments, the Borough will be providing reserved parking for curbside pick-up.
 
-> We understand that these closures are inconvenient, but short term sacrifices can lead to long term solutions. Adherence to these measures will help preserve Rutherford’s resources in order to serve and protect our community.
+> Non-Essential business (retail, recreational and entertainment) shall be closed until further notice. Examples of ESSENTIAL businesses excluded from this are: “grocery/food stores, pharmacies, medical supply stores, gas stations, healthcare facilities and ancillary stores within healthcare facilities.” Essential businesses are advised to mark 6 foot increments with tape to help with social distancing.
 
+> No groups of more than four people, other than family members, shall assemble in public at any time within the County until further notice. A curfew is also imposed within the County between the hours of 8pm and 7am for all public outdoor activities. 
 
-> Today, members of the RPD began the process of visiting our local businesses and restaurants to make sure they’re aware of the Executive Order issued by County Executive James Tedesco on March 13th, 2020. The order states “All places of public gathering shall otherwise limit attendance at any event or gathering in order to comply with CDC guidelines related to ‘social distancing.” Rutherford businesses and restaurants are asked to adjust any operations needed to facilitate social distancing, which requires people to be able to remain 6 feet away from others in order to minimize the spread of the highly contagious COVID virus. 
+> Movie theaters, concert venues, performing arts centers, gyms and casinos are closed
 
-> Community cooperation is greatly appreciated in this matter as we work together to minimize the COVID impact. We urge business owners to make responsible decisions regarding crowd sizes at their establishments. 
+> Regarding regular Borough business, [please see this document](https://storage.googleapis.com/static.rutherford-nj.com/covid/3_16%20Borough%20Operations.pdf) (please note the Downtowner Commuter Shuttle is suspended immediately)
 
+> County parks shall remain open for passive recreation but no organized activity shall take place
+
+> Stores selling alcoholic beverages for outside consumption may remain open but shall comply with previously announced limitations regarding “social distancing.”
+
+> All health clubs, gyms, dance and yoga facilities and all similar recreational facilities closed until further notice
+
+> All utility road work is suspended until further notice, unless necessary for emergency purposes required to maintain utility service 
+
+> Although it doesn’t pertain to any Rutherford stores, supermarkets are limited to being open between 7am to 11pm. Please contact any supermarket you may visit to confirm their times.
+
+> As you know, this situation is fluid and we will continue to update you as the information comes. 
 
 
 ## A statement from Mayor Frank Nunziato and Rutherford Borough Council 
@@ -37,6 +49,8 @@ After consulting with the Rutherford Board of Health and Superintendent of Schoo
 - [The Rutherford Public Library](https://www.rutherfordlibrary.org/)
 
 - ALL Rutherford recreational areas and playgrounds including Lincoln Park, Sunset Park, Memorial Park and Tamblyn Field and all other Borough Parks. 
+
+- Schools' grounds and playgrounds
 
 **In addition the following events and meetings have been cancelled:**
 
