@@ -107,7 +107,7 @@ From the official Bergen County website: "Regarding the 2019 novel [Wuhan] coron
 
 Please see [Bergen County's website for more resources and information.](https://www.co.bergen.nj.us/health-promotion/2019-novel-corona-virus) 
 
-[NJ COVID-19 Dashboard](https://www.nj.gov/health/cd/topics/covid2019_dashboard.shtml
+[NJ COVID-19 Dashboard](https://www.nj.gov/health/cd/topics/covid2019_dashboard.shtml)
 
 [www.nj.gov/health/cd/topics/ncov.shtml](https://www.nj.gov/health/cd/topics/ncov.shtml)
 
