@@ -11,7 +11,7 @@ title: 'COVID-19 Information'
 
 > ## A summary of how State and County Executive Orders affect Rutherford residents:
 
-> Effective 11pm on 3/17: 
+> **Effective 11pm on March 17th 2020:** 
 
 > - All restaurants and dining establishments with or without a liquor license and all other holders of a liquor license are permitted to operate their normal business hours, but must only offer food delivery and/or curbside pick up. In effort to assist our dining establishments, the Borough will be providing reserved parking for curbside pick-up.
 
