@@ -74,7 +74,9 @@ These closures and cancellations will be in effect until March 27th.  However, w
 
 - If a visit to Borough Hall is necessary, please contact the appropriate department and make an appointment prior to arrival. 
 
-- Garbage and recycling will be collected and alternate side parking will continue on a normal schedule at this time.
+- Garbage and recycling will be collected on a normal schedule at this time.
+
+- Alternate side of the street parking is suspended.
 
 - Mayor and Council meetings will take place as scheduled, however agendas will consist of essential business only (for example, paying invoices). 
 
