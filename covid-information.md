@@ -7,7 +7,15 @@ title: 'COVID-19 Information'
 
 # COVID-19 Information
 
-**Updated Monday, March 16th 2020**
+**Updated Tuesday, March 17th 2020**
+
+- In and effort to support our local restaurants, please be respectful of the designated curbside pick-up parking spots to help our businesses as well as our community as a whole.
+
+- Saturday drop-off vegetation and recycling has been suspended until further notice.
+
+[A message from SUEZ Water](https://storage.googleapis.com/static.rutherford-nj.com/covid/SUEZ_CovidUpdate0317.pdf)
+
+[A message from PSE&G](https://storage.googleapis.com/static.rutherford-nj.com/covid/PSEG.pdf)
 
 > ## A summary of how State and County Executive Orders affect Rutherford residents:
 
@@ -98,6 +106,8 @@ From the official Bergen County website: "Regarding the 2019 novel [Wuhan] coron
 **World Health Organization** [www.who.int](https://www.who.int/)
 
 Please see [Bergen County's website for more resources and information.](https://www.co.bergen.nj.us/health-promotion/2019-novel-corona-virus) 
+
+[NJ COVID-19 Dashboard](https://www.nj.gov/health/cd/topics/covid2019_dashboard.shtml
 
 [www.nj.gov/health/cd/topics/ncov.shtml](https://www.nj.gov/health/cd/topics/ncov.shtml)
 
