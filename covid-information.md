@@ -13,27 +13,27 @@ title: 'COVID-19 Information'
 
 > Effective 11pm on 3/17: 
 
-> All restaurants and dining establishments with or without a liquor license and all other holders of a liquor license are permitted to operate their normal business hours, but must only offer food delivery and/or curbside pick up. In effort to assist our dining establishments, the Borough will be providing reserved parking for curbside pick-up.
+> - All restaurants and dining establishments with or without a liquor license and all other holders of a liquor license are permitted to operate their normal business hours, but must only offer food delivery and/or curbside pick up. In effort to assist our dining establishments, the Borough will be providing reserved parking for curbside pick-up.
 
-> Non-Essential business (retail, recreational and entertainment) shall be closed until further notice. Examples of ESSENTIAL businesses excluded from this are: “grocery/food stores, pharmacies, medical supply stores, gas stations, healthcare facilities and ancillary stores within healthcare facilities.” Essential businesses are advised to mark 6 foot increments with tape to help with social distancing.
+> - Non-Essential business (retail, recreational and entertainment) shall be closed until further notice. Examples of ESSENTIAL businesses excluded from this are: “grocery/food stores, pharmacies, medical supply stores, gas stations, healthcare facilities and ancillary stores within healthcare facilities.” Essential businesses are advised to mark 6 foot increments with tape to help with social distancing.
 
-> No groups of more than four people, other than family members, shall assemble in public at any time within the County until further notice. A curfew is also imposed within the County between the hours of 8pm and 7am for all public outdoor activities. 
+> - No groups of more than four people, other than family members, shall assemble in public at any time within the County until further notice. A curfew is also imposed within the County between the hours of 8pm and 7am for all public outdoor activities. 
 
-> Movie theaters, concert venues, performing arts centers, gyms and casinos are closed
+> - Movie theaters, concert venues, performing arts centers, gyms and casinos are closed
 
-> Regarding regular Borough business, [please see this document](https://storage.googleapis.com/static.rutherford-nj.com/covid/3_16%20Borough%20Operations.pdf) (please note the Downtowner Commuter Shuttle is suspended immediately)
+> - Regarding regular Borough business, [please see this document](https://storage.googleapis.com/static.rutherford-nj.com/covid/3_16%20Borough%20Operations.pdf) (please note the Downtowner Commuter Shuttle is suspended immediately)
 
-> County parks shall remain open for passive recreation but no organized activity shall take place
+> - County parks shall remain open for passive recreation but no organized activity shall take place
 
-> Stores selling alcoholic beverages for outside consumption may remain open but shall comply with previously announced limitations regarding “social distancing.”
+> - Stores selling alcoholic beverages for outside consumption may remain open but shall comply with previously announced limitations regarding “social distancing.”
 
-> All health clubs, gyms, dance and yoga facilities and all similar recreational facilities closed until further notice
+> - All health clubs, gyms, dance and yoga facilities and all similar recreational facilities closed until further notice.
 
-> All utility road work is suspended until further notice, unless necessary for emergency purposes required to maintain utility service 
+> - All utility road work is suspended until further notice, unless necessary for emergency purposes required to maintain utility service. 
 
-> Although it doesn’t pertain to any Rutherford stores, supermarkets are limited to being open between 7am to 11pm. Please contact any supermarket you may visit to confirm their times.
+> - Although it doesn’t pertain to any Rutherford stores, supermarkets are limited to being open between 7am to 11pm. Please contact any supermarket you may visit to confirm their times.
 
-> As you know, this situation is fluid and we will continue to update you as the information comes. 
+> - As you know, this situation is fluid and we will continue to update you as the information comes. 
 
 
 ## A statement from Mayor Frank Nunziato and Rutherford Borough Council 
@@ -64,7 +64,7 @@ These closures and cancellations will be in effect until March 27th.  However, w
 
 **Please be advised of the following items of note:**
 
-- Borough operations will continue as normal. If a visit to Borough Hall is necessary, please contact the appropriate department and make an appointment. 
+- If a visit to Borough Hall is necessary, please contact the appropriate department and make an appointment prior to arrival. 
 
 - Garbage and recycling will be collected and alternate side parking will continue on a normal schedule at this time.
 
@@ -77,8 +77,6 @@ These closures and cancellations will be in effect until March 27th.  However, w
 - All police services provided by the Rutherford Police Department will continue as normal but with a heightened sense of precaution for interactions that may expose our officers to symptoms associated with COVID-19.  RPD personnel answering calls for service have been advised to ask callers if medical issues are consistent with symptoms of COVID-19 which will allow them to advise our assigned first responders.  If calls for services are not medical in nature, we will also inquire if anyone in the household is exhibiting symptoms of COVID-19.  
 
 - Out of an abundance of caution for our first responders, in all cases we will be requesting callers meet our officers at the front door of their residence to help limit time in confined spaces. By adhering to these common sense precautions, you are helping us ensure that we will be there for you in your time of need throughout the duration of this pandemic.
-
-- Parks will remain open however all permits will be suspended as we are discouraging large groups from gathering. We strongly encourage residents to exercise extreme caution when allowing their children to play in groups and public spaces. 
 
 - The Borough is in contact with Felician University in order to maintain open lines of communication at all times regarding this issue. For additional information please visit the Felician website [www.felician.edu](https://www.felician.edu/) 
 
