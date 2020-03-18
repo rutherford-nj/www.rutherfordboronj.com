@@ -9,7 +9,7 @@ title: 'COVID-19 Information'
 
 **Wednesday, March 18th, 2020: [A Statement From The Mayor regarding a positive COVID-19 case in Rutherford](https://storage.googleapis.com/static.rutherford-nj.com/covid/Mayor's%20Statement%203_18_20.pdf)**
 
-**Updated Tuesday, March 17th 2020**
+**Updated Tuesday, March 17th, 2020**
 
 - In and effort to support our local restaurants, please be respectful of the designated curbside pick-up parking spots to help our businesses as well as our community as a whole.
 
