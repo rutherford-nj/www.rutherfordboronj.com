@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: "Free Rabies Clinic 4/4"
+title: "Free Rabies Clinic 4/4 - CANCELLED"
 
 ---
 The Rutherford Health Department will be conducting its Annual Free Rabies Clinic for Rutherford cats and
