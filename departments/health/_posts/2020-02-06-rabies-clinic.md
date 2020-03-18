@@ -3,6 +3,15 @@ layout: blog
 title: "Free Rabies Clinic 4/4 - CANCELLED"
 
 ---
+
+
+**Rutherford Health Officials are cancelling their planned April 4, 2020 rabies clinic due to
+precautions centered on the COVID-19 Virus.**
+
+**Current guidance regarding the COVID-19 Virus strongly encourages residents to avoid large
+gatherings and social distancing themselves six feet anyway from other individuals.**
+
+
 The Rutherford Health Department will be conducting its Annual Free Rabies Clinic for Rutherford cats and
 dogs on Saturday, April 4, 2020 from 1:30 – 3:30 PM at the Mortimer Avenue Firehouse located at the corner
 of Mortimer Avenue and West Pierrepont Avenue. 
