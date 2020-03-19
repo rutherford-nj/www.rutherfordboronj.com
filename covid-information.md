@@ -7,7 +7,7 @@ title: 'COVID-19 Information'
 
 # COVID-19 Information
 
-**Thursday, March 19th, 2020:
+**Thursday, March 19th, 2020:[A Statement From Council President Mullahey about regarding a positive COVID-19 case in Rutherford and other updates](https://storage.googleapis.com/static.rutherford-nj.com/covid/Tom%20Mullahey's%20Statement%203_19_20.pdf)**
 
 We'd like to remind you to visit [Bergen County's website for more resources and information.](https://www.co.bergen.nj.us/health-promotion/2019-novel-corona-virus) 
 
