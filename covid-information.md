@@ -7,6 +7,10 @@ title: 'COVID-19 Information'
 
 # COVID-19 Information
 
+**Thursday, March 19th, 2020:
+
+We'd like to remind you to visit [Bergen County's website for more resources and information.](https://www.co.bergen.nj.us/health-promotion/2019-novel-corona-virus) 
+
 **Wednesday, March 18th, 2020: [A Statement From The Mayor regarding a positive COVID-19 case in Rutherford](https://storage.googleapis.com/static.rutherford-nj.com/covid/Mayor's%20Statement%203_18_20.pdf)**
 
 In accordance with HIPAA laws, any further identifying factors are prohibited from being released to the public regarding this 60 year old Rutherford patient and any future cases. Be advised the Rutherford Health Department is working with this patient and any future patients which may arise regarding tracking and containment procedures, which would remain confidential.
