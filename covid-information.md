@@ -7,7 +7,7 @@ title: 'COVID-19 Information'
 
 # COVID-19 Information
 
-**Friday, March 20th, 2020: [A daily briefing From Councilman Goldsack](https://storage.googleapis.com/static.rutherford-nj.com/covid/Mark%20Goldsack's%20Statement%203_20_20.pdf)**
+**Friday, March 20th, 2020: [A daily briefing From Councilman Goldsack](https://storage.googleapis.com/static.rutherford-nj.com/covid/Mark%20Goldsack's%20Statement%203_20_20%20(1).pdf)**
 
 Borough operations, 3/23 Mayor and Council Meeting and the testing site at Bergen Community College are addressed. 
 
