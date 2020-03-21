@@ -74,3 +74,38 @@ a, a:visited, a:hover, a:active {
     padding: 0;
   }
 }
+
+.state-covid-header {
+  background-color: #FFF2D0;
+  display: flex;
+  flex-wrap: wrap;
+
+  > div:first-child {
+    background-color: #ef7d37;
+    font-size: 2em;
+    text-align: right;
+    width: 25%;
+
+    span {
+      color: #fff;
+    }
+    @media screen and (max-width: 900px) {
+      width: 100%;
+    }
+  }
+
+  > div:last-child {
+    width: 75%;
+
+    span {
+      color: #cc3c3b;
+    }
+    @media screen and (max-width: 900px) {
+      width: 100%;
+    }
+  }
+
+  > div > div {
+    padding: 10px;
+  }
+}
