@@ -3,60 +3,37 @@ layout: page
 title: 'COVID-19 Information'
 ---
 
+<style>
+  hr {
+    background: red;
+    background-image: linear-gradient(to right, #333, red, #333);
+    border: 0;
+    height: 3px;
+    width: 100%;
+  }
+</style>
+
 [**Return to Homepage**](/)
 
 # COVID-19 Information
 
-**Friday, March 20th, 2020: [A daily briefing From Councilman Goldsack](https://storage.googleapis.com/static.rutherford-nj.com/covid/Mark%20Goldsack's%20Statement%203_20_20%20(1).pdf)**
+**Saturday, March 21st, 2020: [A daily briefing From Councilwoman McGowan](https://storage.googleapis.com/static.rutherford-nj.com/covid/Stephanie%20McGowan's%20Statement%203_21_20%20(1).pdf)**
 
-Borough operations, 3/23 Mayor and Council Meeting and the testing site at Bergen Community College are addressed. 
+Addressed: Correcting misinformation about cases in Rutherford; Gov. Murphy's Executive Order; Rutherford EMS in need of supplies
 
-**Thursday, March 19th, 2020: [A Statement From Council President Mullahey about regarding a positive COVID-19 case in Rutherford and other updates](https://storage.googleapis.com/static.rutherford-nj.com/covid/Tom%20Mullahey's%20Statement%203_19_20.pdf)**
+PLEASE READ: [A summary of the Governor's executive order as provided by his office](https://storage.googleapis.com/static.rutherford-nj.com/covid/Summary%20of%20EO%20107%20and%20EO%20108.pdf)
 
-We'd like to remind you to visit [Bergen County's website for more resources and information.](https://www.co.bergen.nj.us/health-promotion/2019-novel-corona-virus) 
+---
 
-**Wednesday, March 18th, 2020: [A Statement From The Mayor regarding a positive COVID-19 case in Rutherford](https://storage.googleapis.com/static.rutherford-nj.com/covid/Mayor's%20Statement%203_18_20.pdf)**
+**For Archives of Daily Briefings and Transcripts [click here](/covid-archives/)**
 
-In accordance with HIPAA laws, any further identifying factors are prohibited from being released to the public regarding this 60 year old Rutherford patient and any future cases. Be advised the Rutherford Health Department is working with this patient and any future patients which may arise regarding tracking and containment procedures, which would remain confidential.
+**For the Borough YouTube channel with all previous video briefings please [click here](https://www.youtube.com/channel/UCeXmkDZGR1XKSc5hMMoaUlQ/)**
 
-**Updated Tuesday, March 17th, 2020**
-
-- In and effort to support our local restaurants, please be respectful of the designated curbside pick-up parking spots to help our businesses as well as our community as a whole.
-
-- Saturday drop-off vegetation and recycling has been suspended until further notice.
-
-[A message from SUEZ Water](https://storage.googleapis.com/static.rutherford-nj.com/covid/SUEZ_CovidUpdate0317.pdf)
-
-[A message from PSE&G](https://storage.googleapis.com/static.rutherford-nj.com/covid/PSEG.pdf)
-
-> ## A summary of how State and County Executive Orders affect Rutherford residents:
-
-> **Effective 11pm on March 17th 2020:** 
-
-> - All restaurants and dining establishments with or without a liquor license and all other holders of a liquor license are permitted to operate their normal business hours, but must only offer food delivery and/or curbside pick up. In effort to assist our dining establishments, the Borough will be providing reserved parking for curbside pick-up.
-
-> - Non-Essential business (retail, recreational and entertainment) shall be closed until further notice. Examples of ESSENTIAL businesses excluded from this are: “grocery/food stores, pharmacies, medical supply stores, gas stations, healthcare facilities and ancillary stores within healthcare facilities.” Essential businesses are advised to mark 6 foot increments with tape to help with social distancing.
-
-> - No groups of more than four people, other than family members, shall assemble in public at any time within the County until further notice. A curfew is also imposed within the County between the hours of 8pm and 7am for all public outdoor activities. 
-
-> - Movie theaters, concert venues, performing arts centers, gyms and casinos are closed
-
-> - Regarding regular Borough business, [please see this document](https://storage.googleapis.com/static.rutherford-nj.com/covid/3_16%20Borough%20Operations.pdf) (please note the Downtowner Commuter Shuttle is suspended immediately)
-
-> - County parks shall remain open for passive recreation but no organized activity shall take place
-
-> - Stores selling alcoholic beverages for outside consumption may remain open but shall comply with previously announced limitations regarding “social distancing.”
-
-> - All health clubs, gyms, dance and yoga facilities and all similar recreational facilities closed until further notice.
-
-> - All utility road work is suspended until further notice, unless necessary for emergency purposes required to maintain utility service. 
-
-> - Although it doesn’t pertain to any Rutherford stores, supermarkets are limited to being open between 7am to 11pm. Please contact any supermarket you may visit to confirm their times.
-
-> - As you know, this situation is fluid and we will continue to update you as the information comes. 
-
+---
 
 ## A statement from Mayor Frank Nunziato and Rutherford Borough Council 
+
+(originally issued March 13th 2020 and updated as needed)
 
 After consulting with the Rutherford Board of Health and Superintendent of Schools Jack Hurley regarding COVID-19, and given the available data, information and guidance received from state and county officials, the Borough has decided to take the necessary steps to limit opportunities for large social interactions within the Borough of Rutherford. 
 
