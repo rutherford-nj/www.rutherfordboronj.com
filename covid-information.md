@@ -19,7 +19,7 @@ title: 'COVID-19 Information'
 
 **Sunday, March 22nd, 2020:** 
 
-[A daily briefing From Councilman Guzman](https://storage.googleapis.com/static.rutherford-nj.com/covid/March%2022%202020%20Ray%20Guzman%20Statement.pdf)
+[A transcript of the daily briefing From Councilman Guzman](https://storage.googleapis.com/static.rutherford-nj.com/covid/March%2022%202020%20Ray%20Guzman%20Statement.pdf)
 
 [A video recording of Councilman Guzman](https://www.youtube.com/watch?v=pZxbHxbYTeA)
 
