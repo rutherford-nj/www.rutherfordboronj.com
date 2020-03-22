@@ -21,7 +21,7 @@ title: 'COVID-19 Information'
 
 Addressed: Correcting misinformation about cases in Rutherford; Gov. Murphy's Executive Order; Rutherford EMS in need of supplies
 
-PLEASE READ: [A summary of the Governor's executive order as provided by his office](https://storage.googleapis.com/static.rutherford-nj.com/covid/Summary%20of%20EO%20107%20and%20EO%20108.pdf)
+PLEASE READ: [A summary of the Governor's executive order as provided by his office on March 21](https://storage.googleapis.com/static.rutherford-nj.com/covid/Summary%20of%20EO%20107%20and%20EO%20108.pdf)
 
 ---
 
