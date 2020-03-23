@@ -9,7 +9,7 @@ Below find each update that has been made daily by the Rutherford Mayor and Coun
 
 **Saturday, March 21st, 2020:** 
 
-[A daily briefing From Councilwoman McGowan](https://storage.googleapis.com/static.rutherford-nj.com/covid/Stephanie%20McGowan's%20Statement%203_21_20%20(1).pdf)
+[A transcript of the daily briefing from Councilwoman McGowan](https://storage.googleapis.com/static.rutherford-nj.com/covid/Stephanie%20McGowan's%20Statement%203_21_20%20(1).pdf)
 
 [Video briefing from Councilwoman McGowan](https://www.youtube.com/watch?v=_BafsUg3gK4)
 
@@ -18,19 +18,25 @@ Addressed: Correcting misinformation about cases in Rutherford; Gov. Murphy's Ex
 
 **- Friday, March 20th, 2020:** 
 
-[A daily briefing From Councilman Goldsack](https://storage.googleapis.com/static.rutherford-nj.com/covid/Mark%20Goldsack's%20Statement%203_20_20%20(1).pdf)
+[A transcript of the daily briefing from Councilman Goldsack](https://storage.googleapis.com/static.rutherford-nj.com/covid/Mark%20Goldsack's%20Statement%203_20_20%20(1).pdf)
 
-Borough operations, 3/23 Mayor and Council Meeting and the testing site at Bergen Community College are addressed. 
+[Video briefing from Councilman Goldsack](https://www.youtube.com/watch?v=QwE6gZ4MzuA&t=47s)
+
+Addressed: Borough operations, 3/23 Mayor and Council Meeting and the testing site at Bergen Community College
 
 **- Thursday, March 19th, 2020:** 
 
-[A Statement From Council President Mullahey about regarding a positive COVID-19 case in Rutherford and other updates](https://storage.googleapis.com/static.rutherford-nj.com/covid/Tom%20Mullahey's%20Statement%203_19_20.pdf)
+[A transcript of the daily briefing from Council President Mullahey about regarding a positive COVID-19 case in Rutherford and other updates](https://storage.googleapis.com/static.rutherford-nj.com/covid/Tom%20Mullahey's%20Statement%203_19_20.pdf)
+
+[Video briefing from Councilman Mullahey](https://www.youtube.com/watch?v=BjQFA-zNcYo&t=41s)
 
 We'd like to remind you to visit [Bergen County's website for more resources and information.](https://www.co.bergen.nj.us/health-promotion/2019-novel-corona-virus) 
 
 **- Wednesday, March 18th, 2020:**
 
 [A Statement From The Mayor regarding a positive COVID-19 case in Rutherford](https://storage.googleapis.com/static.rutherford-nj.com/covid/Mayor's%20Statement%203_18_20.pdf)
+
+[Video briefing from Mayor Nunziato](https://www.youtube.com/watch?v=IbYqQlf0HWY&t=40s)
 
 In accordance with HIPAA laws, any further identifying factors are prohibited from being released to the public regarding this 60 year old Rutherford patient and any future cases. Be advised the Rutherford Health Department is working with this patient and any future patients which may arise regarding tracking and containment procedures, which would remain confidential.
 
