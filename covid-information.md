@@ -17,6 +17,9 @@ title: 'COVID-19 Information'
 
 # COVID-19 Information
 
+
+**PLEASE READ:** [A summary of the Governor's executive order as provided by his office on March 21](https://storage.googleapis.com/static.rutherford-nj.com/covid/Summary%20of%20EO%20107%20and%20EO%20108.pdf)
+
 **Sunday, March 22nd, 2020:** 
 
 [A transcript of the daily briefing From Councilman Guzman](https://storage.googleapis.com/static.rutherford-nj.com/covid/March%2022%202020%20Ray%20Guzman%20Statement.pdf)
@@ -24,8 +27,6 @@ title: 'COVID-19 Information'
 [A video recording of Councilman Guzman](https://www.youtube.com/watch?v=pZxbHxbYTeA)
 
 Addressed: A 3rd COVID-19 positive case of an 85 year old female resident; 3/23 Mayor and Council meeting
-
-PLEASE READ: [A summary of the Governor's executive order as provided by his office on March 21](https://storage.googleapis.com/static.rutherford-nj.com/covid/Summary%20of%20EO%20107%20and%20EO%20108.pdf)
 
 ---
 
