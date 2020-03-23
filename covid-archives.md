@@ -7,7 +7,7 @@ title: 'COVID-19 Information-Archives'
 
 Below find each update that has been made daily by the Rutherford Mayor and Council: 
 
-**Saturday, March 21st, 2020:** 
+**- Saturday, March 21st, 2020:** 
 
 [A transcript of the daily briefing from Councilwoman McGowan](https://storage.googleapis.com/static.rutherford-nj.com/covid/Stephanie%20McGowan's%20Statement%203_21_20%20(1).pdf)
 
