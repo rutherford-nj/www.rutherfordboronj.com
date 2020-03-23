@@ -24,7 +24,7 @@ title: 'COVID-19 Information'
 
 [A transcript of the daily briefing From Mayor Nunziato](https://storage.googleapis.com/static.rutherford-nj.com/covid/March%2023%202020%20Frank%20Nunziato.pdf)
 
-[A video recording of Mayor Nunziato](https://www.youtube.com/watch?v=pZxbHxbYTeA)
+[A video recording of Mayor Nunziato](https://www.youtube.com/watch?v=9AKF5dGbLwc)
 
 Addressed: Call your physician for testing sites; Rutherford complying with the "stay at home" order
 
