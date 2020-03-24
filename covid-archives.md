@@ -7,6 +7,12 @@ title: 'COVID-19 Information-Archives'
 
 Below find each update that has been made daily by the Rutherford Mayor and Council: 
 
+**Monday, March 23rd, 2020:** 
+
+[A transcript of the daily briefing From Mayor Nunziato](https://storage.googleapis.com/static.rutherford-nj.com/covid/March%2023%202020%20Frank%20Nunziato.pdf)
+
+[A video recording of Mayor Nunziato](https://www.youtube.com/watch?v=9AKF5dGbLwc)
+
 **Sunday, March 22nd, 2020:** 
 
 [A transcript of the daily briefing From Councilman Guzman](https://storage.googleapis.com/static.rutherford-nj.com/covid/March%2022%202020%20Ray%20Guzman%20Statement.pdf)
