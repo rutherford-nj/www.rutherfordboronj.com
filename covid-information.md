@@ -34,6 +34,12 @@ Addressed: Call your physician for testing sites; Rutherford complying with the 
 
 **For the Borough YouTube channel with all previous video briefings please [click here](https://www.youtube.com/channel/UCeXmkDZGR1XKSc5hMMoaUlQ/)**
 
+Important links: 
+
+[Rumor Control From the NJ Office of Homeland Security](https://www.njhomelandsecurity.gov/covid19)
+
+[NJ Dept of Health](https://www.nj.gov/health/)
+
 ---
 
 ## A statement from Mayor Frank Nunziato and Rutherford Borough Council 
@@ -95,7 +101,6 @@ We understand that these closures are inconvenient, but short term sacrifices ca
 
 ## Below are links to county, state and federal resources regarding COVID-19:
 
-From the official Bergen County website: "Regarding the 2019 novel [Wuhan] coronavirus, please note that a 24/7 call center for PUBLIC CALLS ONLY has been opened at the NJ Poison Information and Education System (NJPIES) and can be reached at 1-800-222-1222."
 
 **Centers for Disease Control** [www.cdc.gov](https://www.cdc.gov/)
 
