@@ -36,6 +36,8 @@ Addressed: Call your physician for testing sites; Rutherford complying with the 
 
 Important links: 
 
+[NJ COVID-19 Information Hub](https://covid19.nj.gov/)
+
 [Rumor Control From the NJ Office of Homeland Security](https://www.njhomelandsecurity.gov/covid19)
 
 [NJ Dept of Health](https://www.nj.gov/health/)
