@@ -20,11 +20,11 @@ title: 'COVID-19 Information'
 
 **PLEASE READ:** [A summary of the Governor's executive order as provided by his office on March 21](https://storage.googleapis.com/static.rutherford-nj.com/covid/Summary%20of%20EO%20107%20and%20EO%20108.pdf)
 
-**Monday, March 23rd, 2020:** 
+**Tuesday, March 24th, 2020:** 
 
-[A transcript of the daily briefing From Mayor Nunziato](https://storage.googleapis.com/static.rutherford-nj.com/covid/March%2023%202020%20Frank%20Nunziato.pdf)
+[A transcript of the daily briefing From Council President Mullahey](https://storage.googleapis.com/static.rutherford-nj.com/covid/March%2024%202020%20Tom%20Mullahey.pdf)
 
-[A video recording of Mayor Nunziato](https://www.youtube.com/watch?v=9AKF5dGbLwc)
+[A video recording of Council President Mullahey](https://www.youtube.com/watch?v=4XGpwQnRpD4)
 
 Addressed: Call your physician for testing sites; Rutherford complying with the "stay at home" order
 
