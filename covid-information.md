@@ -26,7 +26,7 @@ title: 'COVID-19 Information'
 
 [A video recording of Council President Mullahey](https://www.youtube.com/watch?v=4XGpwQnRpD4)
 
-Addressed: New Rutherford COVID-19 cases; event cancellations; Census reminderr
+Addressed: New Rutherford COVID-19 cases; event cancellations; Census reminder
 
 ---
 
