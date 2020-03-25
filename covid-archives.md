@@ -7,6 +7,14 @@ title: 'COVID-19 Information-Archives'
 
 Below find each update that has been made daily by the Rutherford Mayor and Council: 
 
+**Tuesday, March 24th, 2020:** 
+
+[A transcript of the daily briefing From Council President Mullahey](https://storage.googleapis.com/static.rutherford-nj.com/covid/March%2024%202020%20Tom%20Mullahey.pdf)
+
+[A video recording of Council President Mullahey](https://www.youtube.com/watch?v=4XGpwQnRpD4)
+
+Addressed: New Rutherford COVID-19 cases; event cancellations; Census reminder
+
 **Monday, March 23rd, 2020:** 
 
 [A transcript of the daily briefing From Mayor Nunziato](https://storage.googleapis.com/static.rutherford-nj.com/covid/March%2023%202020%20Frank%20Nunziato.pdf)
