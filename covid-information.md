@@ -24,7 +24,7 @@ title: 'COVID-19 Information'
 
 [A transcript of the daily briefing From Councilman Goldsack](https://storage.googleapis.com/static.rutherford-nj.com/building/Building%20Dept%20Forms/March%2025%202020%20Mark%20Goldsack%20(1).pdf)
 
-[A video recording of Councilman Goldsack](https://www.youtube.com/watch?v=4XGpwQnRpD4)
+[A video recording of Councilman Goldsack](https://www.youtube.com/watch?v=aJVNdsTyw0c)
 
 Addressed: New Rutherford COVID-19 cases; Updates from Gov. Murphy; Small business information
 
