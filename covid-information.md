@@ -20,13 +20,13 @@ title: 'COVID-19 Information'
 
 **PLEASE READ:** [A summary of the Governor's executive order as provided by his office on March 21](https://storage.googleapis.com/static.rutherford-nj.com/covid/Summary%20of%20EO%20107%20and%20EO%20108.pdf)
 
-**Tuesday, March 24th, 2020:** 
+**Wednesday, March 25th, 2020:** 
 
-[A transcript of the daily briefing From Council President Mullahey](https://storage.googleapis.com/static.rutherford-nj.com/covid/March%2024%202020%20Tom%20Mullahey.pdf)
+[A transcript of the daily briefing From Councilman Goldsack](https://storage.googleapis.com/static.rutherford-nj.com/building/Building%20Dept%20Forms/March%2025%202020%20Mark%20Goldsack%20(1).pdf)
 
-[A video recording of Council President Mullahey](https://www.youtube.com/watch?v=4XGpwQnRpD4)
+[A video recording of Councilman Goldsack](https://www.youtube.com/watch?v=4XGpwQnRpD4)
 
-Addressed: New Rutherford COVID-19 cases; event cancellations; Census reminder
+Addressed: New Rutherford COVID-19 cases; Updates from Gov. Murphy; Small business information
 
 ---
 
