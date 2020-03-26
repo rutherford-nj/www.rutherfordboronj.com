@@ -20,13 +20,13 @@ title: 'COVID-19 Information'
 
 **PLEASE READ:** [A summary of the Governor's executive order as provided by his office on March 21](https://storage.googleapis.com/static.rutherford-nj.com/covid/Summary%20of%20EO%20107%20and%20EO%20108.pdf)
 
-**Wednesday, March 25th, 2020:** 
+**Thursday, March 26th, 2020:** 
 
-[A transcript of the daily briefing From Councilman Goldsack](https://storage.googleapis.com/static.rutherford-nj.com/building/Building%20Dept%20Forms/March%2025%202020%20Mark%20Goldsack%20(1).pdf)
+[A transcript of the daily briefing From Councilman Guzman](https://storage.googleapis.com/static.rutherford-nj.com/covid/March%2026%202020%20Ray%20Guzman.pdf)
 
-[A video recording of Councilman Goldsack](https://www.youtube.com/watch?v=aJVNdsTyw0c)
+[A video recording of Councilman Guzman](https://www.youtube.com/watch?v=3SJ-2IxDWlQ)
 
-Addressed: New Rutherford COVID-19 cases; Updates from Gov. Murphy; Small business information
+Addressed: New Rutherford COVID-19 cases; Garbage pick up for Rutherford businesses; State job hiring portal 
 
 ---
 
@@ -35,6 +35,8 @@ Addressed: New Rutherford COVID-19 cases; Updates from Gov. Murphy; Small busine
 **For the Borough YouTube channel with all previous video briefings please [click here](https://www.youtube.com/channel/UCeXmkDZGR1XKSc5hMMoaUlQ/)**
 
 Important links: 
+
+[NJ State Jobs Portal](https://jobs.covid19.nj.gov/)
 
 [COVID-19 Information for New Jersey Businesses](https://faq.business.nj.gov/en/collections/2198378-information-for-nj-businesses-on-the-coronavirus-outbreak)
 
@@ -119,6 +121,8 @@ Please see [Bergen County's website for more resources and information.](https:/
 [www.nj.gov/health/cd/topics/schoolhealth.shtml](https://www.nj.gov/health/cd/topics/schoolhealth.shtml)
 
 [New Jersey Department of Health Close Contacts to Confirmed COVID-19 Cases](https://storage.googleapis.com/static.rutherford-nj.com/covid/FAQs_For_Close_Contacts_and_People_Being_Tested_3_15_20.108128.pdf)
+
+[New Jersey Department of Consumer Affairs](https://www.njconsumeraffairs.gov/COVID19/Pages/default.aspx)
 
 [New Jersey Department of Health
 COVID-19 Guidance for Child Care and K-12 Schools](https://storage.googleapis.com/static.rutherford-nj.com/covid/COVID19_schools_FINAL_3.2.20.pdf)
