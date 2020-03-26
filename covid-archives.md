@@ -7,6 +7,14 @@ title: 'COVID-19 Information-Archives'
 
 Below find each update that has been made daily by the Rutherford Mayor and Council: 
 
+**- Wednesday, March 25th, 2020:** 
+
+[A transcript of the daily briefing From Councilman Goldsack](https://storage.googleapis.com/static.rutherford-nj.com/building/Building%20Dept%20Forms/March%2025%202020%20Mark%20Goldsack%20(1).pdf)
+
+[A video recording of Councilman Goldsack](https://www.youtube.com/watch?v=aJVNdsTyw0c)
+
+Addressed: New Rutherford COVID-19 cases; Updates from Gov. Murphy; Small business information
+
 **- Tuesday, March 24th, 2020:** 
 
 [A transcript of the daily briefing From Council President Mullahey](https://storage.googleapis.com/static.rutherford-nj.com/covid/March%2024%202020%20Tom%20Mullahey.pdf)
