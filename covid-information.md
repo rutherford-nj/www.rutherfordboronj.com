@@ -36,6 +36,8 @@ Addressed: New Rutherford COVID-19 cases; Updates from Gov. Murphy; Small busine
 
 Important links: 
 
+[COVID-19 Information for New Jersey Businesses](https://faq.business.nj.gov/en/collections/2198378-information-for-nj-businesses-on-the-coronavirus-outbreak)
+
 [NJ COVID-19 Information Hub](https://covid19.nj.gov/)
 
 [Rumor Control From the NJ Office of Homeland Security](https://www.njhomelandsecurity.gov/covid19)
