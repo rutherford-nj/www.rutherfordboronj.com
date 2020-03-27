@@ -20,7 +20,7 @@ title: 'COVID-19 Information'
 
 **PLEASE READ:** [A summary of the Governor's executive order as provided by his office on March 21](https://storage.googleapis.com/static.rutherford-nj.com/covid/Summary%20of%20EO%20107%20and%20EO%20108.pdf)
 
-**Thursday, March 27th, 2020:** 
+**Friday, March 27th, 2020:** 
 
 [A transcript of the daily briefing From Councilwoman McGowan](https://storage.googleapis.com/static.rutherford-nj.com/covid/March%2027%202020%20Stephanie%20McGowan%20(1).pdf)
 
