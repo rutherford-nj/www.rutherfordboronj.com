@@ -36,6 +36,8 @@ Addressed: New Rutherford COVID-19 cases; Garbage pick up for Rutherford busines
 
 Important links: 
 
+[Telescreening for First Responders at New Bridge Medical Center](https://www.newbridgehealth.org/bergen-covid19-screening/)
+
 [NJ State Jobs Portal](https://jobs.covid19.nj.gov/)
 
 [COVID-19 Information for New Jersey Businesses](https://faq.business.nj.gov/en/collections/2198378-information-for-nj-businesses-on-the-coronavirus-outbreak)
