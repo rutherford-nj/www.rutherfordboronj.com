@@ -7,6 +7,15 @@ title: 'COVID-19 Information-Archives'
 
 Below find each update that has been made daily by the Rutherford Mayor and Council: 
 
+
+**- Thursday, March 26th, 2020:** 
+
+[A transcript of the daily briefing From Councilman Guzman](https://storage.googleapis.com/static.rutherford-nj.com/covid/March%2026%202020%20Ray%20Guzman.pdf)
+
+[A video recording of Councilman Guzman](https://www.youtube.com/watch?v=3SJ-2IxDWlQ)
+
+Addressed: New Rutherford COVID-19 cases; Garbage pick up for Rutherford businesses; State job hiring portal 
+
 **- Wednesday, March 25th, 2020:** 
 
 [A transcript of the daily briefing From Councilman Goldsack](https://storage.googleapis.com/static.rutherford-nj.com/building/Building%20Dept%20Forms/March%2025%202020%20Mark%20Goldsack%20(1).pdf)
