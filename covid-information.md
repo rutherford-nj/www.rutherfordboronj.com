@@ -20,13 +20,13 @@ title: 'COVID-19 Information'
 
 **PLEASE READ:** [A summary of the Governor's executive order as provided by his office on March 21](https://storage.googleapis.com/static.rutherford-nj.com/covid/Summary%20of%20EO%20107%20and%20EO%20108.pdf)
 
-**Thursday, March 26th, 2020:** 
+**Thursday, March 27th, 2020:** 
 
-[A transcript of the daily briefing From Councilman Guzman](https://storage.googleapis.com/static.rutherford-nj.com/covid/March%2026%202020%20Ray%20Guzman.pdf)
+[A transcript of the daily briefing From Councilwoman McGowan](https://storage.googleapis.com/static.rutherford-nj.com/covid/March%2027%202020%20Stephanie%20McGowan%20(1).pdf)
 
-[A video recording of Councilman Guzman](https://www.youtube.com/watch?v=3SJ-2IxDWlQ)
+[A video recording of Councilwoman McGowan](https://youtu.be/KmufdW8If5g)
 
-Addressed: New Rutherford COVID-19 cases; Garbage pick up for Rutherford businesses; State job hiring portal 
+Addressed: New Rutherford COVID-19 cases; Testing site at New Bridge Medical Center 
 
 ---
 
