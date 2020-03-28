@@ -7,6 +7,13 @@ title: 'COVID-19 Information-Archives'
 
 Below find each update that has been made daily by the Rutherford Mayor and Council: 
 
+**Friday, March 27th, 2020:** 
+
+[A transcript of the daily briefing From Councilwoman McGowan](https://storage.googleapis.com/static.rutherford-nj.com/covid/March%2027%202020%20Stephanie%20McGowan%20(1).pdf)
+
+[A video recording of Councilwoman McGowan](https://youtu.be/KmufdW8If5g)
+
+Addressed: New Rutherford COVID-19 cases; Testing site at New Bridge Medical Center
 
 **- Thursday, March 26th, 2020:** 
 
