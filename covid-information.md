@@ -20,13 +20,13 @@ title: 'COVID-19 Information'
 
 **PLEASE READ:** [A summary of the Governor's executive order as provided by his office on March 21](https://storage.googleapis.com/static.rutherford-nj.com/covid/Summary%20of%20EO%20107%20and%20EO%20108.pdf)
 
-**Friday, March 27th, 2020:** 
+**Saturday, March 28th, 2020:** 
 
-[A transcript of the daily briefing From Councilwoman McGowan](https://storage.googleapis.com/static.rutherford-nj.com/covid/March%2027%202020%20Stephanie%20McGowan%20(1).pdf)
+[A transcript of the daily briefing From Councilman Narucki](https://storage.googleapis.com/static.rutherford-nj.com/covid/March%2028%202020%20Eddie%20Narucki.pdf)
 
-[A video recording of Councilwoman McGowan](https://youtu.be/KmufdW8If5g)
+[A video recording of Councilman Narucki](https://www.youtube.com/watch?v=_72wB6erEag)
 
-Addressed: New Rutherford COVID-19 cases; Testing site at New Bridge Medical Center 
+Addressed: 3 more COVID-19 cases in Rutherford; Blue Hearts campaign with the Rutherford Arts Committee
 
 ---
 
