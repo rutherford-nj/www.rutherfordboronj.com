@@ -34,7 +34,7 @@ Addressed: 3 more COVID-19 cases in Rutherford; Blue Hearts campaign with the Ru
 
 **For the Borough YouTube channel with all previous video briefings please [click here](https://www.youtube.com/channel/UCeXmkDZGR1XKSc5hMMoaUlQ/)**
 
-Financial and Social Services Information for Individuals
+[**Financial and Social Services Information for Individuals**](/covid-financial-info-individuals/)
 
 Important links: 
 
