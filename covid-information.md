@@ -34,11 +34,11 @@ Addressed: 3 more COVID-19 cases in Rutherford; Blue Hearts campaign with the Ru
 
 **For the Borough YouTube channel with all previous video briefings please [click here](https://www.youtube.com/channel/UCeXmkDZGR1XKSc5hMMoaUlQ/)**
 
+Financial and Social Services Information for Individuals
+
 Important links: 
 
 [Telescreening for First Responders at New Bridge Medical Center](https://www.newbridgehealth.org/bergen-covid19-screening/)
-
-[NJ State Jobs Portal](https://jobs.covid19.nj.gov/)
 
 [COVID-19 Information for New Jersey Businesses](https://faq.business.nj.gov/en/collections/2198378-information-for-nj-businesses-on-the-coronavirus-outbreak)
 
