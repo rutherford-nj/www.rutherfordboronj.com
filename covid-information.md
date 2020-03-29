@@ -36,6 +36,8 @@ Addressed: 3 more COVID-19 cases in Rutherford; Blue Hearts campaign with the Ru
 
 [**Financial and Social Services Information for Individuals**](/covid-financial-info-individuals/)
 
+[**Financial Information for Businesses**](/covid-business-information/)
+
 Important links: 
 
 [Telescreening for First Responders at New Bridge Medical Center](https://www.newbridgehealth.org/bergen-covid19-screening/)
