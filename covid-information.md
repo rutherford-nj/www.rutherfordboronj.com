@@ -20,13 +20,13 @@ title: 'COVID-19 Information'
 
 **PLEASE READ:** [A summary of the Governor's executive order as provided by his office on March 21](https://storage.googleapis.com/static.rutherford-nj.com/covid/Summary%20of%20EO%20107%20and%20EO%20108.pdf)
 
-**Saturday, March 28th, 2020:** 
+**Sunday, March 29th, 2020:** 
 
-[A transcript of the daily briefing From Councilman Narucki](https://storage.googleapis.com/static.rutherford-nj.com/covid/March%2028%202020%20Eddie%20Narucki.pdf)
+[A transcript of the daily briefing From Councilwoman Begg-Roberson](https://storage.googleapis.com/static.rutherford-nj.com/covid/March%2029%202020%20Maria%20Begg-Roberson.pdf)
 
-[A video recording of Councilman Narucki](https://www.youtube.com/watch?v=_72wB6erEag)
+[A video recording of Councilwoman Begg-Roberson](https://www.youtube.com/watch?v=s1FF3IYMaqA)
 
-Addressed: 3 more COVID-19 cases in Rutherford; Blue Hearts campaign with the Rutherford Arts Committee
+Addressed: 3 more COVID-19 cases in Rutherford; Meeting with Rutherford's Faith Leaders; Reminder to drivers and pedestrians to be safe 
 
 ---
 
