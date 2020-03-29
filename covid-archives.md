@@ -7,6 +7,14 @@ title: 'COVID-19 Information-Archives'
 
 Below find each update that has been made daily by the Rutherford Mayor and Council: 
 
+**Saturday, March 28th, 2020:** 
+
+[A transcript of the daily briefing From Councilman Narucki](https://storage.googleapis.com/static.rutherford-nj.com/covid/March%2028%202020%20Eddie%20Narucki.pdf)
+
+[A video recording of Councilman Narucki](https://www.youtube.com/watch?v=_72wB6erEag)
+
+Addressed: 3 more COVID-19 cases in Rutherford; Blue Hearts campaign with the Rutherford Arts Committee
+
 **Friday, March 27th, 2020:** 
 
 [A transcript of the daily briefing From Councilwoman McGowan](https://storage.googleapis.com/static.rutherford-nj.com/covid/March%2027%202020%20Stephanie%20McGowan%20(1).pdf)
