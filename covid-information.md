@@ -20,13 +20,13 @@ title: 'COVID-19 Information'
 
 **PLEASE READ:** [A summary of the Governor's executive order as provided by his office on March 21](https://storage.googleapis.com/static.rutherford-nj.com/covid/Summary%20of%20EO%20107%20and%20EO%20108.pdf)
 
-**Sunday, March 29th, 2020:** 
+**Monday, March 30th, 2020:** 
 
-[A transcript of the daily briefing From Councilwoman Begg-Roberson](https://storage.googleapis.com/static.rutherford-nj.com/covid/March%2029%202020%20Maria%20Begg-Roberson.pdf)
+[A transcript of the daily briefing From Mayor Nunziato](https://storage.googleapis.com/static.rutherford-nj.com/covid/March%2030%202020%20Frank%20Nunziato.pdf)
 
-[A video recording of Councilwoman Begg-Roberson](https://www.youtube.com/watch?v=s1FF3IYMaqA)
+[A video recording of Mayor Nunziato](https://youtu.be/ix8iuDUbKSk)
 
-Addressed: 3 more COVID-19 cases in Rutherford; Meeting with Rutherford's Faith Leaders; Reminder to drivers and pedestrians to be safe 
+Addressed: 5 new Rutherford cases; testing site at New Bridge Medical; Thank you to our DPW workers delivering Meals on Wheels
 
 ---
 
