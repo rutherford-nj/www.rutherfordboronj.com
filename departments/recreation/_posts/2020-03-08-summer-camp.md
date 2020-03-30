@@ -1,13 +1,11 @@
 ---
 layout: blog
-title: Summer Camp 2020
+title: Summer Camp 2020 - Registration Postponed
 ---
 
-[See Flyer Here](https://storage.googleapis.com/static.rutherford-nj.com/recreation/Summer%20Camp/2020/2020%20Summer%20Camp%20Flyer%20(1).pdf)
+# Summer Camp Registration has been postponed until further notice
 
 **SUMMER CAMP REGISTRATION**
-
-**APRIL 1 – MAY 29, 2020**
 
 (FIRST COME – FIRST SERVED ~ LIMITED SPOTS AVAILABLE)
 
