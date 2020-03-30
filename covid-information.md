@@ -22,7 +22,7 @@ title: 'COVID-19 Information'
 
 **Monday, March 30th, 2020:** 
 
-[A transcript of the daily briefing from Mayor Nunziato](https://storage.googleapis.com/static.rutherford-nj.com/covid/March%2030%202020%20Frank%20Nunziato.pdf)
+[A transcript of the daily briefing from Mayor Nunziato](https://storage.googleapis.com/static.rutherford-nj.com/covid/March%2030%202020%20Frank%20Nunziato%20(1).pdf)
 
 [A video recording of Mayor Nunziato](https://youtu.be/ix8iuDUbKSk)
 
