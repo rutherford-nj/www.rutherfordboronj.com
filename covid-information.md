@@ -36,7 +36,7 @@ Addressed: 3 more COVID-19 cases in Rutherford; Meeting with Rutherford's Faith 
 
 [**Financial and Social Services Information for Individuals**](/covid-financial-info-individuals/)
 
-[**Financial Information for Businesses**](/covid-business-information/)
+[**Financial Relief Information for Businesses**](/covid-business-information/)
 
 Important links: 
 
