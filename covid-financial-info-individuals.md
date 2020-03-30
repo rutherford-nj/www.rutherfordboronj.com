@@ -3,6 +3,8 @@ layout: page
 title: 'COVID-19 Financial & Social Services Information for Individuals'
 ---
 
+[Back to Daily COVID-19 Information](/covid-information)
+
 **Financial Relief and Social Service Information for Individuals:**
 
 [Mortgage Relief](https://cdn.ymaws.com/www.gfoanj.org/resource/resmgr/state_house_news_2020/Mortgage_Relief_COVID-19_032.pdf)
