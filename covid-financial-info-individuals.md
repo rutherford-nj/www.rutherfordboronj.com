@@ -29,9 +29,11 @@ New Jersey Programs
 
 Federal Programs
 
+
   - [Federal Stimulus Check](https://www.irs.gov/newsroom/economic-impact-payments-what-you-need-to-know)   
   
   - [This calculator provides an estimate of how much an individual’s stimulus check could be under the legislation’s criteria](https://www.washingtonpost.com/graphics/business/coronavirus-stimulus-check-calculator/)
+
 
 New Jersey Programs
 
