@@ -7,35 +7,37 @@ title: 'COVID-19 Financial & Social Services Information for Individuals'
 
 # Financial Relief and Social Service Information for Individuals:
 
-[Mortgage Relief](https://cdn.ymaws.com/www.gfoanj.org/resource/resmgr/state_house_news_2020/Mortgage_Relief_COVID-19_032.pdf)
+**Social Services**
 
-Governor Murphy Announces Mortgage Payment Relief, Financial Protections
-for New Jerseyans Facing Economic Hardship as a Result of COVID-19
+New Jersey Programs
 
-[Jobs Portal](https://jobs.covid19.nj.gov/index.html)
+  - [Jobs Portal](https://jobs.covid19.nj.gov/index.html)
 
-[Federal Stimulus Check](https://www.washingtonpost.com/graphics/business/coronavirus-stimulus-check-calculator/)
+  - Food
+      
+      [Rutherford Community Pantry (by appointment only)](/departments/social-services/)
+      
+      [SNAP Benefits](https://covid19.nj.gov/faqs/nj-information/get-assistance/how-do-i-apply-for-food-and-cash-assistance-and-health-insurance-during-the-covid-19-outbreak)
 
-[Senior Stimulus Check](https://www.nj.com/coronavirus/2020/03/will-senior-citizens-and-retirees-get-a-stimulus-check.html)
+  - [Mental Health](https://covid19.nj.gov/faqs/nj-information/get-assistance/who-can-i-call-if-i%E2%80%99m-feeling-stressed-or-anxious-during-the-covid-19-outbreak)
 
-[SNAP Benefits](https://covid19.nj.gov/faqs/nj-information/get-assistance/how-do-i-apply-for-food-and-cash-assistance-and-health-insurance-during-the-covid-19-outbreak)
+  - [Special Needs Registry](https://www13.state.nj.us/SpecialNeeds/Signin?ReturnUrl=/SpecialNeeds/)
 
-[Mental Health](https://covid19.nj.gov/faqs/nj-information/get-assistance/who-can-i-call-if-i%E2%80%99m-feeling-stressed-or-anxious-during-the-covid-19-outbreak)
+  - [Addiction Services](https://covid19.nj.gov/faqs/nj-information/get-assistance/can-i-get-addiction-treatment-help-via-the-phone)
 
-The NJ MentalHealthCares Help Line offers telephone counseling, emotional support, information and assistance in helping to get behavioral health services needed by you or a loved one.
+**Financial Services**
 
-[Addiction Services](https://covid19.nj.gov/faqs/nj-information/get-assistance/can-i-get-addiction-treatment-help-via-the-phone)
+Federal Programs
 
-ReachNJ is a 24-hour-a-day, 7 day-a-week addictions hotline where people who have Substance Use Disorder or friends and family can get assistance and support from live, New Jersey-based, trained addiction counselors.
+  - [Federal Stimulus Check](https://www.irs.gov/newsroom/economic-impact-payments-what-you-need-to-know)   
+  
+  - [This calculator provides an estimate of how much an individual’s stimulus check could be under the legislation’s criteria](https://www.washingtonpost.com/graphics/business/coronavirus-stimulus-check-calculator/)
 
-[Special Needs Registry](https://www13.state.nj.us/SpecialNeeds/Signin?ReturnUrl=/SpecialNeeds/) 
+New Jersey Programs
 
-New Jersey residents with disabilities or access and functional needs and their families, friends, caregivers and associates an opportunity to provide information to emergency response agencies so emergency responders can better plan to serve them in a disaster or other emergency.
+  - [Housing/Rental Assistance and Mortgage Relief](https://covid19.nj.gov/faqs/nj-information/general-public/what-housing-and-rental-assistance-and-mortgage-relief-is-available-for-new-jerseyans-are-there-protections-for-eviction-or-foreclosure)
 
-[Rutherford Community Pantry](/departments/social-services/)
 
-Please contact the Rutherford department of Social Services if you are in need of food at this time. Donations are collected and food is given out by appointment only. 
 
-[Additional State Information](https://covid19.nj.gov/)
 
 
