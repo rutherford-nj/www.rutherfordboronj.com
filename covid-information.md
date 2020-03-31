@@ -22,7 +22,7 @@ title: 'COVID-19 Information'
 
 **Tuesday, March 31st, 2020:** 
 
-[A transcript of the daily briefing from Council President Mullahey](https://storage.googleapis.com/static.rutherford-nj.com/covid/March%2031%202020%20Tom%20Mullahey%20(1).pdf)
+[A transcript of the daily briefing from Council President Mullahey](https://storage.googleapis.com/static.rutherford-nj.com/covid/March%2031%202020%20Tom%20Mullahey%20(2).pdf)
 
 [A video recording of Council President Mullahey](https://youtu.be/z5KzZuaMYT0)
 
