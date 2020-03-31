@@ -7,6 +7,14 @@ title: 'COVID-19 Information-Archives'
 
 Below find each update that has been made daily by the Rutherford Mayor and Council: 
 
+**Monday, March 30th, 2020:** 
+
+[A transcript of the daily briefing from Mayor Nunziato](https://storage.googleapis.com/static.rutherford-nj.com/covid/March%2030%202020%20Frank%20Nunziato%20(1).pdf)
+
+[A video recording of Mayor Nunziato](https://youtu.be/ix8iuDUbKSk)
+
+Addressed: 5 new Rutherford cases; testing site at New Bridge Medical; Thank you to our DPW workers delivering Meals on Wheels
+
 **Sunday, March 29th, 2020:** 
 
 [A transcript of the daily briefing From Councilwoman Begg-Roberson](https://storage.googleapis.com/static.rutherford-nj.com/covid/March%2029%202020%20Maria%20Begg-Roberson.pdf)
