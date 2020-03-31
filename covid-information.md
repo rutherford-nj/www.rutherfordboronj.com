@@ -20,13 +20,13 @@ title: 'COVID-19 Information'
 
 **PLEASE READ:** [A summary of the Governor's executive order as provided by his office on March 21](https://storage.googleapis.com/static.rutherford-nj.com/covid/Summary%20of%20EO%20107%20and%20EO%20108.pdf)
 
-**Monday, March 30th, 2020:** 
+**Tuesday, March 31st, 2020:** 
 
-[A transcript of the daily briefing from Mayor Nunziato](https://storage.googleapis.com/static.rutherford-nj.com/covid/March%2030%202020%20Frank%20Nunziato%20(1).pdf)
+[A transcript of the daily briefing from Council President Mullahey](https://storage.googleapis.com/static.rutherford-nj.com/covid/March%2031%202020%20Tom%20Mullahey%20(1).pdf)
 
-[A video recording of Mayor Nunziato](https://youtu.be/ix8iuDUbKSk)
+[A video recording of Council President Mullahey](https://youtu.be/z5KzZuaMYT0)
 
-Addressed: 5 new Rutherford cases; testing site at New Bridge Medical; Thank you to our DPW workers delivering Meals on Wheels
+Addressed: New Rutherford COVID-19 cases; Please dispose of gloves in public properly; Alternate side of the street parking suspended
 
 ---
 
