@@ -9,7 +9,7 @@ title: 'COVID-19 Financial & Social Services Information for Individuals'
 
 **Social Services**
 
-New Jersey Programs
+- New Jersey Programs
 
   - [Jobs Portal](https://jobs.covid19.nj.gov/index.html)
 
@@ -27,7 +27,7 @@ New Jersey Programs
 
 **Financial Services**
 
-Federal Programs
+- Federal Programs
 
 
   - [Federal Stimulus Check](https://www.irs.gov/newsroom/economic-impact-payments-what-you-need-to-know)   
