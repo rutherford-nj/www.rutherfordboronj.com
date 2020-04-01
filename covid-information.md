@@ -26,7 +26,7 @@ title: 'COVID-19 Information'
 
 [A video recording of Councilman Goldsack](https://youtu.be/HxTeBFkGA_4)
 
-Addressed: New Rutherford COVID-19 cases; Please dispose of gloves in public properly; Alternate side of the street parking suspended
+Addressed: New COVID-19 cases in Rutherford; Open business list and financial relief information; Successful Meals on Wheels deliveries
 
 ---
 
