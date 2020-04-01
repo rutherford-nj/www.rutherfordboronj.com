@@ -7,6 +7,14 @@ title: 'COVID-19 Information-Archives'
 
 Below find each update that has been made daily by the Rutherford Mayor and Council: 
 
+**Tuesday, March 31st, 2020:** 
+
+[A transcript of the daily briefing from Council President Mullahey](https://storage.googleapis.com/static.rutherford-nj.com/covid/March%2031%202020%20Tom%20Mullahey%20(2).pdf)
+
+[A video recording of Council President Mullahey](https://youtu.be/z5KzZuaMYT0)
+
+Addressed: New Rutherford COVID-19 cases; Please dispose of gloves in public properly; Alternate side of the street parking suspended
+
 **Monday, March 30th, 2020:** 
 
 [A transcript of the daily briefing from Mayor Nunziato](https://storage.googleapis.com/static.rutherford-nj.com/covid/March%2030%202020%20Frank%20Nunziato%20(1).pdf)
