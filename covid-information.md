@@ -20,11 +20,11 @@ title: 'COVID-19 Information'
 
 **PLEASE READ:** [A summary of the Governor's executive order as provided by his office on March 21](https://storage.googleapis.com/static.rutherford-nj.com/covid/Summary%20of%20EO%20107%20and%20EO%20108.pdf)
 
-**Tuesday, March 31st, 2020:** 
+**Wednesday, April 1, 2020:** 
 
-[A transcript of the daily briefing from Council President Mullahey](https://storage.googleapis.com/static.rutherford-nj.com/covid/March%2031%202020%20Tom%20Mullahey%20(2).pdf)
+[A transcript of the daily briefing from Councilman Goldsack](https://storage.googleapis.com/static.rutherford-nj.com/covid/April%201%202020%20Mark%20Goldsack.pdf)
 
-[A video recording of Council President Mullahey](https://youtu.be/z5KzZuaMYT0)
+[A video recording of Councilman Goldsack](https://youtu.be/HxTeBFkGA_4)
 
 Addressed: New Rutherford COVID-19 cases; Please dispose of gloves in public properly; Alternate side of the street parking suspended
 
