@@ -9,7 +9,7 @@ Click on the link above for an Excel Spreadsheet listing essential open business
 
 All information has been provided by the business owner via the form below. 
 
-Also at the bottom of this spreadsheet is a tab containing hours of information for local supermarkets, as of 4/1/2020.
+Also at the bottom of this spreadsheet is a tab containing hours of operation for local supermarkets, as of 4/1/2020.
 
 
 
