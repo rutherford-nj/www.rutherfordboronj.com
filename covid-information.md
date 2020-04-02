@@ -20,13 +20,11 @@ title: 'COVID-19 Information'
 
 **PLEASE READ:** [A summary of the Governor's executive order as provided by his office on March 21](https://storage.googleapis.com/static.rutherford-nj.com/covid/Summary%20of%20EO%20107%20and%20EO%20108.pdf)
 
-**Wednesday, April 1, 2020:** 
+**Wednesday, April 2, 2020:** 
 
-[A transcript of the daily briefing from Councilman Goldsack](https://storage.googleapis.com/static.rutherford-nj.com/covid/April%201%202020%20Mark%20Goldsack.pdf)
+[A transcript of the daily briefing from Councilwoman McGowan](https://storage.googleapis.com/static.rutherford-nj.com/covid/April%202%202020%20Stephanie%20McGowan.pdf)
 
-[A video recording of Councilman Goldsack](https://youtu.be/HxTeBFkGA_4)
-
-Addressed: New COVID-19 cases in Rutherford; Open business list and financial relief information; Successful Meals on Wheels deliveries
+Addressed: New COVID-19 cases in Rutherford; Social distancing must be complied with; Contact Mayor's Office with donations 201-460-3022
 
 ---
 
