@@ -7,6 +7,15 @@ title: 'COVID-19 Information-Archives'
 
 Below find each update that has been made daily by the Rutherford Mayor and Council: 
 
+**Wednesday, April 2, 2020:** 
+
+[A transcript of the daily briefing from Councilwoman McGowan](https://storage.googleapis.com/static.rutherford-nj.com/covid/April%202%202020%20Stephanie%20McGowan.pdf)
+
+[A video recording of Councilwoman McGowan](https://www.youtube.com/watch?v=z9TgO-VGbVQ)
+
+Addressed: New COVID-19 cases in Rutherford; Social distancing must be complied with; Contact Mayor's Office with donations 201-460-3022
+
+
 **Wednesday, April 1, 2020:** 
 
 [A transcript of the daily briefing from Councilman Goldsack](https://storage.googleapis.com/static.rutherford-nj.com/covid/April%201%202020%20Mark%20Goldsack.pdf)
