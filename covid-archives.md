@@ -7,7 +7,15 @@ title: 'COVID-19 Information-Archives'
 
 Below find each update that has been made daily by the Rutherford Mayor and Council: 
 
-**Wednesday, April 2, 2020:** 
+**Friday, April 3, 2020:** 
+
+[A transcript of the daily briefing from Councilman Guzman](https://storage.googleapis.com/static.rutherford-nj.com/covid/April%203%202020%20Ray%20Guzman.pdf)
+
+[A video recording of Councilman Guzman](https://www.youtube.com/watch?v=2NIO6MtSvNs)
+
+Addressed: New COVID-19 cases in Rutherford; Thank you to our EMS volunteers; Please dispose of gloves properly; Open business list
+
+**Thursday, April 2, 2020:** 
 
 [A transcript of the daily briefing from Councilwoman McGowan](https://storage.googleapis.com/static.rutherford-nj.com/covid/April%202%202020%20Stephanie%20McGowan.pdf)
 
