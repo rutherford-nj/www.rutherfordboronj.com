@@ -7,6 +7,12 @@ title: 'COVID-19 Information-Archives'
 
 Below find each update that has been made daily by the Rutherford Mayor and Council: 
 
+**Saturday, April 4, 2020:** 
+
+[A daily briefing from Councilman Narucki](https://storage.googleapis.com/static.rutherford-nj.com/covid/April%204%202020%20Eddie%20Narucki.pdf)
+
+Addressed: New COVID-19 cases in Rutherford; CDC recommends wearing masks in public; Visit the open business list
+
 **Friday, April 3, 2020:** 
 
 [A transcript of the daily briefing from Councilman Guzman](https://storage.googleapis.com/static.rutherford-nj.com/covid/April%203%202020%20Ray%20Guzman.pdf)
