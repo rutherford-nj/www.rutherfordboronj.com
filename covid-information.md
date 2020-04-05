@@ -20,11 +20,11 @@ title: 'COVID-19 Information'
 
 **PLEASE READ:** [A summary of the Governor's executive order as provided by his office on March 21](https://storage.googleapis.com/static.rutherford-nj.com/covid/Summary%20of%20EO%20107%20and%20EO%20108.pdf)
 
-**Saturday, April 4, 2020:** 
+**Saturday, April 5, 2020:** 
 
-[A daily briefing from Councilman Narucki](https://storage.googleapis.com/static.rutherford-nj.com/covid/April%204%202020%20Eddie%20Narucki.pdf)
+[A daily briefing from Mayor Nunziato & Council](https://storage.googleapis.com/static.rutherford-nj.com/covid/April%205%202020%20Mayor%20and%20Council%20(1).pdf)
 
-Addressed: New COVID-19 cases in Rutherford; CDC recommends wearing masks in public; Visit the open business list
+Addressed: New COVID-19 cases in Rutherford; Federal privacy rules protect sensitive patient health information; Parks remain closed
 
 ---
 
