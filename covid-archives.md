@@ -7,6 +7,12 @@ title: 'COVID-19 Information-Archives'
 
 Below find each update that has been made daily by the Rutherford Mayor and Council: 
 
+**Sunday, April 5, 2020:** 
+
+[A daily briefing from Mayor Nunziato & Council](https://storage.googleapis.com/static.rutherford-nj.com/covid/April%205%202020%20Mayor%20and%20Council%20(1).pdf)
+
+Addressed: New COVID-19 cases in Rutherford; Federal privacy rules protect sensitive patient health information; Parks remain closed
+
 **Saturday, April 4, 2020:** 
 
 [A daily briefing from Councilman Narucki](https://storage.googleapis.com/static.rutherford-nj.com/covid/April%204%202020%20Eddie%20Narucki.pdf)
