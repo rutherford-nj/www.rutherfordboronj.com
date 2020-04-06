@@ -20,11 +20,11 @@ title: 'COVID-19 Information'
 
 **PLEASE READ:** [A summary of the Governor's executive order as provided by his office on March 21](https://storage.googleapis.com/static.rutherford-nj.com/covid/Summary%20of%20EO%20107%20and%20EO%20108.pdf)
 
-**Sunday, April 5, 2020:** 
+**Monday, April 6, 2020:** 
 
-[A daily briefing from Mayor Nunziato & Council](https://storage.googleapis.com/static.rutherford-nj.com/covid/April%205%202020%20Mayor%20and%20Council%20(1).pdf)
+[A video statement from Mayor Nunziato regarding the passing of Rutherford residents](https://youtu.be/IGAjyrJTJnY)
 
-Addressed: New COVID-19 cases in Rutherford; Federal privacy rules protect sensitive patient health information; Parks remain closed
+[Transcript of the statement from Mayor Nunziato regarding the passing of Rutherford residents](https://storage.googleapis.com/static.rutherford-nj.com/covid/April%206%202020%20Mayor%20Statement.pdf)
 
 ---
 
