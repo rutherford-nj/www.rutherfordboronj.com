@@ -26,13 +26,15 @@ title: 'COVID-19 Information'
 
 [Transcript of the statement from Mayor Nunziato regarding the passing of Rutherford residents](https://storage.googleapis.com/static.rutherford-nj.com/covid/April%206%202020%20Mayor%20Statement.pdf)
 
-[A video statement from Councilman Narucki](https://www.youtube.com/watch?v=s6ES-AlKQD0)
+**Tuesday, April 7, 2020:** 
 
-[Transcript of the statement from Councilman Narucki](https://storage.googleapis.com/static.rutherford-nj.com/covid/April%206%202020%20Eddie%20Narucki.pdf)
+[A video statement from Councilwoman Begg-Roberson](https://youtu.be/80MF30HaOQM)
 
-Addressed: New COVID-19 cases in Rutherford; Emergency Drive-Thru Food Box Distribution at the YMCA; Thank you to our first responders, DPW and essential Borough employees
+[Transcript of the statement from Councilwoman Begg-Roberson](https://storage.googleapis.com/static.rutherford-nj.com/covid/April%207%202020%20Maria%20Begg-Roberson.pdf)
 
-[Letter sent to Houses of Worship](https://storage.googleapis.com/static.rutherford-nj.com/covid/LetterToHousesofWorship.pdf)
+Addressed: Please be mindful of using volunteer ambulance resources; dispose of gloves properly; all state parks ordered closed
+
+[Letter from Rutherford Volunteer Ambulance Corp](https://storage.googleapis.com/static.rutherford-nj.com/covid/EMS%20Statement.docx.pdf)
 
 ---
 
