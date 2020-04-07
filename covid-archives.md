@@ -7,6 +7,16 @@ title: 'COVID-19 Information-Archives'
 
 Below find each update that has been made daily by the Rutherford Mayor and Council: 
 
+**Monday, April 6, 2020:** 
+
+[A video statement from Councilman Narucki](https://www.youtube.com/watch?v=s6ES-AlKQD0)
+
+[Transcript of the statement from Councilman Narucki](https://storage.googleapis.com/static.rutherford-nj.com/covid/April%206%202020%20Eddie%20Narucki.pdf)
+
+Addressed: New COVID-19 cases in Rutherford; Emergency Drive-Thru Food Box Distribution at the YMCA; Thank you to our first responders, DPW and essential Borough employees
+
+[Letter sent to Houses of Worship](https://storage.googleapis.com/static.rutherford-nj.com/covid/LetterToHousesofWorship.pdf)
+
 **Sunday, April 5, 2020:** 
 
 [A daily briefing from Mayor Nunziato & Council](https://storage.googleapis.com/static.rutherford-nj.com/covid/April%205%202020%20Mayor%20and%20Council%20(1).pdf)
