@@ -26,6 +26,14 @@ title: 'COVID-19 Information'
 
 [Transcript of the statement from Mayor Nunziato regarding the passing of Rutherford residents](https://storage.googleapis.com/static.rutherford-nj.com/covid/April%206%202020%20Mayor%20Statement.pdf)
 
+[A video statement from Councilman Narucki](https://youtu.be/IGAjyrJTJnY)
+
+[Transcript of the statement from Councilman Narucki](https://storage.googleapis.com/static.rutherford-nj.com/covid/April%206%202020%20Eddie%20Narucki.pdf)
+
+Addressed: New COVID-19 cases in Rutherford; Emergency Drive-Thru Food Box Distribution at the YMCA; Thank you to our first responders, DPW and essential Borough employees
+
+[Letter sent to Houses of Worship](https://storage.googleapis.com/static.rutherford-nj.com/covid/LetterToHousesofWorship.pdf)
+
 ---
 
 **For Archives of Daily Briefings and Transcripts [click here](/covid-archives/)**
