@@ -26,7 +26,7 @@ title: 'COVID-19 Information'
 
 [Transcript of the statement from Mayor Nunziato regarding the passing of Rutherford residents](https://storage.googleapis.com/static.rutherford-nj.com/covid/April%206%202020%20Mayor%20Statement.pdf)
 
-[A video statement from Councilman Narucki](https://youtu.be/IGAjyrJTJnY)
+[A video statement from Councilman Narucki](https://www.youtube.com/watch?v=s6ES-AlKQD0)
 
 [Transcript of the statement from Councilman Narucki](https://storage.googleapis.com/static.rutherford-nj.com/covid/April%206%202020%20Eddie%20Narucki.pdf)
 
