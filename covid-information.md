@@ -88,7 +88,7 @@ These closures and cancellations will be in effect until the Governer revokes or
 
 **Please be advised of the following items of note:**
 
-- As of 4/8.2020, all essential businesses that remain open must limit the amount of customers to 50% of their regular capacity. Patrons and employees are required to wear masks and gloves as well.
+- As of 4/8/2020, all essential businesses that remain open must limit the amount of customers to 50% of their regular capacity. Patrons and employees are required to wear masks and gloves as well.
 
 - If a visit to Borough Hall is necessary, please contact the appropriate department and make an appointment prior to arrival. 
 
