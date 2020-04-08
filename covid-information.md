@@ -26,15 +26,13 @@ title: 'COVID-19 Information'
 
 [Transcript of the statement from Mayor Nunziato regarding the passing of Rutherford residents](https://storage.googleapis.com/static.rutherford-nj.com/covid/April%206%202020%20Mayor%20Statement.pdf)
 
-**Tuesday, April 7, 2020:** 
+**Wednesday, April 8, 2020:** 
 
-[A video statement from Councilwoman Begg-Roberson](https://youtu.be/80MF30HaOQM)
+[A video statement from Council President Mullahey](https://youtu.be/80MF30HaOQM)
 
-[Transcript of the statement from Councilwoman Begg-Roberson](https://storage.googleapis.com/static.rutherford-nj.com/covid/April%207%202020%20Maria%20Begg-Roberson.pdf)
+[Transcript of the statement from Council President Mullahey](https://storage.googleapis.com/static.rutherford-nj.com/covid/April%207%202020%20Maria%20Begg-Roberson.pdf)
 
-Addressed: Please be mindful of using volunteer ambulance resources; dispose of gloves properly; all state parks ordered closed
-
-[Letter from Rutherford Volunteer Ambulance Corp](https://storage.googleapis.com/static.rutherford-nj.com/covid/EMS%20Statement.docx.pdf)
+Addressed: New COVID-19 cases; Small business information & Executive Order; Please respect our neighbors' privacy
 
 ---
 
