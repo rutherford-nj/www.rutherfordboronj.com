@@ -56,6 +56,8 @@ Important links:
 
 [NJ Dept of Health](https://www.nj.gov/health/)
 
+[Letter from Rutherford Volunteer Ambulance Corp](https://storage.googleapis.com/static.rutherford-nj.com/covid/EMS%20Statement.docx.pdf)
+
 ---
 
 ## A statement from Mayor Frank Nunziato and Rutherford Borough Council 
