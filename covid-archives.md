@@ -7,7 +7,17 @@ title: 'COVID-19 Information-Archives'
 
 Below find each update that has been made daily by the Rutherford Mayor and Council: 
 
-**Monday, April 6, 2020:** 
+**- Tuesday, April 7, 2020:** 
+
+[A video statement from Councilwoman Begg-Roberson](https://youtu.be/80MF30HaOQM)
+
+[Transcript of the statement from Councilwoman Begg-Roberson](https://storage.googleapis.com/static.rutherford-nj.com/covid/April%207%202020%20Maria%20Begg-Roberson.pdf)
+
+Addressed: Please be mindful of using volunteer ambulance resources; dispose of gloves properly; all state parks ordered closed
+
+[Letter from Rutherford Volunteer Ambulance Corp](https://storage.googleapis.com/static.rutherford-nj.com/covid/EMS%20Statement.docx.pdf)
+
+**- Monday, April 6, 2020:** 
 
 [A video statement from Councilman Narucki](https://www.youtube.com/watch?v=s6ES-AlKQD0)
 
@@ -17,19 +27,19 @@ Addressed: New COVID-19 cases in Rutherford; Emergency Drive-Thru Food Box Distr
 
 [Letter sent to Houses of Worship](https://storage.googleapis.com/static.rutherford-nj.com/covid/LetterToHousesofWorship.pdf)
 
-**Sunday, April 5, 2020:** 
+**- Sunday, April 5, 2020:** 
 
 [A daily briefing from Mayor Nunziato & Council](https://storage.googleapis.com/static.rutherford-nj.com/covid/April%205%202020%20Mayor%20and%20Council%20(1).pdf)
 
 Addressed: New COVID-19 cases in Rutherford; Federal privacy rules protect sensitive patient health information; Parks remain closed
 
-**Saturday, April 4, 2020:** 
+**- Saturday, April 4, 2020:** 
 
 [A daily briefing from Councilman Narucki](https://storage.googleapis.com/static.rutherford-nj.com/covid/April%204%202020%20Eddie%20Narucki.pdf)
 
 Addressed: New COVID-19 cases in Rutherford; CDC recommends wearing masks in public; Visit the open business list
 
-**Friday, April 3, 2020:** 
+**- Friday, April 3, 2020:** 
 
 [A transcript of the daily briefing from Councilman Guzman](https://storage.googleapis.com/static.rutherford-nj.com/covid/April%203%202020%20Ray%20Guzman.pdf)
 
@@ -37,7 +47,7 @@ Addressed: New COVID-19 cases in Rutherford; CDC recommends wearing masks in pub
 
 Addressed: New COVID-19 cases in Rutherford; Thank you to our EMS volunteers; Please dispose of gloves properly; Open business list
 
-**Thursday, April 2, 2020:** 
+**- Thursday, April 2, 2020:** 
 
 [A transcript of the daily briefing from Councilwoman McGowan](https://storage.googleapis.com/static.rutherford-nj.com/covid/April%202%202020%20Stephanie%20McGowan.pdf)
 
@@ -46,7 +56,7 @@ Addressed: New COVID-19 cases in Rutherford; Thank you to our EMS volunteers; Pl
 Addressed: New COVID-19 cases in Rutherford; Social distancing must be complied with; Contact Mayor's Office with donations 201-460-3022
 
 
-**Wednesday, April 1, 2020:** 
+**- Wednesday, April 1, 2020:** 
 
 [A transcript of the daily briefing from Councilman Goldsack](https://storage.googleapis.com/static.rutherford-nj.com/covid/April%201%202020%20Mark%20Goldsack.pdf)
 
@@ -62,7 +72,7 @@ Addressed: New COVID-19 cases in Rutherford; Open business list and financial re
 
 Addressed: New Rutherford COVID-19 cases; Please dispose of gloves in public properly; Alternate side of the street parking suspended
 
-**Monday, March 30th, 2020:** 
+**- Monday, March 30th, 2020:** 
 
 [A transcript of the daily briefing from Mayor Nunziato](https://storage.googleapis.com/static.rutherford-nj.com/covid/March%2030%202020%20Frank%20Nunziato%20(1).pdf)
 
@@ -70,7 +80,7 @@ Addressed: New Rutherford COVID-19 cases; Please dispose of gloves in public pro
 
 Addressed: 5 new Rutherford cases; testing site at New Bridge Medical; Thank you to our DPW workers delivering Meals on Wheels
 
-**Sunday, March 29th, 2020:** 
+**- Sunday, March 29th, 2020:** 
 
 [A transcript of the daily briefing From Councilwoman Begg-Roberson](https://storage.googleapis.com/static.rutherford-nj.com/covid/March%2029%202020%20Maria%20Begg-Roberson.pdf)
 
