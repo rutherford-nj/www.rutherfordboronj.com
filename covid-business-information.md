@@ -21,9 +21,9 @@ For information on COVID-19/Novel Coronavirus and its impact on businesses, plea
  
 [- NJDOL and the Coronavirus (COVID-19): What Employers & Businesses Should Know](https://www.nj.gov/labor/employer-services/business/covid.shtml)
  
-[-NJEDA](https://www.njeda.com/about/Public-Information/Coronavirus-Information)
+[- NJEDA](https://www.njeda.com/about/Public-Information/Coronavirus-Information)
  
-[-Information on COVID-19's Impact on Businesses and Question Portal](https://faq.business.nj.gov/en/collections/2198378-information-for-nj-businesses-on-the-coronavirus-outbreak)
+[- Information on COVID-19's Impact on Businesses and Question Portal](https://faq.business.nj.gov/en/collections/2198378-information-for-nj-businesses-on-the-coronavirus-outbreak)
 
 
 **Federal Programs via the Small Business Administration:**
