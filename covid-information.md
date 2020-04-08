@@ -28,9 +28,9 @@ title: 'COVID-19 Information'
 
 **Wednesday, April 8, 2020:** 
 
-[A video statement from Council President Mullahey](https://youtu.be/80MF30HaOQM)
+[A video statement from Council President Mullahey](https://www.youtube.com/watch?v=KbFRgqzher4)
 
-[Transcript of the statement from Council President Mullahey](https://storage.googleapis.com/static.rutherford-nj.com/covid/April%207%202020%20Maria%20Begg-Roberson.pdf)
+[Transcript of the statement from Council President Mullahey](https://storage.googleapis.com/static.rutherford-nj.com/covid/April%208%202020%20Tom%20Mullahey.pdf)
 
 Addressed: New COVID-19 cases; Small business information & Executive Order; Please respect our neighbors' privacy
 
@@ -88,6 +88,8 @@ These closures and cancellations will be in effect until the Governer revokes or
 
 **Please be advised of the following items of note:**
 
+- As of 4/8.2020, all essential businesses that remain open must limit the amount of customers to 50% of their regular capacity. Patrons and employees are required to wear masks and gloves as well.
+
 - If a visit to Borough Hall is necessary, please contact the appropriate department and make an appointment prior to arrival. 
 
 - Garbage and recycling will be collected on a normal schedule at this time.
@@ -96,9 +98,7 @@ These closures and cancellations will be in effect until the Governer revokes or
 
 - Mayor and Council meetings will take place as scheduled, however agendas will consist of essential business only (for example, paying invoices). 
 
-- Board and Commission meetings (Planning Board, Zoning Board of Adjustment, Shade Tree Commission, and Civil Rights Commission) will meet as scheduled subject to the discretion of their respective Chairpeople. Please refer to the Borough calendar for updates. 
-
--  All gatherings of persons in the State of New Jersey shall be limited to 10 persons or fewer, with limited exceptions. Gatherings of over 10 be documented by recording the names and phone numbers of all those in attendance should there be a local outbreak of the virus. The organizer of the event is asked to keep the records for a period of 14 days. We are advising our civic and non-Borough sponsored organizations to exercise caution when deciding whether or not to move forward with any planned events.  
+- Board and Commission meetings (Planning Board, Zoning Board of Adjustment, Shade Tree Commission, and Civil Rights Commission) will meet as scheduled subject to the discretion of their respective Chairpeople. Please refer to the Borough calendar for updates.   
 
 - All police services provided by the Rutherford Police Department will continue as normal but with a heightened sense of precaution for interactions that may expose our officers to symptoms associated with COVID-19.  RPD personnel answering calls for service have been advised to ask callers if medical issues are consistent with symptoms of COVID-19 which will allow them to advise our assigned first responders.  If calls for services are not medical in nature, we will also inquire if anyone in the household is exhibiting symptoms of COVID-19.  
 
