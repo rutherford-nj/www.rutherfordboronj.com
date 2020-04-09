@@ -11,7 +11,7 @@ For information on COVID-19/Novel Coronavirus and its impact on businesses, plea
 
 [A Summary of Business Assistance](https://storage.googleapis.com/static.rutherford-nj.com/covid/COVID-19%20Business%20Assistance.docx)
 
-[COVID-19: Curated Resources for Businesses from the Meadowlands Chamber of Commerce]
+[COVID-19: Curated Resources for Businesses from the Meadowlands Chamber of Commerce](https://meadowlandsmedia.com/2020/04/08/covid-19-curated-resources-for-businesses/)
 
 **Information for Businesses Provided by the County**
 
