@@ -30,8 +30,8 @@ For information on COVID-19/Novel Coronavirus and its impact on businesses, plea
 
 **Federal Programs via the Small Business Administration:**
 
-[Small Business Guidance & Loan Resources](https://www.sba.gov/page/coronavirus-covid-19-small-business-guidance-loan-resources)
+[- Small Business Guidance & Loan Resources](https://www.sba.gov/page/coronavirus-covid-19-small-business-guidance-loan-resources)
 
-[What financial assistance is available from the U.S. Small Business Administration (SBA)?](https://faq.business.nj.gov/en/articles/3789809-what-financial-assistance-is-available-from-the-u-s-small-business-administration-sba)
+[- What financial assistance is available from the U.S. Small Business Administration (SBA)?](https://faq.business.nj.gov/en/articles/3789809-what-financial-assistance-is-available-from-the-u-s-small-business-administration-sba)
 
 
