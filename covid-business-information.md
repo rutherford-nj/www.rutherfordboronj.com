@@ -7,12 +7,11 @@ title: 'COVID-19 Financial Relief Information for Businesses'
 
 # Financial Relief Information for Businesses
 
-[COVID-19 Information for New Jersey Businesses](https://faq.business.nj.gov/en/collections/2198378-information-for-nj-businesses-on-the-coronavirus-outbreak)
-
 For information on COVID-19/Novel Coronavirus and its impact on businesses, please visit the [State of New Jersey COVID-19 business information hub.](https://cv.business.nj.gov) You'll find information about resources, assistance, and regulations. On the site, you can also live chat with a representative from the NJ Department of State's Business Action Center.
 
 [A Summary of Business Assistance](https://storage.googleapis.com/static.rutherford-nj.com/covid/COVID-19%20Business%20Assistance.docx)
 
+[COVID-19: Curated Resources for Businesses from the Meadowlands Chamber of Commerce]
 
 **Information for Businesses Provided by the County**
 
@@ -20,6 +19,8 @@ For information on COVID-19/Novel Coronavirus and its impact on businesses, plea
 
 
 **Information for Businesses Provided by the State**
+
+[- COVID-19 Information for New Jersey Businesses](https://faq.business.nj.gov/en/collections/2198378-information-for-nj-businesses-on-the-coronavirus-outbreak)
 
 [- A Coronavirus Pandemic Resource Guide for New Jerseyans from the Office of Senator Cory Booker](https://storage.googleapis.com/static.rutherford-nj.com/covid/Office%20of%20U.S.%20Sen%20Cory%20Booker_%20A%20Coronavirus%20Pandemic%20Resource%20Guide%20for%20NJ%20(Updated%20April%204%2C%202020).pdf)
 
@@ -32,6 +33,7 @@ For information on COVID-19/Novel Coronavirus and its impact on businesses, plea
 [- Information on COVID-19's Impact on Businesses and Question Portal](https://faq.business.nj.gov/en/collections/2198378-information-for-nj-businesses-on-the-coronavirus-outbreak)
 
 [-New Jersey Programs](https://faq.business.nj.gov/en/articles/3838662-what-new-state-financial-support-programs-is-my-business-eligible-for-how-do-i-use-the-eligibility-wizard)
+
 
 **Federal Programs via the Small Business Administration:**
 
