@@ -26,13 +26,15 @@ title: 'COVID-19 Information'
 
 [Transcript of the statement from Mayor Nunziato regarding the passing of Rutherford residents](https://storage.googleapis.com/static.rutherford-nj.com/covid/April%206%202020%20Mayor%20Statement.pdf)
 
-**Wednesday, April 8, 2020:** 
+**Thursday, April 9, 2020:** 
 
-[A video statement from Council President Mullahey](https://www.youtube.com/watch?v=KbFRgqzher4)
+[A video statement from Councilman Goldsack](https://www.youtube.com/watch?v=evD2pF4nNww)
 
-[Transcript of the statement from Council President Mullahey](https://storage.googleapis.com/static.rutherford-nj.com/covid/April%208%202020%20Tom%20Mullahey.pdf)
+[Transcript of the statement from Councilman Goldsack](https://storage.googleapis.com/static.rutherford-nj.com/covid/April%209%202020%20Mark%20Goldsack.pdf)
 
-Addressed: New COVID-19 cases; Small business information & Executive Order; Please respect our neighbors' privacy
+Addressed: New COVID-19 cases; Testing sites in Bergen County; Executive Order 122 Clarification
+
+[Executive Order - 122: Specifying Essential Construction Work](https://storage.googleapis.com/static.rutherford-nj.com/covid/Microsoft%20Word%20-%20EO-122.pdf)
 
 ---
 
