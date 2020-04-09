@@ -7,7 +7,7 @@ title: 'COVID-19 Information-Archives'
 
 Below find each update that has been made daily by the Rutherford Mayor and Council: 
 
-**Wednesday, April 8, 2020:** 
+**- Wednesday, April 8, 2020:** 
 
 [A video statement from Council President Mullahey](https://www.youtube.com/watch?v=KbFRgqzher4)
 
