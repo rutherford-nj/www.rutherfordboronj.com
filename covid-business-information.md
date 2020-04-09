@@ -17,6 +17,8 @@ For information on COVID-19/Novel Coronavirus and its impact on businesses, plea
 
 **Information for Businesses Provided by the State of NJ**
 
+[- A Coronavirus Pandemic Resource Guide for New Jerseyans from the Office of Senator Cory Booker](https://storage.googleapis.com/static.rutherford-nj.com/covid/Office%20of%20U.S.%20Sen%20Cory%20Booker_%20A%20Coronavirus%20Pandemic%20Resource%20Guide%20for%20NJ%20(Updated%20April%204%2C%202020).pdf)
+
 [- Emergency Assistance Eligibility Wizard](https://assistance.business.nj.gov/)
  
 [- NJDOL and the Coronavirus (COVID-19): What Employers & Businesses Should Know](https://www.nj.gov/labor/employer-services/business/covid.shtml)
