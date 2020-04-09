@@ -7,6 +7,14 @@ title: 'COVID-19 Information-Archives'
 
 Below find each update that has been made daily by the Rutherford Mayor and Council: 
 
+**Wednesday, April 8, 2020:** 
+
+[A video statement from Council President Mullahey](https://www.youtube.com/watch?v=KbFRgqzher4)
+
+[Transcript of the statement from Council President Mullahey](https://storage.googleapis.com/static.rutherford-nj.com/covid/April%208%202020%20Tom%20Mullahey.pdf)
+
+Addressed: New COVID-19 cases; Small business information & Executive Order; Please respect our neighbors' privacy
+
 **- Tuesday, April 7, 2020:** 
 
 [A video statement from Councilwoman Begg-Roberson](https://youtu.be/80MF30HaOQM)
