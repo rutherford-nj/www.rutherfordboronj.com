@@ -31,7 +31,7 @@ For information on COVID-19/Novel Coronavirus and its impact on businesses, plea
  
 [- Information on COVID-19's Impact on Businesses and Question Portal](https://faq.business.nj.gov/en/collections/2198378-information-for-nj-businesses-on-the-coronavirus-outbreak)
 
-[New Jersey Programs](https://faq.business.nj.gov/en/articles/3838662-what-new-state-financial-support-programs-is-my-business-eligible-for-how-do-i-use-the-eligibility-wizard)
+[-New Jersey Programs](https://faq.business.nj.gov/en/articles/3838662-what-new-state-financial-support-programs-is-my-business-eligible-for-how-do-i-use-the-eligibility-wizard)
 
 **Federal Programs via the Small Business Administration:**
 
