@@ -7,6 +7,16 @@ title: 'COVID-19 Information-Archives'
 
 Below find each update that has been made daily by the Rutherford Mayor and Council: 
 
+**- Thursday, April 9, 2020:** 
+
+[A video statement from Councilman Goldsack](https://www.youtube.com/watch?v=evD2pF4nNww)
+
+[Transcript of the statement from Councilman Goldsack](https://storage.googleapis.com/static.rutherford-nj.com/covid/April%209%202020%20Mark%20Goldsack.pdf)
+
+Addressed: New COVID-19 cases; Testing sites in Bergen County; Executive Order 122 Clarification
+
+[Executive Order - 122: Specifying Essential Construction Work](https://storage.googleapis.com/static.rutherford-nj.com/covid/Microsoft%20Word%20-%20EO-122.pdf)
+
 **- Wednesday, April 8, 2020:** 
 
 [A video statement from Council President Mullahey](https://www.youtube.com/watch?v=KbFRgqzher4)
