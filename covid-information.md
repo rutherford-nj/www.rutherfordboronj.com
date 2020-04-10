@@ -26,15 +26,14 @@ title: 'COVID-19 Information'
 
 [Transcript of the statement from Mayor Nunziato regarding the passing of Rutherford residents](https://storage.googleapis.com/static.rutherford-nj.com/covid/April%206%202020%20Mayor%20Statement.pdf)
 
-**Thursday, April 9, 2020:** 
+**Friday, April 10, 2020:** 
 
-[A video statement from Councilman Goldsack](https://www.youtube.com/watch?v=evD2pF4nNww)
+[A video statement from Councilman Guzman](https://www.youtube.com/watch?v=yNmL-q-WlVA)
 
-[Transcript of the statement from Councilman Goldsack](https://storage.googleapis.com/static.rutherford-nj.com/covid/April%209%202020%20Mark%20Goldsack.pdf)
+[Transcript of the statement from Councilman Guzman](https://storage.googleapis.com/static.rutherford-nj.com/covid/April%2010%20Ray%20Guzman.pdf)
 
-Addressed: New COVID-19 cases; Testing sites in Bergen County; Executive Order 122 Clarification
+Addressed: New COVID-19 cases; Useful website from the state: [nj211.org](https://www.nj211.org/); the Easter Bunny comes to town 4/11
 
-[Executive Order - 122: Specifying Essential Construction Work](https://storage.googleapis.com/static.rutherford-nj.com/covid/Microsoft%20Word%20-%20EO-122.pdf)
 
 ---
 
@@ -49,6 +48,8 @@ Addressed: New COVID-19 cases; Testing sites in Bergen County; Executive Order 1
 Important links: 
 
 [Telescreening for First Responders at New Bridge Medical Center](https://www.newbridgehealth.org/bergen-covid19-screening/)
+
+[Testing sites, helplines and more: www.nj211.org](https://www.nj211.org/)
 
 [NJ COVID-19 Information Hub](https://covid19.nj.gov/)
 
