@@ -7,6 +7,15 @@ title: 'COVID-19 Information-Archives'
 
 Below find each update that has been made daily by the Rutherford Mayor and Council: 
 
+**Friday, April 10, 2020:** 
+
+[A video statement from Councilman Guzman](https://www.youtube.com/watch?v=yNmL-q-WlVA)
+
+[Transcript of the statement from Councilman Guzman](https://storage.googleapis.com/static.rutherford-nj.com/covid/April%2010%20Ray%20Guzman.pdf)
+
+Addressed: New COVID-19 cases; Useful website from the state: [nj211.org](https://www.nj211.org/); the Easter Bunny comes to town 4/11
+
+
 **- Thursday, April 9, 2020:** 
 
 [A video statement from Councilman Goldsack](https://www.youtube.com/watch?v=evD2pF4nNww)
