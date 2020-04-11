@@ -49,7 +49,7 @@ Important links:
 
 [Telescreening for First Responders at New Bridge Medical Center](https://www.newbridgehealth.org/bergen-covid19-screening/)
 
-[Testing sites, helplines and more: www.nj211.org](https://www.nj211.org/)
+[Testing sites, helplines and more: www.nj211.org](https://www.nj211.org/coronavirus-covid-19)
 
 [NJ COVID-19 Information Hub](https://covid19.nj.gov/)
 
