@@ -26,14 +26,13 @@ title: 'COVID-19 Information'
 
 [Transcript of the statement from Mayor Nunziato regarding the passing of Rutherford residents](https://storage.googleapis.com/static.rutherford-nj.com/covid/April%206%202020%20Mayor%20Statement.pdf)
 
-**Friday, April 10, 2020:** 
+**Saturday, April 11, 2020:** 
 
-[A video statement from Councilman Guzman](https://www.youtube.com/watch?v=yNmL-q-WlVA)
+[A video statement from Councilwoman McGowan](https://youtu.be/0sGjbiH1BH0)
 
-[Transcript of the statement from Councilman Guzman](https://storage.googleapis.com/static.rutherford-nj.com/covid/April%2010%20Ray%20Guzman.pdf)
+[Transcript of the statement from Councilwoman McGowan](https://storage.googleapis.com/static.rutherford-nj.com/covid/April%2011%20Stephanie%20McGowan%20(1).pdf)
 
-Addressed: New COVID-19 cases; Useful website from the state: [nj211.org](https://www.nj211.org/); the Easter Bunny comes to town 4/11
-
+Addressed: New COVID-19 cases; Glove & mask donations; BCC testing site closed Sunday 4/12; No update tomorrow
 
 ---
 
