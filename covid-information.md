@@ -26,13 +26,15 @@ title: 'COVID-19 Information'
 
 [Transcript of the statement from Mayor Nunziato regarding the passing of Rutherford residents](https://storage.googleapis.com/static.rutherford-nj.com/covid/April%206%202020%20Mayor%20Statement.pdf)
 
-**Saturday, April 11, 2020:** 
+**Monday, April 13, 2020:** 
 
-[A video statement from Councilwoman McGowan](https://youtu.be/0sGjbiH1BH0)
+[A video statement from Councilman Eddie Narucki](https://youtu.be/n8d1P4HH13w)
 
-[Transcript of the statement from Councilwoman McGowan](https://storage.googleapis.com/static.rutherford-nj.com/covid/April%2011%20Stephanie%20McGowan%20(1).pdf)
+[Transcript of the statement from Councilman Eddie Narucki](https://storage.googleapis.com/static.rutherford-nj.com/covid/April%2013%20Eddie%20Narucki%20(1).pdf)
 
-Addressed: New COVID-19 cases; Glove & mask donations; BCC testing site closed Sunday 4/12; No update tomorrow
+Addressed: New COVID-19 cases; New Executive Order for Public Transportation & Businesses; Small Business Emergency Assistance Loans
+
+[Executive Order issued Saturday, April 11](https://storage.googleapis.com/static.rutherford-nj.com/covid/EO-125.pdf)
 
 ---
 
