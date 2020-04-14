@@ -26,15 +26,14 @@ title: 'COVID-19 Information'
 
 [Transcript of the statement from Mayor Nunziato regarding the passing of Rutherford residents](https://storage.googleapis.com/static.rutherford-nj.com/covid/April%206%202020%20Mayor%20Statement.pdf)
 
-**Monday, April 13, 2020:** 
+**Tuesday, April 14, 2020:** 
 
-[A video statement from Councilman Eddie Narucki](https://youtu.be/n8d1P4HH13w)
+[A video statement from Councilwoman Begg-Roberson](https://youtu.be/n8d1P4HH13w)
 
-[Transcript of the statement from Councilman Eddie Narucki](https://storage.googleapis.com/static.rutherford-nj.com/covid/April%2013%20Eddie%20Narucki%20(1).pdf)
+[Transcript of the statement from Councilwoman Begg-Roberson](https://storage.googleapis.com/static.rutherford-nj.com/covid/April%2014%20Maria%20Begg-Roberson.pdf)
 
-Addressed: New COVID-19 cases; New Executive Order for Public Transportation & Businesses; Small Business Emergency Assistance Loans
+Addressed: New COVID-19 cases; Parking Permit Changes; New Bridge Testing Site Open 7 Days
 
-[Executive Order issued Saturday, April 11](https://storage.googleapis.com/static.rutherford-nj.com/covid/EO-125.pdf)
 
 ---
 
