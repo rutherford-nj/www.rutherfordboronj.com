@@ -28,7 +28,7 @@ title: 'COVID-19 Information'
 
 **Tuesday, April 14, 2020:** 
 
-[A video statement from Councilwoman Begg-Roberson](https://youtu.be/n8d1P4HH13w)
+[A video statement from Councilwoman Begg-Roberson](https://youtu.be/T4FsOk4FQxo)
 
 [Transcript of the statement from Councilwoman Begg-Roberson](https://storage.googleapis.com/static.rutherford-nj.com/covid/April%2014%20Maria%20Begg-Roberson.pdf)
 
