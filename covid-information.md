@@ -26,14 +26,13 @@ title: 'COVID-19 Information'
 
 [Transcript of the statement from Mayor Nunziato regarding the passing of Rutherford residents](https://storage.googleapis.com/static.rutherford-nj.com/covid/April%206%202020%20Mayor%20Statement.pdf)
 
-**Tuesday, April 14, 2020:** 
+**Wednesday, April 14, 2020:** 
 
-[A video statement from Councilwoman Begg-Roberson](https://youtu.be/T4FsOk4FQxo)
+[A video statement from Mayor Frank Nunziato](https://youtu.be/AplyE7202QM)
 
-[Transcript of the statement from Councilwoman Begg-Roberson](https://storage.googleapis.com/static.rutherford-nj.com/covid/April%2014%20Maria%20Begg-Roberson.pdf)
+[Transcript of the statement from Mayor Frank Nunziato](https://storage.googleapis.com/static.rutherford-nj.com/covid/April%2015%20Frank%20Nunziato%20(1).pdf)
 
-Addressed: New COVID-19 cases; Parking Permit Changes; New Bridge Testing Site Open 7 Days
-
+Addressed: New COVID-19 cases; Non-Essential Businesses; Change of Dates for Primary & Tax Filing
 
 ---
 
