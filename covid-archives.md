@@ -7,6 +7,14 @@ title: 'COVID-19 Information-Archives'
 
 Below find each update that has been made daily by the Rutherford Mayor and Council: 
 
+**Tuesday, April 14, 2020:** 
+
+[A video statement from Councilwoman Begg-Roberson](https://youtu.be/T4FsOk4FQxo)
+
+[Transcript of the statement from Councilwoman Begg-Roberson](https://storage.googleapis.com/static.rutherford-nj.com/covid/April%2014%20Maria%20Begg-Roberson.pdf)
+
+Addressed: New COVID-19 cases; Parking Permit Changes; New Bridge Testing Site Open 7 Days
+
 **Monday, April 13, 2020:** 
 
 [A video statement from Councilman Eddie Narucki](https://youtu.be/n8d1P4HH13w)
