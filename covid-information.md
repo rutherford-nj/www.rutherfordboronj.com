@@ -26,13 +26,13 @@ title: 'COVID-19 Information'
 
 [Transcript of the statement from Mayor Nunziato regarding the passing of Rutherford residents](https://storage.googleapis.com/static.rutherford-nj.com/covid/April%206%202020%20Mayor%20Statement.pdf)
 
-**Wednesday, April 15, 2020:** 
+**Thursday, April 16, 2020:** 
 
-[A video statement from Mayor Frank Nunziato](https://youtu.be/AplyE7202QM)
+[A video statement from Council President Mulllahey](https://youtu.be/AplyE7202QM)
 
-[Transcript of the statement from Mayor Frank Nunziato](https://storage.googleapis.com/static.rutherford-nj.com/covid/April%2015%20Frank%20Nunziato%20(1).pdf)
+[Transcript of the statement from Council President Mullahey](https://storage.googleapis.com/static.rutherford-nj.com/covid/April%2016%20Tom%20Mullahey.pdf)
 
-Addressed: New COVID-19 cases; Non-Essential Businesses; Change of Dates for Primary & Tax Filing
+Addressed: New COVID-19 cases; US Census; Mental Health & Jobs Portals
 
 ---
 
