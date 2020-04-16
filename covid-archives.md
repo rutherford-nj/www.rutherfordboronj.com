@@ -7,6 +7,14 @@ title: 'COVID-19 Information-Archives'
 
 Below find each update that has been made daily by the Rutherford Mayor and Council: 
 
+**Wednesday, April 15, 2020:** 
+
+[A video statement from Mayor Frank Nunziato](https://youtu.be/AplyE7202QM)
+
+[Transcript of the statement from Mayor Frank Nunziato](https://storage.googleapis.com/static.rutherford-nj.com/covid/April%2015%20Frank%20Nunziato%20(1).pdf)
+
+Addressed: New COVID-19 cases; Non-Essential Businesses; Change of Dates for Primary & Tax Filing
+
 **Tuesday, April 14, 2020:** 
 
 [A video statement from Councilwoman Begg-Roberson](https://youtu.be/T4FsOk4FQxo)
