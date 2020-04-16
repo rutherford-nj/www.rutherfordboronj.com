@@ -28,7 +28,7 @@ title: 'COVID-19 Information'
 
 **Thursday, April 16, 2020:** 
 
-[A video statement from Council President Mulllahey](https://youtu.be/AplyE7202QM)
+[A video statement from Council President Mulllahey](https://youtu.be/38N521IqTfA)
 
 [Transcript of the statement from Council President Mullahey](https://storage.googleapis.com/static.rutherford-nj.com/covid/April%2016%20Tom%20Mullahey.pdf)
 
