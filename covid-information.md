@@ -28,11 +28,11 @@ title: 'COVID-19 Information'
 
 **Friday, April 17, 2020:** 
 
-[A video statement from Councilman Goldsack](https://youtu.be/38N521IqTfA)
+[A video statement from Councilman Goldsack](https://youtu.be/eVgO9WKHbCg)
 
-[Transcript of the statement from Councilman Goldsack](https://storage.googleapis.com/static.rutherford-nj.com/covid/April%2016%20Tom%20Mullahey.pdf)
+[Transcript of the statement from Councilman Goldsack](https://storage.googleapis.com/static.rutherford-nj.com/covid/April%2017%20Mark%20Goldsack%20(1).pdf)
 
-Addressed: New COVID-19 cases; Cancellation of Community Events; 
+Addressed: New COVID-19 cases; Cancellation of Community Events; NJ State Volunteer Website
 
 ---
 
