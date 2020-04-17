@@ -15,6 +15,8 @@ For information on COVID-19/Novel Coronavirus and its impact on businesses, plea
 
 **Information for Businesses Provided by the County**
 
+[- A Concise summary of Available Resources for Busineses](https://storage.googleapis.com/static.rutherford-nj.com/covid/Resources%20for%20Business_Interactive_Covid-19.pdf)
+
 [- COVID-19 Resources for Businesses](https://www.co.bergen.nj.us/covid-19-resources-for-businesses)
 
 
