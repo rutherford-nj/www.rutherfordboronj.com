@@ -26,13 +26,13 @@ title: 'COVID-19 Information'
 
 [Transcript of the statement from Mayor Nunziato regarding the passing of Rutherford residents](https://storage.googleapis.com/static.rutherford-nj.com/covid/April%206%202020%20Mayor%20Statement.pdf)
 
-**Friday, April 17, 2020:** 
+**Saturddy, April 18, 2020:** 
 
-[A video statement from Councilman Goldsack](https://youtu.be/eVgO9WKHbCg)
+[A video statement from Councilman Guzman](https://youtu.be/8g3UvZCT1K0)
 
-[Transcript of the statement from Councilman Goldsack](https://storage.googleapis.com/static.rutherford-nj.com/covid/April%2017%20Mark%20Goldsack%20(1).pdf)
+[Transcript of the statement from Councilman Guzman](https://storage.googleapis.com/static.rutherford-nj.com/covid/April%2018%20Ray%20Guzman%20(2).pdf)
 
-Addressed: New COVID-19 cases; Cancellation of Community Events; NJ State Volunteer Website
+Addressed: New COVID-19 cases; Bergen New Bridge Testing Site; Rutherford Little League Statement
 
 ---
 
