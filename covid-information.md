@@ -26,13 +26,13 @@ title: 'COVID-19 Information'
 
 [Transcript of the statement from Mayor Nunziato regarding the passing of Rutherford residents](https://storage.googleapis.com/static.rutherford-nj.com/covid/April%206%202020%20Mayor%20Statement.pdf)
 
-**Saturday, April 18, 2020:** 
+**Monday, April 20, 2020:** 
 
-[A video statement from Councilman Guzman](https://youtu.be/8g3UvZCT1K0)
+[A video statement from Councilwoman Stephanie McGowan](https://youtu.be/8g3UvZCT1K0)
 
-[Transcript of the statement from Councilman Guzman](https://storage.googleapis.com/static.rutherford-nj.com/covid/April%2018%20Ray%20Guzman%20(2).pdf)
+[Transcript of the statement from Councilwoman McGowan](https://storage.googleapis.com/static.rutherford-nj.com/covid/April%2020%20Stephanie%20McGowan%20(1).pdf)
 
-Addressed: New COVID-19 cases; Bergen New Bridge Testing Site; Rutherford Little League Statement
+Addressed: New COVID-19 cases; Rutherford Library Updates; Local Business Thank you
 
 ---
 
