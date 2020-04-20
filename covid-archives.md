@@ -7,6 +7,14 @@ title: 'COVID-19 Information-Archives'
 
 Below find each update that has been made daily by the Rutherford Mayor and Council: 
 
+**Saturday, April 18, 2020:** 
+
+[A video statement from Councilman Guzman](https://youtu.be/8g3UvZCT1K0)
+
+[Transcript of the statement from Councilman Guzman](https://storage.googleapis.com/static.rutherford-nj.com/covid/April%2018%20Ray%20Guzman%20(2).pdf)
+
+Addressed: New COVID-19 cases; Bergen New Bridge Testing Site; Rutherford Little League Statement
+
 **Friday, April 17, 2020:** 
 
 [A video statement from Councilman Goldsack](https://youtu.be/eVgO9WKHbCg)
