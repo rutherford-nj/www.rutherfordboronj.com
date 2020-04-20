@@ -28,7 +28,7 @@ title: 'COVID-19 Information'
 
 **Monday, April 20, 2020:** 
 
-[A video statement from Councilwoman Stephanie McGowan](https://youtu.be/8g3UvZCT1K0)
+[A video statement from Councilwoman Stephanie McGowan](https://youtu.be/igMw9GTANJM)
 
 [Transcript of the statement from Councilwoman McGowan](https://storage.googleapis.com/static.rutherford-nj.com/covid/April%2020%20Stephanie%20McGowan%20(1).pdf)
 
