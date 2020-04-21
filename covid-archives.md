@@ -7,6 +7,14 @@ title: 'COVID-19 Information-Archives'
 
 Below find each update that has been made daily by the Rutherford Mayor and Council: 
 
+**Monday, April 20, 2020:** 
+
+[A video statement from Councilwoman Stephanie McGowan](https://youtu.be/igMw9GTANJM)
+
+[Transcript of the statement from Councilwoman McGowan](https://storage.googleapis.com/static.rutherford-nj.com/covid/April%2020%20Stephanie%20McGowan%20(1).pdf)
+
+Addressed: New COVID-19 cases; Rutherford Library Updates; Local Business Thank you
+
 **Saturday, April 18, 2020:** 
 
 [A video statement from Councilman Guzman](https://youtu.be/8g3UvZCT1K0)
