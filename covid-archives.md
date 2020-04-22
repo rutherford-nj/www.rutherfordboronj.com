@@ -7,6 +7,14 @@ title: 'COVID-19 Information-Archives'
 
 Below find each update that has been made daily by the Rutherford Mayor and Council: 
 
+**Tuesday, April 21, 2020:** 
+
+[A video statement from Councilman Eddie Narucki](https://youtu.be/Sj5c51y3-fg)
+
+[Transcript of the statement from Councilman Eddie Narucki](https://storage.googleapis.com/static.rutherford-nj.com/covid/April%2021%20Eddie%20Narucki%20(1).pdf)
+
+Addressed: New COVID-19 cases; N95 Masks and Gowns Donation; Special Thank You Health Department; Local Business Highlight
+
 **Monday, April 20, 2020:** 
 
 [A video statement from Councilwoman Stephanie McGowan](https://youtu.be/igMw9GTANJM)
