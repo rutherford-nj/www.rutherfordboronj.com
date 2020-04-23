@@ -7,6 +7,16 @@ title: 'COVID-19 Information-Archives'
 
 Below find each update that has been made daily by the Rutherford Mayor and Council: 
 
+**Wednesday, April 22, 2020:** 
+
+[A video statement from Councilwoman Begg-Roberson](https://youtu.be/HQpDuhLK5K0)
+
+[Transcript of the statement from Councilwoman Begg-Roberson](https://storage.googleapis.com/static.rutherford-nj.com/covid/April%2022%20Maria%20Begg-Roberson%20(2).pdf)
+
+Addressed: New COVID-19 cases; Mask Reminder; Meadowlands YMCA Food Box Drive-Thru 4/24; Earth Day Activities
+
+[DEP Earth Day Activities For Home](https://www.nj.gov/dep/dep50/activities.html)
+
 **Tuesday, April 21, 2020:** 
 
 [A video statement from Councilman Eddie Narucki](https://youtu.be/Sj5c51y3-fg)
