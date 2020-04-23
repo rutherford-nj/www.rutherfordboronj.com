@@ -34,7 +34,7 @@ title: 'COVID-19 Information'
 
 Addressed: New COVID-19 cases; Street Sweeping & Alternate Side Parking Resumes; Meadowlands YMCA Food Box Drive-Thru 4/24
 
-Instructions for [https://www.myunemployment.nj.gov/](www.myunemployment.nj.gov) below:
+Instructions for [www.myunemployment.nj.gov](https://www.myunemployment.nj.gov/) below:
 
 - On the top navigation, scroll to the right for “Need Help” and unveil the drop down menu
 
