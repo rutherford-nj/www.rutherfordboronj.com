@@ -26,15 +26,23 @@ title: 'COVID-19 Information'
 
 [Transcript of the statement from Mayor Nunziato regarding the passing of Rutherford residents](https://storage.googleapis.com/static.rutherford-nj.com/covid/April%206%202020%20Mayor%20Statement.pdf)
 
-**Wednesday, April 22, 2020:** 
+**Thursday, April 23, 2020:** 
 
-[A video statement from Councilwoman Begg-Roberson](https://youtu.be/HQpDuhLK5K0)
+[A video statement from Council President Mullahey](https://youtu.be/PkBF0CElhqw)
 
-[Transcript of the statement from Councilwoman Begg-Roberson](https://storage.googleapis.com/static.rutherford-nj.com/covid/April%2022%20Maria%20Begg-Roberson%20(2).pdf)
+[Transcript of the statement from Council President Mullahey](https://storage.googleapis.com/static.rutherford-nj.com/covid/April%2023%20Tom%20Mullahey%20(1).pdf)
 
-Addressed: New COVID-19 cases; Mask Reminder; Meadowlands YMCA Food Box Drive-Thru 4/24; Earth Day Activities
+Addressed: New COVID-19 cases; Street Sweeping & Alternate Side Parking Resumes; Meadowlands YMCA Food Box Drive-Thru 4/24
 
-[DEP Earth Day Activities For Home](https://www.nj.gov/dep/dep50/activities.html)
+Instructions for [https://www.myunemployment.nj.gov/](www.myunemployment.nj.gov) below:
+
+- On the top navigation, scroll to the right for “Need Help” and unveil the drop down menu
+
+- Choose Send an Email
+
+- Choose Email: Submit a message through our new online form.
+
+- Follow the prompts
 
 ---
 
