@@ -34,6 +34,8 @@ title: 'COVID-19 Information'
 
 Addressed: New COVID-19 cases; Mask Reminder; Meadowlands YMCA Food Box Drive-Thru 4/24; Earth Day Activities
 
+[DEP Earth Day Activities For Home](https://www.nj.gov/dep/dep50/activities.html)
+
 ---
 
 **For Archives of Daily Briefings and Transcripts [click here](/covid-archives/)**
