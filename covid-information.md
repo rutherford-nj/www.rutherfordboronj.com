@@ -28,11 +28,11 @@ title: 'COVID-19 Information'
 
 **Friday, April 24, 2020:** 
 
-[A video statement from Councilman Goldsack](https://youtu.be/PkBF0CElhqw)
+[A video statement from Councilman Goldsack](https://youtu.be/Vsw0Yfv3JB0)
 
-[Transcript of the statement from Councilman Goldsack](https://storage.googleapis.com/static.rutherford-nj.com/covid/April%2023%20Tom%20Mullahey%20(1).pdf)
+[Transcript of the statement from Councilman Goldsack](https://storage.googleapis.com/static.rutherford-nj.com/covid/April%2024%20Mark%20Goldsack%20(1).pdf)
 
-Addressed: New COVID-19 cases; Street Sweeping & Alternate Side Parking Resumes; Meadowlands YMCA Food Box Drive-Thru 4/24
+Addressed: New COVID-19 cases; Tax Payment; Street Sweeping & Alternate Side Parking Resumes; Local Business Thank You
 
 ---
 
