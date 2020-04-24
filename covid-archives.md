@@ -7,6 +7,24 @@ title: 'COVID-19 Information-Archives'
 
 Below find each update that has been made daily by the Rutherford Mayor and Council: 
 
+**Thursday, April 23, 2020:** 
+
+[A video statement from Council President Mullahey](https://youtu.be/PkBF0CElhqw)
+
+[Transcript of the statement from Council President Mullahey](https://storage.googleapis.com/static.rutherford-nj.com/covid/April%2023%20Tom%20Mullahey%20(1).pdf)
+
+Addressed: New COVID-19 cases; Street Sweeping & Alternate Side Parking Resumes; Meadowlands YMCA Food Box Drive-Thru 4/24
+
+Instructions for [https://www.myunemployment.nj.gov/](www.myunemployment.nj.gov) below:
+
+- On the top navigation, scroll to the right for “Need Help” and unveil the drop down menu
+
+- Choose Send an Email
+
+- Choose Email: Submit a message through our new online form.
+
+- Follow the prompts
+
 **Wednesday, April 22, 2020:** 
 
 [A video statement from Councilwoman Begg-Roberson](https://youtu.be/HQpDuhLK5K0)
