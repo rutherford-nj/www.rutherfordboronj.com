@@ -7,6 +7,14 @@ title: 'COVID-19 Information-Archives'
 
 Below find each update that has been made daily by the Rutherford Mayor and Council: 
 
+**Friday, April 24, 2020:** 
+
+[A video statement from Councilman Goldsack](https://youtu.be/Vsw0Yfv3JB0)
+
+[Transcript of the statement from Councilman Goldsack](https://storage.googleapis.com/static.rutherford-nj.com/covid/April%2024%20Mark%20Goldsack%20(1).pdf)
+
+Addressed: New COVID-19 cases; Tax Payment; Street Sweeping & Alternate Side Parking Resumes; Local Business Thank You
+
 **Thursday, April 23, 2020:** 
 
 [A video statement from Council President Mullahey](https://youtu.be/PkBF0CElhqw)
