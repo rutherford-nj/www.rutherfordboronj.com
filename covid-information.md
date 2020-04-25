@@ -26,13 +26,13 @@ title: 'COVID-19 Information'
 
 [Transcript of the statement from Mayor Nunziato regarding the passing of Rutherford residents](https://storage.googleapis.com/static.rutherford-nj.com/covid/April%206%202020%20Mayor%20Statement.pdf)
 
-**Friday, April 24, 2020:** 
+**Saturday, April 25, 2020:** 
 
-[A video statement from Councilman Goldsack](https://youtu.be/Vsw0Yfv3JB0)
+[A video statement from Councilman Guzman](https://youtu.be/YW6wWVipUxc)
 
-[Transcript of the statement from Councilman Goldsack](https://storage.googleapis.com/static.rutherford-nj.com/covid/April%2024%20Mark%20Goldsack%20(1).pdf)
+[Transcript of the statement from Councilman Guzman](https://storage.googleapis.com/static.rutherford-nj.com/covid/April%2025%20Ray%20Guzman%20(2).pdf)
 
-Addressed: New COVID-19 cases; Tax Payment; Street Sweeping & Alternate Side Parking Resumes; Local Business Thank You
+Addressed: New COVID-19 cases; Street Sweeping & Alternate Side Parking Resumes; Veteran's Affairs Committee; Council Meeting Monday; Happy Birthday Diane Jones!
 
 ---
 
