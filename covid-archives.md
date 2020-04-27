@@ -7,6 +7,14 @@ title: 'COVID-19 Information-Archives'
 
 Below find each update that has been made daily by the Rutherford Mayor and Council: 
 
+**Saturday, April 25, 2020:** 
+
+[A video statement from Councilman Guzman](https://youtu.be/YW6wWVipUxc)
+
+[Transcript of the statement from Councilman Guzman](https://storage.googleapis.com/static.rutherford-nj.com/covid/April%2025%20Ray%20Guzman%20(2).pdf)
+
+Addressed: New COVID-19 cases; Street Sweeping & Alternate Side Parking Resumes; Veteran's Affairs Committee; Council Meeting Monday; Happy Birthday Diane Jones!
+
 **Friday, April 24, 2020:** 
 
 [A video statement from Councilman Goldsack](https://youtu.be/Vsw0Yfv3JB0)
