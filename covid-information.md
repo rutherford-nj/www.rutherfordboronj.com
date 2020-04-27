@@ -34,7 +34,7 @@ title: 'COVID-19 Information'
 
 Addressed: New COVID-19 cases; Please move your cars for street cleaning; Security deposit usage for rent; Blue Angels Fly Over
 
-[Blue Angels Flight Path fo April 28](https://storage.googleapis.com/static.rutherford-nj.com/covid/BlueAngels_Thunderbirds%20Flyover.pdf)
+[Blue Angels Flight Path for April 28](https://storage.googleapis.com/static.rutherford-nj.com/covid/BlueAngels_Thunderbirds%20Flyover.pdf)
 
 [Executive Order 128](https://storage.googleapis.com/static.rutherford-nj.com/covid/EO-128.pdf)
 
