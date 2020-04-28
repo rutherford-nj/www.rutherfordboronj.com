@@ -28,7 +28,7 @@ title: 'COVID-19 Information'
 
 **Tuesday, April 28, 2020:** 
 
-[A video statement from Councilman Narucki](https://youtu.be/vvA1alGG3BU)
+[A video statement from Councilman Narucki](https://youtu.be/V14onwvIhLg)
 
 [Transcript of the statement from Councilman Narucki](https://storage.googleapis.com/static.rutherford-nj.com/covid/April%2028%20Eddie%20Narucki.pdf)
 
