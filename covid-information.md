@@ -26,21 +26,13 @@ title: 'COVID-19 Information'
 
 [Transcript of the statement from Mayor Nunziato regarding the passing of Rutherford residents](https://storage.googleapis.com/static.rutherford-nj.com/covid/April%206%202020%20Mayor%20Statement.pdf)
 
-**Monday, April 27, 2020:** 
+**Tuesday, April 28, 2020:** 
 
-[A video statement from Councilwoman McGowan](https://youtu.be/vvA1alGG3BU)
+[A video statement from Councilman Narucki](https://youtu.be/vvA1alGG3BU)
 
-[Transcript of the statement from Councilwoman McGowan](https://storage.googleapis.com/static.rutherford-nj.com/covid/April%2027%20Stephanie%20McGowan%20(2).pdf)
+[Transcript of the statement from Councilman Narucki](https://storage.googleapis.com/static.rutherford-nj.com/covid/April%2028%20Eddie%20Narucki.pdf)
 
-Addressed: New COVID-19 cases; Please move your cars for street cleaning; Security deposit usage for rent; Blue Angels Fly Over
-
-[Blue Angels Flight Path for April 28](https://storage.googleapis.com/static.rutherford-nj.com/covid/BlueAngels_Thunderbirds%20Flyover.pdf)
-
-[Executive Order 128](https://storage.googleapis.com/static.rutherford-nj.com/covid/EO-128.pdf)
-
-[Residential Evictions: FAQs](https://storage.googleapis.com/static.rutherford-nj.com/covid/FAQs/Eviction%20LL%20Tenant%20EO106%20FAQ_Final_4.23.2020.pdf)
-
-[Mortgage Relief and Foreclosures: FAQs](https://storage.googleapis.com/static.rutherford-nj.com/covid/FAQs/FAQs-HOMEOWNERS_Final_4.23.2020.pdf)
+Addressed: New COVID-19 cases; Please move your cars for street cleaning; Rutherford Arts Council; Mambo Reopening
 
 ---
 
