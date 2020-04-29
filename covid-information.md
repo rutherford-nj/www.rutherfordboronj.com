@@ -26,7 +26,7 @@ title: 'COVID-19 Information'
 
 [Transcript of the statement from Mayor Nunziato regarding the passing of Rutherford residents](https://storage.googleapis.com/static.rutherford-nj.com/covid/April%206%202020%20Mayor%20Statement.pdf)
 
-**Tuesday, April 28, 2020:** 
+**Wednesday, April 29, 2020:** 
 
 [A video statement from Councilwoman Begg-Roberson](https://youtu.be/1FeymqQs7KY)
 
