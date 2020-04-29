@@ -7,6 +7,14 @@ title: 'COVID-19 Information-Archives'
 
 Below find each update that has been made daily by the Rutherford Mayor and Council: 
 
+**Tuesday, April 28, 2020:** 
+
+[A video statement from Councilman Narucki](https://youtu.be/V14onwvIhLg)
+
+[Transcript of the statement from Councilman Narucki](https://storage.googleapis.com/static.rutherford-nj.com/covid/April%2028%20Eddie%20Narucki.pdf)
+
+Addressed: New COVID-19 cases; Please move your cars for street cleaning; Rutherford Arts Council; Mambo Reopening
+
 **Monday, April 27, 2020:** 
 
 [A video statement from Councilwoman McGowan](https://youtu.be/vvA1alGG3BU)
