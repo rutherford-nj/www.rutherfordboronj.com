@@ -28,11 +28,11 @@ title: 'COVID-19 Information'
 
 **Tuesday, April 28, 2020:** 
 
-[A video statement from Councilman Narucki](https://youtu.be/V14onwvIhLg)
+[A video statement from Councilwoman Begg-Roberson](https://youtu.be/1FeymqQs7KY)
 
-[Transcript of the statement from Councilman Narucki](https://storage.googleapis.com/static.rutherford-nj.com/covid/April%2028%20Eddie%20Narucki.pdf)
+[Transcript of the statement from Councilwoman Begg-Roberson](https://storage.googleapis.com/static.rutherford-nj.com/covid/April%2029%20Maria%20Begg-Roberson%20(1).pdf)
 
-Addressed: New COVID-19 cases; Please move your cars for street cleaning; Rutherford Arts Council; Mambo Reopening
+Addressed: New COVID-19 cases; Please move your cars for street cleaning; DaMario Reopens; Thank you Blue Angels
 
 ---
 
