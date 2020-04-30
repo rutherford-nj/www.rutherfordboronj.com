@@ -7,6 +7,14 @@ title: 'COVID-19 Information-Archives'
 
 Below find each update that has been made daily by the Rutherford Mayor and Council: 
 
+**Wednesday, April 29, 2020:** 
+
+[A video statement from Councilwoman Begg-Roberson](https://youtu.be/1FeymqQs7KY)
+
+[Transcript of the statement from Councilwoman Begg-Roberson](https://storage.googleapis.com/static.rutherford-nj.com/covid/April%2029%20Maria%20Begg-Roberson%20(1).pdf)
+
+Addressed: New COVID-19 cases; Please move your cars for street cleaning; DaMario Reopens; Thank you Blue Angels
+
 **Tuesday, April 28, 2020:** 
 
 [A video statement from Councilman Narucki](https://youtu.be/V14onwvIhLg)
