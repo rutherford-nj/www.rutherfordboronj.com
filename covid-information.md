@@ -26,13 +26,13 @@ title: 'COVID-19 Information'
 
 [Transcript of the statement from Mayor Nunziato regarding the passing of Rutherford residents](https://storage.googleapis.com/static.rutherford-nj.com/covid/April%206%202020%20Mayor%20Statement.pdf)
 
-**Wednesday, April 29, 2020:** 
+**Thursday, April 30, 2020:** 
 
-[A video statement from Councilwoman Begg-Roberson](https://youtu.be/1FeymqQs7KY)
+[A video statement from Mayor Nunziato](https://youtu.be/ssD2k5TMGDE)
 
-[Transcript of the statement from Councilwoman Begg-Roberson](https://storage.googleapis.com/static.rutherford-nj.com/covid/April%2029%20Maria%20Begg-Roberson%20(1).pdf)
+[Transcript of the statement from Mayor Nunziato](https://storage.googleapis.com/static.rutherford-nj.com/covid/April%2030%20Frank%20Nunziato%20(1).pdf)
 
-Addressed: New COVID-19 cases; Please move your cars for street cleaning; DaMario Reopens; Thank you Blue Angels
+Addressed: New COVID-19 cases; Rutherford parks remain closed; Yellowtail is open
 
 ---
 
