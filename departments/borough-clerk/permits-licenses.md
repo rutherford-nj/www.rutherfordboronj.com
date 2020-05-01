@@ -8,7 +8,7 @@ Please click on an item below to download the appropriate form and return to the
 
 [**Banner - Military Tribute Banner Program**](https://storage.googleapis.com/static.rutherford-nj.com/borough-clerk/permits-licenses/Rutherford%20Military%20Tribute%20Banner%20Program.pdf) - Application for 24"x42" industrial double sided vinyl banner to honor residents who have served our country, displayed on average between Memorial Day and Veterans' Day
 
-[**Banner - Over Park Avenue)**](https://storage.googleapis.com/static.rutherford-nj.com/borough-clerk/permits-licenses/Forms/BANNER.pdf)
+[**Banner - Over Park Avenue**](https://storage.googleapis.com/static.rutherford-nj.com/borough-clerk/permits-licenses/Forms/BANNER.pdf)
 – Rutherford Community Organizations can apply to have a banner installed over Park Avenue at Donaldson Avenue for community events. Applications will be reviewed for timing availability. It is advised that the organization wait to receive approval before having the banner constructed. Application and banner specifications attached.
 
 **Block Party Requests** – Letter to be sent to the Mayor & Council requesting date at least three weeks prior to event.
