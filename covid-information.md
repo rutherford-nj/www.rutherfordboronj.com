@@ -26,13 +26,13 @@ title: 'COVID-19 Information'
 
 [Transcript of the statement from Mayor Nunziato regarding the passing of Rutherford residents](https://storage.googleapis.com/static.rutherford-nj.com/covid/April%206%202020%20Mayor%20Statement.pdf)
 
-**Thursday, April 30, 2020:** 
+**Friday, May 1, 2020:** 
 
-[A video statement from Mayor Nunziato](https://youtu.be/ssD2k5TMGDE)
+[A video statement from Council President Mullahey](https://youtu.be/75VlkWn9BX8)
 
-[Transcript of the statement from Mayor Nunziato](https://storage.googleapis.com/static.rutherford-nj.com/covid/April%2030%20Frank%20Nunziato%20(1).pdf)
+[Transcript of the statement from Council President Mullahey](https://storage.googleapis.com/static.rutherford-nj.com/covid/May%201%20Tom%20Mullahey%20(1).pdf)
 
-Addressed: New COVID-19 cases; Rutherford parks remain closed; Yellowtail is open
+Addressed: New COVID-19 cases; Christine Beidel, Bergen County Hero; Community Pantry Needs; Military Banner Tribute Program
 
 ---
 
