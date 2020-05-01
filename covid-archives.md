@@ -7,6 +7,14 @@ title: 'COVID-19 Information-Archives'
 
 Below find each update that has been made daily by the Rutherford Mayor and Council: 
 
+**Thursday, April 30, 2020:** 
+
+[A video statement from Mayor Nunziato](https://youtu.be/ssD2k5TMGDE)
+
+[Transcript of the statement from Mayor Nunziato](https://storage.googleapis.com/static.rutherford-nj.com/covid/April%2030%20Frank%20Nunziato%20(1).pdf)
+
+Addressed: New COVID-19 cases; Rutherford parks remain closed; Yellowtail is open
+
 **Wednesday, April 29, 2020:** 
 
 [A video statement from Councilwoman Begg-Roberson](https://youtu.be/1FeymqQs7KY)
