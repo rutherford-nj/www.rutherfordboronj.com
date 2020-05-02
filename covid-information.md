@@ -30,7 +30,7 @@ title: 'COVID-19 Information'
 
 [A video statement from Councilman Goldsack](https://youtu.be/KmRde218seA)
 
-[Transcript of the statement from Councilman Goldsack](https://storage.googleapis.com/static.rutherford-nj.com/covid/May%201%20Tom%20Mullahey%20(1).pdf)
+[Transcript of the statement from Councilman Goldsack](https://storage.googleapis.com/static.rutherford-nj.com/covid/May%202%20Mark%20Goldsack%20(1).pdf)
 
 Addressed: New COVID-19 cases; Library Programs; Street Sweeping Resumes; Sunday Surprise Salute to Heroes; Rutherford Business Project
 
