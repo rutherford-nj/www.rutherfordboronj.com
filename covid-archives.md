@@ -7,6 +7,14 @@ title: 'COVID-19 Information-Archives'
 
 Below find each update that has been made daily by the Rutherford Mayor and Council: 
 
+**Friday, May 1, 2020:** 
+
+[A video statement from Council President Mullahey](https://youtu.be/75VlkWn9BX8)
+
+[Transcript of the statement from Council President Mullahey](https://storage.googleapis.com/static.rutherford-nj.com/covid/May%201%20Tom%20Mullahey%20(1).pdf)
+
+Addressed: New COVID-19 cases; Christine Beidel, Bergen County Hero; Community Pantry Needs; Military Banner Tribute Program
+
 **Thursday, April 30, 2020:** 
 
 [A video statement from Mayor Nunziato](https://youtu.be/ssD2k5TMGDE)
