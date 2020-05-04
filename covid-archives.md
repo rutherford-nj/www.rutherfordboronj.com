@@ -7,6 +7,18 @@ title: 'COVID-19 Information-Archives'
 
 Below find each update that has been made daily by the Rutherford Mayor and Council: 
 
+
+**Saturday, May 2, 2020:** 
+
+[A video statement from Councilman Goldsack](https://youtu.be/KmRde218seA)
+
+[Transcript of the statement from Councilman Goldsack](https://storage.googleapis.com/static.rutherford-nj.com/covid/May%202%20Mark%20Goldsack%20(1).pdf)
+
+Addressed: New COVID-19 cases; Library Programs; Street Sweeping Resumes; Sunday Surprise Salute to Heroes; Rutherford Business Project
+
+[A letter from the Rutherford Business Project](https://storage.googleapis.com/static.rutherford-nj.com/covid/Rutherford%20Non%20Essential%20List%20050220.pdf)
+
+
 **Friday, May 1, 2020:** 
 
 [A video statement from Council President Mullahey](https://youtu.be/75VlkWn9BX8)
