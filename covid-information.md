@@ -32,7 +32,7 @@ title: 'COVID-19 Information'
 
 [Transcript of the statement from Councilman Guzman](https://storage.googleapis.com/static.rutherford-nj.com/covid/May%204%20Ray%20Guzman%20(1).pdf)
 
-Addressed: State COVID reporting technical difficulties; BCC testing site for asymptomatic people; Schools will remain closed
+Addressed: State COVID database reporting technical difficulties; BCC testing site for asymptomatic people; Schools will remain closed
 
 ---
 
