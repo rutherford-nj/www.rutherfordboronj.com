@@ -26,15 +26,13 @@ title: 'COVID-19 Information'
 
 [Transcript of the statement from Mayor Nunziato regarding the passing of Rutherford residents](https://storage.googleapis.com/static.rutherford-nj.com/covid/April%206%202020%20Mayor%20Statement.pdf)
 
-**Saturday, May 2, 2020:** 
+**Monday, May 4, 2020:** 
 
-[A video statement from Councilman Goldsack](https://youtu.be/KmRde218seA)
+[A video statement from Councilman Guzman](https://youtu.be/3-YmS96U-js)
 
-[Transcript of the statement from Councilman Goldsack](https://storage.googleapis.com/static.rutherford-nj.com/covid/May%202%20Mark%20Goldsack%20(1).pdf)
+[Transcript of the statement from Councilman Guzman](https://storage.googleapis.com/static.rutherford-nj.com/covid/May%204%20Ray%20Guzman%20(1).pdf)
 
-Addressed: New COVID-19 cases; Library Programs; Street Sweeping Resumes; Sunday Surprise Salute to Heroes; Rutherford Business Project
-
-[A letter from the Rutherford Business Project](https://storage.googleapis.com/static.rutherford-nj.com/covid/Rutherford%20Non%20Essential%20List%20050220.pdf)
+Addressed: State COVID reporting technical difficulties; BCC testing site for asymptomatic people; Schools will remain closed
 
 ---
 
