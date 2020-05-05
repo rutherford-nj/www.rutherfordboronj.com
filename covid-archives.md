@@ -7,6 +7,14 @@ title: 'COVID-19 Information-Archives'
 
 Below find each update that has been made daily by the Rutherford Mayor and Council: 
 
+**Monday, May 4, 2020:** 
+
+[A video statement from Councilman Guzman](https://youtu.be/3-YmS96U-js)
+
+[Transcript of the statement from Councilman Guzman](https://storage.googleapis.com/static.rutherford-nj.com/covid/May%204%20Ray%20Guzman%20(1).pdf)
+
+Addressed: State COVID database reporting technical difficulties; BCC testing site for asymptomatic people; Schools will remain closed
+
 
 **Saturday, May 2, 2020:** 
 
