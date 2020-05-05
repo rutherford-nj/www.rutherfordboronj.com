@@ -26,13 +26,13 @@ title: 'COVID-19 Information'
 
 [Transcript of the statement from Mayor Nunziato regarding the passing of Rutherford residents](https://storage.googleapis.com/static.rutherford-nj.com/covid/April%206%202020%20Mayor%20Statement.pdf)
 
-**Monday, May 4, 2020:** 
+**Tuesday, May 5, 2020:** 
 
-[A video statement from Councilman Guzman](https://youtu.be/3-YmS96U-js)
+[A video statement from Councilwoman Mcgowan](https://youtu.be/-m8qTl0wrbw)
 
-[Transcript of the statement from Councilman Guzman](https://storage.googleapis.com/static.rutherford-nj.com/covid/May%204%20Ray%20Guzman%20(1).pdf)
+[Transcript of the statement from Councilwoman Mcgowan](https://storage.googleapis.com/static.rutherford-nj.com/covid/May%205%20Stephanie%20McGowan%20(1).pdf)
 
-Addressed: State COVID database reporting technical difficulties; BCC testing site for asymptomatic people; Schools will remain closed
+Addressed: State COVID database reporting technical difficulties; Property Tax resolution on 5/11 agenda; Rutherford Florist
 
 ---
 
