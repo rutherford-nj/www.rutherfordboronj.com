@@ -26,13 +26,13 @@ title: 'COVID-19 Information'
 
 [Transcript of the statement from Mayor Nunziato regarding the passing of Rutherford residents](https://storage.googleapis.com/static.rutherford-nj.com/covid/April%206%202020%20Mayor%20Statement.pdf)
 
-**Tuesday, May 5, 2020:** 
+**Wednesday, May 6, 2020:** 
 
-[A video statement from Councilwoman McGowan](https://youtu.be/-m8qTl0wrbw)
+[A video statement from Councilman Narucki](https://youtu.be/-m8qTl0wrbw)
 
-[Transcript of the statement from Councilwoman McGowan](https://storage.googleapis.com/static.rutherford-nj.com/covid/May%205%20Stephanie%20McGowan%20(1).pdf)
+[Transcript of the statement from Councilman Narucki](https://storage.googleapis.com/static.rutherford-nj.com/covid/May%206%20Eddie%20Narucki.pdf)
 
-Addressed: State COVID database reporting technical difficulties; Property Tax resolution on 5/11 agenda; Rutherford Florist
+Addressed: State COVID database still reporting technical difficulties; Military Banner Application; "Library at Home"
 
 ---
 
