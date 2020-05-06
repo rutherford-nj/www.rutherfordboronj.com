@@ -7,6 +7,14 @@ title: 'COVID-19 Information-Archives'
 
 Below find each update that has been made daily by the Rutherford Mayor and Council: 
 
+**Tuesday, May 5, 2020:** 
+
+[A video statement from Councilwoman McGowan](https://youtu.be/-m8qTl0wrbw)
+
+[Transcript of the statement from Councilwoman McGowan](https://storage.googleapis.com/static.rutherford-nj.com/covid/May%205%20Stephanie%20McGowan%20(1).pdf)
+
+Addressed: State COVID database reporting technical difficulties; Property Tax resolution on 5/11 agenda; Rutherford Florist
+
 **Monday, May 4, 2020:** 
 
 [A video statement from Councilman Guzman](https://youtu.be/3-YmS96U-js)
