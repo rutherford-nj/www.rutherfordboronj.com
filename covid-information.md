@@ -28,9 +28,9 @@ title: 'COVID-19 Information'
 
 **Wednesday, May 6, 2020:** 
 
-[A video statement from Councilman Narucki](https://youtu.be/-m8qTl0wrbw)
+[A video statement from Councilman Narucki](https://youtu.be/Ts8s8Zi4XX4)
 
-[Transcript of the statement from Councilman Narucki](https://storage.googleapis.com/static.rutherford-nj.com/covid/May%206%20Eddie%20Narucki.pdf)
+[Transcript of the statement from Councilman Narucki](https://storage.googleapis.com/static.rutherford-nj.com/covid/May%206%20Eddie%20Narucki%20(1).pdf)
 
 Addressed: State COVID database still reporting technical difficulties; Military Banner Application; "Library at Home"
 
