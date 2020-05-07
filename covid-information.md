@@ -26,13 +26,13 @@ title: 'COVID-19 Information'
 
 [Transcript of the statement from Mayor Nunziato regarding the passing of Rutherford residents](https://storage.googleapis.com/static.rutherford-nj.com/covid/April%206%202020%20Mayor%20Statement.pdf)
 
-**Wednesday, May 6, 2020:** 
+**Thurday, May 7, 2020:** 
 
-[A video statement from Councilman Narucki](https://youtu.be/Ts8s8Zi4XX4)
+[A video statement from Councilwoman Begg-Roberson](https://youtu.be/acTvCXhumtc)
 
-[Transcript of the statement from Councilman Narucki](https://storage.googleapis.com/static.rutherford-nj.com/covid/May%206%20Eddie%20Narucki%20(1).pdf)
+[Transcript of the statement from Councilwoman Begg-Roberson](https://storage.googleapis.com/static.rutherford-nj.com/covid/May%207%20Maria%20Begg-Roberson%20(1).pdf)
 
-Addressed: State COVID database still reporting technical difficulties; Military Banner Application; "Library at Home"
+Addressed: State COVID database still reporting technical difficulties; Mental Health Resources; Military Banner Deadline Tomorrow
 
 ---
 
