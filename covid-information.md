@@ -62,7 +62,7 @@ Important links:
 
 ## A statement from Mayor Frank Nunziato and Rutherford Borough Council 
 
-(originally issued March 13th 2020 and updated as needed)
+(originally issued March 13th 2020, updated May 8th 2020)
 
 After consulting with the Rutherford Board of Health and Superintendent of Schools Jack Hurley regarding COVID-19, and given the available data, information and guidance received from state and county officials, the Borough has decided to take the necessary steps to limit opportunities for large social interactions within the Borough of Rutherford. 
 
@@ -96,9 +96,7 @@ These closures and cancellations will be in effect until the Governer revokes or
 
 - Garbage and recycling will be collected on a normal schedule at this time.
 
-- Alternate side of the street parking is suspended.
-
-- Mayor and Council meetings will take place as scheduled, however agendas will consist of essential business only (for example, paying invoices). 
+- Mayor and Council meetings will take place as scheduled. 
 
 - Board and Commission meetings (Planning Board, Zoning Board of Adjustment, Shade Tree Commission, and Civil Rights Commission) will meet as scheduled subject to the discretion of their respective Chairpeople. Please refer to the Borough calendar for updates.   
 
