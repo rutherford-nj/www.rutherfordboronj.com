@@ -7,7 +7,7 @@ title: 'COVID-19 Information-Archives'
 
 Below find each update that has been made daily by the Rutherford Mayor and Council: 
 
-**Thurday, May 7, 2020:** 
+**Thursday, May 7, 2020:** 
 
 [A video statement from Councilwoman Begg-Roberson](https://youtu.be/acTvCXhumtc)
 
