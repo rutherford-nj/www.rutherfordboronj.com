@@ -7,6 +7,14 @@ title: 'COVID-19 Information-Archives'
 
 Below find each update that has been made daily by the Rutherford Mayor and Council: 
 
+**Thurday, May 7, 2020:** 
+
+[A video statement from Councilwoman Begg-Roberson](https://youtu.be/acTvCXhumtc)
+
+[Transcript of the statement from Councilwoman Begg-Roberson](https://storage.googleapis.com/static.rutherford-nj.com/covid/May%207%20Maria%20Begg-Roberson%20(1).pdf)
+
+Addressed: State COVID database still reporting technical difficulties; Mental Health Resources; Military Banner Deadline Tomorrow
+
 **Wednesday, May 6, 2020:** 
 
 [A video statement from Councilman Narucki](https://youtu.be/Ts8s8Zi4XX4)
