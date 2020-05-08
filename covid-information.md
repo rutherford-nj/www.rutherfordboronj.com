@@ -28,11 +28,11 @@ title: 'COVID-19 Information'
 
 **Friday, May 8, 2020:** 
 
-[A video statement from Councilwoman Begg-Roberson](https://youtu.be/acTvCXhumtc)
+[A video statement from Mayor Nunziato](https://youtu.be/gK5T23BN2q0)
 
-[Transcript of the statement from Councilwoman Begg-Roberson](https://storage.googleapis.com/static.rutherford-nj.com/covid/May%207%20Maria%20Begg-Roberson%20(1).pdf)
+[Transcript of the statement from Mayor Nunziato](https://storage.googleapis.com/static.rutherford-nj.com/covid/May%208%20Frank%20Nunziato%20(2).pdf)
 
-Addressed: State COVID database still reporting technical difficulties; Mental Health Resources; Military Banner Deadline Tomorrow
+Addressed: One new COVID-19 case in Rutherford; Salute to Heroes 5/9
 
 ---
 
