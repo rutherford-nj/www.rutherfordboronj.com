@@ -7,6 +7,14 @@ title: 'COVID-19 Information-Archives'
 
 Below find each update that has been made daily by the Rutherford Mayor and Council: 
 
+**Friday, May 8, 2020:** 
+
+[A video statement from Mayor Nunziato](https://youtu.be/gK5T23BN2q0)
+
+[Transcript of the statement from Mayor Nunziato](https://storage.googleapis.com/static.rutherford-nj.com/covid/May%208%20Frank%20Nunziato%20(2).pdf)
+
+Addressed: One new COVID-19 case in Rutherford; Salute to Heroes 5/9
+
 **Thursday, May 7, 2020:** 
 
 [A video statement from Councilwoman Begg-Roberson](https://youtu.be/acTvCXhumtc)
