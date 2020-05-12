@@ -26,13 +26,13 @@ title: 'COVID-19 Information'
 
 [Transcript of the statement from Mayor Nunziato regarding the passing of Rutherford residents](https://storage.googleapis.com/static.rutherford-nj.com/covid/April%206%202020%20Mayor%20Statement.pdf)
 
-**Monday, May 11, 2020:** 
+**Tuesday, May 12, 2020:** 
 
-[A video statement from Council President Mullahey](https://youtu.be/EJH0XE-3KsE)
+[A video statement from Councilman Goldsack](https://youtu.be/bSPEjCOr-RM)
 
-[Transcript of the statement from Council President Mullahey](https://storage.googleapis.com/static.rutherford-nj.com/covid/May%2011%20Tom%20Mullahey.pdf)
+[Transcript of the statement from Councilman Goldsack](https://storage.googleapis.com/static.rutherford-nj.com/covid/May%2012%20Mark%20Goldsack.pdf)
 
-Addressed: New COVID-19 Cases; Aerial Flyover; Relay for Life; James McGill & Lifespeed Census Tour May 16th
+Addressed: New COVID-19 Cases; 2nd Quarter Tax Extension; Small Business Survey; Relay for Life 
 
 ---
 
