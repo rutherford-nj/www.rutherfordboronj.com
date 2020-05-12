@@ -7,6 +7,14 @@ title: 'COVID-19 Information-Archives'
 
 Below find each update that has been made daily by the Rutherford Mayor and Council: 
 
+**Monday, May 11, 2020:** 
+
+[A video statement from Council President Mullahey](https://youtu.be/EJH0XE-3KsE)
+
+[Transcript of the statement from Council President Mullahey](https://storage.googleapis.com/static.rutherford-nj.com/covid/May%2011%20Tom%20Mullahey.pdf)
+
+Addressed: New COVID-19 Cases; Aerial Flyover; Relay for Life; James McGill & Lifespeed Census Tour May 16th
+
 **Friday, May 8, 2020:** 
 
 [A video statement from Mayor Nunziato](https://youtu.be/gK5T23BN2q0)
