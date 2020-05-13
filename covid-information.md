@@ -26,13 +26,15 @@ title: 'COVID-19 Information'
 
 [Transcript of the statement from Mayor Nunziato regarding the passing of Rutherford residents](https://storage.googleapis.com/static.rutherford-nj.com/covid/April%206%202020%20Mayor%20Statement.pdf)
 
-**Tuesday, May 12, 2020:** 
+**Wednesday, May 13, 2020:** 
 
-[A video statement from Councilman Goldsack](https://youtu.be/bSPEjCOr-RM)
+[A video statement from Councilman Guzman](https://youtu.be/0o-Giedti40)
 
-[Transcript of the statement from Councilman Goldsack](https://storage.googleapis.com/static.rutherford-nj.com/covid/May%2012%20Mark%20Goldsack.pdf)
+[Transcript of the statement from Councilman Guzman](https://storage.googleapis.com/static.rutherford-nj.com/covid/May%2013%20Ray%20Guzman%20(2).pdf)
 
-Addressed: New COVID-19 Cases; 2nd Quarter Tax Extension; Small Business Survey; Relay for Life 
+Addressed: New COVID-19 Case; Fire on Park Ave; Rutherford Parks reopening with restrictions 
+
+[Policy on Parks Reopening](https://storage.googleapis.com/static.rutherford-nj.com/covid/policy%20reopen%20parks%20covid%2019.pdf)
 
 ---
 
