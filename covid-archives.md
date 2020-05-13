@@ -7,6 +7,14 @@ title: 'COVID-19 Information-Archives'
 
 Below find each update that has been made daily by the Rutherford Mayor and Council: 
 
+**Tuesday, May 12, 2020:** 
+
+[A video statement from Councilman Goldsack](https://youtu.be/bSPEjCOr-RM)
+
+[Transcript of the statement from Councilman Goldsack](https://storage.googleapis.com/static.rutherford-nj.com/covid/May%2012%20Mark%20Goldsack.pdf)
+
+Addressed: New COVID-19 Cases; 2nd Quarter Tax Extension; Small Business Survey; Relay for Life 
+
 **Monday, May 11, 2020:** 
 
 [A video statement from Council President Mullahey](https://youtu.be/EJH0XE-3KsE)
