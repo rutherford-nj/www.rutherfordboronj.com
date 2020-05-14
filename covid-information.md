@@ -26,15 +26,13 @@ title: 'COVID-19 Information'
 
 [Transcript of the statement from Mayor Nunziato regarding the passing of Rutherford residents](https://storage.googleapis.com/static.rutherford-nj.com/covid/April%206%202020%20Mayor%20Statement.pdf)
 
-**Wednesday, May 13, 2020:** 
+**Thursday, May 14, 2020:** 
 
-[A video statement from Councilman Guzman](https://youtu.be/0o-Giedti40)
+[A video statement from Councilwoman McGowan](https://youtu.be/yKuagbTho1c)
 
-[Transcript of the statement from Councilman Guzman](https://storage.googleapis.com/static.rutherford-nj.com/covid/May%2013%20Ray%20Guzman%20(2).pdf)
+[Transcript of the statement from Councilwoman McGowan](https://storage.googleapis.com/static.rutherford-nj.com/covid/May%2014%20Stephanie%20McGowan.pdf)
 
-Addressed: New COVID-19 Case; Fire on Park Ave; Rutherford Parks reopening with restrictions 
-
-[Policy on Parks Reopening](https://storage.googleapis.com/static.rutherford-nj.com/covid/policy%20reopen%20parks%20covid%2019.pdf)
+Addressed: New COVID-19 Case; Fire on Park Ave; Non-Essential Construction Resumes; YMCA Food Distribution; 55 Kip Center Homefriends 
 
 ---
 
