@@ -32,7 +32,7 @@ title: 'COVID-19 Information'
 
 [Transcript of the statement from Councilwoman McGowan](https://storage.googleapis.com/static.rutherford-nj.com/covid/May%2014%20Stephanie%20McGowan.pdf)
 
-Addressed: New COVID-19 Case; Fire on Park Ave; Non-Essential Construction Resumes; YMCA Food Distribution; 55 Kip Center Homefriends 
+Addressed: New COVID-19 Case; Non-Essential Construction Resumes; YMCA Food Distribution; 55 Kip Center Homefriends 
 
 ---
 
