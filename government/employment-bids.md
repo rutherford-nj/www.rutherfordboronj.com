@@ -4,6 +4,7 @@ title: 'Employment & Bids'
 parent: Government
 ---
 
+[Bid Notice: Diamond 5 & Diamond 6 Sports Lighting](https://storage.googleapis.com/static.rutherford-nj.com/finance/Employment/Bid%20Notice-%20diamond%205%20and%206%20lighting%20project%20w%20GA%20advisement_.docx.pdf)
 
 [Notice to Bidders: Rutherford Police Headquarters](https://storage.googleapis.com/static.rutherford-nj.com/finance/Employment/Notice%20to%20Bidders%20-%20Rutherford%20Police%20Headquarters%20Bids.docx.pdf)
 
