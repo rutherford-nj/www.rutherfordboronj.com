@@ -7,6 +7,16 @@ title: 'COVID-19 Information-Archives'
 
 Below find each update that has been made daily by the Rutherford Mayor and Council: 
 
+**Wednesday, May 13, 2020:** 
+
+[A video statement from Councilman Guzman](https://youtu.be/0o-Giedti40)
+
+[Transcript of the statement from Councilman Guzman](https://storage.googleapis.com/static.rutherford-nj.com/covid/May%2013%20Ray%20Guzman%20(2).pdf)
+
+Addressed: New COVID-19 Case; Fire on Park Ave; Rutherford Parks reopening with restrictions 
+
+[Policy on Parks Reopening](https://storage.googleapis.com/static.rutherford-nj.com/covid/policy%20reopen%20parks%20covid%2019.pdf)
+
 **Tuesday, May 12, 2020:** 
 
 [A video statement from Councilman Goldsack](https://youtu.be/bSPEjCOr-RM)
