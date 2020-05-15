@@ -26,13 +26,16 @@ title: 'COVID-19 Information'
 
 [Transcript of the statement from Mayor Nunziato regarding the passing of Rutherford residents](https://storage.googleapis.com/static.rutherford-nj.com/covid/April%206%202020%20Mayor%20Statement.pdf)
 
-**Thursday, May 14, 2020:** 
+**Friday, May 15, 2020:** 
 
-[A video statement from Councilwoman McGowan](https://youtu.be/yKuagbTho1c)
+[A video statement from Councilman Narucki](https://youtu.be/yKuagbTho1c)
 
-[Transcript of the statement from Councilwoman McGowan](https://storage.googleapis.com/static.rutherford-nj.com/covid/May%2014%20Stephanie%20McGowan.pdf)
+[Transcript of the statement from Councilman Narucki](https://storage.googleapis.com/static.rutherford-nj.com/covid/May%2015%20Eddie%20Narucki%20(1).pdf)
 
-Addressed: New COVID-19 Case; Non-Essential Construction Resumes; YMCA Food Distribution; 55 Kip Center Homefriends 
+Addressed: New COVID-19 Case; Parks reopened with restrictions; James McGill & Company Census Tour 
+
+[Policy on Parks Reopening](https://storage.googleapis.com/static.rutherford-nj.com/covid/policy%20reopen%20parks%20covid%2019.pdf)
+
 
 ---
 
