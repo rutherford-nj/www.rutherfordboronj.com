@@ -7,6 +7,14 @@ title: 'COVID-19 Information-Archives'
 
 Below find each update that has been made daily by the Rutherford Mayor and Council: 
 
+**Thursday, May 14, 2020:** 
+
+[A video statement from Councilwoman McGowan](https://youtu.be/yKuagbTho1c)
+
+[Transcript of the statement from Councilwoman McGowan](https://storage.googleapis.com/static.rutherford-nj.com/covid/May%2014%20Stephanie%20McGowan.pdf)
+
+Addressed: New COVID-19 Case; Non-Essential Construction Resumes; YMCA Food Distribution; 55 Kip Center Homefriends 
+
 **Wednesday, May 13, 2020:** 
 
 [A video statement from Councilman Guzman](https://youtu.be/0o-Giedti40)
