@@ -26,16 +26,13 @@ title: 'COVID-19 Information'
 
 [Transcript of the statement from Mayor Nunziato regarding the passing of Rutherford residents](https://storage.googleapis.com/static.rutherford-nj.com/covid/April%206%202020%20Mayor%20Statement.pdf)
 
-**Friday, May 15, 2020:** 
+**Monday, May 18, 2020:** 
 
-[A video statement from Councilman Narucki](https://youtu.be/I9HvD38_nU0)
+[A video statement from Councilwoman Begg-Roberson](https://youtu.be/I9HvD38_nU0)
 
-[Transcript of the statement from Councilman Narucki](https://storage.googleapis.com/static.rutherford-nj.com/covid/May%2015%20Eddie%20Narucki%20(1).pdf)
+[Transcript of the statement from Councilwoman Begg-Roberson](https://storage.googleapis.com/static.rutherford-nj.com/covid/May%2018%20Maria%20Begg-Roberson%20(1).pdf)
 
-Addressed: New COVID-19 Case; Parks reopened with restrictions; James McGill & Company Census Tour 
-
-[Policy on Parks Reopening](https://storage.googleapis.com/static.rutherford-nj.com/covid/policy%20reopen%20parks%20covid%2019.pdf)
-
+Addressed: No new COVID-19 cases; Borough tennis courts reopen; Emergency Medical Services Week; NJ Strategic Restart Plan  
 
 ---
 
