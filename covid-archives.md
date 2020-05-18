@@ -7,6 +7,17 @@ title: 'COVID-19 Information-Archives'
 
 Below find each update that has been made daily by the Rutherford Mayor and Council: 
 
+**Friday, May 15, 2020:** 
+
+[A video statement from Councilman Narucki](https://youtu.be/I9HvD38_nU0)
+
+[Transcript of the statement from Councilman Narucki](https://storage.googleapis.com/static.rutherford-nj.com/covid/May%2015%20Eddie%20Narucki%20(1).pdf)
+
+Addressed: New COVID-19 Case; Parks reopened with restrictions; James McGill & Company Census Tour 
+
+[Policy on Parks Reopening](https://storage.googleapis.com/static.rutherford-nj.com/covid/policy%20reopen%20parks%20covid%2019.pdf)
+
+
 **Thursday, May 14, 2020:** 
 
 [A video statement from Councilwoman McGowan](https://youtu.be/yKuagbTho1c)
