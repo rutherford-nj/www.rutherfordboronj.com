@@ -6,7 +6,7 @@
     "lunr": "^2.3.8",
     "modernizr": "^3.11.1",
     "moment": "^2.25",
-    "moment-timezone": "^0.5.28",
+    "moment-timezone": "^0.5.31",
     "nanogallery2": "^2.4.2"
   }
 }
