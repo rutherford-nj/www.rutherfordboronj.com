@@ -28,11 +28,13 @@ title: 'COVID-19 Information'
 
 **Monday, May 18, 2020:** 
 
-[A video statement from Councilwoman Begg-Roberson](https://youtu.be/I9HvD38_nU0)
+[A video statement from Councilwoman Begg-Roberson](https://youtu.be/R3qbEu-4tAc)
 
-[Transcript of the statement from Councilwoman Begg-Roberson](https://storage.googleapis.com/static.rutherford-nj.com/covid/May%2018%20Maria%20Begg-Roberson%20(1).pdf)
+[Transcript of the statement from Councilwoman Begg-Roberson](https://storage.googleapis.com/static.rutherford-nj.com/covid/May%2018%20Maria%20Begg-Roberson%20(2).pdf)
 
 Addressed: No new COVID-19 cases; Borough tennis courts reopen; Emergency Medical Services Week; NJ Strategic Restart Plan  
+
+[Parks Policy Updated 5/18](https://storage.googleapis.com/static.rutherford-nj.com/covid/policy%20reopen%20parks%20covid%2019%20.pdf)
 
 ---
 
