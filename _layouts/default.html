@@ -15,18 +15,11 @@
   <link rel="preconnect" href="https://apis.google.com">
   <link rel="preconnect" href="https://sheets.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com">
-  <script>
-    WebFontConfig = {
-      google: { families: ['Roboto'] }
-    };
-
-    (function(d) {
-      var wf = d.createElement('script'), s = d.scripts[0];
-      wf.src = 'https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js';
-      wf.async = true;
-      s.parentNode.insertBefore(wf, s);
-    })(document);
-  </script>
+  <link rel='preload' as="style"
+        href='https://fonts.googleapis.com/css?family=Roboto:400,700,900&display=swap' />
+  <link rel='stylesheet'
+        href='https://fonts.googleapis.com/css?family=Roboto:400,700,900&display=swap'
+        media="print" onload="this.media='all'" />
   <link rel="shortcut icon" href="/favicon.ico?zx={{ "now" | date: "%s" }}" />
 </head>
 
