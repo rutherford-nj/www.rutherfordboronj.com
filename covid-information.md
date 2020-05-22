@@ -28,7 +28,7 @@ title: 'COVID-19 Information'
 
 **Friday, May 22, 2020:** 
 
-[A video statement from Mayor Nunziato](https://youtu.be/R3qbEu-4tAc)
+[A video statement from Mayor Nunziato](https://youtu.be/Oh8cYDTNMgI)
 
 [Transcript of the statement from Mayor Nunziato](https://storage.googleapis.com/static.rutherford-nj.com/covid/May%2022%20Frank%20Nunziato%20(1).pdf)
 
