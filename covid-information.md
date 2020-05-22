@@ -26,13 +26,13 @@ title: 'COVID-19 Information'
 
 [Transcript of the statement from Mayor Nunziato regarding the passing of Rutherford residents](https://storage.googleapis.com/static.rutherford-nj.com/covid/April%206%202020%20Mayor%20Statement.pdf)
 
-**Monday, May 18, 2020:** 
+**Friday, May 22, 2020:** 
 
-[A video statement from Councilwoman Begg-Roberson](https://youtu.be/R3qbEu-4tAc)
+[A video statement from Mayor Nunziato](https://youtu.be/R3qbEu-4tAc)
 
-[Transcript of the statement from Councilwoman Begg-Roberson](https://storage.googleapis.com/static.rutherford-nj.com/covid/May%2018%20Maria%20Begg-Roberson%20(2).pdf)
+[Transcript of the statement from Mayor Nunziato](https://storage.googleapis.com/static.rutherford-nj.com/covid/May%2022%20Frank%20Nunziato%20(1).pdf)
 
-Addressed: No new COVID-19 cases; Borough tennis courts reopen; Emergency Medical Services Week; NJ Strategic Restart Plan  
+Addressed: One new COVID-19 cases; Tryon Field Reopens; Memorial Day Observance
 
 [Parks Policy Updated 5/18](https://storage.googleapis.com/static.rutherford-nj.com/covid/policy%20reopen%20parks%20covid%2019%20.pdf)
 
