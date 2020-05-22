@@ -32,9 +32,9 @@ title: 'COVID-19 Information'
 
 [Transcript of the statement from Mayor Nunziato](https://storage.googleapis.com/static.rutherford-nj.com/covid/May%2022%20Frank%20Nunziato%20(1).pdf)
 
-Addressed: One new COVID-19 cases; Tryon Field Reopens; Memorial Day Observance
+Addressed: One new COVID-19 case; Tryon Field Reopens; Memorial Day Observance
 
-[Parks Policy Updated 5/18](https://storage.googleapis.com/static.rutherford-nj.com/covid/policy%20reopen%20parks%20covid%2019%20.pdf)
+[Parks Policy Updated 5/22](https://storage.googleapis.com/static.rutherford-nj.com/covid/policy%20reopen%20parks%20covid%2019%20%233.docx.pdf)
 
 ---
 
