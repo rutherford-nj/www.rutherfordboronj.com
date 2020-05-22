@@ -66,7 +66,7 @@ Important links:
 
 ## A statement from Mayor Frank Nunziato and Rutherford Borough Council 
 
-(originally issued March 13th 2020, updated May 8th 2020)
+(originally issued March 13th 2020, updated May 22nd 2020)
 
 After consulting with the Rutherford Board of Health and Superintendent of Schools Jack Hurley regarding COVID-19, and given the available data, information and guidance received from state and county officials, the Borough has decided to take the necessary steps to limit opportunities for large social interactions within the Borough of Rutherford. 
 
@@ -77,8 +77,6 @@ After consulting with the Rutherford Board of Health and Superintendent of Schoo
 - [55 Kip Center](https://www.55kipcenter.org/)
 
 - [The Rutherford Public Library](https://www.rutherfordlibrary.org/)
-
-- ALL Rutherford recreational areas and playgrounds including Lincoln Park, Sunset Park, Memorial Park and Tamblyn Field and all other Borough Parks. 
 
 - Schools' grounds and playgrounds
 
