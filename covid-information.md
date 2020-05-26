@@ -26,11 +26,11 @@ title: 'COVID-19 Information'
 
 [Transcript of the statement from Mayor Nunziato regarding the passing of Rutherford residents](https://storage.googleapis.com/static.rutherford-nj.com/covid/April%206%202020%20Mayor%20Statement.pdf)
 
-**Friday, May 22, 2020:** 
+**Tuesday, May 26, 2020:** 
 
-[A video statement from Mayor Nunziato](https://youtu.be/Oh8cYDTNMgI)
+[A video statement from Council President Mullahey](https://youtu.be/Oh8cYDTNMgI)
 
-[Transcript of the statement from Mayor Nunziato](https://storage.googleapis.com/static.rutherford-nj.com/covid/May%2022%20Frank%20Nunziato%20(1).pdf)
+[Transcript of the statement from Council President Mullahey](https://storage.googleapis.com/static.rutherford-nj.com/covid/May%2026%20Tom%20Mullahey%20(1).pdf)
 
 Addressed: One new COVID-19 case; Tryon Field Reopens; Memorial Day Observance
 
@@ -79,6 +79,8 @@ After consulting with the Rutherford Board of Health and Superintendent of Schoo
 - [The Rutherford Public Library](https://www.rutherfordlibrary.org/)
 
 - Schools' grounds and playgrounds
+
+- [Parks Policy}(https://storage.googleapis.com/static.rutherford-nj.com/covid/policy%20reopen%20parks%20covid%2019%20%233.docx.pdf) (as of 5/22)
 
 **In addition the following events and meetings have been cancelled:**
 
