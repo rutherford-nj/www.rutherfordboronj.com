@@ -7,6 +7,16 @@ title: 'COVID-19 Information-Archives'
 
 Below find each update that has been made daily by the Rutherford Mayor and Council: 
 
+**Tuesday, May 26, 2020:** 
+
+[A video statement from Council President Mullahey](https://youtu.be/0dJVA6cKoL4)
+
+[Transcript of the statement from Council President Mullahey](https://storage.googleapis.com/static.rutherford-nj.com/covid/May%2026%20Tom%20Mullahey%20(1).pdf)
+
+Addressed: One new COVID-19 case; Borough exploring outdoor dining options; Golden House Reopens
+
+[Parks Policy Updated 5/22](https://storage.googleapis.com/static.rutherford-nj.com/covid/policy%20reopen%20parks%20covid%2019%20%233.docx.pdf)
+
 **Friday, May 22, 2020:** 
 
 [A video statement from Mayor Nunziato](https://youtu.be/Oh8cYDTNMgI)
