@@ -12,7 +12,7 @@ parent: 'Municipal Court'
 
 - [Do I qualify for a Public Defender?](https://njcourts.gov/courts/assets/municipal/indigencyguidelines.pdf?c=KRC)
 
-- [Where may I pay my fine?](www.NJMCdirect.com)
+- [Where may I pay my fine?](http://www.NJMCdirect.com)
 
 - [Municipal Court Appeal Forms](https://www.njcourts.gov/forms/10559_muni_appeal_kit.pdf?c=QQ0)
 
