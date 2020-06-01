@@ -7,6 +7,14 @@ title: 'COVID-19 Information-Archives'
 
 Below find each update that has been made daily by the Rutherford Mayor and Council: 
 
+**Friday, May 29, 2020:** 
+
+[A video statement from Councilman Goldsack](https://www.youtube.com/watch?v=UmXUpZC23PA&t=2s)
+
+[Transcript of the statement from Councilman Goldsack](https://storage.googleapis.com/static.rutherford-nj.com/covid/May%2029%20Mark%20Goldsack%20(3).pdf)
+
+Addressed: New COVID-19 cases; Mobile Testing Site in Lyndhurst; Summer Reading At the Library
+
 **Tuesday, May 26, 2020:** 
 
 [A video statement from Council President Mullahey](https://youtu.be/0dJVA6cKoL4)
