@@ -32,7 +32,7 @@ title: 'COVID-19 Information'
 
 [Transcript of the statement from Councilman Guzman](https://storage.googleapis.com/static.rutherford-nj.com/covid/June%201%20Ray%20Guzman%20(3).pdf)
 
-Addressed: New COVID-19 cases; YMCA Food Distribution; The Rutherford Governing Body stands with George Floyd and his family
+Addressed: New COVID-19 cases; YMCA Food Distribution; The Rutherford Governing Body remembers George Floyd and his family
 
 ---
 
