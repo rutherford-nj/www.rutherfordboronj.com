@@ -16,8 +16,6 @@ parent: 'Municipal Court'
 
 - [Municipal Court Appeal Forms](https://www.njcourts.gov/forms/10559_muni_appeal_kit.pdf?c=QQ0)
 
-- [Court Fines](https://www.njcourts.gov/attorneys/violations.html)
-
 - [NJ Motor Vehicle Commission Point Schedule](http://www.state.nj.us/mvc/Violations/penalties_pointSchedule.htm)
 
 - [Records Request Application Form Online](https://www.njcourts.gov/selfhelp/index.html)
