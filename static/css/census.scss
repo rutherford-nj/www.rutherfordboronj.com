@@ -1,0 +1,25 @@
+.census-info {
+    display: flex;
+    flex-wrap: wrap;
+    > div:nth-child(1) {
+        width: 25%;
+        @media screen and (max-width: $breakpoint) {
+            width: 100%;
+        }
+        img {
+            width: 100%;
+        }
+    }
+    > div:nth-child(2) {
+        padding-left: 1em;
+        width: 65%;
+        @media screen and (max-width: $breakpoint) {
+            width: 100%;
+        }
+    }
+}
+
+.census-bold {
+    font-size: 1.7em;
+    font-weight: 700;
+}
