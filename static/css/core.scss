@@ -81,7 +81,7 @@ a, a:visited, a:hover, a:active {
 
   > div:first-child {
     background-color: #ef7d37;
-    font-size: 2em;
+    font-size: 1em;
     text-align: right;
     width: 25%;
 
@@ -94,6 +94,7 @@ a, a:visited, a:hover, a:active {
   }
 
   > div:last-child {
+    font-size: 0.75em;
     width: 75%;
 
     span {
