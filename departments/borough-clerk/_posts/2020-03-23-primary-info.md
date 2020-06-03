@@ -1,9 +1,9 @@
 ---
 layout: blog
-title: 2020 Municipal Election Information – June Primary
+title: 2020 Municipal Election Information – July 7 Primary
 ---
 
 
-2020 Municipal Election Information – June Primary
+2020 Municipal Election Information – July 7 Primary
 
-[See the County Clerk's Official Website here.](http://www.bergencountyclerk.org/)
+[Borough Clerk's Information on Voter Registration Here](/departments/borough-clerk/election-voter-info/)
