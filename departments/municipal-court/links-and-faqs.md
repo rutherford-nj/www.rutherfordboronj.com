@@ -19,3 +19,5 @@ parent: 'Municipal Court'
 - [NJ Motor Vehicle Commission Point Schedule](http://www.state.nj.us/mvc/Violations/penalties_pointSchedule.htm)
 
 - [Records Request Application Form Online](https://www.njcourts.gov/selfhelp/index.html)
+
+- [Court Fines](https://www.njcourts.gov/attorneys/assets/violations/part1bc.pdf?c=paB)
