@@ -12,9 +12,11 @@ title: 'COVID-19 Financial & Social Services Information for Individuals'
 - New Jersey Programs
 
   - [Jobs Portal](https://jobs.covid19.nj.gov/index.html)
+  
+  - [Short Term Rental Assistance Program](https://www.nj.gov/dca/divisions/dhcr/offices/shorttermrap.html)
 
   - Food
-      
+        
       [Rutherford Community Pantry (by appointment only)](/departments/social-services/)
       
       [SNAP Benefits](https://covid19.nj.gov/faqs/nj-information/get-assistance/how-do-i-apply-for-food-and-cash-assistance-and-health-insurance-during-the-covid-19-outbreak)
