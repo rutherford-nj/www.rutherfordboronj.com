@@ -30,7 +30,7 @@ title: 'COVID-19 Information'
 
 [A video statement from Councilwoman McGowan](https://youtu.be/WZ-tQiQc86g)
 
-[Transcript of the statement from Councilwoman Mcgowan][https://storage.googleapis.com/static.rutherford-nj.com/covid/June%205%20Stephanie%20McGowan%20(1).pdf)
+[Transcript of the statement from Councilwoman Mcgowan](https://storage.googleapis.com/static.rutherford-nj.com/covid/June%205%20Stephanie%20McGowan%20(1).pdf)
 
 Addressed: New COVID-19 cases; Voter Registration Info; Resolution for Outdoor Dining and Retail
 
