@@ -7,6 +7,14 @@ title: 'COVID-19 Information-Archives'
 
 Below find each update that has been made daily by the Rutherford Mayor and Council: 
 
+**Monday, June 1, 2020:** 
+
+[A video statement from Councilman Guzman](https://youtu.be/ako4vNpdJxE)
+
+[Transcript of the statement from Councilman Guzman](https://storage.googleapis.com/static.rutherford-nj.com/covid/June%201%20Ray%20Guzman%20(3).pdf)
+
+Addressed: New COVID-19 cases; YMCA Food Distribution; The Rutherford Governing Body remembers George Floyd and his family
+
 **Friday, May 29, 2020:** 
 
 [A video statement from Councilman Goldsack](https://www.youtube.com/watch?v=UmXUpZC23PA&t=2s)
