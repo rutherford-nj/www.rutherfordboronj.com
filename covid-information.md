@@ -26,13 +26,13 @@ title: 'COVID-19 Information'
 
 [Transcript of the statement from Mayor Nunziato regarding the passing of Rutherford residents](https://storage.googleapis.com/static.rutherford-nj.com/covid/April%206%202020%20Mayor%20Statement.pdf)
 
-**Monday, June 1, 2020:** 
+**Friday, June 5, 2020:** 
 
-[A video statement from Councilman Guzman](https://youtu.be/ako4vNpdJxE)
+[A video statement from Councilwoman McGowan](https://youtu.be/WZ-tQiQc86g)
 
-[Transcript of the statement from Councilman Guzman](https://storage.googleapis.com/static.rutherford-nj.com/covid/June%201%20Ray%20Guzman%20(3).pdf)
+[Transcript of the statement from Councilwoman Mcgowan][https://storage.googleapis.com/static.rutherford-nj.com/covid/June%205%20Stephanie%20McGowan%20(1).pdf)
 
-Addressed: New COVID-19 cases; YMCA Food Distribution; The Rutherford Governing Body remembers George Floyd and his family
+Addressed: New COVID-19 cases; Voter Registration Info; Resolution for Outdoor Dining and Retail
 
 ---
 
