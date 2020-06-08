@@ -26,13 +26,17 @@ title: 'COVID-19 Information'
 
 [Transcript of the statement from Mayor Nunziato regarding the passing of Rutherford residents](https://storage.googleapis.com/static.rutherford-nj.com/covid/April%206%202020%20Mayor%20Statement.pdf)
 
-**Friday, June 5, 2020:** 
+**Monday, June 8, 2020:** 
 
-[A video statement from Councilwoman McGowan](https://youtu.be/WZ-tQiQc86g)
+[A video statement from Mayor Nunziato](https://youtu.be/qoNay_PyEWY)
 
-[Transcript of the statement from Councilwoman McGowan](https://storage.googleapis.com/static.rutherford-nj.com/covid/June%205%20Stephanie%20McGowan%20(1).pdf)
+[Transcript of the statement from Mayor Nunziato](https://storage.googleapis.com/static.rutherford-nj.com/covid/June%208%20Frank%20Nunziato%20(1).pdf)
 
-Addressed: New COVID-19 cases; Voter Registration Info; Resolution for Outdoor Dining and Retail
+Addressed: Final Regularly Scheduled COVID-19 Related Update: New COVID-19 cases; Outdoor Dining and Retail 
+
+[Temporary Outdoor Dining License](https://storage.googleapis.com/static.rutherford-nj.com/business-information/Temp%20Outdoor%20dining%20license.pdf)
+
+[Executive Order 150](https://storage.googleapis.com/static.rutherford-nj.com/business-information/Temp%20Outdoor%20dining%20license.pdf)
 
 ---
 
