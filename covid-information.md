@@ -36,7 +36,7 @@ Addressed: Final Regularly Scheduled COVID-19 Related Update: New COVID-19 cases
 
 [Temporary Outdoor Dining License](https://storage.googleapis.com/static.rutherford-nj.com/business-information/Temp%20Outdoor%20dining%20license.pdf)
 
-[Executive Order 150](https://storage.googleapis.com/static.rutherford-nj.com/business-information/Temp%20Outdoor%20dining%20license.pdf)
+[Executive Order 150](https://storage.googleapis.com/static.rutherford-nj.com/business-information/Executive%20Directive%20DOH%2020-014%20Outdoor%20Dining.pdf)
 
 ---
 
