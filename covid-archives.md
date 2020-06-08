@@ -7,6 +7,14 @@ title: 'COVID-19 Information-Archives'
 
 Below find each update that has been made daily by the Rutherford Mayor and Council: 
 
+**Friday, June 5, 2020:** 
+
+[A video statement from Councilwoman McGowan](https://youtu.be/WZ-tQiQc86g)
+
+[Transcript of the statement from Councilwoman McGowan](https://storage.googleapis.com/static.rutherford-nj.com/covid/June%205%20Stephanie%20McGowan%20(1).pdf)
+
+Addressed: New COVID-19 cases; Voter Registration Info; Resolution for Outdoor Dining and Retail
+
 **Monday, June 1, 2020:** 
 
 [A video statement from Councilman Guzman](https://youtu.be/ako4vNpdJxE)
