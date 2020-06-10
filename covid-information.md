@@ -38,6 +38,8 @@ Addressed: Final Regularly Scheduled COVID-19 Related Update: New COVID-19 cases
 
 [Executive Order 150](https://storage.googleapis.com/static.rutherford-nj.com/business-information/Executive%20Directive%20DOH%2020-014%20Outdoor%20Dining.pdf)
 
+[Policy on Temporary Outdoor Dining](https://storage.googleapis.com/static.rutherford-nj.com/business-information/policy%20temp%20outdoor%20sales.pdf)
+
 ---
 
 **For Archives of Daily Briefings and Transcripts [click here](/covid-archives/)**
