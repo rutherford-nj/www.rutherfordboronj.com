@@ -9,9 +9,6 @@ Click on the link above for an Excel Spreadsheet listing essential open business
 
 All information has been provided by the business owner via the form below. 
 
-Also at the bottom of this spreadsheet is a tab containing hours of operation for local supermarkets, as of 4/1/2020.
-
-
 
 # Do you run a business located in Rutherford, NJ that is currently operational and deemed essential? 
 
