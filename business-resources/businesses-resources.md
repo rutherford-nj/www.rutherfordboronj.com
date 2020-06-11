@@ -3,8 +3,9 @@ layout: page
 title: 'Business Resources'
 ---
 
+[**Return to Homepage**](/)
 
-Below please find necessary documents for conducting outdoor food and retail sales: 
+# Below please find necessary documents for conducting outdoor food and retail sales: 
 
 [Temporary Outdoor Food and Retail Sales (COVID-19 Economic Support) Policy](https://storage.googleapis.com/static.rutherford-nj.com/business-information/policy%20temp%20outdoor%20sales.pdf)
 
