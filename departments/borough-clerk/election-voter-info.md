@@ -20,7 +20,7 @@ In order to be eligible to vote, a person must be:
 - Bergen County residents may register to vote at the Office of the Superintendent of Elections, located at One Bergen County Plaza, Room 380, in Hackensack. 
 
 
-# ADA COMPLIANT POLLING PLACES IN RUTHERFORD ON JULY 7
+# ADA Compliant Polling Places in Rutherford on July 7:
 
 Districts 1, 9, 10, 11: Lincoln School 414 Montross Ave
 
