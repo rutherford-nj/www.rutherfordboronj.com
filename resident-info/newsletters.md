@@ -3,6 +3,8 @@ layout: page
 title: 'Mayor and Council Newsletters'
 ---
 
+- [June 12, 2020](https://storage.googleapis.com/static.rutherford-nj.com/newsletters/Rutherford_Nwsltr_6-12-2020.pdf)
+
 - [May 29, 2020](https://storage.googleapis.com/static.rutherford-nj.com/newsletters/Rutherford_Nwsltr_5-29-2020.pdf)
 
 - [May 15, 2020](https://storage.googleapis.com/static.rutherford-nj.com/newsletters/Rutherford_Nwsltr_5-15-2020.pdf)
