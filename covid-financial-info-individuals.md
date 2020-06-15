@@ -24,6 +24,8 @@ title: 'COVID-19 Financial & Social Services Information for Individuals'
   - [Mental Health (NJ State Resources)](https://covid19.nj.gov/faqs/nj-information/get-assistance/who-can-i-call-if-i%E2%80%99m-feeling-stressed-or-anxious-during-the-covid-19-outbreak)
   
   - [Mental Health (Bergen County Resources)](https://www.co.bergen.nj.us/health-promotion/2019-novel-corona-virus)
+  
+  - [Bergen County Mental Health Resource Document](https://storage.googleapis.com/static.rutherford-nj.com/covid/COVID-19%20Bergen%20County%20community%20MH%20resources%20-%206.11.20.docx.pdf)
 
   - [Special Needs Registry](https://www13.state.nj.us/SpecialNeeds/Signin?ReturnUrl=/SpecialNeeds/)
 
