@@ -365,6 +365,12 @@ Addressed: Please be mindful of using volunteer ambulance resources; dispose of 
 
 [Letter from Rutherford Volunteer Ambulance Corp](https://storage.googleapis.com/static.rutherford-nj.com/covid/EMS%20Statement.docx.pdf)
 
+**Monday, April 6, 2020:** 
+
+[A video statement from Mayor Nunziato regarding the passing of Rutherford residents](https://youtu.be/IGAjyrJTJnY)
+
+[Transcript of the statement from Mayor Nunziato regarding the passing of Rutherford residents](https://storage.googleapis.com/static.rutherford-nj.com/covid/April%206%202020%20Mayor%20Statement.pdf)
+
 **- Monday, April 6, 2020:** 
 
 [A video statement from Councilman Narucki](https://www.youtube.com/watch?v=s6ES-AlKQD0)
