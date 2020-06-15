@@ -13,6 +13,8 @@ Please click on an item below to download the appropriate form and return to the
 
 **Block Party Requests** – Letter to be sent to the Mayor & Council requesting date at least three weeks prior to event.
 
+[**Business Permits: Temporary Outdoor**](/business-resources/businesses-resources/)
+
 [**Construction/Zoning Permits**](/departments/building/)
 
 [**Dumpster**](https://storage.googleapis.com/static.rutherford-nj.com/borough-clerk/permits-licenses/Forms/DUMPSTER.pdf)
