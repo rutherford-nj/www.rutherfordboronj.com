@@ -18,14 +18,6 @@ title: 'COVID-19 Information'
 # COVID-19 Information
 
 
-**PLEASE READ:** [A summary of the Governor's executive order as provided by his office on March 21](https://storage.googleapis.com/static.rutherford-nj.com/covid/Summary%20of%20EO%20107%20and%20EO%20108.pdf)
-
-**Monday, April 6, 2020:** 
-
-[A video statement from Mayor Nunziato regarding the passing of Rutherford residents](https://youtu.be/IGAjyrJTJnY)
-
-[Transcript of the statement from Mayor Nunziato regarding the passing of Rutherford residents](https://storage.googleapis.com/static.rutherford-nj.com/covid/April%206%202020%20Mayor%20Statement.pdf)
-
 **Monday, June 8, 2020:** 
 
 [A video statement from Mayor Nunziato](https://youtu.be/qoNay_PyEWY)
@@ -97,8 +89,6 @@ After consulting with the Rutherford Board of Health and Superintendent of Schoo
 These closures and cancellations will be in effect until the Governer revokes or amends his Executive Order.  
 
 **Please be advised of the following items of note:**
-
-- As of 4/8/2020, all essential businesses that remain open must limit the amount of customers to 50% of their regular capacity. Patrons and employees are required to wear masks and gloves as well.
 
 - If a visit to Borough Hall is necessary, please contact the appropriate department and make an appointment prior to arrival. 
 
