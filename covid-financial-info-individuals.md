@@ -14,6 +14,8 @@ title: 'COVID-19 Financial & Social Services Information for Individuals'
   - [Jobs Portal](https://jobs.covid19.nj.gov/index.html)
   
   - [Short Term Rental Assistance Program](https://www.nj.gov/dca/divisions/dhcr/offices/shorttermrap.html)
+  
+  - [Division of Local Government Services (DLGS) Emergency Rental Assistance Program](https://www.nj.gov/dca/divisions/dhcr/offices/cverap.html)
 
   - Food
         
