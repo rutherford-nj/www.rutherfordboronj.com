@@ -23,12 +23,12 @@ title: 'COVID-19 Information'
 
 ---
 
-**For Archives of Daily Briefings and Transcripts [click here](/covid-archives/)**
+**For Archives of Mayor and Council Briefings and Transcripts [click here](/covid-archives/)**
 
 [Chart of progression of Rutherford COVID-19 cases](https://docs.google.com/spreadsheets/d/e/2PACX-1vS00GBGJKB0Xwtru3Rn5WrPqur19j--CibdM5R1tbnis0W_Bp18EmLFkJJc5sG4dwvMyqCorSVhHwik/pubhtml)
 
 
-Important links: 
+**Important links:** 
 
 [Telescreening for First Responders at New Bridge Medical Center](https://www.newbridgehealth.org/bergen-covid19-screening/)
 
