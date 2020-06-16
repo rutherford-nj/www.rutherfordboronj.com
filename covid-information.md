@@ -60,7 +60,7 @@ After consulting with the Rutherford Board of Health and Superintendent of Schoo
 
 - Schools' grounds and playgrounds
 
-- [Parks Policy}(https://storage.googleapis.com/static.rutherford-nj.com/covid/policy%20reopen%20parks%20covid%2019%20%233.docx.pdf) (as of 5/22)
+- [Parks Policy](https://storage.googleapis.com/static.rutherford-nj.com/covid/policy%20reopen%20parks%20covid%2019%20%233.docx.pdf) (as of 5/22)
 
 **In addition the following events and meetings have been cancelled:**
 
