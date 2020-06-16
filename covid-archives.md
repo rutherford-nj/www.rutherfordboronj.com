@@ -5,7 +5,21 @@ title: 'COVID-19 Information-Archives'
 
 [Back to Daily COVID-19 Information](/covid-information)
 
-Below find each update that has been made daily by the Rutherford Mayor and Council: 
+Below find each COVID-19 update made by the Rutherford Mayor and Council from March - June: 
+
+**Monday, June 8, 2020:** 
+
+[A video statement from Mayor Nunziato](https://youtu.be/qoNay_PyEWY)
+
+[Transcript of the statement from Mayor Nunziato](https://storage.googleapis.com/static.rutherford-nj.com/covid/June%208%20Frank%20Nunziato%20(1).pdf)
+
+Addressed: Final Regularly Scheduled COVID-19 Related Update: New COVID-19 cases; Outdoor Dining and Retail 
+
+[Temporary Outdoor Dining License](https://storage.googleapis.com/static.rutherford-nj.com/business-information/Temp%20Outdoor%20dining%20license.pdf)
+
+[Executive Order 150](https://storage.googleapis.com/static.rutherford-nj.com/business-information/Executive%20Directive%20DOH%2020-014%20Outdoor%20Dining.pdf)
+
+[Policy on Temporary Outdoor Dining](https://storage.googleapis.com/static.rutherford-nj.com/business-information/policy%20temp%20outdoor%20sales.pdf)
 
 **Friday, June 5, 2020:** 
 
