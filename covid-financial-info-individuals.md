@@ -19,9 +19,9 @@ title: 'COVID-19 Financial & Social Services Information for Individuals'
 
   - Food
         
-        [Rutherford Community Pantry (by appointment only)](/departments/social-services/)
+     [Rutherford Community Pantry (by appointment only)](/departments/social-services/)
       
-        [SNAP Benefits](https://covid19.nj.gov/faqs/nj-information/get-assistance/how-do-i-apply-for-food-and-cash-assistance-and-health-insurance-during-the-covid-19-outbreak)
+     [SNAP Benefits](https://covid19.nj.gov/faqs/nj-information/get-assistance/how-do-i-apply-for-food-and-cash-assistance-and-health-insurance-during-the-covid-19-outbreak)
 
   - [Mental Health (NJ State Resources)](https://covid19.nj.gov/faqs/nj-information/get-assistance/who-can-i-call-if-i%E2%80%99m-feeling-stressed-or-anxious-during-the-covid-19-outbreak)
   
