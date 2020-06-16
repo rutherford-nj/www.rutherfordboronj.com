@@ -17,17 +17,16 @@ title: 'COVID-19 Information'
 
 # COVID-19 Information
 
+[**Financial and Social Services Information for Individuals**](/covid-financial-info-individuals/)
+
+[**Financial Relief Information for Businesses**](/covid-business-information/)
+
 ---
 
 **For Archives of Daily Briefings and Transcripts [click here](/covid-archives/)**
 
-**For the Borough YouTube channel with all previous video briefings please [click here](https://www.youtube.com/channel/UCeXmkDZGR1XKSc5hMMoaUlQ/)**
-
 [Chart of progression of Rutherford COVID-19 cases](https://docs.google.com/spreadsheets/d/e/2PACX-1vS00GBGJKB0Xwtru3Rn5WrPqur19j--CibdM5R1tbnis0W_Bp18EmLFkJJc5sG4dwvMyqCorSVhHwik/pubhtml)
 
-[**Financial and Social Services Information for Individuals**](/covid-financial-info-individuals/)
-
-[**Financial Relief Information for Businesses**](/covid-business-information/)
 
 Important links: 
 
