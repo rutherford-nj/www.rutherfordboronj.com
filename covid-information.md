@@ -17,34 +17,18 @@ title: 'COVID-19 Information'
 
 # COVID-19 Information
 
-
-**Monday, June 8, 2020:** 
-
-[A video statement from Mayor Nunziato](https://youtu.be/qoNay_PyEWY)
-
-[Transcript of the statement from Mayor Nunziato](https://storage.googleapis.com/static.rutherford-nj.com/covid/June%208%20Frank%20Nunziato%20(1).pdf)
-
-Addressed: Final Regularly Scheduled COVID-19 Related Update: New COVID-19 cases; Outdoor Dining and Retail 
-
-[Temporary Outdoor Dining License](https://storage.googleapis.com/static.rutherford-nj.com/business-information/Temp%20Outdoor%20dining%20license.pdf)
-
-[Executive Order 150](https://storage.googleapis.com/static.rutherford-nj.com/business-information/Executive%20Directive%20DOH%2020-014%20Outdoor%20Dining.pdf)
-
-[Policy on Temporary Outdoor Dining](https://storage.googleapis.com/static.rutherford-nj.com/business-information/policy%20temp%20outdoor%20sales.pdf)
-
----
-
-**For Archives of Daily Briefings and Transcripts [click here](/covid-archives/)**
-
-**For the Borough YouTube channel with all previous video briefings please [click here](https://www.youtube.com/channel/UCeXmkDZGR1XKSc5hMMoaUlQ/)**
-
-[Chart of progression of Rutherford COVID-19 cases](https://docs.google.com/spreadsheets/d/e/2PACX-1vS00GBGJKB0Xwtru3Rn5WrPqur19j--CibdM5R1tbnis0W_Bp18EmLFkJJc5sG4dwvMyqCorSVhHwik/pubhtml)
-
 [**Financial and Social Services Information for Individuals**](/covid-financial-info-individuals/)
 
 [**Financial Relief Information for Businesses**](/covid-business-information/)
 
-Important links: 
+---
+
+**For Archives of Mayor and Council Briefings and Transcripts [click here](/covid-archives/)**
+
+[Chart of progression of Rutherford COVID-19 cases](https://docs.google.com/spreadsheets/d/e/2PACX-1vS00GBGJKB0Xwtru3Rn5WrPqur19j--CibdM5R1tbnis0W_Bp18EmLFkJJc5sG4dwvMyqCorSVhHwik/pubhtml)
+
+
+**Important links:** 
 
 [Telescreening for First Responders at New Bridge Medical Center](https://www.newbridgehealth.org/bergen-covid19-screening/)
 
@@ -76,7 +60,7 @@ After consulting with the Rutherford Board of Health and Superintendent of Schoo
 
 - Schools' grounds and playgrounds
 
-- [Parks Policy}(https://storage.googleapis.com/static.rutherford-nj.com/covid/policy%20reopen%20parks%20covid%2019%20%233.docx.pdf) (as of 5/22)
+- [Parks Policy](https://storage.googleapis.com/static.rutherford-nj.com/covid/policy%20reopen%20parks%20covid%2019%20%233.docx.pdf) (as of 5/22)
 
 **In addition the following events and meetings have been cancelled:**
 
