@@ -31,6 +31,64 @@ Examples: Who will perform the work. What work will be done. Where the work will
 
 Sketches, drawings, plans and other documentation of the proposed work will have to be submitted for review along with the permit applications. Plans cannot be reviewed without the applications being submitted with them. The applicant cannot do any work at this time and must wait during the review process. The majority of permit applications we process with little delays. Small projects can take 4 to 5 days and up to 8 to 10 days and sometimes longer for the larger projects, provided all the required information has been submitted. At this time you will be advised if your permit has been approved or if denied, the reasons why. If your permit is approved, you will receive a permit and will be asked to pay the appropriate fees. The construction permit is a document granting legal permission to start construction. Keep in mind you will be asked when you leave our office to post the building permit placard in a window or other prominent place at the construction site. Please keep a copy of the approved building plans on site so that they can be available for reference and the Borough Inspectors during inspections. 
 
+<div>
+    <table id="construction-permit-table">
+        <thead>
+            <tr>
+                <th rowspan=2>Type of Dwelling</th>
+                <th colspan=2>Plumbing</th>
+                <th colspan=2>HVACR</th>
+                <th colspan=2>Electrical</th>
+            </tr>
+            <tr>
+                <th>Plans</th>
+                <th>Work</th>
+                <th>Plans</th>
+                <th>Work</th>
+                <th>Plans</th>
+                <th>Work</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1a. Single-family detached home; own and reside</td>
+                <td>Yes</td><td>Yes</td><td>Yes*</td><td>Yes*</td><td>Yes</td><td>Yes</td>
+            </tr>
+            <tr>
+                <td>1b. Single-family detached home; own but NOT reside</td>
+                <td>No</td><td>No</td><td>No</td><td>No</td><td>No</td><td>No</td>
+            </tr>
+            <tr>
+                <td>2a. Two-family detached home; own and reside</td>
+                <td>No</td><td>No</td><td>No</td><td>No</td><td>Yes</td><td>Yes</td>
+            </tr>
+            <tr>
+                <td>2b. Two-family detached home; own but NOT reside</td>
+                <td>No</td><td>No</td><td>No</td><td>No</td><td>No</td><td>No</td>
+            </tr>
+            <tr>
+                <td>3a. Attached single-family townhouse; own and reside</td>
+                <td colspan=2>Yes if single sewer system; No if common sewer system.</td><td>Yes</td><td>Yes</td><td>Yes</td><td>Yes</td>
+            </tr>
+            <tr>
+                <td>3b. Attached single-family townhouse; own but NOT reside</td>
+                <td>No</td><td>No</td><td>No</td><td>No</td><td>No</td><td>No</td>
+            </tr>
+            <tr>
+                <td>4a. Unit in building of three or more dwellings; own and reside</td>
+                <td>No</td><td>No</td><td>No</td><td>No</td><td>Yes</td><td>Yes</td>
+            </tr>
+            <tr>
+                <td>4b. Unit in building of three or more dwellings; own but NOT reside</td>
+                <td>No</td><td>No</td><td>No</td><td>No</td><td>No</td><td>No</td>
+            </tr>
+            <tr>
+                <td></td><td colspan=6>*Cannot do work that involves the use of chlorofluorocarbons (CFCs) or hydrochlorofluorocarbons (HCFCs)</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
 **The inspections are as follows: (This is when you should call)**
 
 * The bottom of footing trenches before placement of footing, except that in case of pile foundations, inspections shall be made in accordance with the requirements of the building subcode;
