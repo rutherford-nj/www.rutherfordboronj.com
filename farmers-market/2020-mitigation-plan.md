@@ -3,7 +3,9 @@ layout: page
 title: 'Farmers Market - 2020 Mitigation Plan'
 ---
 
-**Mitigation Plan Rutherford Farmers Market 2020**
+[Return to Farmers' Market page](/farmers-market/)
+
+**COVID-19 Mitigation Plan for the 2020 Rutherford Farmers Market**
 
 The following will be implemented:
 
