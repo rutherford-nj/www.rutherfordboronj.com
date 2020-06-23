@@ -5,13 +5,9 @@ title: 'Farmers Market - 2020 Mitigation Plan'
 
 **Mitigation Plan Rutherford Farmers Market 2020**
 
-* The following will be implemented:
+The following will be implemented:
 
-* Simon Griskonis has attended a Webinar Hosted by The Dept of Health, Labor and
-
-* Agriculture: Understanding and Implementing NJ's COVID-19 Guidance    
-Simon Griskonis will be the officer in charge to maintain social distancing
-throughout the market.
+* Farmer’s Market Liaison Simon Griskonis has attended the webinar Understanding and Implementing NJ's COVID-19 Guidance hosted by The Dept of Health, Labor and Agriculture. Simon Griskonis will be the officer in charge to maintain social distancing throughout the market.
 
 * Full compliance with Chapter 24.
 
