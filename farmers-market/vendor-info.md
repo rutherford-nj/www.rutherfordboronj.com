@@ -5,6 +5,8 @@ title: 'Farmers Market - Vendor Information'
 
 **2020 Farmers' Market Vendor Information**
 
+[See Flyer Here](https://storage.googleapis.com/static.rutherford-nj.com/farmers-market/2020_FarmersMarket.pdf)
+
 2020 Farmers’ Market Vendor Information
 
 Dear Vendor,
