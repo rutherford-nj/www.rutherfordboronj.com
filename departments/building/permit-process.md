@@ -15,13 +15,11 @@ Generally, you need to obtain a building permit from the Borough whenever you co
 ### What to expect during the permit process:
 
 Some questions we will ask:
+
 * What type of work is being done?
 * Is this a single family/multifamily/commercial property?
-* A construction Permit Application will be given to the applicant and this must be filled out
-completely before we can take it in.
-* If the job requires it, two sets of sketches, drawings, plans, as well as any other
-documentation of the proposed work will be submitted for review along with the permit
-applications.
+* A construction Permit Application will be given to the applicant and this must be filled out completely before we can take it in.
+* If the job requires it, two sets of sketches, drawings, plans, as well as any other documentation of the proposed work will be submitted for review along with the permit applications.
 * Plans will not be reviewed without the applications alongside.
 
 This chart is to show what work the dwelling owner can do.
@@ -107,8 +105,7 @@ Commentary](https://www.state.nj.us/dca/divisions/codes/publications/pdf_licensi
 * Foundations and all walls up to grade level prior to back filling;
 * All structural framing and connections prior to covering with finish or infill material;
 * Plumbing underground services, rough piping, water service, sewer, septic services and storm drains; electrical rough wiring, panels and service installations; insulation installations;
-* Installations of all finished materials, sealings of exterior joints; plumbing piping, trim
-and fixtures; electrical wiring, devices and fixtures; mechanical systems equipment;.
+* Installations of all finished materials, sealings of exterior joints; plumbing piping, trim and fixtures; electrical wiring, devices and fixtures; mechanical systems equipment;.
 
 ### Arranging inspection visits:
 
