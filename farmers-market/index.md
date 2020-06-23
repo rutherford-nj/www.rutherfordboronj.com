@@ -21,7 +21,7 @@ The market will observe Covid 19 guidelines; both vendors and patrons must wear 
 
 Hand sanitizer will be available. 
 
-[**Please see the COVID-19 mitigation plan here.](./2020-mitigation-plan/)** 
+[**Please see the COVID-19 mitigation plan here.**](./2020-mitigation-plan/) 
 
 Vendors for this year include:
 
