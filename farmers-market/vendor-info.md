@@ -41,4 +41,4 @@ Email: sygriskonisfarm@gmail.com
 
 Mr. Griskonis approves all vendors for participation and is the on-site market manager on Market Days. Simon Griskonis has attended a Webinar Hosted by The Dept of Health, Labor and Agriculture : Understanding & Implementing NJ's COVID-19 Guidance. He will be the officer in charge to maintain social distancing throughout the market. Once you have been approved to participate you will be contacted with registration materials.
 
-[**Please see the COVID-19 mitigation plan here.**](./2020-mitigation-plan/) 
+[**Please see the COVID-19 mitigation plan here.**](../2020-mitigation-plan/) 
