@@ -3,11 +3,11 @@ layout: page
 title: 'Farmers Market - Vendor Information'
 ---
 
-**2020 Farmers' Market Vendor Information**
+[Return to Farmers' Market page](/farmers-market/)
 
-[See Flyer Here](https://storage.googleapis.com/static.rutherford-nj.com/farmers-market/2020_FarmersMarket.pdf)
 
-2020 Farmers’ Market Vendor Information
+# 2020 Farmers' Market Vendor Information
+
 
 Dear Vendor,
 
