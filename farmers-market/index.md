@@ -3,40 +3,33 @@ layout: page
 title: 'Farmers Market'
 ---
 
-**2019 Farmers' Market**          
+**2020 Farmers' Market**          
 
 **[Information for Vendors](./vendor-info/)**
 
-The market will be held in the [William’s Plaza, Park Avenue](https://www.google.com/maps/place/Williams+Plaza,+Rutherford,+NJ+07070/@40.8271096,-74.1058149,17z/data=!3m1!4b1!4m5!3m4!1s0x89c2f8be86aab01b:0x4d209f0d72ed5216!8m2!3d40.8271096!4d-74.1036209) on 
+The market will be held in the William’s Plaza, Park Avenue
 
-**Wednesdays 11:00am to 6:00pm** beginning **June 19** and 
+**Wednesdays 11:00am to 4:00pm beginning July 1**
 
-**Saturdays from 8:00am to 2:00pm** starting on **July 6**. 
+**Saturdays 8:00am to 2:00pm beginning July 11**
 
-The market season will conclude 10/30/2019.
- 
- 
-Hope to see you at the market!
+**The market season will conclude 10/31/2020.**
 
-The Rutherford Farmer’s Market is returning for its 22nd season. The market is sponsored this year by the Borough of Rutherford. The governing body welcomes the opportunity to support regional farmers by allowing them to market quality products in our downtown area.  To remain competitive, farmers need to be able to develop new markets for agricultural products grown on their farms. These markets provide the economic activity necessary to help preserve farmland and open space, which in turn contributes to a better quality of life in our region.  Our borough benefits because market patrons have access to fresh, high quality produce and our local businesses enjoy increased business activity.
+The Rutherford Farmer’s Market is returning for its 23rd season. The market is sponsored by the Borough of Rutherford. The governing body welcomes the opportunity to support regional farmers by allowing them to market quality products in our downtown area.  To remain competitive, farmers need to be able to develop new markets for agricultural products grown on their farms. These markets provide the economic activity necessary to help preserve farmland and open space, which in turn contributes to a better quality of life in our region.  Our borough benefits because market patrons have access to fresh, high quality produce and our local businesses enjoy increased business activity.
 
-**Vendors for this year include:**
+The market will observe Covid 19 guidelines; both vendors and patrons must wear a mask and observe social distancing protocols. 
 
-• Becca’s Bakery –Amish baked goods: apple dumplings, whoopie pies, donuts,
-breads, cookies, honey, jams and apple butter - Wednesdays
+Hand sanitizer will be available. 
+
+[**Please see the COVID-19 mitigation plan here.](./2020-mitigation-plan/)** 
+
+Vendors for this year include:
 
 • Sy Grisconis Farm – Fresh produce
 
-• Dr. Pickle – Pickles and brine cured products - Wednesdays
+• [Dr. Pickle](https://docpickle.com/) – Pickles and brine cured products – Wednesdays
 
-• Black Sheep Irish Bakery – Scottish and Irish sweet and savory baked goods,
-Wednesdays beginning July 3 through August 28
-
-• Dutch Hill Farm – Pork products and poultry, every other Wednesday
-beginning June 19th  
-
-• Kariba Farms – All natural and organic dried fruits and nuts
-
+Check back regularly as vendors are added!
 
 **For General Information:**
 
@@ -48,6 +41,9 @@ The Borough of Rutherford
 
 Rutherford, NJ 07070
 
-201-460-3000 ext. 3104   
+201-460-3000 ext. 3104
 
 Email: ringuanti@rutherfordboronj.com
+
+
+
