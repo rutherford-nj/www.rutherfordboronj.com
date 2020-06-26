@@ -7,6 +7,6 @@
     "modernizr": "^3.11.2",
     "moment": "^2.27",
     "moment-timezone": "^0.5.31",
-    "nanogallery2": "^3.0.0"
+    "nanogallery2": "^3.0.1"
   }
 }
