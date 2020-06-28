@@ -9,6 +9,8 @@ title: Summer Virtual Camp Craft Classes!
 Sign up on-line at [register.communitypass.net/reg/index.cfm
 ](https://register.communitypass.net/reg/index.cfm)
 
+[See Flyer Here](https://storage.googleapis.com/static.rutherford-nj.com/recreation/Summer%20Virtual%20Craft%20Classes%20Flyer.pdf)
+
  
 **Easy Mask Making:** 
 
