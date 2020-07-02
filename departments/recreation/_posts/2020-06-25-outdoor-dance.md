@@ -6,7 +6,7 @@ title: Rec Outdoor Dance Class
 
 # Rutherford Recreation Outdoor Dance Class
 
-[See flyer for more information](https://storage.googleapis.com/static.rutherford-nj.com/recreation/posts/RecDance.pdf)
+[See flyer for more information](https://storage.googleapis.com/static.rutherford-nj.com/recreation/summer-2020/OutDoor%20Dance%20Class.pdf)
 
 Social Distancing Observed
 
@@ -20,7 +20,7 @@ Length: 6 weeks (12 classes)
 
 Ages 3-4: 10:00-10:45 AM (parent/child class-10-person limit)
 
-Ages 5-7: 11:00-11:45 PM (10-person limit)
+Ages 5-7: 11:00-11:45 AM (10-person limit)
 
 Ages 8-10: 4:00-4:45 PM (10-person limit)
 
