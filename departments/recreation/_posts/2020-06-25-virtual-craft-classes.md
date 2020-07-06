@@ -60,6 +60,8 @@ $10.00 per person
 
 **Decoupage Canvas Craft Class**
 
+[See Flyer Here](https://storage.googleapis.com/static.rutherford-nj.com/recreation/summer-2020/Canvas%20Craft%20Art%202020.pdf)
+
 This is a live zoom class where participants will pick up a supply kit from the Recreation office and follow along at home. Decoupage wall hanging. This project includes painting & decoupage. May require parental help. Scissors required. Approximately 45 minutes. Limited class size.
 
 Tuesday, July 21st at 10:00 AM
@@ -69,6 +71,8 @@ $10.00 per person
 --- 
 
 **Patriotic Canvas Wall Hanging:**
+
+[See Flyer Here](https://storage.googleapis.com/static.rutherford-nj.com/recreation/summer-2020/Canvas%20Craft%20Art%202020.pdf)
 
 This is a live zoom class where participants will pick up a supply kit from the Recreation office and follow along at home. Participant must be able to do simple painting and gluing. Scissors required. Approximately 45 minutes. Limited class size. * Colors and materials may vary from photograph.
 
