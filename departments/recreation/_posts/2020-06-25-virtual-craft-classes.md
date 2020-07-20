@@ -12,49 +12,6 @@ Sign up on-line at [register.communitypass.net/reg/index.cfm
 [See Flyer Here](https://storage.googleapis.com/static.rutherford-nj.com/recreation/Summer%20Virtual%20Craft%20Classes%20Flyer.pdf)
 
  
-**Easy Mask Making:** 
-
-[See Flyer Here](https://storage.googleapis.com/static.rutherford-nj.com/recreation/summer-2020/Mask%20Making%20Flyer.pdf)
-
-This is a live zoom class where participants pick up a supply kit from the Recreation office and follow along at home. For participants with little sewing knowledge and will include a hand sewn mask and a no sew mask project. Scissors required. Class size limited. Approximately 45 minutes. * Colors & materials may vary from photograph
-
-July 7th, 2020 at 10:00 AM
-
-$10.00 per person
-
---- 
-
-**Advanced Mask Making:** 
-
-[See Flyer Here](https://storage.googleapis.com/static.rutherford-nj.com/recreation/summer-2020/Mask%20Making%20Flyer.pdf)
-
-This is a live zoom class where participants will pick up a supply kit from the Recreation office and follow along at home. This class is for older children & adults with a sewing machine and basic sewing knowledge. Scissors required. Class size limited. Approximately 45 minutes. * Colors & materials may vary from photograph
-
-July 7th, 2020 at 11:15 AM
-
-$12.00 per person
-
----- 
-
-**Christmas in July Ornament Making:**
-
-[See Flyer Here](https://storage.googleapis.com/static.rutherford-nj.com/recreation/summer-2020/Christmas%20in%20July%20Flyer-1.pdf)
-
-This is a live zoom class where participants will pick up a supply kit from the Recreation office and follow along at home. Participant must be able to use a needle & thread. A basic tutorial on how to sew by hand included. Scissors required. Approximately 45 minutes. Class size limited. * Colors & materials may vary from photograph
-
-Tuesday, July 14th at 10:00 AM
-
-$12.00 per person
-
---- 
-
-**Christmas in July Advanced Ornament Making:**
-
-This is a live zoom class where participants will pick up a supply kit from the Recreation office and follow along at home. Participant must be able to do more advanced sewing by hand. Approximately 45 minutes. Scissors required. Class size limited. *Colors & materials may vary from photograph
-
-Tuesday, July 14th at 11:15 AM
-
-$10.00 per person
 
 ---
 
@@ -83,6 +40,8 @@ $15.00 per person
 --- 
 
 **Christmas in July Wreath Making:**
+
+[See Flyer Here](https://storage.googleapis.com/static.rutherford-nj.com/recreation/summer-2020/RutherfordRecWreathMaking.pdf)
 
 This is a live zoom class where participants will pick up a supply kit from the Recreation office and follow along at home. Participant must own and be able to use a glue gun. Scissors required. Approximately 45 minutes. Limited class size. *Colors & materials may vary from photograph
 
