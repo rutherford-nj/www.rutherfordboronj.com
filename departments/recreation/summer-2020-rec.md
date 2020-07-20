@@ -23,5 +23,3 @@ We'll be adding new activities and events throughout the summer!
 * [**Virtual Camp Craft Classes**](../2020/06/25/virtual-craft-classes/)
 
 * [**Summer Photo and Sidewalk Chalk Contest!**](../2020/06/25/chalk-contest/)
-
-* [**Christmas in July Wreath Making](https://storage.googleapis.com/static.rutherford-nj.com/recreation/summer-2020/RutherfordRecWreathMaking.pdf)
