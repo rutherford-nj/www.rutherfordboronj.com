@@ -4,7 +4,6 @@ title: 'Employment & Bids'
 parent: Government
 ---
 
-[Job Announcement: Fire Subcode Official](https://storage.googleapis.com/static.rutherford-nj.com/finance/Employment/Fire%20Subcode%20Official%20Posting.docx.pdf)
 
 [Job Posting: Crossing Guards](https://storage.googleapis.com/static.rutherford-nj.com/finance/Employment/GUARDS.pdf)
 
