@@ -6,13 +6,11 @@ title: Adult Yoga Classes
 
 # Yoga for Adults
 
-[See Flyer Here](https://storage.googleapis.com/static.rutherford-nj.com/recreation/summer-2020/YOGA-flyer.pdf)
+[See Flyer Here](https://storage.googleapis.com/static.rutherford-nj.com/recreation/summer-2020/YOGA-flyer-August%2011th.docx.pdf)
 
 **SOCIAL DISTANCING OBSERVED**
 
-When: July 14th-August 6th
-
-Where: Tamblyn Field
+When: August 11th –September 3rd
 
 Twice a week: Tuesdays & Thursdays
 
@@ -26,7 +24,7 @@ Age: Adult
 
 Instructor: David Bogdanos
 
- 
+[Register here](https://register.communitypass.net/reg/index.cfm)
 
 All classes will be OUTDOORS except for inclement weather.
 
