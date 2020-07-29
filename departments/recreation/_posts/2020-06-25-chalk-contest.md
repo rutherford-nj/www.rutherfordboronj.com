@@ -8,6 +8,8 @@ title: Summer Photo and Sidewalk Chalk Contest!
 
 # August: 
 
+One winner chosen per category each week!
+
 [August Photo & Sidewalk Chalk Contests](https://storage.googleapis.com/static.rutherford-nj.com/recreation/summer-2020/AUGUST%20Summer%20Photo%20&%20Chalk%20Contest%20Series%20(1).pdf)
 
 [Contest Rules](https://storage.googleapis.com/static.rutherford-nj.com/recreation/summer-2020/AUGUST%20Recreation%20Summer%20Photo%20Contest%20Rules%20(1).pdf)
