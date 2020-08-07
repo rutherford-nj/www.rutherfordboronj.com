@@ -11,45 +11,39 @@ Sign up on-line at [register.communitypass.net/reg/index.cfm
 
 [See Flyer Here](https://storage.googleapis.com/static.rutherford-nj.com/recreation/Summer%20Virtual%20Craft%20Classes%20Flyer.pdf)
 
- 
 
 ---
 
-**Decoupage Canvas Craft Class**
+**Fall Crafts**
 
 [See Flyer Here](https://storage.googleapis.com/static.rutherford-nj.com/recreation/summer-2020/Canvas%20Craft%20Art%202020.pdf)
 
-This is a live zoom class where participants will pick up a supply kit from the Recreation office and follow along at home. Decoupage wall hanging. This project includes painting & decoupage. May require parental help. Scissors required. Approximately 45 minutes. Limited class size.
+This is an in-person class at Tamblyn Field Civic Center at 30 Woodland Ave. A supply kit from the Recreation office will be provided at the class.
+Social distancing will be observed and face coverings must be worn. Participant must bring their own glue gun & scissors. Ages 12 and up.
 
-Tuesday, July 21st at 10:00 AM
+Approximately 45 minutes. Limited class size. *Colors & materials may vary
 
-$10.00 per person
-
---- 
-
-**Patriotic Canvas Wall Hanging:**
-
-[See Flyer Here](https://storage.googleapis.com/static.rutherford-nj.com/recreation/summer-2020/Canvas%20Craft%20Art%202020.pdf)
-
-This is a live zoom class where participants will pick up a supply kit from the Recreation office and follow along at home. Participant must be able to do simple painting and gluing. Scissors required. Approximately 45 minutes. Limited class size. * Colors and materials may vary from photograph.
-
-Thursday, July 23rd at 10:00 AM
-
-$15.00 per person
-
---- 
-
-**Christmas in July Wreath Making:**
-
-[See Flyer Here](https://storage.googleapis.com/static.rutherford-nj.com/recreation/summer-2020/RutherfordRecWreathMaking.pdf)
-
-This is a live zoom class where participants will pick up a supply kit from the Recreation office and follow along at home. Participant must own and be able to use a glue gun. Scissors required. Approximately 45 minutes. Limited class size. *Colors & materials may vary from photograph
-
-Tuesday, July 28th at 10:00 AM
+Thursday, August 20th at 10:00 AM
 
 $25 per person
 
---- 
+---
+
+**Autumn Craft Art**
+
+[See Flyer Here](https://storage.googleapis.com/static.rutherford-nj.com/recreation/summer-2020/Fall%20wreath%20Flyer.docx.pdf)
+
+This is an in-person class at Tamblyn Field Civic Center at 30 Woodland Ave. A supply kit from the Recreation office will be provided at the class.
+Social distancing will be observed and face coverings must be worn. Ages 9 and up.
+
+Approximately 45 minutes. Limited class size. *Colors & materials may vary
+
+Thursday, August 13th at 10:00 AM
+
+$10 per person
+
+---
+
 
 **Meet our Instructor: Mary Montoto:**
 
