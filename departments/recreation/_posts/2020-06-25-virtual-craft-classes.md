@@ -12,7 +12,7 @@ Sign up on-line at [register.communitypass.net/reg/index.cfm
 
 ---
 
-**Fall Crafts**
+**Autumn Craft Art**
 
 [See Flyer Here](https://storage.googleapis.com/static.rutherford-nj.com/recreation/summer-2020/Fall%20Crafts%20Flyer.pdf)
 
@@ -27,7 +27,7 @@ $10 per person
 
 ---
 
-**Autumn Craft Art**
+**Fall Wreath Making**
 
 [See Flyer Here](https://storage.googleapis.com/static.rutherford-nj.com/recreation/summer-2020/Fall%20wreath%20Flyer.docx.pdf)
 
