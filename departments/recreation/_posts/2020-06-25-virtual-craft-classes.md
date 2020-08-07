@@ -4,7 +4,7 @@ title: Summer Virtual Camp Craft Classes!
 ---
 
 
-# Rutherford Recreation Summer Virtual Camp Craft Classes! 
+# Rutherford Recreation Virtual Camp Craft Classes! 
 
 Sign up on-line at [register.communitypass.net/reg/index.cfm
 ](https://register.communitypass.net/reg/index.cfm)
