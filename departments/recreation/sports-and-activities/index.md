@@ -13,8 +13,6 @@ parent: 'Recreation'
 
 Tennis Lessons - [Tennis Dynamics](https://storage.googleapis.com/static.rutherford-nj.com/recreation/Rutherford%20Summer%20Tennis%20Clinic%202020.pdf)
 
-Tennis Camp - [Tennis Dynamics Camp](https://storage.googleapis.com/static.rutherford-nj.com/recreation/2019summertennis.pdf)
-
 Rutherford Little League - [www.rutherford-ll.info](http://www.rutherford-ll.info/home.htm)
 
 Nereid Boat Club – [nereidbc.org](http://nereidbc.org/) nereidprograms@hotmail.com
