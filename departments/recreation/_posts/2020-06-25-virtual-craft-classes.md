@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Summer Virtual Camp Craft Classes!
+title: Virtual Camp Craft Classes!
 ---
 
 
