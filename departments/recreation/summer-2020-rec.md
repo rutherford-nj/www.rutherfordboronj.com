@@ -10,7 +10,9 @@ We'll be adding new activities and events throughout the summer!
 
 ## For Kids
 
-* [**Outdoor Dance Class**](../2020/06/25/outdoor-dance/)
+* [**Tennis Camp**](../2020/08/13/tennis-clinic/)
+
+* [**Multi-Sports Camp**](../2020/08/10/sports-camps/)
 
 
 ## For Adults
@@ -20,6 +22,6 @@ We'll be adding new activities and events throughout the summer!
 
 ## Fun For All Ages
 
-* [**Virtual Camp Craft Classes**](../2020/06/25/virtual-craft-classes/)
+* [**Camp Craft Classes**](../2020/06/25/virtual-craft-classes/)
 
 * [**Summer Photo and Sidewalk Chalk Contest!**](../2020/06/25/chalk-contest/)
