@@ -14,6 +14,8 @@ The Municipal Land Use Law grants towns the power to enact a master plan to set 
 
 - Affordable Housing Requirements
 
+- [Master Plan](/committees/planning-board/master-plan/)
+
 **Boards and Committees tasked with Community Planning:** 
 
 [Planning Board](/committees/planning-board/)
