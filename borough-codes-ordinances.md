@@ -8,7 +8,15 @@ title: 'Borough Codes & Ordinances'
 ## Recently Adopted Borough Codes and Ordinances:
 
 
-[Ordinance No. 3524-20 - Park Avenue Handicap Space Ordinance Amendment](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3524-20%20Park%20Avenue%20Handicap%20Space%20Ordinance%20Amendment.pdf)
+[Ordinance No. 3532-20 - Pet Waste Ordinance](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3532-20%20Pet%20Waste%20Ordinance.pdf)
+
+[Ordinance No. 3531-20 - Litter Control Ordinance](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3531-20%20Litter%20Control%20Ordinance.pdf)
+
+[Ordinance No. 3530-20 - Improper Disposal of Waste Ordinance](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3530-20%20Improper%20Disposal%20of%20Waste%20Ordinance.pdf)
+
+[Ordinance No. 3529-20 - Containerized Yard Waste Ordinance](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3529-20%20Containerized%20Yard%20Waste%20Ordinance.pdf)
+
+[Ordinance No. 3524-20 - Park Avenue Handicap Space Ordinance Amendment](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3524-20%20Park%20Avenue%20Handicap%20Space%20Ordinance%20Amendment%20(1).pdf)
 
 [Ordinance No. 3521-20 - Amending Military Banner Program](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3521-20%20Military%20Banner%20Program.pdf)
 
