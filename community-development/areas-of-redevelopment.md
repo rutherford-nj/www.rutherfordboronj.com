@@ -3,6 +3,8 @@ layout: page
 title: 'Areas of Redevelopment in Rutherford'
 ---
 
+[Return to Community Development page](/community-development/)
+
 Click on a project below for detailed information and the history of each project:
 
 
