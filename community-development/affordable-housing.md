@@ -3,7 +3,10 @@ layout: page
 title: 'Affordable Housing'
 ---
 
-**A Brief History of Affordable Housing and What It Means For Rutherford**
+[Return to Community Development page](/community-development/)
+
+
+**A Brief History of Affordable Housing And What It Means For Rutherford**
 
 The Mount Laurel Doctrine is the foundation upon which affordable housing regulations and requirements in New Jersey are based. It derives from a series of Court decisions and the passage of the Fair Housing Act. It establishes an obligation for municipalities to plan for and provide opportunities for the construction of affordable housing.
 
