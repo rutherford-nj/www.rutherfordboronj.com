@@ -10,7 +10,7 @@ The Municipal Land Use Law grants towns the power to enact a master plan to set 
 
 - [Understanding Redevelopment](./understanding-redevelopment/)
 
-- [Areas of Redevelopment in Rutherford](./understanding-redevelopment/)
+- [Areas of Redevelopment in Rutherford](./areas-of-redevelopment/)
 
 - [Affordable Housing Requirements](./affordable-housing/)
 
