@@ -37,8 +37,6 @@ structures removed, the designation as a rehabilitation area was inaccurate. Aft
 
 [106 Park Mayor and Council Resolution Authorizing Preliminary Investigation](https://storage.googleapis.com/static.rutherford-nj.com/community-development/106%20park/M%26C%20Resolution%20Authorizing%20PB%20Preliminary%20Investigation.pdf)
 
-[106 Park Mayor and Council Resolution Authorizing Preliminary Investigation](https://storage.googleapis.com/static.rutherford-nj.com/community-development/106%20park/M%26C%20Resolution%20Authorizing%20PB%20Preliminary%20Investigation.pdf)
-
 [106 Park Mayor and Council Resolution Designating Redevelopment Area](https://storage.googleapis.com/static.rutherford-nj.com/community-development/106%20park/M%26C%20resolution%20designating%20Redevelopment%20Area.pdf)
 
 [106 Park Planning Board Resolution Recommending Findings of Study](https://storage.googleapis.com/static.rutherford-nj.com/community-development/106%20park/PB%20Reso%20recommending%20findings%20of%20RD%20Study.pdf)
