@@ -7,6 +7,8 @@ title: '106 Park'
 
 # 106 Park Ave (The Parker)
 
+![Map of 106 Park Ave](map.jpg)
+
 **Location:** 106 Park Ave
 
 **Project Type:** Residential with retail space
