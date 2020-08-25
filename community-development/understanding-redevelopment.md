@@ -8,7 +8,7 @@ title: 'Understanding Redevelopment'
 
 **What does Redevelopment mean?**
 
-The Redevelopment Process is a tool available to municipalities allowing them to deliberately and with the input of the public determine if a property is underutilized and should have new allowable uses that cause the property to be productive.  
+The Redevelopment Process is a tool available to municipalities allowing them to, deliberately and with the input of the public, determine if a property is underutilized and should have new allowable uses that cause the property to be productive.  
 
 **What is a PILOT?"**
 
