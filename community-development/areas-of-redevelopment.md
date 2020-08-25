@@ -8,7 +8,7 @@ title: 'Areas of Redevelopment in Rutherford'
 Click on a project below for detailed information and the history of each project:
 
 
-106 Park Ave (The Parker)
+[106 Park Ave (The Parker)](/areas-of-redevelopment/106-park/)
 
 Agnew Place
 
