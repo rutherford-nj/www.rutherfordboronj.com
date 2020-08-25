@@ -21,9 +21,7 @@ The project now referred to as The Parker began in 2003 as the Maples Rehabilita
 
 Long-time Rutherfordians will remember “The Maples” as a large boarding house that had become an eyesore and a source of illicit behavior.
 
-Activity on the site stalled a few times over the years with the death of the original developer, followed by the housing bubble and the Great Recession. Eventually with all
-structures removed, the designation as a rehabilitation area was inaccurate. After further study it was designated a Redevelopment Area in 2017. The Parker was completed in
-2019. The current developer has purchased adjacent properties and is seeking an expansion of the redevelopment area. The request for a second phase has not been acted on by the Mayor and Council or sent to the Planning Board. 
+Activity on the site stalled a few times over the years with the death of the original developer, followed by the housing bubble and the Great Recession. Eventually with all structures removed, the designation as a rehabilitation area was inaccurate. After further study it was designated a Redevelopment Area in 2017. The Parker was completed in 2019. The current developer has purchased adjacent properties and is seeking an expansion of the redevelopment area. The request for a second phase has not been acted on by the Mayor and Council or sent to the Planning Board. 
 
 **Below find documents detailing the history of 106 Park Ave:**
 
