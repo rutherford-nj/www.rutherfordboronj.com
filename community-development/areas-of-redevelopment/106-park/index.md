@@ -7,13 +7,13 @@ title: '106 Park'
 
 # 106 Park Ave (The Parker)
 
-![Map of 106 Park Ave](map.jpg)
+![Map of 106 Park Ave](106map.jpg)
 
 **Location:** 106 Park Ave
 
 **Project Type:** Residential with retail space
 
-**Project Duration:** 2003 - 2019
+**Project Status:** Completed
 
 The completed Parker is a 52 unit, residential building with retail space and onsite parking.
 
