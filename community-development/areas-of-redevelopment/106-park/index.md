@@ -3,7 +3,7 @@ layout: page
 title: '106 Park'
 ---
 
-[Return to Areas of Development page](/community-development/areas-of-redevelopment/)
+[Return to Areas of Development page](./community-development/areas-of-redevelopment/)
 
 # 106 Park Ave (The Parker)
 
