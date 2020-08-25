@@ -23,6 +23,9 @@ Long-time Rutherfordians will remember “The Maples” as a large boarding hous
 
 Activity on the site stalled a few times over the years with the death of the original developer, followed by the housing bubble and the Great Recession. Eventually with all structures removed, the designation as a rehabilitation area was inaccurate. After further study it was designated a Redevelopment Area in 2017. The Parker was completed in 2019. The current developer has purchased adjacent properties and is seeking an expansion of the redevelopment area. The request for a second phase has not been acted on by the Mayor and Council or sent to the Planning Board. 
 
+**Discussion of final PILOT???**
+
+
 **Below find documents detailing the history of 106 Park Ave:**
 
 [106 Park Study and Preliminary Investigation Report](https://storage.googleapis.com/static.rutherford-nj.com/community-development/106%20park/106%20Park%20Redevelopment%20Study%20and%20Preliminary%20Investigation%20Report.pdf)
