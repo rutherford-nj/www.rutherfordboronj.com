@@ -1,6 +1,6 @@
 name: Compress images
 on:
-  push:
+  pull_request:
     # Run image-actions when jpg, jpeg, png or webp files are added or changed
     # See https://help.github.com/en/actions/automating-your-workflow-with-github-actions/workflow-syntax-for-github-actions#onpushpull_requestpaths
     paths:
