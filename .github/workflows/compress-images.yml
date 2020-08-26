@@ -1,13 +1,6 @@
 name: Compress images
-on:
-  pull_request:
-    # Run image-actions when jpg, jpeg, png or webp files are added or changed
-    # See https://help.github.com/en/actions/automating-your-workflow-with-github-actions/workflow-syntax-for-github-actions#onpushpull_requestpaths
-    paths:
-      - "**.jpg"
-      - "**.jpeg"
-      - "**.png"
-      - "**.webp"
+# Run image-actions on all pull requests. They're rare enough in the repo and makes it easier to trigger.
+on: [pull_request]
 jobs:
   build:
     name: calibreapp/image-actions
