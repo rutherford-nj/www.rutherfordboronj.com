@@ -1,4 +1,3 @@
 #!/bin/bash
 
-sudo git clean -fdX
-chmod 755 .
+git clean -fdX
