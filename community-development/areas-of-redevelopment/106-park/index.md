@@ -11,7 +11,7 @@ p, img { width: 100%; }
 
 # 106 Park Ave (The Parker)
 
-![Map of 106 Park Ave](map.jpg)
+![Map of 106 Park Ave](106-park-map.jpg)
 
 **Location:** 106 Park Ave
 
