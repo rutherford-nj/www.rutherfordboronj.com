@@ -28,4 +28,5 @@ jobs:
         [[ "$GITHUB_REF" == refs/heads/www ]] && \
           export FIREBASE_PROJECT="rutherford-nj" && \
           rm $SITE_WORKSPACE/robots.txt
+        mkdir $SITE_WORKSPACE/.jekyll-cache
         make deploy
