@@ -13,7 +13,7 @@ p, img { width: 100%; }
 
 ![Map of The Williams Center](wcmap.jpg)
 
-**Location:** 1 Williams Plaza, Park Ave between Glen Road and Spring Dell
+**Location:** 1 Williams Plaza
 
 **Project Type:** Mixed Use With Arts Component
 
