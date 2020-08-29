@@ -45,10 +45,10 @@ third-party-js-packages: \
 
 
 build-requirements: third-party-js-packages
+	mkdir -p _site .jekyll-cache
 
 
 dev: build-requirements
-	mkdir -p _site .jekyll-cache
 	docker run -it --rm -p 0.0.0.0:8888:8888 \
         -v $(SITE_WORKSPACE):/srv/jekyll -v $(SITE_WORKSPACE)/_site:/srv/jekyll/_site \
         jekyll/builder:latest jekyll serve --watch -P 8888 -p /dev/null/
