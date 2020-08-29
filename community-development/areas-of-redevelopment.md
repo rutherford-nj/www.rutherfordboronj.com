@@ -9,21 +9,21 @@ title: 'Areas of Redevelopment in Rutherford'
 
 - [106 Park Ave (The Parker)](/community-development/areas-of-redevelopment/106-park/)
 
-- Highland Cross (NJSEA Jurisdiction)
+- [Highland Cross (NJSEA Jurisdiction)](/community-development/areas-of-redevelopment/highland-cross/)
 
-- Agnew Place Area A
+- [Agnew Place Area A](/community-development/areas-of-redevelopment/agnew/)
 
-- Agnew Place Area B
+- [Agnew Place Area B](/community-development/areas-of-redevelopment/agnewb/)
 
 
 **Areas Designated In Need Of Redevelopment (Plan Pending)**
 
-- Williams Center
+- [Williams Center](/community-development/areas-of-redevelopment/williams-center/)
 
-- Meadow Road
+- [Meadow Road](/community-development/areas-of-redevelopment/meadow-road/)
 
 **Areas Under Review For Redevelopment**
 
-- Homan Properties
+- [Holman Properties](/community-development/areas-of-redevelopment/holman/)
 
 **General Redevelopment Information**
