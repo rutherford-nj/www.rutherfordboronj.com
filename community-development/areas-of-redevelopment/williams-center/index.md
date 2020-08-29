@@ -11,7 +11,7 @@ p, img { width: 100%; }
 
 # The Williams Center
 
-![Map of Highland Cross](highlandmap.jpg)
+![Map of The Williams Center](wcmap.jpg)
 
 **Location:** 1 Williams Plaza, Park Ave between Glen Road and Spring Dell
 
