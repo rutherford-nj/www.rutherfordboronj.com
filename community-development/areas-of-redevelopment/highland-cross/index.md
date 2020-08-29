@@ -9,7 +9,7 @@ p, img { width: 100%; }
 
 [Return to Areas of Development page](/community-development/areas-of-redevelopment/)
 
-# 106 Park Ave (The Parker)
+# Highland Cross Warehouse/Light Industrial Development
 
 ![Map of 106 Park Ave](map.jpg)
 
