@@ -11,7 +11,7 @@ p, img { width: 100%; }
 
 # Agnew Place Area B
 
-![Map of Agnew Place Area A](agnewamap.jpg)
+![Map of Agnew Place Area B](agnewbmap.jpg)
 
 **Location:** 51 Union Ave
 
