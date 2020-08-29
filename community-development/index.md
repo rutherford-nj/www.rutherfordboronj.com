@@ -5,27 +5,22 @@ title: 'Community Planning and Development'
 
 The Municipal Land Use Law grants towns the power to enact a master plan to set land-use priorities and direction, as well as adopt a zoning ordinance to dictate where and in what form development should happen.
 
-**Below find information regarding Land Use, Planning and Development in Rutherford:** 
-
-
-- [Understanding Redevelopment](./understanding-redevelopment/)
-
-- [Areas of Redevelopment in Rutherford](./areas-of-redevelopment/)
-
-- [Affordable Housing Requirements](./affordable-housing/)
+**Community Development Information:** 
 
 - [Master Plan](/committees/planning-board/master-plan/)
 
-**Boards and Committees tasked with Community Planning:** 
+- [Redevelopment in Rutherford](./areas-of-redevelopment/)
 
-[Planning Board](/committees/planning-board/)
+- [Affordable Housing Requirements](./affordable-housing/)
 
-[Board of Adjustment (Zoning Board)](/committees/board-of-adjustment/)
 
-Streetscape Committee
+**Land Use Boards and Committees:** 
 
-Historic Preservation Committee
+[- Planning Board](/committees/planning-board/)
 
+[- Board of Adjustment (Zoning Board)](/committees/board-of-adjustment/)
+
+- Streetscape Committee - *The Streetscape Committee reviews zoning applications to ensure compliance with the Borough's Streetscape codes regarding storefront designs, windows and doors, facade treatments and materials, awnings, signage, etc. 
 
 
 
