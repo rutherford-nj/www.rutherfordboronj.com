@@ -49,9 +49,9 @@ build-requirements: third-party-js-packages
 
 
 dev: build-requirements
-	docker run -it --rm -p 0.0.0.0:8888:8888 \
+	docker run -it --rm -p 0.0.0.0:8080:8080 \
         -v $(SITE_WORKSPACE):/srv/jekyll \
-        jekyll/builder:latest jekyll serve --watch -P 8888 -p /dev/null/
+        jekyll/builder:latest jekyll serve --watch -P 8080 -p /dev/null/
 
 
 prod: build-requirements
