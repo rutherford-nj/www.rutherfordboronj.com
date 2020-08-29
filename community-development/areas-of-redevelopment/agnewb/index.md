@@ -17,7 +17,7 @@ p, img { width: 100%; }
 
 **Project Type:** Residential
 
-**Project Status:** Under Review
+**Project Status:** 
 
 This property at the corner of Chestnut Street and Union Avenue is Area B in the two-part redevelopment plan. After receiving the designation as an area in need of redevelopment, the owner of the property applied to the Planning Board for approval of a four story/21 unit residential building with onsite parking. The Planning Board approved the project in September of 2019. A redevelopment agreement is currently being drafted.
 
