@@ -51,13 +51,14 @@ dev: build-requirements
 	mkdir -p _site
 	docker run -it --rm -p 0.0.0.0:8888:8888 \
         -v $(SITE_WORKSPACE):/srv/jekyll -v $(SITE_WORKSPACE)/_site:/srv/jekyll/_site \
-        jekyll/builder:latest /bin/bash -c "chmod 777 /srv/jekyll && jekyll serve --watch -P 8888 -p /dev/null/"
+        jekyll/builder:latest jekyll serve --watch -P 8888 -p /dev/null/
 
 
 prod: build-requirements
-	docker run --rm \
+        mkdir $(SITE_WORKSPACE)/.jekyll-cache
+	docker run \
         -v $(SITE_WORKSPACE):/srv/jekyll -v $(SITE_WORKSPACE)/_site:/srv/jekyll/_site \
-        jekyll/builder:latest /bin/bash -c "chmod 777 /srv/jekyll && jekyll build"
+        jekyll/builder:latest jekyll build
 
 
 deploy: prod package-firebase-tools
