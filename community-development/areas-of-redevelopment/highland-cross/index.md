@@ -11,7 +11,7 @@ p, img { width: 100%; }
 
 # Highland Cross Warehouse/Light Industrial Development
 
-![Map of 106 Park Ave](map.jpg)
+![Map of Highland Cross](highlandmap.jpg)
 
 **Location:** Eastern end of Highland Cross
 
