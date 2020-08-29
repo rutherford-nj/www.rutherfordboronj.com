@@ -20,7 +20,7 @@ The Municipal Land Use Law grants towns the power to enact a master plan to set 
 
 - [Board of Adjustment (Zoning Board)](/committees/board-of-adjustment/)
 
-- Streetscape Committee - * The Streetscape Committee reviews zoning applications to ensure compliance with the Borough's Streetscape codes regarding storefront designs, windows and doors, facade treatments and materials, awnings, signage, etc. 
+- Streetscape Committee - The Streetscape Committee reviews zoning applications to ensure compliance with the Borough's Streetscape codes regarding storefront designs, windows and doors, facade treatments and materials, awnings, signage, etc. 
 
 
 
