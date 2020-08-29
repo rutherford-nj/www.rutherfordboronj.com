@@ -35,6 +35,6 @@ Activity on the site stalled a few times over the years with the death of the or
 
 [106 Park Ordinance](https://storage.googleapis.com/static.rutherford-nj.com/community-development/106%20park/3445-18%20-%20Redevelopment%20-%20Maples.pdf)
 
-[106 Park RDA](https://storage.googleapis.com/static.rutherford-nj.com/community-development/106%20park/RDA%20106%20Park%20Ave.%20Rutherford.pdf)
+[106 Park Redevelopment Agreement](https://storage.googleapis.com/static.rutherford-nj.com/community-development/106%20park/RDA%20106%20Park%20Ave.%20Rutherford.pdf)
 
 
