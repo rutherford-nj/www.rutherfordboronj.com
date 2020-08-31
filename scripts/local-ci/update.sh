@@ -1,3 +1,8 @@
 #!/bin/sh 
-echo $@
+
+set -x
+
+cd /site
+git fetch --all
+git checkout $1
 
