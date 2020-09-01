@@ -3,7 +3,7 @@ layout: page
 title: 'COVID-19 Financial Relief Information for Businesses'
 ---
 
-[Back to Daily COVID-19 Information](/covid-information)
+[Back to COVID-19 Information](/covid-information)
 
 # Financial Relief Information for Businesses
 
