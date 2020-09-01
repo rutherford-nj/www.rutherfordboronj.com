@@ -15,8 +15,17 @@ For information on COVID-19/Novel Coronavirus and its impact on businesses, plea
 
 **Information for Businesses Provided by the County**
 
-In response to the economic challenges with which our small businesses are contending, the County has created the Bergen County CARES Small Business Grant Program: 
+In response to the economic challenges with which our small businesses are contending, the County has created the **Bergen County CARES Small Business Grant Program**: 
 [bergencountycares.org](https://bergencountycares.org/)
+
+[- Bergen County CARES Act Program Outline](https://storage.googleapis.com/static.rutherford-nj.com/covid/business-info/BC%20CARES%202_Program%20Outline.docx.pdf)
+
+[- Bergen County CARES Act Guidelines For All Small Businesses](https://storage.googleapis.com/static.rutherford-nj.com/covid/business-info/BC%20CARES%202_Guidelines_All%20Small%20Businesses.docx.pdf)
+
+[- Bergen County CARES Act Guidelines For Restaurants or Food Service Establishments](https://storage.googleapis.com/static.rutherford-nj.com/covid/business-info/BC%20CARES%202_Guidelines_Restaurant%20or%20Food%20Service%20Establishment.docx.pdf)
+
+[- Bergen County CARES Act Guidelines For Essential Retail Businesses](https://storage.googleapis.com/static.rutherford-nj.com/covid/business-info/BC%20CARES%202_Guidelines_Essential%20Retail%20Businesses.docx.pdf)
+
 
 [- A Concise summary of Available Resources for Busineses](https://storage.googleapis.com/static.rutherford-nj.com/covid/Resources%20for%20Business_Interactive_Covid-19.pdf)
 
