@@ -22,8 +22,14 @@ In September of 2019 a settlement with the FSHC was reached that will protect th
 
 **Affordable Housing Information**
 
+[Rutherford's Agreement with FSHC](https://storage.googleapis.com/static.rutherford-nj.com/community-development/Rutherford's%20Agreement%20with%20FSHC.pdf)
+
+[Rutherford Concise Vacant Land Analysis Text Oct 17, 2017](https://storage.googleapis.com/static.rutherford-nj.com/community-development/Rutherford%20concise%20vacant%20land%20analysis%20text%20October%2017%2C%202017%20(from%20July%2024-May%202017)%20orig.pdf)
+
+[Vacant Land Analysis - GIS Map](https://storage.googleapis.com/static.rutherford-nj.com/community-development/Vacant%20Land%20Analysis-GIS%20Map.pdf)
+
 [Monitoring Projects 2020](https://storage.googleapis.com/static.rutherford-nj.com/community-development/Monitoring%20Projects%202020%20-%20Rutherford.pdf)
 
 [Rutherford Trust Fund Report](https://storage.googleapis.com/static.rutherford-nj.com/community-development/Rutherford%20Trust%20Fund%20Report%2012_31_2019%20(1).pdf)
 
-[VLI Monitoring Projects 2020](https://storage.googleapis.com/static.rutherford-nj.com/community-development/VLI%20Monitoring%20Projects%202020%20-%20Rutherford.pdf)
+[VLI Monitoring Projects 2020 - Rutherford](https://storage.googleapis.com/static.rutherford-nj.com/community-development/VLI%20Monitoring%20Projects%202020%20-%20Rutherford.pdf)
