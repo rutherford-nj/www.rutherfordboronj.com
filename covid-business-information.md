@@ -18,41 +18,41 @@ For information on COVID-19/Novel Coronavirus and its impact on businesses, plea
 In response to the economic challenges with which our small businesses are contending, the County has created the **Bergen County CARES Small Business Grant Program**: 
 [bergencountycares.org](https://bergencountycares.org/)
 
-[- Bergen County CARES Act Program Outline](https://storage.googleapis.com/static.rutherford-nj.com/covid/business-info/BC%20CARES%202_Program%20Outline.docx.pdf)
+- [Bergen County CARES Act Program Outline](https://storage.googleapis.com/static.rutherford-nj.com/covid/business-info/BC%20CARES%202_Program%20Outline.docx.pdf)
 
-[- Bergen County CARES Act Guidelines For All Small Businesses](https://storage.googleapis.com/static.rutherford-nj.com/covid/business-info/BC%20CARES%202_Guidelines_All%20Small%20Businesses.docx.pdf)
+- [Bergen County CARES Act Guidelines For All Small Businesses](https://storage.googleapis.com/static.rutherford-nj.com/covid/business-info/BC%20CARES%202_Guidelines_All%20Small%20Businesses.docx.pdf)
 
-[- Bergen County CARES Act Guidelines For Restaurants or Food Service Establishments](https://storage.googleapis.com/static.rutherford-nj.com/covid/business-info/BC%20CARES%202_Guidelines_Restaurant%20or%20Food%20Service%20Establishment.docx.pdf)
+- [Bergen County CARES Act Guidelines For Restaurants or Food Service Establishments](https://storage.googleapis.com/static.rutherford-nj.com/covid/business-info/BC%20CARES%202_Guidelines_Restaurant%20or%20Food%20Service%20Establishment.docx.pdf)
 
-[- Bergen County CARES Act Guidelines For Essential Retail Businesses](https://storage.googleapis.com/static.rutherford-nj.com/covid/business-info/BC%20CARES%202_Guidelines_Essential%20Retail%20Businesses.docx.pdf)
+- [Bergen County CARES Act Guidelines For Essential Retail Businesses](https://storage.googleapis.com/static.rutherford-nj.com/covid/business-info/BC%20CARES%202_Guidelines_Essential%20Retail%20Businesses.docx.pdf)
 
 
-[- A Concise summary of Available Resources for Busineses](https://storage.googleapis.com/static.rutherford-nj.com/covid/Resources%20for%20Business_Interactive_Covid-19.pdf)
+- [A Concise summary of Available Resources for Busineses](https://storage.googleapis.com/static.rutherford-nj.com/covid/Resources%20for%20Business_Interactive_Covid-19.pdf)
 
-[- COVID-19 Resources for Businesses](https://www.co.bergen.nj.us/covid-19-resources-for-businesses)
+- [COVID-19 Resources for Businesses](https://www.co.bergen.nj.us/covid-19-resources-for-businesses)
 
 
 **Information for Businesses Provided by the State**
 
-[- COVID-19 Information for New Jersey Businesses](https://faq.business.nj.gov/en/collections/2198378-information-for-nj-businesses-on-the-coronavirus-outbreak)
+- [COVID-19 Information for New Jersey Businesses](https://faq.business.nj.gov/en/collections/2198378-information-for-nj-businesses-on-the-coronavirus-outbreak)
 
-[- A Coronavirus Pandemic Resource Guide for New Jerseyans from the Office of Senator Cory Booker](https://storage.googleapis.com/static.rutherford-nj.com/covid/Office%20of%20U.S.%20Sen%20Cory%20Booker_%20A%20Coronavirus%20Pandemic%20Resource%20Guide%20for%20NJ%20(Updated%20April%204%2C%202020).pdf)
+- [A Coronavirus Pandemic Resource Guide for New Jerseyans from the Office of Senator Cory Booker](https://storage.googleapis.com/static.rutherford-nj.com/covid/Office%20of%20U.S.%20Sen%20Cory%20Booker_%20A%20Coronavirus%20Pandemic%20Resource%20Guide%20for%20NJ%20(Updated%20April%204%2C%202020).pdf)
 
-[- Emergency Assistance Eligibility Wizard](https://assistance.business.nj.gov/)
+- [Emergency Assistance Eligibility Wizard](https://assistance.business.nj.gov/)
  
-[- NJDOL and the Coronavirus (COVID-19): What Employers & Businesses Should Know](https://www.nj.gov/labor/employer-services/business/covid.shtml)
+- [NJDOL and the Coronavirus (COVID-19): What Employers & Businesses Should Know](https://www.nj.gov/labor/employer-services/business/covid.shtml)
  
-[- NJEDA](https://www.njeda.com/about/Public-Information/Coronavirus-Information)
+- [NJEDA](https://www.njeda.com/about/Public-Information/Coronavirus-Information)
  
-[- Information on COVID-19's Impact on Businesses and Question Portal](https://faq.business.nj.gov/en/collections/2198378-information-for-nj-businesses-on-the-coronavirus-outbreak)
+- [Information on COVID-19's Impact on Businesses and Question Portal](https://faq.business.nj.gov/en/collections/2198378-information-for-nj-businesses-on-the-coronavirus-outbreak)
 
-[-New Jersey Programs](https://faq.business.nj.gov/en/articles/3838662-what-new-state-financial-support-programs-is-my-business-eligible-for-how-do-i-use-the-eligibility-wizard)
+- [New Jersey Programs](https://faq.business.nj.gov/en/articles/3838662-what-new-state-financial-support-programs-is-my-business-eligible-for-how-do-i-use-the-eligibility-wizard)
 
 
 **Federal Programs via the Small Business Administration:**
 
-[- Small Business Guidance & Loan Resources](https://www.sba.gov/page/coronavirus-covid-19-small-business-guidance-loan-resources)
+- [Small Business Guidance & Loan Resources](https://www.sba.gov/page/coronavirus-covid-19-small-business-guidance-loan-resources)
 
-[- What financial assistance is available from the U.S. Small Business Administration (SBA)?](https://faq.business.nj.gov/en/articles/3789809-what-financial-assistance-is-available-from-the-u-s-small-business-administration-sba)
+- [What financial assistance is available from the U.S. Small Business Administration (SBA)?](https://faq.business.nj.gov/en/articles/3789809-what-financial-assistance-is-available-from-the-u-s-small-business-administration-sba)
 
 
