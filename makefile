@@ -48,6 +48,14 @@ build-requirements: third-party-js-packages
 	mkdir -p _site .jekyll-cache
 
 
+local-ci: build-requirements
+	./scripts/local-ci/start-local-ci.sh
+	docker run -d --rm -p 0.0.0.0:58777:8777 \
+	--name=rutherford-site-server \
+	-v $(SITE_WORKSPACE):/srv/jekyll \
+	jekyll/builder:latest jekyll serve --watch -P 8777 -p /dev/null
+
+
 dev: build-requirements
 	docker run -it --rm -p 0.0.0.0:8080:8080 \
         -v $(SITE_WORKSPACE):/srv/jekyll \
