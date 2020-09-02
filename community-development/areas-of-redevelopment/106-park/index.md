@@ -9,7 +9,7 @@ p, img { width: 100%; }
 
 [Return to Areas of Development page](/community-development/areas-of-redevelopment/)
 
-# The Maples (106 Park Ave)
+# The Maples *(106 Park Ave)*
 
 ![Map of 106 Park Ave](106-park-map.jpg)
 
