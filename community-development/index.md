@@ -26,7 +26,7 @@ Liaison: Mayor Frank Nunziato
 
 Members -
 
-Chuck Olivio
+Chuck Olivo
 
 Cori Verdino
 
@@ -40,4 +40,4 @@ Rick Doren
 
 Thomas DiPietro
 
-Secretary: JiHee Bagnuolo
+Secretary: JiHee Bagnuolo 201-460-3000 x3125
