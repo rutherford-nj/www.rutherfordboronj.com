@@ -19,7 +19,7 @@ p, img { width: 100%; }
 
 **Project Status:** 
 
-The triangle encompassing the Borough’s former DPW site as its base and coming to a point at the nexus of Erie and Union Avenues was included in the original “redevelopment zone” and subsequently incorporated into a designated area in need of redevelopment in 2016.  The two-part redevelopment plan adopted in April of 2019 identified the triangle parcels as Agnew Area A. This original plan allowed for up to 6 stories with 140 residential units with onsite parking and accessory retail. 
+The triangle encompassing the Borough’s former DPW site as its base and coming to a point at the nexus of Erie and Union Avenues was included in the original “redevelopment zone” and subsequently incorporated into a designated area in need of redevelopment in 2016.  The two-part redevelopment plan adopted in April of 2019 identified the triangle parcels as Agnew Area A.  
 
 **Below find documents detailing the history of Agnew Place Area A:**
 
