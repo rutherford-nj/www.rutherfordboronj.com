@@ -32,7 +32,7 @@ Cori Verdino
 
 Jeff Jordan
 
-Jennifer nicodemo
+Jennifer Nicodemo
 
 Manny Padron
 
