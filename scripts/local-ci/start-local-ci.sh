@@ -7,4 +7,4 @@ read WEBHOOK_SECRET
 
 docker run --rm -d -p 58778:9000 --name=rutherford-site-webhook \
 	-v `pwd`:/site \
-	-e GITHUB_WEBHOOK_SECRET=$WEBHOOK_SECRET ghcr.io/rutherford-nj/rutherford-site-webhook:beta
+	-e GITHUB_WEBHOOK_SECRET=$WEBHOOK_SECRET ghcr.io/rutherford-nj/rutherford-site-webhook:latest
