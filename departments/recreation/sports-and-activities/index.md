@@ -29,6 +29,6 @@ Theatre Enrichment – [www.theatre4children.com](https://www.theatre4children.c
 
 [Rutherford Junior Football and Cheerleading](https://www.leaguelineup.com/welcome.asp?url=rjfbulldogs)
 
-Rutherford Travel Soccer - [www.rutherfordfc.com](http://www.rutherfordfc.com/)
+Rutherford FC Travel Soccer Club - [www.rutherfordfc.com](http://www.rutherfordfc.com/)
 
 Rutherford Swim Association - [www.rutherfordswim.org](https://www.rutherfordswim.org/)
