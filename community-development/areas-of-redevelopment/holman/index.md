@@ -21,4 +21,4 @@ The Holman study area straddles two zoning designations, a residential one-famil
 
 **Below find Holman Properties (Block 110) Area In Need Of Redevelopment Study:**
 
-[Block 110 Area In Need Of Redevelopment Study](https://storage.googleapis.com/static.rutherford-nj.com/community-development/holman/Block%20110%20Holman%20Properties%20Area%20in%20need%20(002).PDF)
+[Block 110 Area In Need Of Redevelopment Study](https://storage.googleapis.com/static.rutherford-nj.com/community-development/holman/HOLMAN%20PROPERTY%20AREA%20IN%20NEED%20STUDY%20FINAL%20(00224202xD43F8).PDF)
