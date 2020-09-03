@@ -49,6 +49,7 @@ build-requirements: third-party-js-packages
 
 
 local-ci: build-requirements
+	docker container stop rutherford-site-webhook rutherford-site-server
 	./scripts/local-ci/start-local-ci.sh
 	docker run -d --rm -p 0.0.0.0:58777:8777 \
 	--name=rutherford-site-server \
