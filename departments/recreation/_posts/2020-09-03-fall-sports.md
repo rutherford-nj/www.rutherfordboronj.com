@@ -14,6 +14,8 @@ NO registrations will be accepted after September 11th.
 
 Please be aware this year will look a little differently than last year due to strict COVID-19 restrictions. More information will follow...
 
+**Volunteers are needed!** [Learn more here](https://storage.googleapis.com/static.rutherford-nj.com/recreation/Volunteers%20Needed%20(1).pdf)
+
 The following youth sports will be available:
 
 - [Cross Country Track (limited spots)](https://storage.googleapis.com/static.rutherford-nj.com/recreation/fall-2020/Cross%20Country%20Track%20Flyer.pdf)
