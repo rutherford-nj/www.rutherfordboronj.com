@@ -17,14 +17,12 @@ In order to be eligible to vote, a person must be:
 
 - A resident of New Jersey and Bergen County
 
-- Bergen County residents may register to vote at the Office of the Superintendent of Elections, located at One Bergen County Plaza, Room 380, in Hackensack. 
-
 
 # ADA Compliant Polling Places in Rutherford on November 3:
 
 Districts 1, 9, 10, 11: Lincoln School 414 Montross Ave
 
-Districts 2, 6, 7, 8: High School-Room 218 56 Elliott Place
+Districts 2, 6, 7, 8: High School 56 Elliott Place
 
 Districts 3, 4, 5, 12: Washington School 89 Wood Street
 
@@ -32,9 +30,11 @@ Districts 3, 4, 5, 12: Washington School 89 Wood Street
 **The deadline to register to vote for this General Election is Tuesday, October 13, 2020.** 
 
 In order to be eligible to vote, a person must be an American Citizen, 18 years old on or before November 3, 2020, and be a resident of New Jersey and Bergen County.
-Bergen County residents may register to vote at the Office of the Superintendent of Elections, located at One Bergen County Plaza, Room 380, in Hackensack. In order to meet the needs of residents, their office will be open from 9:00AM to 9:00 PM on Tuesday, October 13, 2020. Residents may also register locally by contact the municipal clerk’s office 201-460-3001.
+Bergen County residents may register to vote at the Office of the Superintendent of Elections, located at One Bergen County Plaza, Room 380, in Hackensack. In order to meet the needs of residents, their office will be open from 9:00AM to 9:00 PM on Tuesday, October 13, 2020. Residents may also register locally by contacting the municipal clerk’s office 201-460-3001.
 
-**In light of the coronavirus pandemic and Executive Order No. 177, ALL REGISTERED VOTERS WILL AUTOMATICALLY RECEIVE A VOTE-BY-MAIL BALLOT for the November 3, 2020 General Election.** You may return your postage paid ballot via USPS or bring to the secured Mail Drop Box located in front of Borough Hall at 176 Park Avenue or one of 18 secured Vote byMail Drop Boxes located throughout the County. You may contact the Board of Elections at 201-336-6230 or the Board of Elections website to locate a Drop Box near you.
+**In light of the coronavirus pandemic and Executive Order No. 177, ALL REGISTERED VOTERS WILL AUTOMATICALLY RECEIVE A VOTE-BY-MAIL BALLOT for the November 3, 2020 General Election.** 
+
+You may return your postage paid ballot via USPS or bring to the **secured Mail Drop Box located in front of Borough Hall at 176 Park Avenue** or one of 18 secured Vote byMail Drop Boxes located throughout the County. You may contact the Board of Elections at 201-336-6230 or the Board of Elections website to locate a Drop Box near you.
 
 If you have a disability and need an accessible ballot, please contact (201) 336-7020 or you may go to your assigned polling place, which will provide access to an in-person accessible voting device on General Election Day. Should you choose not to vote on a Mail-In Ballot and show up to one of the limited number of Polling Places on Election Day, in you town only Provisional Paper Ballots will be available to cast your vote. 
 
