@@ -11,7 +11,7 @@ The Borough of Rutherford extends its sincerest sympathies to the families of Po
 
 ---
 
-# Please learn more about those we lost below. Their memories will be forever in our hearts.
+**Please learn more about those we lost below. Their memories will be forever in our hearts.**
 
 **Rutherford Remembers Port Authority Police Officer Maurice Barry**
 
