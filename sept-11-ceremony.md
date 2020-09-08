@@ -9,7 +9,9 @@ As discussed at the August 18th Mayor and Council meeting, the Borough would lik
 
 The Borough of Rutherford extends its sincerest sympathies to the families of Port Authority Police Officer Maurice Barry, John Crowe, Ronnie Breitweiser, Tim Finnerty, John Griffin and Port Authority Police Officer Paul Laszczynski. 
 
-Please learn more about those we lost below. Their memories will be forever in our hearts.
+---
+
+# Please learn more about those we lost below. Their memories will be forever in our hearts.
 
 **Rutherford Remembers Port Authority Police Officer Maurice Barry**
 
