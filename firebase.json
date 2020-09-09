@@ -33,6 +33,21 @@
         "type": 301
       },
       {
+        "source": "/covid-financial-info-individuals/",
+        "destination": "/covid-information/financial-info-individuals/",
+        "type": 301
+      },
+      {
+        "source": "/covid-business-information/",
+        "destination": "/covid-information/business-information/",
+        "type": 301
+      },
+      {
+        "source": "/covid-archives/",
+        "destination": "/covid-information/archives/",
+        "type": 301
+      },
+      {
         "source": "/static/images/boroughfacebookicon.jpg",
         "destination": "/static/images/boroughfacebookicon_gray.jpg",
         "type": 301

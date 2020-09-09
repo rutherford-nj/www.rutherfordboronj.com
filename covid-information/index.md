@@ -27,13 +27,13 @@ Tuesday, July 14th: An update from Mayor Frank Nunziato
 Addressed: New COVID-19 cases; Dining Out Rutherford and concrete barriers on Park Ave; Rec Dept reissuing parks permit; Borough Hall meeting proceedures
 
 
-[**Financial and Social Services Information for Individuals**](/covid-financial-info-individuals/)
+[**Financial and Social Services Information for Individuals**](financial-info-individuals/)
 
-[**Financial Relief Information for Businesses**](/covid-business-information/)
+[**Financial Relief Information for Businesses**](business-information/)
 
 ---
 
-**For Archives of Mayor and Council Briefings and Transcripts [click here](/covid-archives/)**
+**For Archives of Mayor and Council Briefings and Transcripts [click here](archives/)**
 
 [Chart of progression of Rutherford COVID-19 cases](https://docs.google.com/spreadsheets/d/e/2PACX-1vS00GBGJKB0Xwtru3Rn5WrPqur19j--CibdM5R1tbnis0W_Bp18EmLFkJJc5sG4dwvMyqCorSVhHwik/pubhtml)
 
