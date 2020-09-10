@@ -4,7 +4,7 @@ title: 'Land Use and Redevelopment'
 ---
 
 
-**Community Development Information:** 
+**Redevelopment Information:** 
 
 - [Master Plan](/committees/planning-board/master-plan/)
 
