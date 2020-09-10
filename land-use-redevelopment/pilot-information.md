@@ -8,6 +8,8 @@ title: 'PILOT Information'
 
 # PILOTS (Payments In Lieu Of Taxes)
 
+[PILOT Fact Sheet](https://storage.googleapis.com/static.rutherford-nj.com/community-development/NJ%20Long%20Term%20Tax%20Abatement%20Fact%20sheet.pdf)
+
 The Borough of Rutherford is looking to promote smart development in order to attract new residents and businesses. This is a necessity as vacant or underutilized properties have become a burden on borough services and resulted in years of residential taxpayers supporting our tax burden.
 A thriving main thoroughfare can go a long way towards increasing revenue needed to run the borough, stabilizing taxes and maintaining the quality of life for all residents. Responsible redevelopment takes into account the long and short term impacts on municipal services and infrastructure. 
 As part of its ongoing effort to revitalize and redevelop Rutherford, the Borough may offer PILOTs on qualified redevelopment projects as an incentive for developers to bring their projects to Rutherford.
