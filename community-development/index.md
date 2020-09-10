@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 'Land Use and Community Development'
+title: 'Land Use and Redevelopment'
 ---
 
 
