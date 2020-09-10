@@ -26,7 +26,6 @@ title: 'Areas of Redevelopment in Rutherford'
 
 - [Holman Properties](/community-development/areas-of-redevelopment/holman/)
 
-**General Redevelopment Information**
 
-[Community Meeting PILOT Presentation](https://storage.googleapis.com/static.rutherford-nj.com/community-development/Rutherford%20PILOT%20Presentation%20(3.3.20).pptx.pdf)
+[**Rutherford Redevelopment Information**](https://storage.googleapis.com/static.rutherford-nj.com/community-development/Rutherford_Redevelopment_Information.pdf)
 
