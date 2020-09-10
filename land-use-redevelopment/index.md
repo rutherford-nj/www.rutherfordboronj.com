@@ -21,24 +21,10 @@ title: 'Land Use and Redevelopment'
 
 - Streetscape Committee - The Streetscape Committee reviews zoning applications to ensure compliance with the Borough's Streetscape codes regarding storefront designs, windows and doors, facade treatments and materials, awnings, signage, etc. 
 
-Streetscape Committee Members:
+> *Streetscape Committee:*
 
-Liaison: Mayor Frank Nunziato
+> Liaison: Mayor Frank Nunziato
 
-Members -
+> Members: Chuck Olivo, Cori Verdino, Jeff Jordan, Jennifer Nicodemo, Manny Padron, Rick Doren, Thomas DiPietro
 
-Chuck Olivo
-
-Cori Verdino
-
-Jeff Jordan
-
-Jennifer Nicodemo
-
-Manny Padron
-
-Rick Doren
-
-Thomas DiPietro
-
-Secretary: JiHee Bagnuolo 201-460-3000  x3125
+> Secretary: JiHee Bagnuolo 201-460-3000  x3125
