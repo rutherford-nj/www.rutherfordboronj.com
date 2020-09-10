@@ -6,7 +6,7 @@ title: 'PILOT Information'
 [Return to Land Use and Redevelopment page](../)
 
 
-**PILOTS (Payments In Lieu Of Taxes)**
+# PILOTS (Payments In Lieu Of Taxes)
 
 The Borough of Rutherford is looking to promote smart development in order to attract new residents and businesses. This is a necessity as vacant or underutilized properties have become a burden on borough services and resulted in years of residential taxpayers supporting our tax burden.
 A thriving main thoroughfare can go a long way towards increasing revenue needed to run the borough, stabilizing taxes and maintaining the quality of life for all residents. Responsible redevelopment takes into account the long and short term impacts on municipal services and infrastructure. 
@@ -23,7 +23,6 @@ Taxes on traditionally taxed properties are based on an assessment of what that 
 **How long will the Borough offer PILOTs?**
 
 As development takes root and more projects are built, the borough’s need to offer PILOTs will likely diminish as redevelopers and their banks will know what the marketplace can sustain based on rents and "comparables" achieved by similar new projects. At that point, redevelopers and their banks will need fewer assurances once it is clear that projects can succeed in a revitalized area.
- 
   
 **What happens if we do not offer PILOTs?**
 
