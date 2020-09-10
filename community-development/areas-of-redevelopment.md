@@ -3,7 +3,7 @@ layout: page
 title: 'Areas of Redevelopment in Rutherford'
 ---
 
-[Return to Community Development page](/community-development/)
+[Return to Land Use and Redevelopment page](/community-development/)
 
 **Redevelopment Plans**
 
