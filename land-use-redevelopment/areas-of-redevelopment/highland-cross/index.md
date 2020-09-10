@@ -7,7 +7,7 @@ title: 'Highland Cross'
 p, img { width: 100%; }
 </style>
 
-[Return to Areas of Development page](/community-development/areas-of-redevelopment/)
+[Return to Areas of Development page](../)
 
 # Highland Cross Warehouse/Light Industrial Development
 

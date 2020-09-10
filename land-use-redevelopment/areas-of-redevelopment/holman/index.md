@@ -7,7 +7,7 @@ title: 'Holman Properties'
 p, img { width: 100%; }
 </style>
 
-[Return to Areas of Development page](/community-development/areas-of-redevelopment/)
+[Return to Areas of Development page](../)
 
 # Holman Properties (Block 110)
 

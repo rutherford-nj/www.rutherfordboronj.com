@@ -7,7 +7,7 @@ title: 'Agnew Place Area B'
 p, img { width: 100%; }
 </style>
 
-[Return to Areas of Development page](/community-development/areas-of-redevelopment/)
+[Return to Areas of Development page](../)
 
 # Agnew Place Area B
 

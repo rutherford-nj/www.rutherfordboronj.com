@@ -3,7 +3,7 @@ layout: page
 title: 'Affordable Housing'
 ---
 
-[Return to Community Development page](/community-development/)
+[Return to Community Development page](../)
 
 
 **A Brief History of Affordable Housing And What It Means For Rutherford**
