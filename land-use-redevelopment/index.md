@@ -26,3 +26,5 @@ title: 'Land Use and Redevelopment'
 > *Members:* Chuck Olivo, Cori Verdino, Jeff Jordan, Jennifer Nicodemo, Manny Padron, Rick Doren, Thomas DiPietro
 
 > *Secretary:* JiHee Bagnuolo 201-460-3000  x3125
+
+[**PILOT Information**](./pilot-information/)
