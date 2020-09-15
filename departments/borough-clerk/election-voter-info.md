@@ -57,15 +57,4 @@ Please call the Borough Clerk’s Office if you have any questions at 201-460-30
 
 **SPECIAL ELECTIONS** may be held at various times throughout the year, but generally on a Tuesday. Notification of such elections is advertised in your local newspapers.
 
-## How can I vote by Absentee Ballot?
 
-1. You must be a registered voter
-2. You must apply for absentee ballot for each Election, except:
-
-If you are permanently and totally disabled you may apply once for the whole year.
-
-If you are not permanently disabled, see below
-
-## How do I apply for an Absentee Ballot?
-[www.bergencountyclerk.org](http://www.bergencountyclerk.org/) 
-For an absentee ballot application please click here.
