@@ -62,7 +62,7 @@ Bergen County residents may register to vote at the Office of the Superintendent
 
 **In light of the coronavirus pandemic and Executive Order No. 177, ALL REGISTERED VOTERS WILL AUTOMATICALLY RECEIVE A VOTE-BY-MAIL BALLOT for the November 3, 2020 General Election.** 
 
-You may return your postage paid ballot via USPS or bring to the **secured Mail Drop Box located in front of Borough Hall at 176 Park Avenue** or one of 18 secured Vote byMail Drop Boxes located throughout the County. You may contact the Board of Elections at 201-336-6230 or the Board of Elections website to locate a Drop Box near you.
+You may return your postage paid ballot via USPS or bring to the **secured Mail Drop Box located in front of Borough Hall at 176 Park Avenue** or one of 18 secured Vote by Mail Drop Boxes located throughout the County. You may contact the Board of Elections at 201-336-6230 or the Board of Elections website to locate a Drop Box near you.
 
 If you have a disability and need an accessible ballot, please contact (201) 336-7020 or you may go to your assigned polling place, which will provide access to an in-person accessible voting device on General Election Day. Should you choose not to vote on a Mail-In Ballot and show up to one of the limited number of Polling Places on Election Day, in you town only Provisional Paper Ballots will be available to cast your vote. 
 
@@ -70,7 +70,7 @@ The ADA compliant Voting Machine is only for voters who have a disability. Voter
 
 The Bergen County Superintendent of Elections’ office is responsible for Voter Registration and all associated concerns, Issuing Voter Acknowledgement Cards, Maintaining Custody of Voting Machines and Poll Books, as well as other duties relating to the enforcement of elections laws as per NJSA Title 19. On Tuesday, November 3rd, voters will cast ballots for President of the United States, US Senate, Congress, Freeholders, and local candidates. It is up to each and every American Citizen to exercise their right to vote. Superintendent DiCostanzo and Deputy Theresa M. O’Connor are available to answer any question that you might have @ 201-336-6109.
 
-Please call us at 460-3001, if you have any questions.
+Please call us at 201-460-3001, if you have any questions.
 
 Margaret Scanlon, Borough Clerk
 
