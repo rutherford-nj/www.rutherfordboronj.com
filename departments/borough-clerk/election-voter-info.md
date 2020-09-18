@@ -27,9 +27,24 @@ Districts 2, 6, 7, 8: High School 56 Elliott Place
 Districts 3, 4, 5, 12: Washington School 89 Wood Street
 
 ---
-
-
-# [Please watch the Bergen County Board of Chosen Freeholders voting information FAQ video here](https://youtu.be/Z0nva8m00xU)
+<style>
+.yt-container {
+    position: relative;
+    width: 100%;
+    height: 0;
+    padding-bottom: 56.25%;
+}
+.yt-video {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+</style>
+<div class="yt-container">
+<iframe src="//www.youtube.com/embed/Z0nva8m00xU" frameborder="0" allowfullscreen class="yt-video"></iframe>
+</div>
 
 The Bergen County Board of Chosen Freeholders have put together a video, which provides helpful voting information to Bergen County residents. This year - with few exceptions - Bergen County residents will be voting exclusively by mail. Working in conjunction with local election officials, the Freeholders compiled answers
 to the most frequently asked questions surrounding voting by mail. It is the goal of the Freeholders to increase turnout for the November election. It is their belief that regardless of which candidates residents choose, our Democracy is best served when we have an active and engaged electorate.
