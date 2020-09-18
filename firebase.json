@@ -8,6 +8,15 @@
     ],
     "headers": [
       {
+        "source": "**/*",
+        "headers": [
+          {
+            "key": "Cache-Control",
+            "value": "max-age=60"
+          }
+        ]
+      },
+      {
         "source": "**/*.@(jpg|png|webp|js|css|ico)",
         "headers": [
           {
