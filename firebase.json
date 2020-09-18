@@ -12,7 +12,7 @@
         "headers": [
           {
             "key": "Cache-Control",
-            "value": "max-age=60"
+            "value": "no-cache"
           }
         ]
       },
