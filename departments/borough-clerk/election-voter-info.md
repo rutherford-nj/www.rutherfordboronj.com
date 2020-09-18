@@ -29,7 +29,7 @@ Districts 3, 4, 5, 12: Washington School 89 Wood Street
 ---
 
 
-[# Please watch the Bergen County Board of Chosen Freeholders voting information FAQ video here](https://youtu.be/Z0nva8m00xU)
+# [Please watch the Bergen County Board of Chosen Freeholders voting information FAQ video here](https://youtu.be/Z0nva8m00xU)
 
 The Bergen County Board of Chosen Freeholders have put together a video, which provides helpful voting information to Bergen County residents. This year - with few exceptions - Bergen County residents will be voting exclusively by mail. Working in conjunction with local election officials, the Freeholders compiled answers
 to the most frequently asked questions surrounding voting by mail. It is the goal of the Freeholders to increase turnout for the November election. It is their belief that regardless of which candidates residents choose, our Democracy is best served when we have an active and engaged electorate.
