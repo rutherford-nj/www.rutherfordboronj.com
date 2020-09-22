@@ -27,6 +27,8 @@ Please click on an item below to download the appropriate form and return to the
 
 **Garage Sale** – You are allowed to hold three (3) garage sales per calendar year and must phone the Clerk’s Office to register the sale.  A garage sale is defined as the selling of used household items.  There is no fee. 
 
+[**Handicapped Parking Request**](https://storage.googleapis.com/static.rutherford-nj.com/borough-clerk/permits-licenses/Handicap%20Request%20App.pdf)
+
 [**Hold Harmless Agreement**](https://storage.googleapis.com/static.rutherford-nj.com/borough-clerk/permits-licenses/Forms/HOLD%20HARMLESS.pdf)
 
 [**Limousine License**](https://storage.googleapis.com/static.rutherford-nj.com/borough-clerk/permits-licenses/Forms/LIVERY%20LIMO.pdf) – Certificate to obtain "o" license from Motor Vehicle available only to a business based in Rutherford with a Certificate of Occupancy.  Fee is $50 per car, insurance policy and proof of ownership required.
