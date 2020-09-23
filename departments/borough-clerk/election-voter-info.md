@@ -9,6 +9,8 @@ parent: 'Borough Clerk'
 
 Bergen County Superintendent of Elections Patricia DiCostanzo issued a notice that **Tuesday, October 13, 2020, is the last day for residents to register to vote for the November 3, 2020, General Election in the State of New Jersey.**
 
+[Please see the 2020 vote by mail instructions as provided by Bergen County here](https://storage.googleapis.com/static.rutherford-nj.com/borough-clerk/2020%20General%20-%20Vote%20by%20Mail%20Instructions%20Brochure%202020%20General.pdf)
+
 In order to be eligible to vote, a person must be:
 
 - An American Citizen
