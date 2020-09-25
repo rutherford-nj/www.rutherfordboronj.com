@@ -13,7 +13,7 @@ Please call the Borough Clerk’s Office if you have any questions at 201-460-30
 
 [Bergen County Clerk's Office Website which provides important information regarding mail-in ballots](https://www.bergencountyclerk.org/)
 
-[Please see the 2020 vote by mail instructions as provided by Bergen County here](https://storage.googleapis.com/static.rutherford-nj.com/borough-clerk/2020%20General%20-%20Vote%20by%20Mail%20Instructions%20Brochure%202020%20General.pdf)
+[2020 vote by mail instructions as provided by Bergen County](https://storage.googleapis.com/static.rutherford-nj.com/borough-clerk/2020%20General%20-%20Vote%20by%20Mail%20Instructions%20Brochure%202020%20General.pdf)
 
 [List of Drop Box locations in Bergen County](https://www.co.bergen.nj.us/bergen-county-board-of-elections/ballot-drop-box-locations)
 
