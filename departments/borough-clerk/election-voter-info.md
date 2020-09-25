@@ -45,38 +45,11 @@ Districts 3, 4, 5, 12: Washington School 89 Wood Street
 
 ---
 
-**The Bergen County Board of Chosen Freeholders have put together a video, below, which provides helpful voting information to Bergen County residents.**
-
-This year - with few exceptions - Bergen County residents will be voting exclusively by mail. Working in conjunction with local election officials, the Freeholders compiled answers to the most frequently asked questions surrounding voting by mail. It is the goal of the Freeholders to increase turnout for the November election. It is their belief that regardless of which candidates residents choose, our Democracy is best served when we have an active and engaged electorate.
-
-<style>
-.yt-container {
-    position: relative;
-    width: 100%;
-    height: 0;
-    padding-bottom: 56.25%;
-}
-.yt-video {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-}
-</style>
-<div class="yt-container">
-<iframe src="//www.youtube.com/embed/Z0nva8m00xU" frameborder="0" allowfullscreen class="yt-video"></iframe>
-</div>
-
-
----
-
 
 **The deadline to register to vote for this General Election is Tuesday, October 13, 2020.** 
 
 In order to be eligible to vote, a person must be an American Citizen, 18 years old on or before November 3, 2020, and be a resident of New Jersey and Bergen County.
 Bergen County residents may register to vote at the Office of the Superintendent of Elections, located at One Bergen County Plaza, Room 380, in Hackensack. In order to meet the needs of residents, their office will be open from 9:00AM to 9:00 PM on Tuesday, October 13, 2020. Residents may also register locally by contacting the municipal clerk’s office 201-460-3001.
-
 
 
 ---------
