@@ -46,58 +46,6 @@ title: 'COVID-19 Information'
 
 ---
 
-## A statement from Mayor Frank Nunziato and Rutherford Borough Council 
-
-(originally issued March 13th 2020, updated May 22nd 2020)
-
-After consulting with the Rutherford Board of Health and Superintendent of Schools Jack Hurley regarding COVID-19, and given the available data, information and guidance received from state and county officials, the Borough has decided to take the necessary steps to limit opportunities for large social interactions within the Borough of Rutherford. 
-
-**The following public facilities are currently closed:**
-
-- All [Rutherford Public Schools](https://www.rutherfordschools.org/)
-
-- [55 Kip Center](https://www.55kipcenter.org/)
-
-- [The Rutherford Public Library](https://www.rutherfordlibrary.org/)
-
-- Schools' grounds and playgrounds
-
-- [Parks Policy](https://storage.googleapis.com/static.rutherford-nj.com/covid/policy%20reopen%20parks%20covid%2019%20%233.docx.pdf) (as of 5/22)
-
-**In addition the following events and meetings have been cancelled:**
-
-- All recreation sponsored games, practices, activities and events 
-
-- All committee meetings
-
-- Municipal Court sessions
-
-These closures and cancellations will be in effect until the Governer revokes or amends his Executive Order.  
-
-**Please be advised of the following items of note:**
-
-- If a visit to Borough Hall is necessary, please contact the appropriate department and make an appointment prior to arrival. 
-
-- Garbage and recycling will be collected on a normal schedule at this time.
-
-- Mayor and Council meetings will take place as scheduled. 
-
-- Board and Commission meetings (Planning Board, Zoning Board of Adjustment, Shade Tree Commission, and Civil Rights Commission) will meet as scheduled subject to the discretion of their respective Chairpeople. Please refer to the Borough calendar for updates.   
-
-- All police services provided by the Rutherford Police Department will continue as normal but with a heightened sense of precaution for interactions that may expose our officers to symptoms associated with COVID-19.  RPD personnel answering calls for service have been advised to ask callers if medical issues are consistent with symptoms of COVID-19 which will allow them to advise our assigned first responders.  If calls for services are not medical in nature, we will also inquire if anyone in the household is exhibiting symptoms of COVID-19.  
-
-- Out of an abundance of caution for our first responders, in all cases we will be requesting callers meet our officers at the front door of their residence to help limit time in confined spaces. By adhering to these common sense precautions, you are helping us ensure that we will be there for you in your time of need throughout the duration of this pandemic.
-
-- The Borough is in contact with Felician University in order to maintain open lines of communication at all times regarding this issue. For additional information please visit the Felician website [www.felician.edu](https://www.felician.edu/) 
-
-- Donations to the Food Pantry will be accepted but by appointment only. Registered visitors to the Pantry will still be able to visit, also by appointment only. Please call Genevieve Kacmarcik at 201-460-3028 for appointments.
-
-We feel these closures are critical in order to safeguard the health and safety of Rutherford residents. In addition to the closure of the above mentioned institutions and events, we would like to take this opportunity to remind our residents to practice social distancing, which means staying 3-6 feet away from people as much as possible as well as practicing common sense personal hygiene techniques. 
- 
-We want to thank you in advance for your cooperation with this matter. Please continue to check the Rutherford Borough website for the latest news and updates regarding this topic. If you’re a member of an organization and are unsure of what meeting or event protocol your organization should take, please contact JiHee Bagnuolo at jbagnuolo@rutherfordboronj.com
-
-We understand that these closures are inconvenient, but short term sacrifices can lead to long term solutions. Knowing Rutherford, we believe we’re about to see Rutherford at its best. Members of our community have always taken care of each other. Following the steps prescribed to us by experts can protect us all, especially the most vulnerable amongst us. 
-
 
 ## Below are links to county, state and federal resources regarding COVID-19:
 
