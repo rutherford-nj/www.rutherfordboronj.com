@@ -18,14 +18,6 @@ title: 'COVID-19 Information'
 
 # COVID-19 Information
 
-Tuesday, July 14th: An update from Mayor Frank Nunziato
-
-[A video statement from Mayor Nunziato](https://youtu.be/y4tFLrqJh3c)
-
-[A transcript of the statement from Mayor Nunziato](https://storage.googleapis.com/static.rutherford-nj.com/covid/July%2014%20Frank%20Nunziato.pdf)
-
-Addressed: New COVID-19 cases; Dining Out Rutherford and concrete barriers on Park Ave; Rec Dept reissuing parks permit; Borough Hall meeting proceedures
-
 
 [**Financial and Social Services Information for Individuals**](financial-info-individuals/)
 
