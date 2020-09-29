@@ -5,7 +5,16 @@ title: 'COVID-19 Information-Archives'
 
 [Back to Daily COVID-19 Information](/covid-information)
 
-Below find each COVID-19 update made by the Rutherford Mayor and Council from March - June: 
+Below find each COVID-19 update made by the Rutherford Mayor and Council from March - July: 
+
+**Tuesday, July 14, 2020:** 
+
+[A video statement from Mayor Nunziato](https://youtu.be/y4tFLrqJh3c)
+
+[A transcript of the statement from Mayor Nunziato](https://storage.googleapis.com/static.rutherford-nj.com/covid/July%2014%20Frank%20Nunziato.pdf)
+
+Addressed: New COVID-19 cases; Dining Out Rutherford and concrete barriers on Park Ave; Rec Dept reissuing parks permit; Borough Hall meeting proceedures
+
 
 **Monday, June 8, 2020:** 
 
