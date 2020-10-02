@@ -18,7 +18,7 @@ title: 'COVID-19 Information'
 
 # COVID-19 Information
 
-Friday, October 2nd, 2020: An update from Council President Mullahey
+[Friday, October 2nd, 2020: A video update from Council President Mullahey](https://youtu.be/GdMtUxUT85o)
 
 Addressed: COVID cases and mail-in ballots
 
