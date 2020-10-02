@@ -5,7 +5,9 @@ grandparent: 'Recreation'
 parent: 'Parks and Facilities'
 ---
 
-**Directions to Memorial Field** Darwin & Washington Avenues 
+**Directions to Memorial Park** Darwin & Washington Avenues 
+
+[Map of Memorial Park Fields](https://storage.googleapis.com/static.rutherford-nj.com/recreation/Memorial%20Park%20Field%20Locations.pdf)
 
 **From Route 3 East** 
 
