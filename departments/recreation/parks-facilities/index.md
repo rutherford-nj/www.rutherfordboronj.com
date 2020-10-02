@@ -4,6 +4,8 @@ title: 'Parks and Facilities'
 parent: 'Recreation'
 ---
 
+[Map of Memorial Park Fields](https://storage.googleapis.com/static.rutherford-nj.com/recreation/Memorial%20Park%20Field%20Locations.pdf)
+
 [Parks and Facilities Weather Policies](https://storage.googleapis.com/static.rutherford-nj.com/recreation/Weather%20Policies.pdf)
 
 [Tryon Field Turf Rules](https://storage.googleapis.com/static.rutherford-nj.com/recreation/Turf%20rules.pdf)
