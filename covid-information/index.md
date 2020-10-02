@@ -18,6 +18,12 @@ title: 'COVID-19 Information'
 
 # COVID-19 Information
 
+Friday, October 2nd, 2020: An update from Council President Mullahey
+
+Addressed: COVID cases and mail-in ballots
+
+[Read Transcript Here](https://storage.googleapis.com/static.rutherford-nj.com/covid/Oct%202%20Tom%20Mullahey%20(1).pdf)
+
 
 [**Financial and Social Services Information for Individuals**](financial-info-individuals/)
 
