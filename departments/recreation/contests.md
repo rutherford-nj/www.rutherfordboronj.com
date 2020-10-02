@@ -4,7 +4,7 @@ title: 'Halloween 2020'
 parent: 'Recreation'
 ---
 
-# 2020 Halloween Contests
+# 2020 Halloween Contests Rules & Regulations
 
 [See flyer here](https://storage.googleapis.com/static.rutherford-nj.com/recreation/fall-2020/2020_Halloween.pdf)
 
