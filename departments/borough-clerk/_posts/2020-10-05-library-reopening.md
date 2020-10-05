@@ -10,7 +10,7 @@ We are pleased to announce that the Rutherford Public Library is re-opening with
 
 Monday and Wednesday, 10am - 1pm; 5 - 7pm
 
-Tuesday, Thursday, & Friday, 10am - 1pm; 3-5pm
+Tuesday, Thursday, & Friday, 10am - 1pm; 3 - 5pm
 
 We will be continually assessing the situation and will keep the community informed if and when our hours change. We expect to be able to open on Saturdays soon. Please note that we plan to close at 1pm each day so we can further sanitize the building.
 
