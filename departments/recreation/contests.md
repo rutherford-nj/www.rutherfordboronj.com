@@ -37,7 +37,7 @@ parent: 'Recreation'
 
 - 1st, 2nd & 3rd Place winners will receive a gift certificate to a local business.
 
-- All entries must be submitted with a photo of the Jack-O-Lantern along with the family name, email, phone number, and brief description of the submission by Oct. 19th at midnight to RutherfordRecContest@rutherfordboronj.com  
+- All entries must be submitted with a photo of the Jack-O-Lantern along with the family name, email, phone number, and brief description of the submission by Oct. 26th at midnight to RutherfordRecContest@rutherfordboronj.com  
 
 - By entering this contest, you understand that your submitted photograph may be used on Borough of Rutherford social media platforms.  
 
