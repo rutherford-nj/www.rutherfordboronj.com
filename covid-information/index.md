@@ -20,7 +20,7 @@ title: 'COVID-19 Information'
 
 Tuesday, October 6, 2020: An update from Councilman Goldsack
 
-Addressed: COVID cases, Rutherford Public School, Recreation and permit suspension
+Addressed: COVID cases, Rutherford Public Schools, Recreation and permit suspension
 
 [Read Transcript Here](https://storage.googleapis.com/static.rutherford-nj.com/covid/Oct%206%20Mark%20Goldsack.pdf)
 
