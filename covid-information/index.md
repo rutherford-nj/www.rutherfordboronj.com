@@ -24,6 +24,7 @@ Addressed: COVID cases, Rutherford Public Schools, Recreation and permit suspens
 
 [Read Transcript Here](https://storage.googleapis.com/static.rutherford-nj.com/covid/Oct%206%20Mark%20Goldsack.pdf)
 
+---
 
 [**Financial and Social Services Information for Individuals**](financial-info-individuals/)
 
