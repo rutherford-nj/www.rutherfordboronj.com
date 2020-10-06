@@ -5,7 +5,15 @@ title: 'COVID-19 Information-Archives'
 
 [Back to Daily COVID-19 Information](/covid-information)
 
-Below find each COVID-19 update made by the Rutherford Mayor and Council from March - July: 
+Below find each COVID-19 update made by the Rutherford Mayor and Council from March - present: 
+
+**Tuesday, October 2, 2020**
+
+[Friday, October 2nd, 2020: A video update from Council President Mullahey](https://youtu.be/GdMtUxUT85o)
+
+Addressed: COVID cases and mail-in ballots
+
+[Read Transcript Here](https://storage.googleapis.com/static.rutherford-nj.com/covid/Oct%202%20Tom%20Mullahey%20(1).pdf)
 
 **Tuesday, July 14, 2020:** 
 
