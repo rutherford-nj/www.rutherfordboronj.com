@@ -22,7 +22,7 @@ title: 'COVID-19 Information'
 
 Addressed: Addressed: COVID cases, Rutherford Public Schools, Recreation and Block Party Permit Suspension
 
-[Read Transcript Here](https://storage.googleapis.com/static.rutherford-nj.com/covid/Oct%206%20Mark%20Goldsack.pdf)
+[Read Transcript Here](https://storage.googleapis.com/static.rutherford-nj.com/covid/Oct%206%20Mark%20Goldsack%20(1).pdf)
 
 ---
 
