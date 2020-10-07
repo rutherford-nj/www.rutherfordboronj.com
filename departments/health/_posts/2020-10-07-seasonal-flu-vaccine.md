@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: "Heating Season For Rental Units"
+title: "Seasonal Flu Vaccines"
 ---
 
 
