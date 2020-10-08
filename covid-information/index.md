@@ -18,6 +18,8 @@ title: 'COVID-19 Information'
 
 # COVID-19 Information
 
+[Thursday, October 8, 2020: An update regarding Recreation activities from Mayor Nunziato](https://storage.googleapis.com/static.rutherford-nj.com/covid/Oct%208%20Frank%20Nunziato.pdf)
+
 [Tuesday, October 6, 2020: A video update from Councilman Goldsack](https://youtu.be/kLRvmnZngWs)
 
 Addressed: Addressed: COVID cases, Rutherford Public Schools, Recreation and Block Party Permit Suspension
