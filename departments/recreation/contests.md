@@ -69,3 +69,7 @@ parent: 'Recreation'
 
 - Winning gift certificates will be distributed on Monday, 11/2/20
 
+- Only ONE winner per day per pumpkin
+
+- Pumpkins will NOT be placed on private property
+
