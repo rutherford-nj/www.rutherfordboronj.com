@@ -6,9 +6,13 @@ parent: 'Recreation'
 
 # 2020 Halloween Contests Rules & Regulations
 
-[See flyer here](https://storage.googleapis.com/static.rutherford-nj.com/recreation/fall-2020/2020_Halloween.pdf)
+[Purple Pumpkin Puruit Flyer](https://storage.googleapis.com/static.rutherford-nj.com/recreation/fall-2020/2020_Halloween_pumpkin.pdf)
+
+[House Decorating and Jack-O-Lantern Photo Flyer](https://storage.googleapis.com/static.rutherford-nj.com/recreation/fall-2020/2020_Halloween.pdf)
+
 
 ---
+
 
 **House Decorating Contest - Win Prizes!** 
 
@@ -44,4 +48,24 @@ parent: 'Recreation'
 - Only family-friendly Jack-O-Lanterns will be judged. No politics please.
   
 - Winners will be announced on Halloween.   
+
+---
+
+**Purple Pumpkin Pursuit Contest - Win Prizes!** 
+
+- Search for the prized purple pumpkin and WIN a $50 gift certificate!
+
+- **Dates of Pursuits: 10/30, 10/31, 11/1**
+
+- Each day one purple pumpkin with a special code will be hidden within the Borough of Rutherford
+
+- Clues will be posted at 9 AM, 12 Noon and 3 PM each day on the Rutherford Rec Facebook page and the Rutherford Recreation Instagram pages until the pumpkin is found
+
+- The first participant to find the pumpkin and email rutherfordreccontest@rutherfordboronj.com with a picture of the pumpkin and the special code on the bottom, as well as their contact information, will win a $50 gift certificate to a Rutherford Business
+
+- Winners names will be shared on social media
+
+- Open to all ages
+
+- Winning gift certificates will be distributed on Monday, 11/2/20
 
