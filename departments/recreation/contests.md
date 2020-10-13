@@ -6,7 +6,7 @@ parent: 'Recreation'
 
 # 2020 Halloween Contests Rules & Regulations
 
-[Purple Pumpkin Puruit Flyer](https://storage.googleapis.com/static.rutherford-nj.com/recreation/fall-2020/2020_Halloween_pumpkin.pdf)
+[Purple Pumpkin Pursuit Flyer](https://storage.googleapis.com/static.rutherford-nj.com/recreation/fall-2020/2020_Halloween_pumpkin.pdf)
 
 [House Decorating and Jack-O-Lantern Photo Flyer](https://storage.googleapis.com/static.rutherford-nj.com/recreation/fall-2020/2020_Halloween.pdf)
 
