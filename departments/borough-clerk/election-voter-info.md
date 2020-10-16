@@ -5,11 +5,8 @@ parent: 'Borough Clerk'
 ---
 
 
+**November 3, 2020 - General Election**
 
-Bergen County Superintendent of Elections Patricia DiCostanzo issued a notice that **Tuesday, October 13, 2020, is the last day for residents to register to vote for the November 3, 2020, General Election in the State of New Jersey.**
-
-[**VOTER REGISTRATION FORM** Click Here](https://www.state.nj.us/state/elections/voter-registration.shtml)
-Please call the Borough Clerk’s Office if you have any questions at 201-460-3001.
 
 [Bergen County Clerk's Office Website which provides important information regarding mail-in ballots](https://www.bergencountyclerk.org/)
 
