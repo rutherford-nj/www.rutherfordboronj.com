@@ -20,7 +20,7 @@ title: 'COVID-19 Information'
 
 [# Chart of progression of Rutherford COVID-19 cases](charts/)
 
-[Friday, October 23rd - A Statement From Mayor Nunziato}(
+[Friday, October 23rd - A Statement From Mayor Nunziato](https://storage.googleapis.com/static.rutherford-nj.com/covid/Oct%2023%20Frank%20Nunziato.pdf)
 
 ---
 
