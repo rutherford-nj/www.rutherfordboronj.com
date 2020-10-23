@@ -80,26 +80,48 @@ a, a:visited, a:hover, a:active {
   flex-wrap: wrap;
 
   > div:first-child {
-    background-color: #ef7d37;
     font-size: 1em;
+    font-weight: 700;
     text-align: right;
     width: 25%;
 
-    span {
-      color: #fff;
-    }
     @media screen and (max-width: 900px) {
       text-align: left;
       width: 100%;
     }
   }
 
+  > div:nth-child(2) {
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    width: 49%;
+
+    > div {
+      > :first-child {
+        color: #930606;
+      }
+      > :last-child {
+        font-size: 0.75em;
+        padding-top: 0.5em;
+      }
+    }
+
+    @media screen and (max-width: 900px) {
+      border: 0;
+      width: 100%;
+    }
+  }
+
   > div:last-child {
     font-size: 0.75em;
-    width: 75%;
+    width: 25%;
 
+    img {
+      max-width: 350px;
+      width: 100%;
+    }
     span {
-      color: #cc3c3b;
+      color: #930606;
     }
     @media screen and (max-width: 900px) {
       width: 100%;
