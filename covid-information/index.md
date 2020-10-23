@@ -36,7 +36,7 @@ Addressed: Addressed: COVID cases, Rutherford Public Schools, Recreation and Blo
 
 **For Archives of Mayor and Council Briefings and Transcripts [click here](archives/)**
 
-[Chart of progression of Rutherford COVID-19 cases](https://docs.google.com/spreadsheets/d/e/2PACX-1vS00GBGJKB0Xwtru3Rn5WrPqur19j--CibdM5R1tbnis0W_Bp18EmLFkJJc5sG4dwvMyqCorSVhHwik/pubhtml)
+[Chart of progression of Rutherford COVID-19 cases](charts/)
 
 
 **Important links:** 
