@@ -4,6 +4,14 @@ title: 'Halloween 2020'
 parent: 'Recreation'
 ---
 
+# 2020 House Decorating Contest Maps
+
+[Interactive Google Map](https://www.google.com/maps/@40.8286582,-74.1216315,14z/data=!4m2!6m1!1s1Dp65byg7SF2OC4du-UCVJyLmN7SCmZLS?hl=en)
+
+
+[Printable Map with Addresses](https://storage.googleapis.com/static.rutherford-nj.com/recreation/fall-2020/2020_House_Decorating_Map.pdf)
+
+---
 
 # 2020 Halloween Trick or Treating Signs
 
