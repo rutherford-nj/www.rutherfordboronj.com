@@ -18,7 +18,7 @@ title: 'COVID-19 Information'
 
 # COVID-19 Information
 
-[# Chart of progression of Rutherford COVID-19 cases](charts/)
+[**Chart of progression of Rutherford COVID-19 cases**](charts/)
 
 [Free COVID Tracking App From The State of New Jersey](https://covid19.nj.gov/pages/app)
 
