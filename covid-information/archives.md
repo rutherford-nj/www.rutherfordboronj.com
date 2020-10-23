@@ -7,6 +7,18 @@ title: 'COVID-19 Information-Archives'
 
 Below find each COVID-19 update made by the Rutherford Mayor and Council from March - present: 
 
+**Tuesday, October 8, 2020**
+
+[Thursday, October 8, 2020: An update regarding Recreation activities from Mayor Nunziato](https://storage.googleapis.com/static.rutherford-nj.com/covid/Oct%208%20Frank%20Nunziato.pdf)
+
+**Tuesday, October 6, 2020**
+
+[Tuesday, October 6, 2020: A video update from Councilman Goldsack](https://youtu.be/kLRvmnZngWs)
+
+Addressed: Addressed: COVID cases, Rutherford Public Schools, Recreation and Block Party Permit Suspension
+
+[Read Transcript Here](https://storage.googleapis.com/static.rutherford-nj.com/covid/Oct%206%20Mark%20Goldsack%20(1).pdf)
+
 **Tuesday, October 2, 2020**
 
 [Friday, October 2nd, 2020: A video update from Council President Mullahey](https://youtu.be/GdMtUxUT85o)
