@@ -15,5 +15,7 @@ window._apiKey = 'AIzaSyDZ2ApNaygYK6lmMcrQMFCXMNKnxexioiM';
 
 {% include_relative js/twitter.js %}
 
+{% include_relative js/covid-charts-last-updated.js %}
+
 });
 
