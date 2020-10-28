@@ -8,6 +8,8 @@ title: 'Borough Codes & Ordinances'
 ## Recently Adopted Borough Codes and Ordinances:
 
 
+[Ordinance No. 3536-20 - Repealing Section 34A-13 Smoke and Carbon Monoxide Detectors](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3536.20%20Ordinance%20Repealing%20Section%2034A-13.pdf)
+
 [Ordinance No. 3532-20 - Pet Waste Ordinance](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3532-20%20Pet%20Waste%20Ordinance.pdf)
 
 [Ordinance No. 3531-20 - Litter Control Ordinance](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3531-20%20Litter%20Control%20Ordinance.pdf)
