@@ -57,6 +57,8 @@ During the course of the year it may become necessary for a committee or the may
 
 > The objective of the Historic Preservation Committee is to educate the community about what value historic preservation offers to maintain the character of neighborhoods as reflected by the architecture and aesthetics. Furthermore, the Committee advises any borough board or agency of the historic nature of a property should demolition or construction be proposed.
 
+> [Historic Sites Inventory as compiled by McCabe & Associates](http://www.rutherfordhpc.org/historic-sites-inventory)
+
 ---
 
 [**Library Board**](library-board/)
