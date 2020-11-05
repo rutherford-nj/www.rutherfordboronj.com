@@ -20,7 +20,9 @@ title: 'COVID-19 Information'
 
 [**Chart of progression of Rutherford COVID-19 cases**](charts/)
 
-[ Rutherford Borough and Public School District Health Roundtable](https://youtu.be/vNacE-qW64w)
+[Thursday, November 5, 2020: An update from Mayor Nunziato](https://storage.googleapis.com/static.rutherford-nj.com/covid/November%205.pdf)
+
+[Rutherford Borough and Public School District Health Roundtable](https://youtu.be/vNacE-qW64w)
 
 [Free COVID Tracking App From The State of New Jersey](https://covid19.nj.gov/pages/app)
 
