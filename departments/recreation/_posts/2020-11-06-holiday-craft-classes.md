@@ -28,8 +28,24 @@ SIGN UP AT:
 
 [https://register.communitypass.net/reg/index.cfm](https://register.communitypass.net/reg/index.cfm)
 
-# COMING IN DECEMBER!
+# DECEMBER CRAFT CLASSES:
 
-* CLASSIC HOLIDAY CENTERPIECE CLASS-DECEMBER 1st at 7:00 PM
+[**CLASSIC HOLIDAY CENTERPIECE CLASS-DECEMBER 1st at 7:00 PM**](https://storage.googleapis.com/static.rutherford-nj.com/recreation/winter-2020-21/11_20%20HOLIDAY%20CENTERPIECE.docx.pdf)
 
-* TABLETOP SNOWMAN- DECEMBER 17th at 7:00 PM
+This is an IN PERSON class at the Tamblyn Field Civic Center at 30 Woodland Ave. A supply kit will be provided to the participants at the class. Approximately 45 minutes. Please bring your own scissors & hot glue gun. Class size limited. *Colors & materials may vary. *Non-refundable
+
+TUESDAY, DECEMBER 1st at 7:00 PM
+
+$25.00 per person
+
+[**TABLETOP SNOWMAN- DECEMBER 17th at 7:00 PM**](https://storage.googleapis.com/static.rutherford-nj.com/recreation/winter-2020-21/12_17_20%20TAPLETOP%20SNOWMAN%20FLYER.docx.pdf)
+
+This is an in-person class at Tamblyn Field Civic Center at 30 Woodland Ave. A supply kit from the Recreation office will be provided. Social
+distancing will be observed and face coverings must be worn. Participant must bring their own hot glue gun & scissors. 
+
+Ages 12 and up. Approximately 45 minutes. Limited class size. *Colors & materials may vary *non-refundable
+
+THURSDAY, DECEMBER 17th at 7:00 PM
+
+$22 per person
+
