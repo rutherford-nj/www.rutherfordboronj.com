@@ -11,7 +11,7 @@ title: 'Committees'
 
 [Click here for the 2020 Meeting Schedule.](https://storage.googleapis.com/static.rutherford-nj.com/committees/ANNUAL%20NOTICE%202020_2.pdf)
 
-**If you're interested in serving on a Board, Commission or Committee, [please find the application here.**](application/)
+**If you're interested in serving on a Board, Commission or Committee,** [**please find the application here.**](application/)
 
 Please note that submitting your interest and information below does not automatically place you on a board, commission or committee. All appointments are subject to Mayoral approval, typically in January.  
 
