@@ -11,7 +11,9 @@ title: 'Committees'
 
 [Click here for the 2020 Meeting Schedule.](https://storage.googleapis.com/static.rutherford-nj.com/committees/ANNUAL%20NOTICE%202020_2.pdf)
 
-During the course of the year it may become necessary for a committee or the mayor and council to change the day or time of a meeting or to cancel/add meetings. Please confirm meeting dates and times by contacting the liaison via e-mail or calling 201-460-3004.
+**If you're interested in serving on a Board, Commission or Committee, [please find the application here.**](application/)
+
+Please note that submitting your interest and information below does not automatically place you on a board, commission or committee. All appointments are subject to Mayoral approval, typically in January.  
 
 ---
 
