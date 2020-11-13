@@ -20,6 +20,10 @@ title: 'COVID-19 Information'
 
 [**Chart of progression of Rutherford COVID-19 cases**](charts/)
 
+[Friday, November 13, 2020: A update from Mayor Nunziato](https://storage.googleapis.com/static.rutherford-nj.com/covid/November%2013%20(1).pdf)
+
+[Friday, November 13, 2020: A letter from Police Chief Russo](https://storage.googleapis.com/static.rutherford-nj.com/statements/Borough%20COVID%20Letter%2011-13-20.pdf)
+
 [Friday, November 6, 2020: An update from Council President Mullahey](https://storage.googleapis.com/static.rutherford-nj.com/covid/November%206%20(1).pdf)
 
 [Thursday, November 5, 2020: An update from Mayor Nunziato](https://storage.googleapis.com/static.rutherford-nj.com/covid/November%205%20(1).pdf)
