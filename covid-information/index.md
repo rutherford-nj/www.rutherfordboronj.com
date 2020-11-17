@@ -22,10 +22,11 @@ title: 'COVID-19 Information'
 
 **Tuesday, November 17, 2020**
 
-[Tuesday, November 17, 2020: A update from Councilman Goldsack Addressed: Governor Murphy's Executive Orders & virtual holiday events](https://storage.googleapis.com/static.rutherford-nj.com/covid/November%2017.pdf)
+[Tuesday, November 17, 2020: A video update from Councilman Goldsack Addressed: Governor Murphy's Executive Orders & virtual holiday events](https://youtu.be/W5-dtsnGS0o)
 
+[Read Transcript Here](https://storage.googleapis.com/static.rutherford-nj.com/covid/November%2017.pdf)
 
-
+---
 
 [Rutherford Borough and Public School District Health Roundtable](https://youtu.be/vNacE-qW64w)
 
