@@ -7,6 +7,18 @@ title: 'COVID-19 Information-Archives'
 
 Below find each COVID-19 update made by the Rutherford Mayor and Council from March - present: 
 
+**Friday, November 13, 2020**
+
+[Friday, November 13, 2020: A letter from Police Chief Russo](https://storage.googleapis.com/static.rutherford-nj.com/statements/Borough%20COVID%20Letter%2011-13-20.pdf)
+
+**Friday, November 6, 2020**
+
+[Friday, November 6, 2020: An update from Council President Mullahey](https://storage.googleapis.com/static.rutherford-nj.com/covid/November%206%20(1).pdf)
+
+**Thursday, November 5, 2020**
+
+[Thursday, November 5, 2020: An update from Mayor Nunziato](https://storage.googleapis.com/static.rutherford-nj.com/covid/November%205%20(1).pdf)
+
 **Tuesday, October 8, 2020**
 
 [Thursday, October 8, 2020: An update regarding Recreation activities from Mayor Nunziato](https://storage.googleapis.com/static.rutherford-nj.com/covid/Oct%208%20Frank%20Nunziato.pdf)
