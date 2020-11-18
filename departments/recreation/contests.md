@@ -12,7 +12,7 @@ Race starts 11/17 - Race concludes 11/24 at 4:00 PM
 
 Sign up at: [https://register.communitypass.net/reg/index.cfm](https://register.communitypass.net/reg/index.cfm)
 
-$10 per person
+NO FEE
 
 Prizes will be issued for: Best Running Costume, Best Running Group Photo and Best Family Running Photo
 
