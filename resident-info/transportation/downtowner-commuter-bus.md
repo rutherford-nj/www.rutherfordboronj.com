@@ -5,6 +5,8 @@ layout: page
 
 ## Commuter Shuttle - 
 
+**Effective 11/23/2020 commuter shuttle service (morning and evening) is suspended until further notice. The Downtowner will continue to run on its regular schedule.**
+
 The Commuter Shuttle is offered free to all residents. The bus operates Monday through Friday from 6:00 am to 8:43 am in the mornings and 4:49 pm to 7:04 pm in the evenings. There is no service on Saturday, Sunday and Holidays.  
 
 <div style="float: right;">
