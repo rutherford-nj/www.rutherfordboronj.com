@@ -20,11 +20,11 @@ title: 'COVID-19 Information'
 
 [**Chart of progression of Rutherford COVID-19 cases**](charts/)
 
-**Tuesday, November 17, 2020**
+**Wednesday, November 25, 2020**
 
-[Tuesday, November 17, 2020: A video update from Councilman Goldsack Addressed: Governor Murphy's Executive Orders & virtual holiday events](https://youtu.be/W5-dtsnGS0o)
+[Wednesday, November 25, 2020: A video update from Councilman Ray Guzman - Addressed: Santa Claus, Tree Lighting, Passing of Fire Chief Thomas Twist](https://youtu.be/Lvm0zNGuZAM)
 
-[Read Transcript Here](https://storage.googleapis.com/static.rutherford-nj.com/covid/November%2017.pdf)
+[Read Transcript Here](https://storage.googleapis.com/static.rutherford-nj.com/covid/November%2025%20Ray%20Guzman%20(1).pdf)
 
 ---
 
