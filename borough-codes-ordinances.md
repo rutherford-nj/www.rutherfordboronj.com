@@ -7,6 +7,8 @@ title: 'Borough Codes & Ordinances'
 
 ## Recently Adopted Borough Codes and Ordinances:
 
+[Ordinance No. 3538-20 - Amending the Rent Control Ordinance](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3538-20%20Amended%20Rent%20Control%20Ordinance.pdf)
+
 [Ordinance No. 3537-20 - Amending Police Department Table of Organization](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3537-20%20Ordinance%20Amending%20Chapter%2076-1.pdf)
 
 [Ordinance No. 3536-20 - Repealing Section 34A-13 Smoke and Carbon Monoxide Detectors](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3536.20%20Ordinance%20Repealing%20Section%2034A-13.pdf)
