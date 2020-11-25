@@ -7,6 +7,13 @@ title: 'COVID-19 Information-Archives'
 
 Below find each COVID-19 update made by the Rutherford Mayor and Council from March - present: 
 
+
+**Tuesday, November 17, 2020**
+
+[Tuesday, November 17, 2020: A video update from Councilman Goldsack Addressed: Governor Murphy's Executive Orders & virtual holiday events](https://youtu.be/W5-dtsnGS0o)
+
+[Read Transcript Here](https://storage.googleapis.com/static.rutherford-nj.com/covid/November%2017.pdf)
+
 **Friday, November 13, 2020**
 
 [Friday, November 13, 2020: A letter from Police Chief Russo](https://storage.googleapis.com/static.rutherford-nj.com/statements/Borough%20COVID%20Letter%2011-13-20.pdf)
