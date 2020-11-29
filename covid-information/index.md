@@ -20,6 +20,8 @@ title: 'COVID-19 Information'
 
 [**Chart of progression of Rutherford COVID-19 cases**](charts/)
 
+[December Community Drive-Thru COVID-19 Testing Dates at Bergen Community College](https://storage.googleapis.com/static.rutherford-nj.com/covid/Winter_Month_of_December_2020.pdf)
+
 **Wednesday, November 25, 2020**
 
 [Wednesday, November 25, 2020: A video update from Councilman Ray Guzman - Addressed: Santa Claus, Tree Lighting, Passing of Fire Chief Thomas Twist](https://youtu.be/Lvm0zNGuZAM)
