@@ -26,6 +26,10 @@ Below find each COVID-19 update made by the Rutherford Mayor and Council from Ma
 
 [Thursday, November 5, 2020: An update from Mayor Nunziato](https://storage.googleapis.com/static.rutherford-nj.com/covid/November%205%20(1).pdf)
 
+**Friday, October 23, 2020**
+
+[Friday, October 23rd - A Statement From Mayor Nunziato](https://storage.googleapis.com/static.rutherford-nj.com/covid/Oct%2023%20Frank%20Nunziato.pdf)
+
 **Tuesday, October 8, 2020**
 
 [Thursday, October 8, 2020: An update regarding Recreation activities from Mayor Nunziato](https://storage.googleapis.com/static.rutherford-nj.com/covid/Oct%208%20Frank%20Nunziato.pdf)
