@@ -37,7 +37,7 @@ title: 'Mayor and Council'
         <a href="mark-goldsack">Councilman Mark Goldsack</a>
     </div>
     <div>
-        <a href="raymond-guzman">Councilman Raymond Guzman</a>
+        <a href="raymond-guzman">Councilman Raymond Guzmán</a>
     </div>
     <div>
         <a href="stephanie-mcgowan">Councilwoman Stephanie McGowan</a>
