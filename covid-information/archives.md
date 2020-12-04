@@ -7,6 +7,12 @@ title: 'COVID-19 Information-Archives'
 
 Below find each COVID-19 update made by the Rutherford Mayor and Council from March - present: 
 
+**Wednesday, November 25, 2020**
+
+[Wednesday, November 25, 2020: A video update from Councilman Ray Guzman - Addressed: Santa Claus, Tree Lighting, Passing of Fire Chief Thomas Twist](https://youtu.be/Lvm0zNGuZAM)
+
+[Read Transcript Here](https://storage.googleapis.com/static.rutherford-nj.com/covid/November%2025%20Ray%20Guzman%20(1).pdf)
+
 
 **Tuesday, November 17, 2020**
 
