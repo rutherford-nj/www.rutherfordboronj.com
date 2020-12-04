@@ -9,7 +9,7 @@ Below find each COVID-19 update made by the Rutherford Mayor and Council from Ma
 
 **Wednesday, November 25, 2020**
 
-[Wednesday, November 25, 2020: A video update from Councilman Ray Guzman - Addressed: Santa Claus, Tree Lighting, Passing of Fire Chief Thomas Twist](https://youtu.be/Lvm0zNGuZAM)
+[Wednesday, November 25, 2020: A video update from Councilman Ray Guzmán - Addressed: Santa Claus, Tree Lighting, Passing of Fire Chief Thomas Twist](https://youtu.be/Lvm0zNGuZAM)
 
 [Read Transcript Here](https://storage.googleapis.com/static.rutherford-nj.com/covid/November%2025%20Ray%20Guzman%20(1).pdf)
 
@@ -89,9 +89,9 @@ Addressed: New COVID-19 cases; Voter Registration Info; Resolution for Outdoor D
 
 **Monday, June 1, 2020:** 
 
-[A video statement from Councilman Guzman](https://youtu.be/ako4vNpdJxE)
+[A video statement from Councilman Guzmán](https://youtu.be/ako4vNpdJxE)
 
-[Transcript of the statement from Councilman Guzman](https://storage.googleapis.com/static.rutherford-nj.com/covid/June%201%20Ray%20Guzman%20(3).pdf)
+[Transcript of the statement from Councilman Guzmán](https://storage.googleapis.com/static.rutherford-nj.com/covid/June%201%20Ray%20Guzman%20(3).pdf)
 
 Addressed: New COVID-19 cases; YMCA Food Distribution; The Rutherford Governing Body remembers George Floyd and his family
 
@@ -152,9 +152,9 @@ Addressed: New COVID-19 Case; Non-Essential Construction Resumes; YMCA Food Dist
 
 **Wednesday, May 13, 2020:** 
 
-[A video statement from Councilman Guzman](https://youtu.be/0o-Giedti40)
+[A video statement from Councilman Guzmán](https://youtu.be/0o-Giedti40)
 
-[Transcript of the statement from Councilman Guzman](https://storage.googleapis.com/static.rutherford-nj.com/covid/May%2013%20Ray%20Guzman%20(2).pdf)
+[Transcript of the statement from Councilman Guzmán](https://storage.googleapis.com/static.rutherford-nj.com/covid/May%2013%20Ray%20Guzman%20(2).pdf)
 
 Addressed: New COVID-19 Case; Fire on Park Ave; Rutherford Parks reopening with restrictions 
 
@@ -210,9 +210,9 @@ Addressed: State COVID database reporting technical difficulties; Property Tax r
 
 **Monday, May 4, 2020:** 
 
-[A video statement from Councilman Guzman](https://youtu.be/3-YmS96U-js)
+[A video statement from Councilman Guzmán](https://youtu.be/3-YmS96U-js)
 
-[Transcript of the statement from Councilman Guzman](https://storage.googleapis.com/static.rutherford-nj.com/covid/May%204%20Ray%20Guzman%20(1).pdf)
+[Transcript of the statement from Councilman Guzmán](https://storage.googleapis.com/static.rutherford-nj.com/covid/May%204%20Ray%20Guzman%20(1).pdf)
 
 Addressed: State COVID database reporting technical difficulties; BCC testing site for asymptomatic people; Schools will remain closed
 
@@ -278,9 +278,9 @@ Addressed: New COVID-19 cases; Please move your cars for street cleaning; Securi
 
 **Saturday, April 25, 2020:** 
 
-[A video statement from Councilman Guzman](https://youtu.be/YW6wWVipUxc)
+[A video statement from Councilman Guzmán](https://youtu.be/YW6wWVipUxc)
 
-[Transcript of the statement from Councilman Guzman](https://storage.googleapis.com/static.rutherford-nj.com/covid/April%2025%20Ray%20Guzman%20(2).pdf)
+[Transcript of the statement from Councilman Guzmán](https://storage.googleapis.com/static.rutherford-nj.com/covid/April%2025%20Ray%20Guzman%20(2).pdf)
 
 Addressed: New COVID-19 cases; Street Sweeping & Alternate Side Parking Resumes; Veteran's Affairs Committee; Council Meeting Monday; Happy Birthday Diane Jones!
 
@@ -338,9 +338,9 @@ Addressed: New COVID-19 cases; Rutherford Library Updates; Local Business Thank 
 
 **Saturday, April 18, 2020:** 
 
-[A video statement from Councilman Guzman](https://youtu.be/8g3UvZCT1K0)
+[A video statement from Councilman Guzmán](https://youtu.be/8g3UvZCT1K0)
 
-[Transcript of the statement from Councilman Guzman](https://storage.googleapis.com/static.rutherford-nj.com/covid/April%2018%20Ray%20Guzman%20(2).pdf)
+[Transcript of the statement from Councilman Guzmán](https://storage.googleapis.com/static.rutherford-nj.com/covid/April%2018%20Ray%20Guzman%20(2).pdf)
 
 Addressed: New COVID-19 cases; Bergen New Bridge Testing Site; Rutherford Little League Statement
 
@@ -402,9 +402,9 @@ Addressed: New COVID-19 cases; Glove & mask donations; BCC testing site closed S
 
 **Friday, April 10, 2020:** 
 
-[A video statement from Councilman Guzman](https://www.youtube.com/watch?v=yNmL-q-WlVA)
+[A video statement from Councilman Guzmán](https://www.youtube.com/watch?v=yNmL-q-WlVA)
 
-[Transcript of the statement from Councilman Guzman](https://storage.googleapis.com/static.rutherford-nj.com/covid/April%2010%20Ray%20Guzman.pdf)
+[Transcript of the statement from Councilman Guzmán](https://storage.googleapis.com/static.rutherford-nj.com/covid/April%2010%20Ray%20Guzman.pdf)
 
 Addressed: New COVID-19 cases; Useful website from the state: [nj211.org](https://www.nj211.org/); the Easter Bunny comes to town 4/11
 
@@ -467,9 +467,9 @@ Addressed: New COVID-19 cases in Rutherford; CDC recommends wearing masks in pub
 
 **- Friday, April 3, 2020:** 
 
-[A transcript of the daily briefing from Councilman Guzman](https://storage.googleapis.com/static.rutherford-nj.com/covid/April%203%202020%20Ray%20Guzman.pdf)
+[A transcript of the daily briefing from Councilman Guzmán](https://storage.googleapis.com/static.rutherford-nj.com/covid/April%203%202020%20Ray%20Guzman.pdf)
 
-[A video recording of Councilman Guzman](https://www.youtube.com/watch?v=2NIO6MtSvNs)
+[A video recording of Councilman Guzmán](https://www.youtube.com/watch?v=2NIO6MtSvNs)
 
 Addressed: New COVID-19 cases in Rutherford; Thank you to our EMS volunteers; Please dispose of gloves properly; Open business list
 
@@ -533,9 +533,9 @@ Addressed: New Rutherford COVID-19 cases; Testing site at New Bridge Medical Cen
 
 **- Thursday, March 26th, 2020:** 
 
-[A transcript of the daily briefing From Councilman Guzman](https://storage.googleapis.com/static.rutherford-nj.com/covid/March%2026%202020%20Ray%20Guzman.pdf)
+[A transcript of the daily briefing From Councilman Guzmán](https://storage.googleapis.com/static.rutherford-nj.com/covid/March%2026%202020%20Ray%20Guzman.pdf)
 
-[A video recording of Councilman Guzman](https://www.youtube.com/watch?v=3SJ-2IxDWlQ)
+[A video recording of Councilman Guzmán](https://www.youtube.com/watch?v=3SJ-2IxDWlQ)
 
 Addressed: New Rutherford COVID-19 cases; Garbage pick up for Rutherford businesses; State job hiring portal 
 
@@ -563,9 +563,9 @@ Addressed: New Rutherford COVID-19 cases; event cancellations; Census reminder
 
 **- Sunday, March 22nd, 2020:** 
 
-[A transcript of the daily briefing From Councilman Guzman](https://storage.googleapis.com/static.rutherford-nj.com/covid/March%2022%202020%20Ray%20Guzman%20Statement.pdf)
+[A transcript of the daily briefing From Councilman Guzmán](https://storage.googleapis.com/static.rutherford-nj.com/covid/March%2022%202020%20Ray%20Guzman%20Statement.pdf)
 
-[A video recording of Councilman Guzman](https://www.youtube.com/watch?v=pZxbHxbYTeA)
+[A video recording of Councilman Guzmán](https://www.youtube.com/watch?v=pZxbHxbYTeA)
 
 **- Saturday, March 21st, 2020:** 
 
