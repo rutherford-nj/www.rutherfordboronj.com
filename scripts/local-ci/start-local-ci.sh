@@ -2,9 +2,8 @@
 
 set -x
 
-echo "Provide webhook secret:"
-read WEBHOOK_SECRET
-
-docker run --rm -d -p 58778:9000 --name=rutherford-site-webhook \
-	-v `pwd`:/site \
-	-e GITHUB_WEBHOOK_SECRET=$WEBHOOK_SECRET ghcr.io/rutherford-nj/rutherford-site-webhook:latest
+docker run --rm -d -p 58778:9000 \
+    --name=rutherford-site-webhook \
+    -v `pwd`:/site \
+    --env-file=/keybase/team/rutherford_nj.website/local_ci.env \
+    ghcr.io/rutherford-nj/rutherford-site-webhook:latest
