@@ -60,7 +60,7 @@ local-ci: build-requirements
 dev: build-requirements
 	docker run -it --rm -p 0.0.0.0:38080:8080 \
         -v $(SITE_WORKSPACE):/srv/jekyll \
-        jekyll/builder:latest jekyll serve --watch -P 8080 -p /dev/null/
+        jekyll/builder:latest jekyll serve --watch -P 8080 -p /dev/null
 
 
 prod: build-requirements
