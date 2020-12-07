@@ -4,6 +4,7 @@ title: 'Employment & Bids'
 parent: Government
 ---
 
+[RFP - Professional Services 2021](https://storage.googleapis.com/static.rutherford-nj.com/finance/Employment/2021%20RFP%20Professional%20Services.pdf)
 
 [Job Posting: Crossing Guards](https://storage.googleapis.com/static.rutherford-nj.com/finance/Employment/GUARDS.pdf)
 
