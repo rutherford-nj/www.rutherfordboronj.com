@@ -8,7 +8,7 @@ parent: 'Recreation'
 
 # Holiday House Decorating Contest
 
-[**Printable Map of Holiday House Decorating Participants**](https://storage.googleapis.com/static.rutherford-nj.com/recreation/winter-2020-21/2020_Holiday_Map.pdf)
+[**Printable Map of Holiday House Decorating Participants**](https://storage.googleapis.com/static.rutherford-nj.com/recreation/winter-2020-21/2020_Holiday_Map_1.pdf)
 
 [**Interactive Map of Holiday House Decorating Participants**](https://www.google.com/maps/d/edit?mid=1pkBTybWDHswes2kYT2lZeXBeW21GjxQP&usp=sharing)
 
