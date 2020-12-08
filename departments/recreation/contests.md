@@ -8,21 +8,12 @@ parent: 'Recreation'
 
 # Holiday House Decorating Contest
 
+[**Map of Holiday House Decorating Participants**](https://storage.googleapis.com/static.rutherford-nj.com/recreation/winter-2020-21/2020_Holiday_Map.pdf)
+
 [See flyer here for more information](https://storage.googleapis.com/static.rutherford-nj.com/recreation/contests/2020_HolidayHouseDecorating_Contest.pdf)
 
-Please register at [https://register.communitypass.net/reg/index.cfm](https://register.communitypass.net/reg/index.cfm). 
-(If you do not have a Community Pass account with the Rutherford 
-Recreation Department you will need to create one first)
-
 All entries must be submitted by 
-December 7th at midnight.
- 
-By entering this contest, you understand that your home may be 
-photographed and your name/images may be used on Borough of 
-Rutherford social media platforms.  
-
-Addresses of Holiday House Decorating participants will be listed on a 
-map provided to the public.
+December 7th at midnight.  
 
 Winners will receive a gift certificate to a local business!
 
