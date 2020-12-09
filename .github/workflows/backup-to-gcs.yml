@@ -5,7 +5,7 @@ on:
     - cron:  '42 9 * * *'
 
 jobs:
-  build:
+  backup:
     runs-on: ubuntu-latest
 
     steps:
