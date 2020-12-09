@@ -2,7 +2,7 @@ name: Compress images
 # Run image-actions on all pull requests. They're rare enough in the repo and makes it easier to trigger.
 on: [pull_request]
 jobs:
-  build:
+  compress:
     name: calibreapp/image-actions
     runs-on: ubuntu-latest
     steps:
