@@ -24,7 +24,7 @@ title: 'COVID-19 Information'
 
 **Friday, December 11, 2020**
 
-[Friday, December 11, 2020: A video update from Councilwoman Begg-Roberson - Addressed: Quarantine Protocol; Santa and Soccer Caravans; Support Local Businesses](https://youtu.be/v7y1WdtnIuk)
+[Friday, December 11, 2020: A video update from Councilwoman Begg-Roberson - Addressed: Quarantine Protocol; Santa and Soccer Caravans; Support Local Businesses](https://youtu.be/jzNupKTX5wg)
 
 [Read Transcript Here](https://storage.googleapis.com/static.rutherford-nj.com/covid/December%2011%20Maria%20Begg-Roberson%20(2).pdf)
 
