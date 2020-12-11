@@ -22,11 +22,12 @@ title: 'COVID-19 Information'
 
 [December Community Drive-Thru COVID-19 Testing Dates at Bergen Community College](https://storage.googleapis.com/static.rutherford-nj.com/covid/Winter_Month_of_December_2020.pdf)
 
-**Friday, December 4, 2020**
+**Friday, December 11, 2020**
 
-[Friday, December 4, 2020: A video update from Councilwoman McGowan - Addressed: COVID numbers; Celebratory caravans; Passing of Tom Twist](https://youtu.be/v7y1WdtnIuk)
+[Friday, December 11, 2020: A video update from Councilwoman Begg-Roberson - Addressed: Quarantine Protocol; Santa and Soccer Caravans; Support Local Businesses](https://youtu.be/v7y1WdtnIuk)
 
-[Read Transcript Here](https://storage.googleapis.com/static.rutherford-nj.com/covid/December%204%20Stephanie%20McGowan%20(3).pdf)
+[Read Transcript Here](https://storage.googleapis.com/static.rutherford-nj.com/covid/December%2011%20Maria%20Begg-Roberson%20(2).pdf)
+
 
 ---
 
