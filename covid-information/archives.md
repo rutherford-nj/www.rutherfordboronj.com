@@ -7,6 +7,12 @@ title: 'COVID-19 Information-Archives'
 
 Below find each COVID-19 update made by the Rutherford Mayor and Council from March - present: 
 
+**Friday, December 4, 2020**
+
+[Friday, December 4, 2020: A video update from Councilwoman McGowan - Addressed: COVID numbers; Celebratory caravans; Passing of Tom Twist](https://youtu.be/v7y1WdtnIuk)
+
+[Read Transcript Here](https://storage.googleapis.com/static.rutherford-nj.com/covid/December%204%20Stephanie%20McGowan%20(3).pdf)
+
 **Wednesday, November 25, 2020**
 
 [Wednesday, November 25, 2020: A video update from Councilman Ray Guzmán - Addressed: Santa Claus, Tree Lighting, Passing of Fire Chief Thomas Twist](https://youtu.be/Lvm0zNGuZAM)
