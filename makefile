@@ -32,8 +32,6 @@ package-modernizr: npm-packages
 package-nanogallery2: npm-packages
 	cp -R ./node_modules/nanogallery2/dist third_party/nanogallery2
 
-package-firebase-tools: npm-packages
-
 third-party-js-packages: \
 	package-jquery \
 	package-lscache \
@@ -69,8 +67,12 @@ prod: build-requirements
         jekyll/builder:latest jekyll build
 
 
-deploy: prod package-firebase-tools
-	./node_modules/.bin/firebase deploy --non-interactive --token=$(RBH_FIREBASE_TOKEN) --project=$(FIREBASE_PROJECT)
+deploy: prod
+	docker run \
+	  -v $(SITE_WORKSPACE):/work \
+	  -w /work \
+	  andreysenov/firebase-tools \
+	  firebase deploy --non-interactive --token=$(RBH_FIREBASE_TOKEN) --project=$(FIREBASE_PROJECT)
 
 
 npm-packages:
