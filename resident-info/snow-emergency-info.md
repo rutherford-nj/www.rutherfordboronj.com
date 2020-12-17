@@ -7,6 +7,8 @@ Rutherford Borough Officials are asking for the public’s cooperation by comply
 
 [**Click here to view parking restrictions on designated snow emergency streets**](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/Snow-Emergency-Streets.pdf)
 
+[**Using a back-up generator? Please review this information.**](https://storage.googleapis.com/static.rutherford-nj.com/oem/OEM_Safe%20Generator%20Procedures%20(1).pdf?fbclid=IwAR3CuEolUQczcYf8Zjj80mQn31mKKHHevLsZkRP-xMhFtwwt80m-jaPyvhI)
+
 Help us to help you during a snow storm!
 
 When snow is forecasted, residents should be aware of the following:
