@@ -7,6 +7,8 @@ title: 'Borough Codes & Ordinances'
 
 ## Recently Adopted Borough Codes and Ordinances:
 
+[Ordinance No. 3540-20 - Establishing a Handicap Space on Wood Street](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3540-20%2035%20Wood%20Street%20Handicap%20Ordinance.pdf)
+
 [Ordinance No. 3538-20 - Amending the Rent Control Ordinance](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3538-20%20Amended%20Rent%20Control%20Ordinance.pdf)
 
 [Ordinance No. 3537-20 - Amending Police Department Table of Organization](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3537-20%20Ordinance%20Amending%20Chapter%2076-1.pdf)
