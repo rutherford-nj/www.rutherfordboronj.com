@@ -1,4 +1,3 @@
-#PR
 User-agent: *
 Disallow: /
 
