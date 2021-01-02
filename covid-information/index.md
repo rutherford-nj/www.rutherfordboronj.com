@@ -20,7 +20,7 @@ title: 'COVID-19 Information'
 
 [**Chart of progression of Rutherford COVID-19 cases**](charts/)
 
-[December Community Drive-Thru COVID-19 Testing Dates at Bergen Community College](https://storage.googleapis.com/static.rutherford-nj.com/covid/Winter_Month_of_December_2020.pdf)
+[January Community Drive-Thru COVID-19 Testing Dates at Bergen Community College](https://storage.googleapis.com/static.rutherford-nj.com/covid/Winter%20Month%20of%20January%20(1).pdf)
 
 **Friday, December 11, 2020**
 
