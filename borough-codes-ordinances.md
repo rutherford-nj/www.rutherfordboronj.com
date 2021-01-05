@@ -7,6 +7,12 @@ title: 'Borough Codes & Ordinances'
 
 ## Recently Adopted Borough Codes and Ordinances:
 
+[Ordinance No. 3542-20 - Amendment to Chapter 5-8 re: Committees](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3542-20%20Amendment%20to%20Chapter%205-8%20re%20Committees.pdf)
+
+[Ordinance No. 3541-20 - Crosswalk Ordinance](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3541-20%20%20Crosswalk%20Ordinance.pdf)
+
+[Ordinance No. 3539-20 - Amendment to Chapter 78 Ordinance](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3539-20%20Amendment%20to%20Chapter%2078%20Ordinance.pdf)
+
 [Ordinance No. 3540-20 - Establishing a Handicap Space on Wood Street](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3540-20%2035%20Wood%20Street%20Handicap%20Ordinance.pdf)
 
 [Ordinance No. 3538-20 - Amending the Rent Control Ordinance](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3538-20%20Amended%20Rent%20Control%20Ordinance.pdf)
