@@ -16,7 +16,7 @@ title: 'COVID-19 Information'
 [**Return to Homepage**](/)
 
 
-[# Pre-Register for the COVID-19 Vaccine Here](https://covidvaccine.nj.gov/)
+# Pre-Register for the COVID-19 Vaccine here: [covidvaccine.nj.gov](https://covidvaccine.nj.gov/)
 
 
 # COVID-19 Information for Rutherford
