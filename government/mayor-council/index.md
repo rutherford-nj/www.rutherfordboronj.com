@@ -43,7 +43,7 @@ title: 'Mayor and Council'
         <a href="stephanie-mcgowan">Councilwoman Stephanie McGowan</a>
     </div>
     <div>
-        <a href="eddie-narucki">Councilman Eddie Narucki</a>
+        <a href="matthew-cokeley">Councilman Matthew Cokeley</a>
     </div>
 </div>
 
