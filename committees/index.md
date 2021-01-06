@@ -72,7 +72,7 @@ title: 'Committees'
 
 ---
 
-**Recreation Advisory Committee** - Council Liaison Eddie Narucki
+**Recreation Advisory Committee** - Council Liaison Stephanie McGowan
 
 > The Recreation Advisory Committee meets monthly to discuss issues pertaining to Recreation.  The committee meets with coaches and coordinators before the season to ensure proper preparation and after the season to reflect on what needs improvement and what we can build upon.
 
