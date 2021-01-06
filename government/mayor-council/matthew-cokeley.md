@@ -24,7 +24,7 @@ mcokeley@rutherfordboronj.com
 
 **Committee Assignments:**  
 
-[Board of Adjustment](/board-of-adjustment/)
+[Board of Adjustment](/committees/board-of-adjustment/)
 
 Felician University
 
