@@ -10,7 +10,7 @@ Jekyll::Hooks.register :site, :post_write do |site|
       "/static/images/health.png",
       "/static/images/megaphone.png",
       "borough-hall-govt.jpg",
-      "mayor-and-council-2020.jpg",
+      "mayor-and-council.jpg",
       "photo-gallery.png",
       "resident-information.jpg",
     ],
