@@ -15,7 +15,7 @@ Tennis Lessons - [Tennis Dynamics](https://storage.googleapis.com/static.rutherf
 
 Rutherford Little League - [www.rutherford-ll.info](http://www.rutherford-ll.info/home.htm)
 
-Nereid Boat Club – [nereidbc.org](http://nereidbc.org/) nereidprograms@hotmail.com
+Nereid Boat Club – [nereidbc.org](http://nereidbc.org/) headcoach@nereidbc.org 
 
 Lyndhurst Hockey – [Lyndhurst Youth Hockey](https://www.facebook.com/LyndhurstYouthHockeyLeague/) -  Lyndhockey@ymail.com
 
