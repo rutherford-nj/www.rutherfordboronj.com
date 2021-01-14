@@ -4,7 +4,7 @@ title: "Councilman Thomas Mullahey"
 parent: 'Mayor and Council'
 ---
 
-## Council President Thomas Mullahey
+## Councilman Thomas Mullahey
 
 <div class="mayor-and-council-profile">
 <div markdown=1>
