@@ -28,13 +28,13 @@ title: 'Mayor and Council'
         <a href="frank-nunziato">Mayor Frank Nunziato</a>
     </div>
     <div>
-        <a href="thomas-mullahey">Council President Thomas Mullahey</a>
+        <a href="mark-goldsack">Council President Mark Goldsack</a>
     </div>
     <div>
         <a href="maria-begg-roberson">Councilwoman Maria Begg-Roberson</a>
     </div>
     <div>
-        <a href="mark-goldsack">Councilman Mark Goldsack</a>
+        <a href="tom-mullahey">Councilman Thomas Mullahey</a>
     </div>
     <div>
         <a href="raymond-guzman">Councilman Raymond Guzmán</a>
