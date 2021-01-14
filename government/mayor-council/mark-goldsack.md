@@ -4,7 +4,7 @@ title: 'Councilman Mark Goldsack'
 parent: 'Mayor and Council'
 ---
 
-## Councilman Mark Goldsack
+## Council President Mark Goldsack
 
 <div class="mayor-and-council-profile">
 <div markdown=1>
