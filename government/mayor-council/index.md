@@ -34,7 +34,7 @@ title: 'Mayor and Council'
         <a href="maria-begg-roberson">Councilwoman Maria Begg-Roberson</a>
     </div>
     <div>
-        <a href="tom-mullahey">Councilman Thomas Mullahey</a>
+        <a href="thomas-mullahey">Councilman Thomas Mullahey</a>
     </div>
     <div>
         <a href="raymond-guzman">Councilman Raymond Guzmán</a>
