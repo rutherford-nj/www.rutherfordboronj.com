@@ -52,8 +52,6 @@ title: 'COVID-19 Information'
 
 **Important links:** 
 
-[Telescreening for First Responders at New Bridge Medical Center](https://www.newbridgehealth.org/bergen-covid19-screening/)
-
 [Testing sites, helplines and more: www.nj211.org](https://www.nj211.org/coronavirus-covid-19)
 
 [NJ COVID-19 Information Hub](https://covid19.nj.gov/)
@@ -78,17 +76,11 @@ Please see [Bergen County's website for more resources and information.](https:/
 
 [NJ COVID-19 Dashboard](https://www.nj.gov/health/cd/topics/covid2019_dashboard.shtml)
 
-[www.nj.gov/health/cd/topics/ncov.shtml](https://www.nj.gov/health/cd/topics/ncov.shtml)
-
 [www.nj.gov/health/cd/topics/schoolhealth.shtml](https://www.nj.gov/health/cd/topics/schoolhealth.shtml)
 
 [New Jersey Department of Health Close Contacts to Confirmed COVID-19 Cases](https://storage.googleapis.com/static.rutherford-nj.com/covid/FAQs_For_Close_Contacts_and_People_Being_Tested_3_15_20.108128.pdf)
 
 [New Jersey Department of Consumer Affairs](https://www.njconsumeraffairs.gov/COVID19/Pages/default.aspx)
 
-[New Jersey Department of Health
-COVID-19 Guidance for Child Care and K-12 Schools](https://storage.googleapis.com/static.rutherford-nj.com/covid/COVID19_schools_FINAL_3.2.20.pdf)
 
-[The Association for Professionals in Infection Control and Epidemiology (APIC) Coronavirus Facts](https://storage.googleapis.com/static.rutherford-nj.com/covid/02420_Coronavirus_HiresNoBleed.pdf)
 
-[American Public Health Association Fact Sheet](https://storage.googleapis.com/static.rutherford-nj.com/covid/GetReady-2019nCovFactSheet.pdf)
