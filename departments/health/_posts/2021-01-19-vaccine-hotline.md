@@ -4,7 +4,7 @@ title: "COVID Vaccine Information Hotline"
 
 ---
 
-[Health Department Release](https://storage.googleapis.com/static.rutherford-nj.com/covid/January%2019%20Vaccines%20(1).pdf)
+[Health Department Release](https://storage.googleapis.com/static.rutherford-nj.com/covid/Health%20Dept%20VaccineHotline.pdf)
 
 **The text below can also be heard at the Health Department’s 24-Hour Hotline at 201-460-3000 x3154**
 
