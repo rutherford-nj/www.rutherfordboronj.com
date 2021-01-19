@@ -18,7 +18,7 @@ title: 'COVID-19 Information'
 
 # Pre-Register for the COVID-19 Vaccine here: [covidvaccine.nj.gov](https://covidvaccine.nj.gov/)
 
-[Information from the Rutherford Health Department regarding the COVID vaccine](departments/health/2021/01/19/vaccine-hotline/)
+[Information from the Rutherford Health Department regarding the COVID vaccine](/departments/health/2021/01/19/vaccine-hotline/)
 
 
 # COVID-19 Information for Rutherford
