@@ -9,8 +9,7 @@ title: 'Committees'
 
 ---
 
-[Click here for the 2020 Meeting Schedule.](https://storage.googleapis.com/static.rutherford-nj.com/committees/ANNUAL%20NOTICE%202020_2.pdf)
- 
+[Click here for the 2021 Board and Commission Meeting Schedule](https://storage.googleapis.com/static.rutherford-nj.com/committees/DOC680.pdf)
 
 ---
 
