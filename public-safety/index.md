@@ -25,26 +25,10 @@ The Rutherford First-Aid Ambulance Corps is a volunteer, non-profit organization
 
 ---
 
-**Rutherford Volunteer Fire Department** [www.rutherfordfire.org](http://www.rutherfordfire.org)
+[**Rutherford Volunteer Fire Department**](/departments/fire-department/)
 
 Protecting over 18,000 residents within an area of 2.4 square miles and consists of five fire companies and operate out of three firehouses strategically located throughout the Borough:  
 
-Truck Co #1 and Engine Co. #4 respond out of the Ames Avenue Firehouse
 
-Engine Co. #2 responds from the Mortimer Avenue Firehouse
-
-Engine Co. #3 and Rescue Co. #5 respond out of the West End Firehouse on Union Avenue at the corner of Wells Place. 
-
-If you have any questions or are interested in joining the Rutherford Volunteer Fire Dept., applications can be obtained at the Rutherford Borough Clerks Office.
-
-Chief: Scott Koen
-
-Deputy Chief: Rob Van Winkle
-
-1st Assistant Chief: Dennis Gentile
-
-2nd Assistant Chief: Tom Twist lll
-
-3rd Assistant Chief: Tom Riser
 
 
