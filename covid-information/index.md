@@ -27,8 +27,10 @@ title: 'COVID-19 Information'
 
 [January Community Drive-Thru COVID-19 Testing Dates at Bergen Community College](https://storage.googleapis.com/static.rutherford-nj.com/covid/Winter%20Month%20of%20January%20(1).pdf)
 
+[COVID-19 Vaccine Locations for Eligible Recipients](https://covid19.nj.gov/pages/covid-19-vaccine-locations-for-eligible-recipients)
 
-**Friday, January 22, 2022**
+
+[**Friday, January 22, 2022: A video update from Councilwoman McGowan**](https://youtu.be/JU2_qjBD-sY)
 
 Addressed: COVID vaccine information and Health Department Hotline; 55 Kip Center helping seniors register for vaccine; Youth Arts Banner Program
 
