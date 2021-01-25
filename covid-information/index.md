@@ -18,6 +18,8 @@ title: 'COVID-19 Information'
 
 # Pre-Register for the COVID-19 Vaccine here: [covidvaccine.nj.gov](https://covidvaccine.nj.gov/)
 
+Beginning Monday, January 25th, a vaccine call center to assist individuals to pre-register for vaccine and make vaccine appointments, including those with no computer access, will be available between 8am-8pm. **The call center number is: 855-568-0545**
+
 [Information from the Rutherford Health Department regarding the COVID vaccine](/departments/health/2021/01/19/vaccine-hotline/)
 
 
