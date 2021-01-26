@@ -10,7 +10,7 @@ parent: 'Building'
 
 ### When are they required?
 
-Generally, you need to obtain a building permit from the Borough whenever you construct, enlarge, alter, repair, move, remove, improve, convert, or demolish a building or other structure. A building could be anything from a tool shed to a house. Additionally, code violations are generally required to obtain a permit to correct violations including minor property maintenance violations. A Building Permit may include building, grading, plumbing, mechanical and electrical permits. The City processes the various permit types required as one total package. If you have a question about permit requirements for your project, call the Building & Safety Division at 781-7180.
+Generally, you need to obtain a building permit from the Borough whenever you construct, enlarge, alter, repair, move, remove, improve, convert, or demolish a building or other structure. A building could be anything from a tool shed to a house. Additionally, code violations are generally required to obtain a permit to correct violations including minor property maintenance violations. A Building Permit may include building, grading, plumbing, mechanical and electrical permits. The Borough processes the various permit types required as one total package. If you have a question about permit requirements for your project, call the Building & Safety Division at 781-7180.
 
 ### What to expect during the permit process:
 
@@ -101,14 +101,19 @@ Commentary](https://www.state.nj.us/dca/divisions/codes/publications/pdf_licensi
 
 ### The inspections are as follows: (This is when you should call)
 
-* The bottom of footing trenches before placement of footing, except that in case of pile foundations, inspections shall be made in accordance with the requirements of the building subcode;
-* Foundations and all walls up to grade level prior to back filling;
-* All structural framing and connections prior to covering with finish or infill material;
-* Plumbing underground services, rough piping, water service, sewer, septic services and storm drains; electrical rough wiring, panels and service installations; insulation installations;
-* Installations of all finished materials, sealings of exterior joints; plumbing piping, trim and fixtures; electrical wiring, devices and fixtures; mechanical systems equipment;.
+* The bottom of **footing** trenches before placement of footing, except that in case of pile foundations, inspections shall be made in accordance with the requirements of the building subcode;
+* **Foundations** and all walls up to grade level prior to back filling;
+* All structural **framing** and connections prior to covering with finish or infill material;
+* **Plumbing** underground services, rough piping, water service, sewer, septic services and storm drains; electrical rough wiring, panels and service installations; insulation installations;
+* Installations of **all finished materials,** sealings of exterior joints; plumbing piping, trim and fixtures; electrical wiring, devices and fixtures; mechanical systems equipment;.
 
 ### Arranging inspection visits:
 
 **Please call the Construction Department between Monday – Friday 8:30 to 4:00 at (201) 460-3010**
 
-**Please call at least 48 hours prior to the time the inspection is desired.** The person responsible for the construction project must request and call for inspections in advance. Inspections will be performed within three business days of the time for which they are requested. The work must not proceed in a manner, which will preclude the inspections and the work may not proceed until the inspections have been conducted and approval given. If an inspector finds that some work does not conform to the approved plans, the inspector will advise that the situation must be remedied. If the violation is serious, a Stop Work Order may be posted until the problem is resolved and an additional inspection will be required. When the construction project is completed and all inspections have been conducted and approved, a Certificate of Approval may be issued. This is a formal document, which marks the completion of the project and gives you permission to occupy or use the space. You will now have completed the Construction Permit process. We look forward to seeing you prior to the start of your next project.
+**Please call at least 48 hours prior to the time the inspection.** 
+
+The work must not proceed in a manner, which will preclude the inspections and the work may not proceed until the inspections have been
+conducted and approval given. If an inspector finds that some work does not conform to the approved plans, the inspector will advise that the situation must be remedied. If the violation is serious, a Stop Work Order may be posted until the problem is resolved and an additional inspection will be required.
+
+When the construction project is completed and all inspections have been conducted and approved, a Certificate of Approval or Occupancy will be issued. This is a formal document, which marks the completion of the project and gives you permission to occupy or use the space. You will now have completed the Construction Permit process. We look forward to seeing you prior to the start of your next project.
