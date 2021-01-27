@@ -15,7 +15,7 @@ title: 'Committees'
 
 **Access for All Committee** - Council Liaison: Stephanie McGowan
 
-> This committee, comprised of members who are either persons with disabilities, parents of a child with a disability, a resident family member who is the caregiver of a person with a disability, or Borough residents seeking opportunities to help those with disabilities, is charged with providing opportunities for greater unity across the borough through identifying and addressing barriers within the borough’s borders for residents with disabilities.
+> This committee, comprised of members who are either persons with disabilities, parents of a child with a disability, a resident family member who is the caregiver of a person with a disability, or Borough residents seeking opportunities to help those with disabilities, is charged with providing opportunities for greater unity across the borough through identifying and addressing barriers within the Borough’s borders for residents with disabilities.
 
 ---
 
