@@ -101,11 +101,21 @@ Commentary](https://www.state.nj.us/dca/divisions/codes/publications/pdf_licensi
 
 ### The inspections are as follows: (This is when you should call)
 
-* The bottom of **footing** trenches before placement of footing, except that in case of pile foundations, inspections shall be made in accordance with the requirements of the building subcode;
-* **Foundations** and all walls up to grade level prior to back filling;
-* All structural **framing** and connections prior to covering with finish or infill material;
-* **Plumbing** underground services, rough piping, water service, sewer, septic services and storm drains; electrical rough wiring, panels and service installations; insulation installations;
-* Installations of **all finished materials,** sealings of exterior joints; plumbing piping, trim and fixtures; electrical wiring, devices and fixtures; mechanical systems equipment;.
+* **Building:** The bottom of **footing** trenches before placement of footing, except that in case of pile
+foundations, inspections shall be made in accordance with the requirements of the building
+subcode; **Foundations** and all walls up to grade level prior to back filling; **insulation** installations;
+All structural **framing** and connections prior to covering with finish or infill material;
+
+* **Plumbing:** Underground services, rough piping, water service, sewer, septic services and storm
+drains;
+
+* **Electrical:** rough wiring, panels and service installations;
+
+* **Fire:** Installations of indoor sprinkler systems, fire alarm systems, oil tank removal
+
+* **Final:** Installations of **all finished materials,** sealings of exterior joints; plumbing piping, trim and
+fixtures; electrical wiring, devices and fixtures; mechanical systems equipment;
+
 
 ### Arranging inspection visits:
 
