@@ -15,7 +15,7 @@ title: 'Committees'
 
 **Access for All Committee** - Council Liaison: Stephanie McGowan
 
-> Access for All Rutherford is comprised of 11 members: five members shall be persons with disabilities, or parents of a child with a disability or a resident family member who is the caregiver of a person with a disability; six members shall be either residents of, or employed in, the borough.  The committee is charged with providing opportunities for greater unity across the borough through identifying and addressing barriers within the borough's borders for residents with disabilities.
+> This committee, comprised of members who are either persons with disabilities, parents of a child with a disability, a resident family member who is the caregiver of a person with a disability, or Borough residents seeking opportunities to help those with disabilities, is charged with providing opportunities for greater unity across the borough through identifying and addressing barriers within the borough’s borders for residents with disabilities.
 
 ---
 
