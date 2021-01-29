@@ -4,7 +4,13 @@ title: 'Enrichment Classes'
 parent: 'Recreation'
 ---
 
+# Enrichment Classes
+
+[**Sign up for any class here**](https://register.communitypass.net/reg/index.cfm)
+
 **Fundamentals for 4 Year Olds**
+
+[See Flyer Here](https://storage.googleapis.com/static.rutherford-nj.com/recreation/winter-2020-21/FundamentalsFor4YearsOlds.pdf)
 
 Kids will be taught fundamentals and skills to get ready for Kindergarten. A great way to prepare or brush up on knowledge needed to succeed.
 
@@ -27,8 +33,6 @@ Tuesdays and Thursdays 9-11am
 
 
 Monthly enrollment
-
-Runs Nov 3rd - Nov 24th
 
 Tamblyn Field Civic Center, 30 Woodland Ave 
 
@@ -70,6 +74,8 @@ Cost: $150
 **S. T. E. M. Program for Preschoolers**
 
 
+[See Flyer Here](https://storage.googleapis.com/static.rutherford-nj.com/recreation/winter-2020-21/STEM.pdf)
+
 We ask, imagine, plan, create, test, improve, & communicate! 
 
 Children will be exploring the world of science & technology through hands on projects.
@@ -83,9 +89,6 @@ For Ages 4-5
 
 (10 child MAX, Masks must be worn)
 
-Wednesdays 11:30-12:30pm
-
-Runs November 4th - December 30th 
 
 Tamblyn Field Civic Center, 30 Woodland Ave
 
@@ -95,41 +98,14 @@ Rutherford residents only. Social distancing will be observed.
 
  
 
-Cost: $150
-
----
- 
-
-**Nature Outside Your Door!**
-
- 
-
-Let’s get to know the world outside our window!
-
-Children will learn to identify our local wildlife through stories, projects, and nature walks.
-
-Find out about local birds, squirrels, hibernation and migration, make bird feeders, and so much more.
-
- 
-Ages 4-5   (MAX 10 kids, MASKS REQUIRED)
-
-Thursdays, 11:30-12:30pm
-
-Runs November 5th - December 31st
-
-Tamblyn Field Civic Center, 30 Woodland Ave
-
-
-Rutherford Residents Only - Social Distancing Will Be Observed
-
- 
-Cost: $150
+Cost: $75
 
 ---
  
 
 **Arts & Crafts Program**
  
+[See Flyer Here](https://storage.googleapis.com/static.rutherford-nj.com/recreation/winter-2020-21/ArtsandCrafts.pdf)
 
 All creative kids wanted! Feeling crafty? Join Us!
 
@@ -145,14 +121,13 @@ Age:  4-5 years
 
 Mondays, 11:30 - 12:30
 
-Runs Nov 2nd - Dec 28th
 
 Tamblyn Field Civic Center, 30 Woodland Ave
 
 
 Rutherford Residents Only - Social distancing will be observed.
 
-Cost: $150
+Cost: $75
 
 ---
  
