@@ -29,8 +29,6 @@ Ages 4-6 welcome!
 
 *Child must be 4 by 10/01/2020 
 
-Tuesdays and Thursdays 9-11am
-
 
 Monthly enrollment
 
@@ -91,9 +89,6 @@ Age:  4-5 years
 
 (MAX 10 kids, Masks must be worn)
  
-
-Mondays, 11:30 - 12:30
-
 
 Tamblyn Field Civic Center, 30 Woodland Ave
 
