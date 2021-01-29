@@ -40,33 +40,6 @@ Rutherford Residents Only - Social Distancing will be Observed
 
 Cost $150
 
----
- 
-
-**Music, Songs, & Dance!**
-
-
-Come and get your groove on!
-
-Children will be engaging in a variety of movement activities using bean bags, scarves, hula-hoops, ect...
-
-We will be singing lots of familiar songs and playing individual, sterilized, Covid-safe musical instruments.
-
-
-For Ages 4 & 5
-
-(Max 10 kids, Masks must be worn)
-
-Tuesdays, 11:30 - 12:30pm
-
-Runs Nov 3rd - Dec 29th
- 
-Tamblyn Field Civic Center, 30 Woodland Ave
- 
-Rutherford Residents Only - Social Distancing will be observed
-
-
-Cost: $150
 
 ---
  
