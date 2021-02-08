@@ -7,7 +7,7 @@ parent: 'Recreation'
 
 Winter activities may look a little different this year, but the Rutherford Rec Department is still committed to creating fun and interesting experiences for our residents. 
 
-[**Yoga for Adults** - see flyer here](https://storage.googleapis.com/static.rutherford-nj.com/recreation/winter-2020-21/YOGA%20FLYER_January%2012th%202021.pdf)
+[**Yoga for Adults** - see flyer here](https://storage.googleapis.com/static.rutherford-nj.com/recreation/winter-2020-21/YOGA%20FLYER%202_16_2021.pdf)
 
 [**Rec Basketball Grades K-8** - see flyer here](https://storage.googleapis.com/static.rutherford-nj.com/recreation/winter-2020-21/WINTER%20Basketball%20Registration_2020_K-8th.pdf)
 
