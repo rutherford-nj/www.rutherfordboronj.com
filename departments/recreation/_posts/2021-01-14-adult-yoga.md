@@ -5,17 +5,17 @@ title: Yoga for Adults
 
 [Register here](https://register.communitypass.net/reg/index.cfm)
 
-[See flyer here](https://storage.googleapis.com/static.rutherford-nj.com/recreation/winter-2020-21/YOGA%20FLYER_January%2012th%202021.pdf)
+[See flyer here](https://storage.googleapis.com/static.rutherford-nj.com/recreation/winter-2020-21/YOGA%20FLYER%202_16_2021.pdf)
 
 **YOGA**
 
 SOCIAL DISTANCING OBSERVED
 
-When: January 14th - February 9th
+When: February 16th - March 11th
 
 Twice a week: Tuesdays & Thursdays
 
-Time: 2:00 pm-3:00 pm
+Time: 7:00 pm-8:00 pm
 
 Length: 8 classes
 
