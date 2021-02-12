@@ -7,6 +7,10 @@ title: 'Borough Codes & Ordinances'
 
 ## Recently Adopted Borough Codes and Ordinances:
 
+[Ordinance No. 3545-21 - Establishing a Handicap Space on Sylvan Ave](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3545-21%20Establish%20a%20handicap%20space%20-%20%20Sylvan%20Street.pdf)
+
+[Ordinance No. 3544-21 - Establishing a Handicap Space on Sidney Ave](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3544-21%20Establish%20a%20handicap%20space%20-%20Sidney%20Avenue.pdf)
+
 [Ordinance No. 3542-20 - Amendment to Chapter 5-8 re: Committees](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3542-20%20Amendment%20to%20Chapter%205-8%20re%20Committees.pdf)
 
 [Ordinance No. 3541-20 - Crosswalk Ordinance](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3541-20%20%20Crosswalk%20Ordinance.pdf)
