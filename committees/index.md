@@ -49,7 +49,7 @@ title: 'Committees'
 
 ---
 
-**Historic Preservation Committee** 
+**Historic Preservation Committee** - Council Liaison Ray Guzmán
 
 > [www.rutherfordhpc.org](http://rutherfordhpc.org/)
 
