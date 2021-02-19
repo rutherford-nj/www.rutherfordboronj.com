@@ -17,7 +17,7 @@ window._apiKey = 'AIzaSyBARaTe_n1zU7TpeepIsFCBj_L4lfstP7w';
 
 {% include_relative js/twitter.js %}
 
-{% include_relative js/covid-charts-last-updated.js %}
+{% include_relative js/covid-charts.js %}
 
 });
 
