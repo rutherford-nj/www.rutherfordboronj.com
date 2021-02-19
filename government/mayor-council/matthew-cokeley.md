@@ -32,6 +32,6 @@ Local Assistance Board
 
 Arts Committee
 
-Data and Science Analysis
+Data and Analytics
 </div>
 </div>
