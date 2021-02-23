@@ -7,6 +7,8 @@ title: 'Borough Codes & Ordinances'
 
 ## Recently Adopted Borough Codes and Ordinances:
 
+[Ordinance No. 3546-21 - Youth Art Banners](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3546-21%20Youth%20Art%20Banner.pdf)
+
 [Ordinance No. 3545-21 - Establishing a Handicap Space on Sylvan Ave](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3545-21%20Establish%20a%20handicap%20space%20-%20%20Sylvan%20Street.pdf)
 
 [Ordinance No. 3544-21 - Establishing a Handicap Space on Sidney Ave](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3544-21%20Establish%20a%20handicap%20space%20-%20Sidney%20Avenue.pdf)
