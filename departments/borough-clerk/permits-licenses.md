@@ -9,6 +9,9 @@ Please click on an item below to download the appropriate form and return to the
 [**Banner - Over Park Avenue**](https://storage.googleapis.com/static.rutherford-nj.com/borough-clerk/permits-licenses/Forms/BANNER.pdf)
 – Rutherford Community Organizations can apply to have a banner installed over Park Avenue at Donaldson Avenue for community events. Applications will be reviewed for timing availability. It is advised that the organization wait to receive approval before having the banner constructed. Application and banner specifications attached.
 
+[**Banner - Youth Arts**](https://storage.googleapis.com/static.rutherford-nj.com/borough-clerk/permits-licenses/banner-apps/Youth%20Art%20Banner%20Program%20Application.pdf)
+– Artwork deadline March 12. Families can sponsor their child’s banner, which will be installed by the Rutherford DPW on light poles, for $50 made payable to the Borough of Rutherford. Families will take posession of the banner once its removed. 
+
 **Block Party Requests** – Letter to be sent to the Mayor & Council requesting date at least three weeks prior to event.
 
 [**Business Permits: Temporary Outdoor**](/business-resources/businesses-resources/)
