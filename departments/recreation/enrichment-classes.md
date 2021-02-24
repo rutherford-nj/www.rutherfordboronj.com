@@ -100,11 +100,7 @@ Cost: $75
 ---
  
 
-*Meet Our Instructors:*
-
-Laura Ward:
-
-Ms. Laura graduated from SUNY, New Paltz with her degree in early childhood education and has been Rutherford Recreation's Preschool Director for the last 18 years. Laura also ran the town's Summer Kinder Camp program for many years. She is a local Rutherford resident and was also involved in Girl Scouting for many years. She has 2 adult children and 2 grandchildren.
+*Meet Our Instructor:*
 
 
 Julie Karol:
