@@ -19,4 +19,4 @@ Eileen Eastham, thanks fellow Green Team Co-chair, Julia Siegel, for her role in
 
 Sustainable Jersey provides tools, training and financial incentives to support communities as they pursue sustainability programs. Sustainable Jersey participants (municipalities and schools) have successfully implemented and documented over 18,500 sustainability actions. Over $5.9 million in grants has been provided by Sustainable Jersey to towns, school districts and schools for community-based projects that create healthy and sustainable communities in New Jersey.
 
-Website:	[www.SustainableJersey.com](www.SustainableJersey.com); [www.SustainableJerseySchools.com](www.SustainableJerseySchools.com)
+Website:	[www.SustainableJersey.com](https://www.sustainablejersey.com/); [www.SustainableJerseySchools.com](https://www.sustainablejerseyschools.com/)
