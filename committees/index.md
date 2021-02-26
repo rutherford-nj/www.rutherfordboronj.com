@@ -114,7 +114,7 @@ Municipal Alliances are local planning and coordinating bodies established in al
 
 ---
 
-**Stimga-Free Committee** - Council Liaison: Stephanie McGowan
+**Stigma-Free Committee** - Council Liaison: Stephanie McGowan
 
 > To help make people who live with mental illness feel less isolated.
 
