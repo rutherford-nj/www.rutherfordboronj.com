@@ -38,9 +38,7 @@ The application and interview process takes place annually in the fall for any R
 
 ---
 
-**Rent Board** - 
-
-> The Rent Board's primary function is to conduct hearings and mediation of tenant and landlord petitions regarding the adjustment of rents under the Borough's rent control laws. This board is being reestablished as its function is currently under the purview of the Mayor and Council.
+[**Rent Board**](rent-board/)
 
 ---
 
