@@ -106,6 +106,7 @@ The application and interview process takes place annually in the fall for any R
 
 > The Rutherford Municipal Alliance is comprised of parents, students, teachers, law enforcement, religious leaders, and other community stakeholders to focus on efforts to help the children of Rutherford understand the dangers of drug and alcohol abuse.
 Municipal Alliances are local planning and coordinating bodies established in all 21 counties to assess needs, set priorities, develop plans and implement programs that form the foundation of New Jersey’s substance abuse prevention activities. New Jersey’s Municipal Alliances provide over 3,800 prevention programs statewide
+
 ---
 
 **Recreation Advisory Committee** - Council Liaison Stephanie McGowan
