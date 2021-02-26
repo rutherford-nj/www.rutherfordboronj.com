@@ -76,7 +76,7 @@ The application and interview process takes place annually in the fall for any R
 
 ---
 
-**Data and Science Analysis Committee** - Council Liaison: Matt Cokeley
+**Data and Analytics Committee** - Council Liaison: Matt Cokeley
 
 > An exploratory committee to determine the feasibility of data collection and analysis that can help inform decisions made within the Borough and promote evidence-based governing. By analyzing large data sets, the committee could alert the governing body to trends and outliers potentially useful for grants and other programs
 
