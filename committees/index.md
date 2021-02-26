@@ -38,6 +38,12 @@ The application and interview process takes place annually in the fall for any R
 
 ---
 
+**Rent Board** - 
+
+> The Rent Board's primary function is to conduct hearings and mediation of tenant and landlord petitions regarding the adjustment of rents under the Borough's rent control laws. This board is being reestablished as its function is currently under the purview of the Mayor and Council.
+
+---
+
 [**Shade Tree Commission**](shade-tree-commission/)
 
 ---
@@ -107,12 +113,6 @@ Municipal Alliances are local planning and coordinating bodies established in al
 **Recreation Advisory Committee** - Council Liaison Stephanie McGowan
 
 > The Recreation Advisory Committee meets monthly to discuss issues pertaining to Recreation.  The committee meets with coaches and coordinators before the season to ensure proper preparation and after the season to reflect on what needs improvement and what we can build upon.
-
----
-
-**Rent Board** - 
-
-> The Rent Board's primary function is to conduct hearings and mediation of tenant and landlord petitions regarding the adjustment of rents under the Borough's rent control laws. This board is being reestablished as its function is currently under the purview of the Mayor and Council.
 
 ---
 
