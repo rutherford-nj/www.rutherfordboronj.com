@@ -7,11 +7,11 @@ title: 'Committees'
 
 The application and interview process takes place annually in the fall for any Rutherford resident interested in serving on a Board, Commission or Committee for the following year.  
 
-## Boards, Commissions and Committees
+# Boards and Commissions
 
 [Click here for the 2021 Board and Commission Meeting Schedule](https://storage.googleapis.com/static.rutherford-nj.com/committees/DOC680.pdf)
 
-*Boards and Commissions are strictly governed by by-laws and require minutes and agendas. Their regular meetings are open to the public. 
+*Boards and Commissions are strictly governed by by-laws and require minutes and agendas. Their regular meetings are open to the public.* 
 
 
 [**Board of Adjustment**](board-of-adjustment/) 
@@ -44,7 +44,7 @@ The application and interview process takes place annually in the fall for any R
 
 # Advisory Committees
 
-*Advisory committee meetings are not subject to the Open Public Meetings Act (OPMA) as no formal action takes place and therefore are not required to be open to the public.   
+*Advisory committee meetings are not subject to the Open Public Meetings Act (OPMA) as no formal action takes place and therefore are not required to be open to the public.*   
 
 ---
 
