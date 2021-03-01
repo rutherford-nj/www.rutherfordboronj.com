@@ -90,6 +90,8 @@ The application and interview process takes place annually in the fall for any R
 
 [**Green Team**](green-team/) - Council Liaison: Maria Begg-Roberson
 
+> The Rutherford Green Team’s primary mission is to lead and coordinate the sustainability activities of the community. Specifically, we advise the Borough Council and develop initiatives and projects that contribute to the long range sustainable development of the Borough of Rutherford and beyond.
+
 ---
 
 **Historic Preservation Committee** - Council Liaison: Ray Guzmán
