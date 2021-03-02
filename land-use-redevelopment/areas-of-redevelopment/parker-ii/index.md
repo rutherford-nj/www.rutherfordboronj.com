@@ -11,7 +11,7 @@ p, img { width: 100%; }
 
 # Parker Phase II
 
-![Map of Meadow Road](parker2map.jpg)
+![Map of Parker](parker2map.jpg)
 
 **Location:** Park Ave
 
