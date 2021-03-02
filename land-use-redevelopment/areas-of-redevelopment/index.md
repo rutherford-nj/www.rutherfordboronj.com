@@ -20,11 +20,10 @@ title: 'Areas of Redevelopment in Rutherford'
 
 - [Williams Center](williams-center/)
 
+- [Holman Properties](holman/)
+
 - [Meadow Road](meadow-road/)
 
-**Areas Under Review For Redevelopment**
-
-- [Holman Properties](holman/)
 
 
 [**Rutherford Redevelopment Information**](https://storage.googleapis.com/static.rutherford-nj.com/community-development/Rutherford_Redevelopment_Information.pdf)
