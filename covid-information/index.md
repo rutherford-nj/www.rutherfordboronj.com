@@ -27,7 +27,7 @@ Beginning Monday, January 25th, a vaccine call center to assist individuals to p
 
 [**Chart of progression of Rutherford COVID-19 cases**](charts/)
 
-[February Community Drive-Thru COVID-19 Testing Dates at Bergen Community College](https://storage.googleapis.com/static.rutherford-nj.com/covid/Winter%20Month%20of%20February.pdf)
+[March Community Drive-Thru COVID-19 Testing Dates at Bergen Community College](https://swift911v4.swiftreach.com/Public/Attachments/200986/files/Winter%20Month%20of%20March.pdf)
 
 [COVID-19 Vaccine Locations for Eligible Recipients](https://covid19.nj.gov/pages/covid-19-vaccine-locations-for-eligible-recipients)
 
