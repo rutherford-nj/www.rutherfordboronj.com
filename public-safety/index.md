@@ -25,6 +25,9 @@ The Rutherford First-Aid Ambulance Corps is a volunteer, non-profit organization
 
 ---
 
+![Fire Badge](Firebadge85px.jpg)
+{: style="float: left; margin: 0 20px 20px 0;"}
+
 [**Rutherford Volunteer Fire Department**](/departments/fire-department/)
 
 Protecting over 18,000 residents within an area of 2.4 square miles and consists of five fire companies and operate out of three firehouses strategically located throughout the Borough:  
