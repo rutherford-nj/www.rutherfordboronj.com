@@ -25,7 +25,7 @@ The Rutherford First-Aid Ambulance Corps is a volunteer, non-profit organization
 
 ---
 
-![Fire Badge](Firebadge85px.jpg)
+![Fire Badge](FireBadge85px.jpg)
 {: style="float: left; margin: 0 20px 20px 0;"}
 
 [**Rutherford Volunteer Fire Department**](/departments/fire-department/)
