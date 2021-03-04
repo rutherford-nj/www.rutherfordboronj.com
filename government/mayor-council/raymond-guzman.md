@@ -17,6 +17,9 @@ parent: 'Mayor and Council'
 rguzman@rutherfordboronj.com
 
 **Term of Office**  
+
+1/1/21 to 12/31/21
+
 1/13/20 to 12/31/20
 
 **Public Works Chair**
