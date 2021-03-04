@@ -17,6 +17,9 @@ parent: 'Mayor and Council'
 smcgowan@rutherfordboronj.com
 
 **Term of Office**  
+
+1/1/21 to 12/31/23
+
 1/1/18 to 12/31/20
 
 1/1/15 to 12/31/17 
