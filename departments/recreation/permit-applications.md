@@ -1,6 +1,6 @@
 ---
 layout: interior-page
-title: '2020 Permit Applications'
+title: '2021 Permit Applications'
 parent: 'Recreation'
 ---
 
