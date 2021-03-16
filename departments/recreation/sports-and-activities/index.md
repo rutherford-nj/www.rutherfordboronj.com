@@ -11,7 +11,7 @@ parent: 'Recreation'
 **The Recreation Department is proud to partner with the following organizations that offer programs for Rutherford Residents:** 
 
 
-Tennis Lessons - [Tennis Dynamics](https://storage.googleapis.com/static.rutherford-nj.com/recreation/RUTHERFORD%20Fall2020%20Sundays.pdf)
+Tennis Lessons - [Tennis Dynamics](https://storage.googleapis.com/static.rutherford-nj.com/recreation/spring-2021/RUTHERFORD%20Spring%202021%20Sundays%233.pdf)
 
 Rutherford Little League - [www.rutherford-ll.info](http://www.rutherford-ll.info/home.htm)
 
