@@ -8,7 +8,7 @@ parent: 'Recreation'
 
 **Register to have volunteers hide plastic eggs on and around your front lawn Saturday, April 3rd**
 
-[See Flyer Here]
+[See Flyer Here](https://storage.googleapis.com/static.rutherford-nj.com/recreation/spring-2021/2021_SecretBunny.pdf)
 
 [**Register your house via Community Pass**](https://register.communitypass.net/reg/index.cfm) by Wednesday, March 31st
 
