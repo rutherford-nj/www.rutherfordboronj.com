@@ -8,7 +8,7 @@ parent: 'Recreation'
 
 [See Flyer Here]
 
-Register your house via [Community Pass](https://register.communitypass.net/reg/index.cfm) by Wednesday, March 31st
+[**Register your house via Community Pass**](https://register.communitypass.net/reg/index.cfm) by Wednesday, March 31st
 
 ·  Registration is limited to families with children under the age of 8 years old
 
