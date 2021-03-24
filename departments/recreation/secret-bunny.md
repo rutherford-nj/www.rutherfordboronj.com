@@ -1,8 +1,10 @@
 ---
 layout: interior-page
-title: 'Secret Bunny Program'
+title: 'Secret Bunny Egg Drop'
 parent: 'Recreation'
 ---
+
+# Secret Bunny Egg Drop
 
 **Register to have volunteers hide plastic eggs on and around your front lawn Saturday, April 3rd**
 
@@ -10,9 +12,11 @@ parent: 'Recreation'
 
 [**Register your house via Community Pass**](https://register.communitypass.net/reg/index.cfm) by Wednesday, March 31st
 
-·  Registration is limited to families with children under the age of 8 years old
+·  Registration is limited to families with children under the age of 10 years old
 
-·  Registration begins on March 24- March 31st
+·  Limit 1 registration per household
+
+·  Registration runs from March 24- March 31st
 
 ·  Volunteer bunnies will hide eggs with candy on Saturday April 3, between 7:00-9:00am on and around your front lawn
 
