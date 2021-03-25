@@ -8,7 +8,7 @@ parent: 'Tax Collector'
 
 The Borough of Rutherford Tax Collector’s Office is pleased to announce **"E-Minder"** is back.
 
-If you are responsible for the payment of your property taxes and are interested in receiving a reminder approximately one week prior to each quarterly due date, please e-mail the Tax Collector's Office at either cmiller@rutherfordboronj.com or sfujii@rutherfordboronj.com. Please include your name, address, e-mail address and phone number. This is for the "e-minder" only. For other Borough notifications, please go to the main page of this web-site and sign up for the [**SWIFT911 Notification System.**](/notifications/)
+If you are responsible for the payment of your property taxes and are interested in receiving a reminder approximately one week prior to each quarterly due date, please e-mail the Tax Collector's Office at either cmiller@rutherfordboronj.com or bfinelli@rutherfordboronj.com. Please include your name, address, e-mail address and phone number. This is for the "e-minder" only. For other Borough notifications, please go to the main page of this web-site and sign up for the [**SWIFT911 Notification System.**](/notifications/)
 
 **The Tax Collector's Office does not have the authority to excuse interest. Failure to receive this "e-minder" will not preclude the accrual of interest if payment is received after the grace period.**
 
