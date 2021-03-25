@@ -6,7 +6,7 @@ title: 'Calendars'
 **Below calendars for Rutherford Mayor and Council meetings, Recreation and Events.
 Click on an event for more information. Event details are subject to change.** 
 
-The [Library](https://www.rutherfordlibrary.org/gce_feed/2393/) and
+The [Library](https://www.rutherfordlibrary.org/calendar/) and
 [Board of Education](https://www.rutherfordschools.org/districtcalendars/) administer their own calendars.
 Please contact them directly with any questions regarding information on those calendars. Thank you!
 
