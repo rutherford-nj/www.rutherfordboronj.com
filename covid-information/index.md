@@ -20,9 +20,12 @@ title: 'COVID-19 Information'
 
 A vaccine call center to assist individuals to pre-register for vaccine and make vaccine appointments, including those with no computer access, is available between 8am-8pm. **The call center number is: 855-568-0545**
 
+[Information from the Rutherford Health Department regarding the COVID vaccine](/departments/health/2021/01/19/vaccine-hotline/)
+
+Bergen County residents age 75 years and older now have the option to schedule vaccination appointments at the Bergen County vaccination site, located at the Alternate Care Facility Annex on the campus of Bergen New Bridge Medical Center. **To schedule a vaccination appointment, residents 75 and older can call 201-967-4070.** If no appointments are available, an agent will take the caller’s information and add them to a waitlist. [Learn more here](https://co.bergen.nj.us/public-information/press-releases/438-incoming-vaccination-help-line-set-to-open-for-bergen-county-vaccination-center1234)
+
 **To schedule a ride seniors can call the [Bergen County Division of Community Transportation](https://www.co.bergen.nj.us/community-transportation) at 201-368-5955.** Seniors interested in accessing the Ryde4Life program must have a working cell phone with them during the transportation service and must apply for the ride 24 hours in advance of their appointment. Some of the information needed to book a ride will include: first and last name; address; cell phone number; pick-up address; pick-up time; and destination address.
 
-[Information from the Rutherford Health Department regarding the COVID vaccine](/departments/health/2021/01/19/vaccine-hotline/)
 
 
 # COVID-19 Information for Rutherford
