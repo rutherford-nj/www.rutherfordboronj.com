@@ -10,20 +10,9 @@ parent: 'Recreation'
 
 [See Flyer Here](https://storage.googleapis.com/static.rutherford-nj.com/recreation/spring-2021/2021_SecretBunny.pdf)
 
-[**Register your house via Community Pass**](https://register.communitypass.net/reg/index.cfm) by Wednesday, March 31st
+We have reached capacity for household participants in the Secret Bunny Egg Drop.
 
-·  Registration is limited to families with children under the age of 10 years old
-
-·  Limit 1 registration per household
-
-·  Registration runs from March 24- March 31st
-
-·  Volunteer bunnies will hide eggs with candy on Saturday April 3, between 7:00-9:00am on and around your front lawn
-
-·  No peeking! If you see volunteer bunnies on your lawn let them hide the eggs
-
-·  Please send pictures to RecStaff@rutherfordboronj.com
-
+If you'd like to volunteer to be a Secret Bunny see below:
 
 [**Sign up to here Volunteer as a "Secret Bunny" on Saturday, April 3, 2021 from 7:00am-9:00am.**](https://docs.google.com/forms/d/e/1FAIpQLSdb45QkLJddQnUUzVAEu8uUJvQR8Ujemkr5Z5GbdBk6VgLfMA/viewform)  
 
