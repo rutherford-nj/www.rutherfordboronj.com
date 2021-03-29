@@ -66,7 +66,7 @@ Please click on an item below to download the appropriate form and return to the
 [**Social Affairs Permits**](https://storage.googleapis.com/static.rutherford-nj.com/borough-clerk/permits-licenses/Social_Affairs_Permit.pdf)
 – Issued to non-profit organizations. Must be applied for at least 21 days prior to the event date to be submitted online. NOTE - If you are applying for this permit less than 21 days prior to the event date, you must submit a paper application at least 14 days in advance.
 
-[Apply online to the State here](https://www.nj.gov/oag/abc/licensing-files.html)
+[Apply online to the State here](https://www.njoag.gov/about/divisions-and-offices/division-of-alcoholic-beverage-control-home/)
 
 [**Solicit for Charitable Purposes**](https://storage.googleapis.com/static.rutherford-nj.com/borough-clerk/permits-licenses/Forms/SOLICIT%20CHARITABLE.pdf)
 – Permit required for charitable organizations to fundraise in the Borough.  Application with required documentation must be provided with a $10 fee.
