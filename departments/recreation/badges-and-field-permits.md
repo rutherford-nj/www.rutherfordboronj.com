@@ -39,9 +39,13 @@ An ordinance to amend and supplement the code of the Borough of Rutherford, Chap
 {: .hover-table}
 
 **TENNIS BADGES**
-All Rutherford Residents interested in utilizing our Tennis Courts must purchase a Badge at the Recreation Department. Our facilities include Tamblyn Field (3 courts) and Memorial Park (6 courts).
+2020 badges will no longer be valid after April 10th, 2021. 
 
-### Tennis Badges [Click here for Badge Application](https://register.communitypass.net/reg/index.cfm)
+TENNIS BADGES All Rutherford Residents interested in utilizing our Tennis Courts must purchase a Badge. There are 6 courts at Memorial Park.
+
+Please order & pay for your badges through our Community Pass system. Once purchased the Rec Department will contact you for a pick up time. 
+
+### Tennis Badges [Click here for 2021 Badge Application](https://register.communitypass.net/reg/index.cfm)
 
 | Student ( ages 12 – 18 years) | NO FEE |
 | Senior citizen resident (age 62 & above) & Youth resident (12 years and under) | $5.00 |
