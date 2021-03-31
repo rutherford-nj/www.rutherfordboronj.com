@@ -7,6 +7,12 @@ title: 'COVID-19 Information-Archives'
 
 Below find each COVID-19 update made by the Rutherford Mayor and Council from March - present: 
 
+[**Friday, January 22, 2021: A video update from Councilwoman McGowan**](https://youtu.be/JU2_qjBD-sY)
+
+Addressed: COVID vaccine information and Health Department Hotline; 55 Kip Center helping seniors register for vaccine; Youth Arts Banner Program
+
+[Read Transcript Here](https://storage.googleapis.com/static.rutherford-nj.com/covid/January%2022%20Stephanie%20McGowan.pdf)
+
 **Friday, December 11, 2020**
 
 [Friday, December 11, 2020: A video update from Councilwoman Begg-Roberson - Addressed: Quarantine Protocol; Santa and Soccer Caravans; Support Local Businesses](https://youtu.be/jzNupKTX5wg)
