@@ -37,11 +37,11 @@ Bergen County residents age 75 years and older now have the option to schedule v
 [COVID-19 Vaccine Locations for Eligible Recipients](https://covid19.nj.gov/pages/covid-19-vaccine-locations-for-eligible-recipients)
 
 
-[**Friday, January 22, 2022: A video update from Councilwoman McGowan**](https://youtu.be/JU2_qjBD-sY)
+[**Wednesday, March 31, 2021: A video update from Councilman Mullahey**](https://youtu.be/JLfPF4SesDs)
 
-Addressed: COVID vaccine information and Health Department Hotline; 55 Kip Center helping seniors register for vaccine; Youth Arts Banner Program
+Addressed: COVID cases amongst school-aged Rutherford children
 
-[Read Transcript Here](https://storage.googleapis.com/static.rutherford-nj.com/covid/January%2022%20Stephanie%20McGowan.pdf)
+[Read Transcript Here](https://storage.googleapis.com/static.rutherford-nj.com/covid/March%2031%20Tom%20Mullahey.pdf)
 
 
 
