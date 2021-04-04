@@ -133,7 +133,8 @@ Municipal Alliances are local planning and coordinating bodies established in al
 
 **Volunteer Committee** - Council Liaison Mark Goldsack
 
-> Highlights of the committee’s work since its inception include: Sponsoring Club Fairs to encourage residents to become involved and make positive contributions to our Borough. Sponsoring the Summer Reading in Lincoln Park program, in partnership with the Rutherford Public Library and Rutherford Recreation staff. Initiating an Outstanding Citizen Award program. Hosting an educational forum for Rutherford residents featuring members of Courage to Connect NJ. In February 2016, the Community/Quality of Life Committee welcomed new members of the former Board of Aesthetic Review
+> The vision of the Rutherford Volunteer Committee is to provide every resident the opportunity to participate in and contribute to the betterment of Rutherford. How? 
+By making volunteer opportunities available & accessible in order to bring the community together. If you'd like to be a member of a volunteer team, [please fill out this form.](https://docs.google.com/forms/d/e/1FAIpQLSdrJvChRVE6Xvc1lSz6YxpUwQEJRv49HXx25O5yPdMm2oaTGA/viewform)
 
 ---
 
