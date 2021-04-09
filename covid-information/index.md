@@ -16,9 +16,6 @@ title: 'COVID-19 Information'
 [**Return to Homepage**](/)
 
 
-# Pre-Register for the COVID-19 Vaccine here: [covidvaccine.nj.gov](https://covidvaccine.nj.gov/)
-
-A vaccine call center to assist individuals to pre-register for vaccine and make vaccine appointments, including those with no computer access, is available between 8am-8pm. **The call center number is: 855-568-0545**
 
 [Information from the Rutherford Health Department regarding the COVID vaccine](/departments/health/2021/01/19/vaccine-hotline/)
 
@@ -26,7 +23,7 @@ Bergen County residents age 75 years and older now have the option to schedule v
 
 **To schedule a ride seniors can call the [Bergen County Division of Community Transportation](https://www.co.bergen.nj.us/community-transportation) at 201-368-5955.** Seniors interested in accessing the Ryde4Life program must have a working cell phone with them during the transportation service and must apply for the ride 24 hours in advance of their appointment. Some of the information needed to book a ride will include: first and last name; address; cell phone number; pick-up address; pick-up time; and destination address.
 
-
+[FEMA will begin accepting applications for Funeral Assistance on Monday, April 12, 2021. Learn more here](https://www.fema.gov/disasters/coronavirus/economic/funeral-assistance)
 
 # COVID-19 Information for Rutherford
 
