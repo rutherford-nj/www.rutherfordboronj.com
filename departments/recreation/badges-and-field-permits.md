@@ -47,10 +47,11 @@ Please order & pay for your badges through our Community Pass system. Once purch
 
 ### Tennis Badges [Click here for 2021 Badge Application](https://register.communitypass.net/reg/index.cfm)
 
-| Student ( ages 12 – 18 years) | NO FEE |
-| Senior citizen resident (age 62 & above) & Youth resident (12 years and under) | $5.00 |
+| Youth resident ( ages 12 – 18 years) | NO FEE |
+| Senior citizen resident (age 62 & above)| NO FEE |
+| Student (12 - 18 years) | $5.00 |
 | Adult resident | $20.00 |
-| Non-resident accompanied by resident | $30.00 |
+| Guest: Non-resident accompanied by resident | $30.00 |
 {: .hover-table}
 
 
