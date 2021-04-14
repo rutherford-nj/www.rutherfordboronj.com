@@ -27,9 +27,9 @@ On 3/8/21 the Council passed, on first reading, Ordinance 3549-21 which authoriz
 
 **Below find documents detailing the history of Highland Cross:**
 
-[Highland Cross Financial Agreement](https://storage.googleapis.com/static.rutherford-nj.com/community-development/highland-cross/Rutherford%20-%20Highland%20Cross%20-%20Financial%20Agreement.docx.pdf)
+[Highland Cross Financial Agreement](https://storage.googleapis.com/static.rutherford-nj.com/community-development/highland-cross/Highland%20Cross%20Financial%20Agreement.pdf)
 
-[Mayor and Council Ordinance to Approve Financial Agreement](https://storage.googleapis.com/static.rutherford-nj.com/community-development/highland-cross/Rutherford%20-%20Highland%20Cross%20-%20Ordinance%20to%20approve%20Financial%20Agreement.docx.pdf)
+[Mayor and Council Ordinance 3549-21 Financial Agreement](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3549-21%20Highland%20Cross%20-%20%20Financial%20Agreement.pdf)
 
 [NJSEA Redevelopment Plan](https://storage.googleapis.com/static.rutherford-nj.com/community-development/highland-cross/HC-redevelopment-jan-06-2020.pdf)
 
