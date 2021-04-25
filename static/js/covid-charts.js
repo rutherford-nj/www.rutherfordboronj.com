@@ -1,20 +1,13 @@
-(function ($) {
+(function () {
+  const dtURL = 'https://rutherford-nj.github.io/data-committee.covid-data/cases_Rutherford_14d_SMA.html';
+  const updatedURL = 'https://rutherford-nj.github.io/data-committee.covid-data/last_updated';
 
-  $.each($('.covid-charts-last-updated'), function (i, elt) {
-    elt = $(elt);
-    $.get("https://rutherford-nj.github.io/data-committee.covid-data/last_updated")
-      .done(function (data) {
-        data = $.trim(data);
-        elt.text(`The charts were last updated on ${data}.`);
-      });
+  window._getCORS(updatedURL, (resp) => {
+    var text = resp.currentTarget.responseText.trim();
+    document.querySelector('#covid-charts-last-updated').textContent = `The charts were last updated on ${text}.`
   });
 
-  $.each($('#rutherford-covid-data-table'), function (i, elt) {
-    elt = $(elt)
-    $.get("https://rutherford-nj.github.io/data-committee.covid-data/cases_Rutherford_14d_SMA.html")
-      .done(function (data) {
-        elt.append($(data));
-      });
-  });
-
-})(jQuery);
+  window._getCORS(dtURL, (resp) => {
+    document.querySelector('#rutherford-covid-data-table').innerHTML += resp.currentTarget.response;
+  })
+})();
