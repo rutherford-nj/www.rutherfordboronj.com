@@ -4,6 +4,14 @@
 jQuery(function() {
 
 window._apiKey = 'AIzaSyBARaTe_n1zU7TpeepIsFCBj_L4lfstP7w';
+window._getCORS = function getCORS(url, success) {
+  var xhr = new XMLHttpRequest();
+  if (!('withCredentials' in xhr)) xhr = new XDomainRequest(); // fix IE8/9
+  xhr.open('GET', url);
+  xhr.onload = success;
+  xhr.send();
+  return xhr;
+};
 
 {% include_relative js/homepage-tabs.js %}
 
