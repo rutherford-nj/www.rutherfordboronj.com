@@ -5,7 +5,7 @@ title: 'Mayor and Council Newsletters'
 
 # Archive of Mayor and Council Newsletters
 
-- [April 20, 2021: A Special Statement Regarding Mayor Nunziato's Health](]https://storage.googleapis.com/static.rutherford-nj.com/statements/Mayor_Nunziato_Statement.pdf)
+- [April 20, 2021: A Special Statement Regarding Mayor Nunziato's Health](https://storage.googleapis.com/static.rutherford-nj.com/statements/Mayor_Nunziato_Statement.pdf)
 
 - [April 16, 2021](https://storage.googleapis.com/static.rutherford-nj.com/newsletters/Rutherford_Nwsltr_4-16-21.pdf)
 
