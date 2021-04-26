@@ -1,16 +1,14 @@
-(function ($) {
+(function () {
   let openTab = function (e) {
-    // Get all elements with class="tabcontent" and hide them
-    $(".homepage-tabs .tabcontent").hide();
+    document.querySelectorAll('.homepage-tabs .tabcontent').forEach((elt) => {
+      elt.style.display = 'none';
+    });
 
-    // Get all elements with class="tablinks" and remove the class "active"
-    $(".homepage-tabs .tablinks").removeClass("active");
-
-    let selectedTab = $(e.currentTarget).text();
-    $(e.currentTarget).addClass("active");
-    $(".homepage-tabs .tab-"+selectedTab).show()
+    let selectedTab = e.currentTarget.innerText;
+    document.querySelector('.homepage-tabs .tab-' + selectedTab).style.display = 'block';
   };
 
-  $(".homepage-tabs .tablinks").click(openTab);
-})(jQuery);
-
+  document.querySelectorAll('.homepage-tabs .tablinks').forEach((elt) => {
+    elt.addEventListener('click', openTab);
+  });
+})();
