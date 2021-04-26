@@ -1,5 +1,5 @@
 (function () {
-  let toc = document.querySelector('#community-outreach-toc')
+  let toc = document.querySelector('#community-outreach-toc');
 
   if (!toc) {
     return;
@@ -13,5 +13,5 @@
     }
   })
 
-  toc.innerHTML = tocHTML;
+  toc.innerHTML = `${tocHTML}</ol>`;
 })();

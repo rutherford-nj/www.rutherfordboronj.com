@@ -5,7 +5,7 @@
     });
 
     let selectedTab = e.currentTarget.innerText;
-    document.querySelector('.homepage-tabs .tab-' + selectedTab).style.display = 'block';
+    document.querySelector(`.homepage-tabs .tab-${selectedTab}`).style.display = 'block';
   };
 
   document.querySelectorAll('.homepage-tabs .tablinks').forEach((elt) => {
