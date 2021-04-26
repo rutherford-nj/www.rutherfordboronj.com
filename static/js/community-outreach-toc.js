@@ -1,23 +1,17 @@
-(function ($) {
+(function () {
+  let toc = document.querySelector('#community-outreach-toc')
 
-  if (!$('#community-outreach-toc').length) {
+  if (!toc) {
     return;
   }
 
-  var tocHtml = '<ol>';
+  let tocHTML = '<ol>';
 
-  $('.interior-page-content > h2').each(function () {
-    var elt = $(this);
-    if (!elt.attr('id')) {
-      return;
+  document.querySelectorAll('.interior-page-content > h2').forEach((elt) => {
+    if (elt.id) {
+      tocHTML += `<li><a href="#${elt.id}">${elt.textContent}</a></li>`;
     }
-    if (elt.is('h2')) {
-      tocHtml += '<li><a href="#' + elt.attr('id') + '">' + elt.text() + '</a></li>';
-    }
-  });
+  })
 
-  tocHtml += "</ol>";
-
-  $(tocHtml).appendTo($('#community-outreach-toc'));
-
-})(jQuery);
+  toc.innerHTML = tocHTML;
+})();
