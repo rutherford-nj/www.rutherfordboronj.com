@@ -1,4 +1,4 @@
-(function () {
+export function buildCommunityOutreachTOC() {
   let toc = document.querySelector('#community-outreach-toc');
 
   if (!toc) {
@@ -14,4 +14,4 @@
   })
 
   toc.innerHTML = `${tocHTML}</ol>`;
-})();
+}
