@@ -28,6 +28,6 @@ NOTE: Completed permit application, including any and all necessary seals may be
 
 [**10. Permit Application Requirements**](https://storage.googleapis.com/static.rutherford-nj.com/building/Building%20Dept%20Forms/10-Permit%20Requirements.pdf)
 
-[**11. Outdoor Cafe License Application and Ordinance**](https://storage.googleapis.com/static.rutherford-nj.com/building/Building%20Dept%20Forms/11-Outdoor%20cafe%20license%20application%20with%20ordinance.pdf)
+[**11. Outdoor Cafe License Application and Ordinance**](https://storage.googleapis.com/static.rutherford-nj.com/borough-clerk/permits-licenses/Outdoor_Cafe_and_Parklet_License_App.pdf)
 
 [**12. Temporary Outdoor Food and Retail License Application and Information**](/business-resources/businesses-resources/)
