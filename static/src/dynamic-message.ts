@@ -22,7 +22,11 @@ export function fetchDynamicMessage() {
   };
 
   let processResponse = function (response: any) {
-    handleCells(response['values'][0][0], response['values'][0][1], response['values'][0][2], response['values'][0][3]);
+    handleCells(
+      response['values'][0][0],
+      response['values'][0][1],
+      response['values'][0][2],
+      response['values'][0][3]);
   };
 
   let success = function (response: any) {
