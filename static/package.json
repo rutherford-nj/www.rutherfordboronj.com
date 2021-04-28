@@ -1,9 +1,7 @@
 {
   "dependencies": {
-    "http-request": "^0.7.0",
     "lunr": "^2.3.9",
     "luxon": "^1.26.0",
-    "modernizr": "^3.11.7",
     "whatwg-fetch": "^3.6.2"
   },
   "devDependencies": {

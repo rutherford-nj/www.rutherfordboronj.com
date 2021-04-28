@@ -1,7 +1,7 @@
 ---
 ---
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" class="no-js">
 
 <head>
   <title>{% if page.title and page.title != '07070' %}{{page.title | escape}} | {% endif %}The Borough of Rutherford,
@@ -127,7 +127,5 @@
     </div>
   </div>
   {% if page.jquery_already_available != true %}<script src="/third_party/jquery/jquery.min.js?zx={{ "now" | date: "%s" }}"></script>{% endif %}
-  <script src="/third_party/modernizr/modernizr.js?zx={{ "now" | date: "%s" }}"></script>
-  <script src="/static/site.js?zx={{ "now" | date: "%s" }}"></script>
   <script src="/static/dist/bundle.js?zx={{ "now" | date: "%s" }}"></script>
 </body>
