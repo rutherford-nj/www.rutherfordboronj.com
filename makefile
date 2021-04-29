@@ -7,7 +7,7 @@ compile-typescript:
 	docker run --rm \
 		-v $(SITE_WORKSPACE):/srv/jekyll \
 		-w /srv/jekyll/static \
-		jekyll/builder:latest /bin/bash -c "npx webpack"
+		jekyll/builder:latest /bin/bash -c "npm install && npx webpack"
 
 
 build-requirements: compile-typescript
