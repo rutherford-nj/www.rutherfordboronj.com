@@ -1,8 +1,5 @@
 .DS_Store
 .jekyll-cache
-node_modules
 _site
 static/dist
-static/js/lscache.min.js
-static/js/modernizr.js
-third_party
+static/node_modules
