@@ -16,7 +16,7 @@ jobs:
       id: cache-node-modules
       uses: actions/cache@v1
       with:
-        path: node_modules
+        path: static/node_modules
         key: ${{ runner.os }}-cache-node-${{ hashFiles('**/package-lock.json') }}
 
     - name: Build the site and deploy
