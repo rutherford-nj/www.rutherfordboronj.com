@@ -12,12 +12,12 @@ jobs:
       with:
         fetch-depth: 1
 
-    - name: Cache node_modules
-      id: cache-node-modules
-      uses: actions/cache@v1
-      with:
-        path: static/node_modules
-        key: ${{ runner.os }}-cache-node-${{ hashFiles('**/package-lock.json') }}
+    #- name: Cache node_modules
+      # id: cache-node-modules
+      # uses: actions/cache@v1
+      # with:
+      #   path: static/node_modules
+      #   key: ${{ runner.os }}-cache-node-${{ hashFiles('**/package-lock.json') }}
 
     - name: Build the site and deploy
       env:
