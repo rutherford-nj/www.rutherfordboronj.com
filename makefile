@@ -5,8 +5,8 @@ export SITE_WORKSPACE
 
 compile-typescript:
 	docker run --rm \
-				-v $(SITE_WORKSPACE):/srv/jekyll \
-				jekyll/builder:latest /bin/bash -c "cd static && npx webpack"
+		-v $(SITE_WORKSPACE):/srv/jekyll \
+		jekyll/builder:latest /bin/bash -c "cd static && npx webpack"
 
 
 build-requirements: compile-typescript
@@ -18,15 +18,15 @@ local-ci: build-requirements
 
 
 dev: build-requirements
-	docker run -it --rm -p 0.0.0.0:38080:8080 \
-        -v $(SITE_WORKSPACE):/srv/jekyll \
-        jekyll/builder:latest jekyll serve --watch -P 8080 -p /dev/null
+	docker run -it --rm -p 0.0.0.0:38081:8080 \
+    -v $(SITE_WORKSPACE):/srv/jekyll \
+    jekyll/builder:latest jekyll serve --watch -P 8080 -p /dev/null
 
 
 prod: build-requirements
 	docker run \
-        -v $(SITE_WORKSPACE):/srv/jekyll \
-        jekyll/builder:latest jekyll build
+    -v $(SITE_WORKSPACE):/srv/jekyll \
+    jekyll/builder:latest jekyll build
 
 
 deploy: prod
