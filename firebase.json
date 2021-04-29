@@ -40,7 +40,7 @@
         "source": "/photo-gallery/",
         "destination": "https://www.facebook.com/BoroughofRutherfordNJ/photos/",
         "type": 301
-      }
+      },
       {
         "source": "/contacts/",
         "destination": "/departments/",
