@@ -4,7 +4,7 @@
     "ignore": [
       "firebase.json",
       "static/css/**",
-      "static/js/**"
+      "static/src/**"
     ],
     "headers": [
       {
@@ -36,6 +36,11 @@
       }
     ],
     "redirects": [
+      {
+        "source": "/photo-gallery/",
+        "destination": "https://www.facebook.com/BoroughofRutherfordNJ/photos/",
+        "type": 301
+      },
       {
         "source": "/contacts/",
         "destination": "/departments/",
