@@ -1,27 +1,28 @@
 ---
 ---
+
 $breakpoint: 600px;
 $header-bg-color: #0F3B66;
 $main-bg-color: #040000;
 $main-dark-blue: #036;
 $main-gray: #767676;
 
-{% include_relative css/core.scss %}
-{% include_relative css/calendars.scss %}
-{% include_relative css/header.scss %}
-{% include_relative css/homepage.scss %}
-{% include_relative css/page.scss %}
-{% include_relative css/interior-page.scss %}
-{% include_relative css/recreation.scss %}
-{% include_relative css/hover-table.scss %}
-{% include_relative css/blog.scss %}
-{% include_relative css/departments.scss %}
-{% include_relative css/social-media.scss %}
-{% include_relative css/notifications.scss %}
-{% include_relative css/minutes-and-agendas.scss %}
-{% include_relative css/gcs-file-list.scss %}
-{% include_relative css/mayor-and-council.scss %}
-{% include_relative css/menu-toggle.scss %}
-{% include_relative css/census.scss %}
-{% include_relative css/building-permits.scss %}
-{% include_relative css/covid-charts.scss %}
+@import "core.scss";
+@import "calendars.scss";
+@import "header.scss";
+@import "homepage.scss";
+@import "page.scss";
+@import "interior-page.scss";
+@import "recreation.scss";
+@import "hover-table.scss";
+@import "blog.scss";
+@import "departments.scss";
+@import "social-media.scss";
+@import "notifications.scss";
+@import "minutes-and-agendas.scss";
+@import "gcs-file-list.scss";
+@import "mayor-and-council.scss";
+@import "menu-toggle.scss";
+@import "census.scss";
+@import "building-permits.scss";
+@import "covid-charts.scss";
