@@ -5,6 +5,8 @@ title: 2021 Summer Camp
 
 [See Flyer Here](https://storage.googleapis.com/static.rutherford-nj.com/recreation/2021%20summer%20camp%20flyer_.pdf)
 
+[YMCA Afternoon Summer Camp Flyer](https://storage.googleapis.com/static.rutherford-nj.com/recreation/MEADOWLANDS%20DAY%20CAMP%20FORM%202021.pdf)
+
 PROGRAM REGISTRATION
 
 MAY 24 – JUNE 7, 2021*
