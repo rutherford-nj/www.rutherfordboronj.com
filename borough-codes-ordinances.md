@@ -7,6 +7,8 @@ title: 'Borough Codes & Ordinances'
 
 ## Recently Adopted Borough Codes and Ordinances:
 
+[Ordinance No. 3553-21 - Outdoor Cafes](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3553-21%20Outdoor%20Cafes.pdf)
+
 [Ordinance No. 3549-21 - Highland Cross Financial Agreement](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3549-21%20Highland%20Cross%20-%20%20Financial%20Agreement.pdf)
 
 [Ordinance No. 3548-21 - Vacating Portion of Borough Street](https://storage.googleapis.com/static.rutherford-nj.com/codes-ordinances/3548-21%20Vacating%20a%20portion%20of%20Borough%20Street.pdf)
