@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: 2021 Rec Camp Staff Iquiry for Summer Employment
+title: 2021 Rec Camp Staff Inquiry for Summer Employment
 ---
 
 If you are interested in being considered for a Summer Day Camp Staff position please complete the form below. 
