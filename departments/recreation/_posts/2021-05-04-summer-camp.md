@@ -7,7 +7,7 @@ title: 2021 Summer Camps
 
 [YMCA Afternoon Summer Camp Flyer](https://storage.googleapis.com/static.rutherford-nj.com/recreation/posts/Rutherford_Rec_Form.pdf)
 
-[YMCA Afternoon Summer Camp Registration](https://www.meadowlandsymca.org/forms/neighbors-serving-neighbors/)
+[YMCA Afternoon Summer Camp Registration](https://www.meadowlandsymca.org/camps/rutherford-recreation-camp/)
 
 [US Sports Institute Summer Programs](https://storage.googleapis.com/static.rutherford-nj.com/recreation/posts/Rutherford%202021%20Summer%20Flyer.pdf)
 
