@@ -5,41 +5,28 @@ parent: 'Borough Clerk'
 ---
 
 
-[**Unofficial Results for the 2020 General Election**](https://www.bergencountyclerk.org/)
+**PRIMARY ELECTION**
 
----
+**Tuesday, June 8, 2021**
 
-**In light of the coronavirus pandemic and Executive Order No. 177, ALL REGISTERED VOTERS WILL AUTOMATICALLY RECEIVE A VOTE-BY-MAIL BALLOT for the November 3, 2020 General Election.** 
+Polls Open
 
-You may return your postage paid ballot via USPS or bring to the **secured Mail Drop Box located in front of Borough Hall at 176 Park Avenue** or one of 18 secured Vote by Mail Drop Boxes located throughout the County. You may contact the Board of Elections at 201-336-6230 or the Board of Elections website to locate a Drop Box near you.
+6:00 a.m. - 8:00 p.m.
 
-If you have a disability and need an accessible ballot, please contact (201) 336-7020 or you may go to your assigned polling place, which will provide access to an in-person accessible voting device on General Election Day. Should you choose not to vote on a Mail-In Ballot and show up to one of the limited number of Polling Places on Election Day, in you town only Provisional Paper Ballots will be available to cast your vote. 
+**The deadline to register to vote for the June 8th, 2021 Primary Election is Tuesday, May 18, 2021.**
 
-The ADA compliant Voting Machine is only for voters who have a disability. Voters may also return their Vote by Mail in person to their consolidated polling place in their municipality. Voters will receive a post card notice prior to the election from the Bergen County Clerk which will indicate their consolidated polling place Superintendent DiCostanzo would like voters, already registered in Bergen County, to be aware of the procedures regarding late address changes within county. If a voter has moved from one election district to another in the SAME town or has moved to another town in Bergen before November 3, 2020, please notify this office as soon as possible so that a Mail-In Ballot can be sent to you at your current address. If you have any questions, please call 201-336-6110 for assistance.
+The Borough Clerk’s office will be opened from 8:30 a.m. to 9:00 p.m. on May 18th for those wishing to register.  An appointment with the Borough Clerk is not necessary. Visitors should use the call box at the Donaldson Ave side door of Borough Hall. 
 
-The Bergen County Superintendent of Elections’ office is responsible for Voter Registration and all associated concerns, Issuing Voter Acknowledgement Cards, Maintaining Custody of Voting Machines and Poll Books, as well as other duties relating to the enforcement of elections laws as per NJSA Title 19. On Tuesday, November 3rd, voters will cast ballots for President of the United States, US Senate, Congress, Freeholders, and local candidates. It is up to each and every American Citizen to exercise their right to vote. Superintendent DiCostanzo and Deputy Theresa M. O’Connor are available to answer any question that you might have @ 201-336-6109.
+Any resident, 18 years old or older, may register to vote in the Borough Clerk's Office in Borough Hall at 176 Park Avenue during regular office hours of 8:30 a.m. to 4:30 p.m. Monday through Friday. You may also call and request a form be mailed to you or go to the County Website: www.bergencountyclerk.org.
+
+All residents are reminded of the following to ensure their voting privilege: You must re-register if you have not voted in any election for four consecutive years, have changed your address or changed your name
+
+
 
 Please call us at 201-460-3001, if you have any questions.
 
 Margaret Scanlon, Borough Clerk
 
----
-
-# ADA Compliant Polling Places in Rutherford on November 3:
-
-Districts 1, 9, 10, 11: Lincoln School 414 Montross Ave
-
-Districts 2, 6, 7, 8: High School 56 Elliott Place
-
-Districts 3, 4, 5, 12: Washington School 89 Wood Street
-
----
-
-
-**The deadline to register to vote for this General Election is Tuesday, October 13, 2020.** 
-
-In order to be eligible to vote, a person must be an American Citizen, 18 years old on or before November 3, 2020, and be a resident of New Jersey and Bergen County.
-Bergen County residents may register to vote at the Office of the Superintendent of Elections, located at One Bergen County Plaza, Room 380, in Hackensack. In order to meet the needs of residents, their office will be open from 9:00AM to 9:00 PM on Tuesday, October 13, 2020. Residents may also register locally by contacting the municipal clerk’s office 201-460-3001.
 
 
 ---------
