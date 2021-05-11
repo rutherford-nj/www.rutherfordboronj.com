@@ -16,5 +16,5 @@ export function fetchCovidCharts() {
 
   window.fetch(dtURL)
     .then(resp => resp.text())
-    .then(text => dataTable.innerHTML = text);
+    .then(text => dataTable.innerHTML += text);
 }
