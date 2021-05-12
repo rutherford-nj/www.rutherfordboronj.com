@@ -19,7 +19,36 @@ The Borough Clerk’s office will be opened from 8:30 a.m. to 9:00 p.m. on May 1
 
 Any resident, 18 years old or older, may register to vote in the Borough Clerk's Office in Borough Hall at 176 Park Avenue during regular office hours of 8:30 a.m. to 4:30 p.m. Monday through Friday. You may also call and request a form be mailed to you or go to the County Website: www.bergencountyclerk.org.
 
-All residents are reminded of the following to ensure their voting privilege: You must re-register if you have not voted in any election for four consecutive years, have changed your address or changed your name
+All residents are reminded of the following to ensure their voting privilege: You must re-register if you have not voted in any election for four consecutive years, have changed your address or changed your name.
+
+**POLLING PLACE LOCATIONS**
+
+*Please note that due to the construction at Union School, Districts 11 and 12 are being temporarily relocated to the Congregational Church at 251 Union Avenue.
+
+
+1st District     	Lincoln School	            	414 Montross Avenue
+		
+2nd District    	High School	                  56 Elliott Place
+
+3rd District    	Congregational Church        	251 Union Avenue
+
+4th District    	Congregational Church         251 Union Avenue
+
+5th District    	Washington School	    	    	89 Wood Street
+
+6th District    	High School		    	        	56 Elliott Place
+
+7th District    	Sylvan School      	          109 Sylvan Street
+
+8th District   		Sylvan School	              	109 Sylvan Street
+
+9th District   		Pierrepont School	         		70 E. Pierrepont Avenue
+
+10th District  		Pierrepont School          		70 E. Pierrepont Avenue
+
+11th District 		Congregational Church        	251 Union Avenue
+	
+12th District 		Congregational Church        	251 Union Avenu
 
 
 
