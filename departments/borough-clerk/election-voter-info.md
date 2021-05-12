@@ -17,7 +17,7 @@ Polls Open
 
 The Borough Clerk’s office will be opened from 8:30 a.m. to 9:00 p.m. on May 18th for those wishing to register.  An appointment with the Borough Clerk is not necessary. Visitors should use the call box at the Donaldson Ave side door of Borough Hall. 
 
-Any resident, 18 years old or older, may register to vote in the Borough Clerk's Office in Borough Hall at 176 Park Avenue during regular office hours of 8:30 a.m. to 4:30 p.m. Monday through Friday. You may also call and request a form be mailed to you or go to the County Website: www.bergencountyclerk.org.
+Any resident, 18 years old or older, may register to vote in the Borough Clerk's Office in Borough Hall at 176 Park Avenue during regular office hours of 8:30 a.m. to 4:30 p.m. Monday through Friday. You may also call and request a form be mailed to you or go to the County Website: [www.bergencountyclerk.org](https://www.bergencountyclerk.org/).
 
 All residents are reminded of the following to ensure their voting privilege: You must re-register if you have not voted in any election for four consecutive years, have changed your address or changed your name.
 
