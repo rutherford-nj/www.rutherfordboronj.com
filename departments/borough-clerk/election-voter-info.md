@@ -26,29 +26,29 @@ All residents are reminded of the following to ensure their voting privilege: Yo
 *Please note that due to the construction at Union School, Districts 11 and 12 are being temporarily relocated to the Congregational Church at 251 Union Avenue.
 
 
-1st District     	Lincoln School	            	414 Montross Avenue
+1st District	Lincoln School	414 Montross Avenue
 		
-2nd District    	High School	                  56 Elliott Place
+2nd District	High School	56 Elliott Place
 
-3rd District    	Congregational Church        	251 Union Avenue
+3rd District 	Congregational Church	251 Union Avenue
 
-4th District    	Congregational Church         251 Union Avenue
+4th District	Congregational Church 	251 Union Avenue
 
-5th District    	Washington School	    	    	89 Wood Street
+5th District	Washington School	89 Wood Street
 
-6th District    	High School		    	        	56 Elliott Place
+6th District	High School	56 Elliott Place
 
-7th District    	Sylvan School      	          109 Sylvan Street
+7th District	Sylvan School	109 Sylvan Street
 
-8th District   		Sylvan School	              	109 Sylvan Street
+8th District	Sylvan School	109 Sylvan Street
 
-9th District   		Pierrepont School	         		70 E. Pierrepont Avenue
+9th District	Pierrepont School	70 E. Pierrepont Avenue
 
-10th District  		Pierrepont School          		70 E. Pierrepont Avenue
+10th District	Pierrepont School	70 E. Pierrepont Avenue
 
-11th District 		Congregational Church        	251 Union Avenue
+11th District	Congregational Church	251 Union Avenue
 	
-12th District 		Congregational Church        	251 Union Avenu
+12th District	Congregational Church	251 Union Avenu
 
 
 
