@@ -87,7 +87,7 @@ Bergen County Mental Health – General Questions
 1.201.262.HELP (1.201.262.4357)
 
 
-### [Rutherford Community Pantry](../community-pantry/)
+### [Rutherford Community Pantry](https://www.rutherfordcommunitypantry.org/)
 
 1.201.460.3000 ext. 3168
 
