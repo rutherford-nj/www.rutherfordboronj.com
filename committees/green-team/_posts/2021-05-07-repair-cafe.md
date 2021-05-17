@@ -1,9 +1,11 @@
 ---
 layout: blog
-title: 2021 Green Team Repair Cafe 5/22
+title: 2021 Green Team Repair Café 5/22
 ---
 
-[Green Team Repair Cafe Flyer](https://storage.googleapis.com/static.rutherford-nj.com/committees/green-team/posts/repair%20cafe%20flier%206.0.docx.pdf)
+[Green Team Repair Café Flyer](https://storage.googleapis.com/static.rutherford-nj.com/committees/green-team/posts/repair%20cafe%20flier%206.0.docx.pdf)
+
+[Sign up for a Repair Café Appointment Here!](https://docs.google.com/forms/d/e/1FAIpQLSfnYd2jH8e4MKZwkhhgIUgnwB8bSQP1XpQ6VjlPCX34xA69yA/viewform)
 
 **Saturday, May 22, 12-4 pm**
 
