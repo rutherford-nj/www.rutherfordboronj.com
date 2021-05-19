@@ -23,6 +23,8 @@ Bergen County residents age 75 years and older now have the option to schedule v
 
 **To schedule a ride seniors can call the [Bergen County Division of Community Transportation](https://www.co.bergen.nj.us/community-transportation) at 201-368-5955.** Seniors interested in accessing the Ryde4Life program must have a working cell phone with them during the transportation service and must apply for the ride 24 hours in advance of their appointment. Some of the information needed to book a ride will include: first and last name; address; cell phone number; pick-up address; pick-up time; and destination address.
 
+[Rutgers UBHC and the State of New Jersey have partnered to assist clients with getting connected with a mental health clinician and/or substance abuse clinician to assist with their short term needs.](https://storage.googleapis.com/static.rutherford-nj.com/covid/Covid%20Counseling%202.docx.pdf) 
+
 [FEMA will begin accepting applications for Funeral Assistance on Monday, April 12, 2021. Learn more here](https://www.fema.gov/disasters/coronavirus/economic/funeral-assistance)
 
 # COVID-19 Information for Rutherford
