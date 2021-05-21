@@ -17,8 +17,8 @@ export function fetchDynamicMessage() {
     }
     let field = document.getElementById('dynamic-field');
     field.textContent = b1;
-    field.classList.remove('dynamic-message-hidden');
-    field.classList.add(`dynamic-message-${a1}`);
+    field.classList.remove('d-none');
+    field.classList.add(`alert-${a1}`);
   };
 
   let processResponse = function (response: any) {

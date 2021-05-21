@@ -15,6 +15,7 @@ Payment can pay made online via Community Pass or in person or mailed to the Rec
 
 ## Fall
 
+<div class="table-responsive" markdown=1>
 | Program | Time Frame | Age |	Fee Per Participant |
 |:--------|:----------:|:---:|:-------------------:|
 | **Rec Soccer**      | SEPT-OCT          | K-8th Gr   | $75  |
@@ -23,9 +24,8 @@ Payment can pay made online via Community Pass or in person or mailed to the Rec
 | **Dance**           | SEPT-OCT          | 2 1/2-6 Yrs| $75/child, $50/parent and child  |
 | **Top Dawg Basketball**| SEPT-NOV       | K-8th Gr   | $0  |
 |---------|-----------|-----|-----|------|-------------|-------------------|----------|
-{: .hover-table .recreation-table}
-
-
+{: .table .table-striped }
+</div>
 
 
 

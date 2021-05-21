@@ -32,10 +32,12 @@ export function findCloudStorageElements() {
     })
 
     let listElt = document.createElement("ul");
+    listElt.classList.add("list-group");
     urls.forEach(val => {
       var filename = val.split('/').pop();
       if (filename) {
         var newElt = document.createElement('li')
+        newElt.classList.add("list-group-item");
         newElt.innerHTML = `<a href="${val}">${filename}</a>`;
         listElt.append(newElt);
       }

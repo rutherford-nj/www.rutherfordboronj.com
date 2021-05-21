@@ -62,6 +62,41 @@
         "type": 301
       },
       {
+        "source": "/government/mayor-council/stephanie-mcgowan/",
+        "destination": "/government/mayor-council/",
+        "type": 301
+      },
+      {
+        "source": "/government/mayor-council/mark-goldsack/",
+        "destination": "/government/mayor-council/",
+        "type": 301
+      },
+      {
+        "source": "/government/mayor-council/thomas-mullahey/",
+        "destination": "/government/mayor-council/",
+        "type": 301
+      },
+      {
+        "source": "/government/mayor-council/raymond-guzman/",
+        "destination": "/government/mayor-council/",
+        "type": 301
+      },
+      {
+        "source": "/government/mayor-council/maria-begg-roberson/",
+        "destination": "/government/mayor-council/",
+        "type": 301
+      },
+      {
+        "source": "/government/mayor-council/matthew-cokeley/",
+        "destination": "/government/mayor-council/",
+        "type": 301
+      },
+      {
+        "source": "/us-census/2020-uscensus/",
+        "destination": "https://2020census.gov/",
+        "type": 301
+      },
+      {
         "source": "/static/images/boroughfacebookicon.jpg",
         "destination": "/static/images/boroughfacebookicon_gray.jpg",
         "type": 301

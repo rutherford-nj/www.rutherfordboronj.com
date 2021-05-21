@@ -1,28 +1,16 @@
 ---
 ---
 
-$breakpoint: 600px;
+$breakpoint: 768px;
 $header-bg-color: #0F3B66;
 $main-bg-color: #040000;
 $main-dark-blue: #036;
 $main-gray: #767676;
 
-@import "core.scss";
-@import "calendars.scss";
-@import "header.scss";
-@import "homepage.scss";
-@import "page.scss";
-@import "interior-page.scss";
-@import "recreation.scss";
-@import "hover-table.scss";
 @import "blog.scss";
-@import "departments.scss";
-@import "social-media.scss";
-@import "notifications.scss";
-@import "minutes-and-agendas.scss";
-@import "gcs-file-list.scss";
-@import "mayor-and-council.scss";
-@import "menu-toggle.scss";
-@import "census.scss";
 @import "building-permits.scss";
+@import "calendars.scss";
 @import "covid-charts.scss";
+@import "departments.scss";
+@import "navbar.scss";
+@import "page.scss";
