@@ -8,7 +8,7 @@ parent: 'Tax Collector'
 
 [Property tax deductions for seniors, veterans and disabled persons as compiled by the NJ State Division of Taxation.](https://www.state.nj.us/treasury/taxation/prntlpt.shtml)
 
-*Note: Not all forms are applicable to Rutherford residents. Call the Rutherford Tax Collector's office with any questions. 
+*Note: Not all forms at the above link are applicable to Rutherford residents. Call the Rutherford Tax Collector's office with any questions. 
 
 Veterans are entitled to a $250.00 per year property tax deduction. Applications are available in the Tax Office. Completed applications must be accompanied by a copy of the Veteran’s DD-214.
 
