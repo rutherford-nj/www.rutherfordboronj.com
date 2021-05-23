@@ -3,79 +3,86 @@ layout: page
 title: 'Police'
 ---
 
-<div class="page-link-boxes">
-  <div class="page-gradient-box">
-    <div><a href="personnel-contacts/">Personnel / Contacts</a></div>
-    <div><a href="parking/">Resident Parking Permits</a></div>
-    <div><a href="kid-print/">Kid Print/Safely Back Home</a></div>
-    <div><a href="https://www.fbi.gov/wanted/topten">FBI Most Wanted</a></div>
-    <div><a href="https://www.ptoabergencounty.org/">Police Traffic Officers of Bergen County</a></div>
-    <div><a href="additional-services/">Additional Police Services &amp; Information</a></div>
-    <div><a href="additional-services/firearms/">Firearms Applications</a></div>
-    <div><a href="citizens-survey/">Citizens Survey</a></div>
-  </div>
-
-  {% include news.html name="Police" posts=site.categories.police %}
+<div class="department-title">
+  <h1>Police Department</h1>
+  <h2>
+    Located at 184 Park Avenue
+  </h2>
 </div>
 
-<div class="page-overview">
-  <div class="page-title">
-    <img src="/public-safety/PoliceBadge85px.jpg" alt="Police Badge" />
-    <div class="page-title-name">Police Department</div>
-    <div class="page-location">
-      <div>Located at</div>
-      <div>184 Park Avenue</div>
+<div class="row">
+  <div class="col-md-4">
+    <div class="card mb-4">
+      <h5 class="card-header">Contact Info</h5>
+      <div class="card-body">
+        <p class="card-text">
+          phone: 201-939-6000<br>
+          fax: 201-460-3055<br>
+          <span class="fw-bold">Emergency: Dial 911</span>
+        </p>
+        <p class="card-text">
+          Hours: 24/7
+        </p>
+        <p class="card-text">
+          <span class="fw-bold">Chief of Police: John R. Russo</span>
+        </p>
+        <ul class="list-group">
+          <li class="list-group-item"><a href="https://nextdoor.com/agency-detail/nj/rutherford/rutherford-police-department/">Nextdoor</a></li>
+          <li class="list-group-item"><a href="https://www.instagram.com/rutherfordpdnj/?hl=en/">Instagram: @Rutherfordpdnj</a></li>
+          <li class="list-group-item"><a href="https://twitter.com/RutherfordPDNJ">Twitter: @RutherfordPDNJ</a></li>
+          <li class="list-group-item"><a href="https://www.facebook.com/RutherfordPDNJ">Facebook: @RutherfordPDNJ</a></li>
+        </ul>
+      </div>
+    </div>
+    {% include department_links.html links=site.data.links.departments.police %}
+    {% include news.html name="Police" posts=site.categories.police %}
+  </div>
+
+  <div class="col-md-8">
+    <div class="card mb-4">
+      <div class="card-body">
+        <p class="card-text">
+          <img src="/public-safety/PoliceBadge85px.jpg" alt="Police Badge" />
+        </p>
+        <p class="card-text"><a
+            href="https://storage.googleapis.com/static.rutherford-nj.com/police/VI%2C%20C20%20Drug%20testing%20with%20Attachments%203-2018.pdf">Rutherford
+            Police Department Drug Testing Policy</a>
+        </p>
+        <p class="card-text"><a
+            href="https://www.nj.gov/oag/dcj/njpdresources/pdfs/Drug-Test-Policy_2020-12.pdf">Attorney General's Law
+            Enforcement
+            Drug Testing Policy</a>
+        </p>
+        <p class="card-text"><a
+            href="https://storage.googleapis.com/static.rutherford-nj.com/police/VVI%2C%20C5%20Early%20Warning%20System%203-2018.doc.pdf">Rutherford
+            Police Department Early Warning System Policy</a>
+        </p>
+        <p class="card-text"><a
+            href="https://storage.googleapis.com/static.rutherford-nj.com/police/VIV%2C%20C13%20Immigrant%20Trust%20Directive.pdf">Rutherford
+            Police Department Immigrant Trust Between Law Enforcement and Immigrant Communities Policy</a>
+        </p>
+        <p class="card-text">
+          The Rutherford Police Department has committed itself to the protection of constitutional and civil rights of
+          all
+          men and women. In doing so, we have established a set of core values to include integrity, professionalism,
+          dedication, and accountability. We will continually strive to achieve excellence in all we do.
+        </p>
+        <p class="card-text">
+          Our priorities shall include the protection of life, liberty, and property to ensure all Borough residents and
+          visitors experience a quality of life second to none. We shall stress the importance of partnerships among
+          those in
+          our community to assist us in allocating our resources in an effective and efficient manner.
+        </p>
+        <p class="card-text">
+          As law enforcement officers, members of the Rutherford Police Department have sworn to uphold our laws with
+          paramount diligence to the equality of all of those we encounter. We shall be courageous, ethical, and
+          respectful in
+          your time of need.
+        </p>
+      </div>
+    </div>
+    <div class="card mb-4">
+      {% include twitter.html username="RutherfordPDNJ" %}
     </div>
   </div>
-
-  <div class="page-contact-info">
-    <div>Phone: 201-939-6000</div>
-    <div>Fax: 201-460-3055</div>
-    <div><strong>Emergency: Dial 911</strong></div>
-    <div>Hours: 24/7</div>
-    <div><a href="https://nextdoor.com/agency-detail/nj/rutherford/rutherford-police-department/">Nextdoor</a></div>
-    <div><a href="https://www.instagram.com/rutherfordpdnj/?hl=en/">Instagram: @Rutherfordpdnj</a></div>
-    <div><a href="https://twitter.com/RutherfordPDNJ">Twitter: @RutherfordPDNJ</a></div>
-    <div><a href="https://www.facebook.com/RutherfordPDNJ">Facebook: @RutherfordPDNJ</a></div>
-
-  </div>
-
-  <div class="page-people">
-    <div><strong>Chief of Police: John R. Russo</strong></div>
-  </div>
-</div>
-
-<div class="page-description">
-  <div><a
-      href="https://storage.googleapis.com/static.rutherford-nj.com/police/VI%2C%20C20%20Drug%20testing%20with%20Attachments%203-2018.pdf">Rutherford
-      Police Department Drug Testing Policy</a>
-  </div>
-    <div><a
-      href="https://www.nj.gov/oag/dcj/njpdresources/pdfs/Drug-Test-Policy_2020-12.pdf">Attorney General's Law Enforcement
-      Drug Testing Policy</a>
-  </div>
-  <div><a
-      href="https://storage.googleapis.com/static.rutherford-nj.com/police/VVI%2C%20C5%20Early%20Warning%20System%203-2018.doc.pdf">Rutherford
-      Police Department Early Warning System Policy</a>
-  </div>
-  <div><a
-      href="https://storage.googleapis.com/static.rutherford-nj.com/police/VIV%2C%20C13%20Immigrant%20Trust%20Directive.pdf">Rutherford
-      Police Department Immigrant Trust Between Law Enforcement and Immigrant Communities Policy</a>
-  </div>
-  <div>
-    The Rutherford Police Department has committed itself to the protection of constitutional and civil rights of all
-    men and women. In doing so, we have established a set of core values to include integrity, professionalism,
-    dedication, and accountability. We will continually strive to achieve excellence in all we do.
-  </div>
-  <div>
-    Our priorities shall include the protection of life, liberty, and property to ensure all Borough residents and
-    visitors experience a quality of life second to none. We shall stress the importance of partnerships among those in
-    our community to assist us in allocating our resources in an effective and efficient manner.
-  </div>
-  <div>
-    As law enforcement officers, members of the Rutherford Police Department have sworn to uphold our laws with
-    paramount diligence to the equality of all of those we encounter. We shall be courageous, ethical, and respectful in
-    your time of need.
-  </div>
-  {% include twitter.html username="RutherfordPDNJ" %}
 </div>

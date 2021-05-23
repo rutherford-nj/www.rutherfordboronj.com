@@ -3,55 +3,55 @@ layout: page
 title: 'Social Services'
 ---
 
-<div class="page-link-boxes">
-  <div class="page-gradient-box">
-    <div><a href="http://www.rutherfordcommunitypantry.org/home">Community Pantry</a></div>
-    <div><a href="community-outreach/">Community Outreach</a></div>
-    <div><a
-        href="https://storage.googleapis.com/static.rutherford-nj.com/social-services/School%20Supply%20Wish%20List2019-2020.pdf">School
-        Supply Wish List</a></div>
-  </div>
-
-  {% include news.html name="Social Services" posts=site.categories.social-services %}
+<div class="department-title">
+  <h1>Department of Social Services</h1>
+  <h2>
+    Located in Borough Hall<br>
+    176 Park Avenue, Ground Floor
+  </h2>
 </div>
 
-<div class="page-overview">
-  <div class="page-title">
-    <div>Department of</div>
-    <div class="page-title-name">Social Services</div>
-    <div class="page-location">
-      <div>Located in Borough Hall</div>
-      <div>176 Park Avenue, Ground Floor</div>
+<div class="row">
+  <div class="col-md-4">
+    <div class="card mb-4">
+      <h5 class="card-header">Contact Info</h5>
+      <div class="card-body">
+        <p class="card-text">
+          phone: 201-460-3028<br>
+          fax: 201-460-3029<br>
+          gkacmarcik@rutherfordboronj.com
+        </p>
+        <p class="card-text">
+          Hours: 8:30 – 4:30
+        </p>
+        <p class="card-text">
+          <span class="fw-bold">Department Head:</span> Genevieve Kacmarcik, MSW, MBA
+        </p>
+      </div>
     </div>
+    {% include department_links.html links=site.data.links.departments.social-services %}
+    {% include news.html name="Social Services" posts=site.categories.social-services %}
   </div>
 
-  <div class="page-contact-info">
-    <div>Phone: 201-460-3028</div>
-    <div>Fax: 201-460-3029</div>
-    <div>gkacmarcik@rutherfordboronj.com</div>
-    <div>Hours: 8:30 – 4:30</div>
-  </div>
-
-  <div class="page-people">
-    <div><strong>Department Head:</strong></div>
-    <div><strong>Genevieve Kacmarcik, MSW, MBA</strong></div>
-  </div>
-</div>
-
-<div class="page-description">
-  <div>
-    Please call to make an appointment.
-  </div>
-  <div>
-    This department provides the N.J. State WorkFirst NJ General Assistance Program to assist Rutherford residents over
-    18 years of age who have no income and very limited resources.
-  </div>
-  <div>
-    This office also manages an active Social Services Program offering referrals to State, County, and Local agencies
-    to meet the needs of residents who are struggling due to illness and hardship.
-  </div>
-  <div>
-    Services are provided without regard to race, color, sex, religious creed, marital or birth status, national origin
-    or political beliefs.
+  <div class="col-md-8">
+    <div class="card mb-4">
+      <div class="card-body">
+        <p class="card-text">
+          Please call to make an appointment.
+        </p>
+        <p class="card-text">
+          This department provides the N.J. State WorkFirst NJ General Assistance Program to assist Rutherford residents
+          over 18 years of age who have no income and very limited resources.
+        </p>
+        <p class="card-text">
+          This office also manages an active Social Services Program offering referrals to State, County, and
+          Local agencies to meet the needs of residents who are struggling due to illness and hardship.
+        </p>
+        <p class="card-text">
+          Services are provided without regard to race, color, sex, religious creed, marital or birth status,
+          national origin or political beliefs.
+        </p>
+      </div>
+    </div>
   </div>
 </div>

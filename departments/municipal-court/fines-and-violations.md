@@ -11,7 +11,7 @@ If the offense is NOT listed below, or it occurred in a 65MPH Zone, Construction
 please contact the Municipal Court to determine the payable amount or the court date for a non payable offense.
 All penalties are inclusive of fines and costs.
 
-<table class="contact-table">
+<table class="table">
   <thead>
     <tr><th>Title 39:</th><th>Offense</th><th>Penalty</th></tr>
   </thead>
@@ -31,7 +31,7 @@ All penalties are inclusive of fines and costs.
   </tbody>
 </table>
 
-<table class="contact-table">
+<table class="table">
   <thead>
     <tr><th>39:4-98</th><th>Speeding Exceeding by:</th><th></th></tr>
   </thead>
@@ -43,7 +43,7 @@ All penalties are inclusive of fines and costs.
   </tbody>
 </table>
 
-<table class="contact-table">
+<table class="table">
   <thead>
     <tr><th></th><th>PARKING VIOLATIONS</th><th></th></tr>
   </thead>

@@ -3,51 +3,54 @@ layout: page
 title: 'Public Works'
 ---
 
-<div class="page-link-boxes">
-  <div class="page-gradient-box">
-    <div><a href="collection-schedule/">Collection Schedule</a></div>
-    <div><a href="recycling-information/">Recycling Information</a></div>
-    <div><a href="service-request-forms/">Service Request Forms</a></div>
-    <div><a href="http://www.bt.cdc.gov/disasters/poweroutage/needtoknow.asp">Power Outage Tips</a></div>
-    <div><a href="https://www.cleanwaternj.org/">Clean Water NJ</a></div>
-    <div><a href="stormwater-information/">Stormwater Plans</a></div>
-  </div>
-
-  {% include news.html name="Public Works" posts=site.categories.public-works %}
+<div class="department-title">
+  <h1>Department of Public Works</h1>
+  <h2>
+    Located at the DPW Garage<br>
+    220 Highland Cross
+  </h2>
 </div>
 
-<div class="page-overview">
-  <div class="page-title">
-    <div>Department of</div>
-    <div class="page-title-name">Public Works</div>
-    <div class="page-location">
-      <div>Located at the DPW Garage</div>
-      <div>220 Highland Cross</div>
-      <br>
-      <div>(Drop off is at the intersection of Veterans Blvd and Highland Cross, East of Rt. 17)</div>
+<div class="row">
+  <div class="col-md-4">
+    <div class="card mb-4">
+      <h5 class="card-header">Contact Info</h5>
+      <div class="card-body">
+        <p class="card-text">
+          phone: 201-460-3000 x4000<br>
+          fax: 201-438-8216<br>
+          dpw@rutherfordboronj.com
+        </p>
+        <p class="card-text">
+          Hours: 7:00 - 3:00, M-F<br>
+          Saturday Drop Off: 9:00 - 1:00
+        </p>
+        <p class="card-text">
+          <span class="fw-bold">Department Head:</span> Christopher Seidler<br>
+          Steven Sartori, Assistant Superintendent<br>
+          Gregory Goumas, Tree Maintenance Supervisor<br>
+          Steve Addeo, Supervisor of Parks and Grounds Maintenance<br>
+        </p>
+      </div>
+    </div>
+    {% include department_links.html links=site.data.links.departments.dpw %}
+    {% include news.html name="Public Works" posts=site.categories.public-works %}
+  </div>
+
+  <div class="col-md-8">
+    <div class="card mb-4">
+      <div class="card-body">
+        <p class="card-text">
+          Drop off is at the intersection of Veterans Blvd and Highland Cross, East of Rt. 17.
+        </p>
+        <p class="card-text">
+          The Department of Public Works provides the following municipal services: Sanitation, Recycling, Shade Tree, Roads, Building Maintenance, Sewers, Fleet Maintenance
+        </p>
+      </div>
+    </div>
+
+    <div class="card mb-4">
+      {% include twitter.html username="RutherfordDpw" %}
     </div>
   </div>
-
-  <div class="page-contact-info">
-    <div>p: 201-460-3000 x 4000</div>
-    <div>f: 201-438-8216</div>
-    <div>dpw@rutherfordboronj.com</div>
-    <div>Hours: 7:00 - 3:00, M-F</div>
-    <div>Saturday Drop Off: 9:00 - 1:00</div>
-  </div>
-
-  <div class="page-people">
-    <div><strong>Department Head: Christopher Seidler</strong></div>
-    <div>Steven Sartori, Assistant Superintendent</div>
-    <div>Gregory Goumas, Tree Maintenance Supervisor</div>
-    <div>Steve Addeo, Supervisor of Parks and Grounds Maintenance</div>
-  </div>
-</div>
-
-<div class="page-description">
-  <div>
-    The Department of Public Works provides the following municipal services:
-    Sanitation, Recycling, Shade Tree, Roads, Building Maintenance, Sewers, Fleet Maintenance
-  </div>
-  {% include twitter.html username="RutherfordDpw" %}
 </div>

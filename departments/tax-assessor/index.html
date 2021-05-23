@@ -3,45 +3,50 @@ layout: page
 title: 'Tax Assessor'
 ---
 
-<div class="page-link-boxes">
-  <div class="page-gradient-box">
-    <div><a href="tax-maps/">Tax Maps</a></div>
-  </div>
+<div class="department-title">
+  <h1>Department of Tax Assessor</h1>
+  <h2>
+    Located in Borough Hall<br>
+    176 Park Avenue, First Floor
+  </h2>
 </div>
 
-<div class="page-overview">
-  <div class="page-title">
-    <div>Department of</div>
-    <div class="page-title-name">Tax Assessor</div>
-    <div class="page-location">
-      <div>Located in Borough Hall</div>
-      <div>176 Park Avenue, First Floor</div>
+<div class="row">
+  <div class="col-md-4">
+    <div class="card mb-4">
+      <h5 class="card-header">Contact Info</h5>
+      <div class="card-body">
+        <p class="card-text">
+          phone: 201-460-3006<br>
+          fax: 201-460-3008<br>
+          dmcguire@rutherfordboronj.com
+        </p>
+        <p class="card-text">
+          Hours: Tues. 2:00 – 4:00
+        </p>
+        <p class="card-text">
+          <span class="fw-bold">Department Head:</span> Denis McGuire
+        </p>
+      </div>
     </div>
+    {% include department_links.html links=site.data.links.departments.tax-assessor %}
   </div>
 
-  <div class="page-contact-info">
-    <div>Phone: 201-460-3006</div>
-    <div>Fax: 201-460-3008</div>
-    <div>dmcguire@rutherfordboronj.com</div>
-    <div>Hours: Tues. 2:00 – 4:00</div>
-  </div>
-
-  <div class="page-people">
-    <div><strong>Department Head:</strong></div>
-    <div><strong>Denis McGuire</strong></div>
-  </div>
-</div>
-
-<div class="page-description">
-  <div>
-    The assessor is responsible to see that all property is the Borough is assessed at the correct value. The office
-    also handles applications for Veteran Deductions, Senior Citizen Deductions, Deductions for those that are
-    permanently disabled and for Veterans who meet the criteria for being tax exempt to permanent disability.</div>
-  <br>
-  <div>
-    Sometimes property owners feel like their property is assessed higher than it should be. Every taxpayer is eligible
-    to file a tax appeal. The following link will bring you to the website for the Bergen County Board of Taxation which
-    should answer any questions you have about filing a successful appeal.
-    <a href="http://www.co.bergen.nj.us/482/board-of-taxation">Bergen County Board of Taxation</a>
+  <div class="col-md-8">
+    <div class="card mb-4">
+      <div class="card-body">
+        <p class="card-text">
+          The assessor is responsible to see that all property is the Borough is assessed at the correct value. The
+          office also handles applications for Veteran Deductions, Senior Citizen Deductions, Deductions for those that
+          are permanently disabled and for Veterans who meet the criteria for being tax exempt to permanent disability.
+        </p>
+        <p class="card-text">
+          Sometimes property owners feel like their property is assessed higher than it should be. Every taxpayer is
+          eligible to file a tax appeal. The following link will bring you to the website for the Bergen County Board of
+          Taxation which should answer any questions you have about filing a successful appeal.
+          <a href="http://www.co.bergen.nj.us/482/board-of-taxation">Bergen County Board of Taxation</a>
+        </p>
+      </div>
+    </div>
   </div>
 </div>
