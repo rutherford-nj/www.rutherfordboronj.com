@@ -6,6 +6,7 @@ Jekyll::Hooks.register :site, :post_write do |site|
     :check_html => true,
     :disable_external => true,
     :only_4xx => true,
+    :file_ignore => [/.*tmpl.*/],
     :alt_ignore => [
       "/static/images/health.png",
       "/static/images/megaphone.png",

@@ -79,8 +79,8 @@ departments:
       href: personnel-contacts/
     - text: Resident Parking Permits
       href: parking/
-    - text: kid-print/
-      href: Kid Print/Safely Back Home
+    - text: Kid Print/Safely Back Home
+      href: kid-print/
     - text: FBI Most Wanted
       href: https://www.fbi.gov/wanted/topten
     - text: Police Traffic Officers of Bergen County
@@ -110,3 +110,31 @@ departments:
       href: rebates-reimbursements/
     - text: Division of Taxation’s Property Tax Relief Program
       href: https://www.state.nj.us/treasury/taxation/relief.shtml
+  civil-rights-commission:
+    - text: Civil Rights Commission on Facebook
+      href: https://www.facebook.com/RutherfordCRC/
+  planning-board:
+    - text: Master Plan
+      href: /committees/planning-board/master-plan/
+  shade-tree-commission:
+    - text: Shade Tree Request and Complaint Form
+      href: /departments/public-works/shade-tree-commission-form/
+    - text: Emerald Ash Borer Information
+      href: emerald-ash-borer-information/
+    - text: Recommended Tree List
+      href: recommended-tree-list/
+    - text: Tree Care and Services
+      href: tree-care-services/
+    - text: Commissioners Bios
+      href: commissioners-bios/
+    - text: 5 Year Community Forestry Management Plan
+      href: https://storage.googleapis.com/static.rutherford-nj.com/committees/Rutherford_Commty_Forestry_Mgmt_Plan2018-2022-REV.pdf
+  green-team:
+    - text: Sign Up For Green Team Mailing List
+      href: https://rutherfordgreenteam.us13.list-manage.com/subscribe?u=6c64824e101044cb88e049a6e&id=9600eda580
+    - text: Green Team on Facebook
+      href: https://www.facebook.com/RutherfordGreenTeam/
+    - text: Minutes and Annual Reports
+      href: minutes/
+    - text: Green Team Links
+      href: /committees/green-team/links/
