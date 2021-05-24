@@ -38,36 +38,7 @@ title: 'Recreation Department'
       </div>
     </div>
 
-    <div class="card mb-4">
-      <h5 class="card-header">Links</h5>
-      <div class="card-body">
-        <div class="row">
-          <div class="col">
-            <ul class="list-group">
-              <li class="list-group-item"><a href="spring-2021/">Spring 2021</a></li>
-              <li class="list-group-item"><a
-                  href="https://docs.google.com/forms/d/e/1FAIpQLSdwcspZitj7k1O5dscCdx4tKaSsqsxK1mr6VMiqyWTv3FGVOA/viewform">Adult
-                  Sports Survey</a></li>
-              <li class="list-group-item"><a
-                  href="https://docs.google.com/forms/d/e/1FAIpQLScu0kJTA_jjGYHDDS5TOHqBtJnisSlgJcx_FOykLcb1PQor_w/viewform">Rec
-                  & Arts Committee Survey</a></li>
-              <li class="list-group-item"><a href="waivers/">COVID Waivers</a></li>
-              <li class="list-group-item"><a href="enrichment-classes/">Enrichment Classes</a></li>
-              <li class="list-group-item"><a href="permit-applications/">2021 Permit Applications</a></li>
-              <li class="list-group-item"><a href="sports-and-activities/">Sports &amp; Activities</a></li>
-              <li class="list-group-item"><a href="parks-facilities/">Parks &amp; Facilities</a></li>
-              <li class="list-group-item"><a href="/calendars/">Events Calendar</a></li>
-              <li class="list-group-item"><a href="badges-and-field-permits/">Badges &amp; Field Permits</a></li>
-              <li class="list-group-item"><a href="forms/">Forms, Rules &amp; Policies</a></li>
-              <li class="list-group-item"><a href="volunteer-sponsorship/">Volunteer &amp; Sponsorship</a></li>
-              <li class="list-group-item"><a href="community-pass/">Community Pass</a></li>
-              <li class="list-group-item"><a href="walk-rutherford/">Walk Rutherford</a></li>
-            </ul>
-          </div>
-        </div>
-      </div>
-    </div>
-
+    {% include department_links.html links=site.data.links.departments.recreation %}
     {% include news.html name="Recreation" posts=site.categories.recreation %}
   </div>
 

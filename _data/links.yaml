@@ -91,6 +91,37 @@ departments:
       href: additional-services/firearms/
     - text: Citizens Survey
       href: citizens-survey/
+  recreation:
+    - text: Spring 2021
+      href: spring-2021/
+    - text: RecDesk
+      href: https://rutherfordnj.recdesk.com/Community/Home
+    - text: Adult Sports Survey
+      href: https://docs.google.com/forms/d/e/1FAIpQLSdwcspZitj7k1O5dscCdx4tKaSsqsxK1mr6VMiqyWTv3FGVOA/viewform
+    - text: Rec & Arts Committee Survey
+      href: https://docs.google.com/forms/d/e/1FAIpQLScu0kJTA_jjGYHDDS5TOHqBtJnisSlgJcx_FOykLcb1PQor_w/viewform
+    - text: COVID Waivers
+      href: waivers/
+    - text: Enrichment Classes
+      href: enrichment-classes/
+    - text: 2021 Permit Applications
+      href: permit-applications/
+    - text: Sports & Activities
+      href: sports-and-activities/
+    - text: Parks & Facilities
+      href: parks-facilities/
+    - text: Events Calendar
+      href: /calendars/
+    - text: Badges & Field Permits
+      href: badges-and-field-permits/
+    - text: Forms, Rules & Policies
+      href: forms/
+    - text: Volunteer & Sponsorship
+      href: volunteer-sponsorship/
+    - text: Community Pass
+      href: community-pass/
+    - text: Walk Rutherford
+      href: walk-rutherford/
   social-services:
     - text: Community Pantry
       href: http://www.rutherfordcommunitypantry.org/home
