@@ -3,24 +3,27 @@ import * as lunr from 'lunr';
 export function runSearch() {
   let searchIndex: lunr.Index;
   let urlToTitle = <any>{};
-  let searchResults = document.getElementById('search_results');
+  let searchResults = document.getElementById('search-results');
   if (!searchResults) {
     return;
   }
 
   let displaySearchResults = function (results: lunr.Index.Result[]) {
-    searchResults.innerHTML = '<ul>';
-    document.querySelectorAll('.loading').forEach(elt => elt.remove());
+    let searchCard = document.getElementById('search-card');
+    searchCard.classList.remove('d-none');
+    searchResults.innerHTML = '<ul class="list-group">';
 
     if (results.length) {
-      results.forEach(result=> {
+      results.forEach(result => {
         let url = result.ref;
         let title = urlToTitle[url];
-        searchResults.innerHTML += `<li><a href="${url}">${title}</a></li>`;
+        searchResults.innerHTML += `<li class="list-group-item"><a href="${url}">${title}</a></li>`;
       });
     } else {
-      searchResults.innerHTML += '<li>No results found</li>';
+      searchResults.innerHTML = '<p class="fw-bold card-text">No results found</p>';
+      return;
     }
+
     searchResults.innerHTML += '</ul>';
   }
 
@@ -32,7 +35,7 @@ export function runSearch() {
       this.field('url');
       this.ref('url');
       var that = this;
-      
+
       Object.keys(searchData).forEach(key => {
         let doc = searchData[key];
         that.add(doc);
@@ -46,21 +49,18 @@ export function runSearch() {
     query = window.decodeURI(query);
 
     var results = searchIndex.search(query);
-    document.getElementById('search_query').textContent = query;
+    document.getElementById('search-query').textContent = query;
     displaySearchResults(results);
   };
 
   let searchQueryText = window.location.hash.substr(1);
   searchQueryText = window.decodeURI(searchQueryText);
-  document.getElementById('search_query').textContent = searchQueryText;
+  document.getElementById('search-query').textContent = searchQueryText;
 
   // Download the data from the JSON file we generated
   window.fetch('/search/data.json')
     .then(resp => resp.json())
-    .then(json => {
-      createIndex(<Object>json);
-      runSearchFromHash();
-    });
+    .then(json => createIndex(<Object>json));
 
   window.addEventListener('hashchange', runSearchFromHash);
 }

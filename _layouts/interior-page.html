@@ -3,15 +3,17 @@ layout: page
 index: true
 ---
 
-<div class="interior-page-content">
-  {% if page.parent %}
-  <h3>
+{% if page.parent %}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
     {% if page.grandparent %}
-      <a href="{{ page.grandparent_url | default: '../../' }}">{{ page.grandparent | escape }}</a> &gt;
+    <li class="breadcrumb-item"><a href="{{ page.grandparent_url | default: '../../' }}">{{ page.grandparent | escape }}</a></li>
     {% endif %}
-    <a href="{{ page.parent_url | default: '../' }}">{{ page.parent | escape }}</a> &gt; {{ page.title | escape }}
-  </h3>
-  {% endif %}
-  
-  {{content}}
-</div>
+    <li class="breadcrumb-item"><a href="{{ page.parent_url | default: '../' }}">{{ page.parent | escape }}</a></li>
+    <li class="breadcrumb-item active" aria-current="page">{{ page.title | escape }}
+    </li>
+  </ol>
+</nav>
+{% endif %}
+
+{{content}}

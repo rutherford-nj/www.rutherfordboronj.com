@@ -1,5 +1,5 @@
 export function buildCommunityOutreachTOC() {
-  let toc = document.querySelector('#community-outreach-toc');
+  let toc = document.getElementById('community-outreach-toc');
 
   if (!toc) {
     return;
@@ -7,7 +7,7 @@ export function buildCommunityOutreachTOC() {
 
   let tocHTML = '<ol>';
 
-  document.querySelectorAll('.interior-page-content > h2').forEach((elt) => {
+  document.getElementById('community-outreach-content').querySelectorAll('h2').forEach((elt) => {
     if (elt.id) {
       tocHTML += `<li><a href="#${elt.id}">${elt.textContent}</a></li>`;
     }

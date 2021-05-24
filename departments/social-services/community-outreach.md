@@ -6,6 +6,8 @@ parent: 'Social Services'
 
 <div id="community-outreach-toc"></div>
 
+<div id="community-outreach-content" markdown=1>
+
 ## Energy Assistance
 
 ### Home Energy Assistance PSE&G
@@ -245,5 +247,5 @@ No income guideline
 
 1-888-942-8080 or [www.suezcares.org](http://www.suezcares.org/)
 
----
+</div>
 
