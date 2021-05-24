@@ -9,7 +9,9 @@ parent: 'Recreation'
 Any Resident group of 10 persons or more who wish to use any Borough Park facility is required to apply for a Park Permit. Applications can be picked up at the Recreation Department. There is no charge for Non-Profit Resident Organizations.
 An ordinance to amend and supplement the code of the Borough of Rutherford, Chapter 73, entitled playgrounds and recreation areas, Ordinance No. 1809.
 
-### Picnic, Bandshell or Park permits:
+$50 for the first hour, $25 for each additional hour.
+
+### Pavilion, Bandshell or Park permits:
 
 | Resident Group or Individual Event | $50.00 |
 | Resident Company Event—employees of company | $75.00 |
@@ -43,11 +45,11 @@ An ordinance to amend and supplement the code of the Borough of Rutherford, Chap
 
 TENNIS BADGES All Rutherford Residents interested in utilizing our Tennis Courts must purchase a Badge. There are 6 courts at Memorial Park.
 
-Please order & pay for your badges through our Community Pass system. Once purchased the Rec Department will contact you for a pick up time. 
+Please order & pay for your badges through [RecDesk](https://rutherfordnj.recdesk.com/Community/Home). Once purchased the Rec Department will contact you for a pick up. 
 
 ### Tennis Badges [Click here for 2021 Badge Application](https://register.communitypass.net/reg/index.cfm)
 
-| Youth resident ( ages 12 – 18 years) | NO FEE |
+| Youth resident (ages 12 and younger) | NO FEE |
 | Senior citizen resident (age 62 & above)| NO FEE |
 | Student (12 - 18 years) | $5.00 |
 | Adult resident | $20.00 |
