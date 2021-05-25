@@ -9,7 +9,7 @@ parent: 'Recreation'
 We are continually seeking creative, dedicated individuals to help bring safe, enjoyable leisure opportunities to Rutherford residents.  
 
 If you have a special talent to offer or are interested in volunteering, coaching or teaching a 
-special class we want you! Please contact Barbara Bennett at 201-460-3015 to discuss volunteer opportunities. 
+special class we want you! Please contact recstaff@rutherfordboronj.com to discuss volunteer opportunities. 
 
 **Become a Sponsor**
 

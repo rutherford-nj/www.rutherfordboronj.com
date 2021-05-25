@@ -20,10 +20,9 @@ The Recreation Department hosts many programs and activities at the locations be
 **Memorial Park** (Darwin & Washington Avenues)  
 [Click here for written directions](memorial-field-directions/)
 
-* 8 baseball/softball diamonds (4 lighted)
-* 4 shuffleboard courts
+* 8 baseball/softball diamonds (6 lighted)
 * 6 tennis courts
-* picnic area
+* picnic area behind Tryon Field
 * Tryon Field (lighted track, football/soccer stadium)
 * 3 playgrounds: Kid’s Spot, Picnic Area and Katie’s Corner
 
@@ -31,23 +30,23 @@ The Recreation Department hosts many programs and activities at the locations be
 
 Tryon Field is the home of the Rutherford High School Football, Soccer and Track Program, the Rutherford Jr. Football Program and the Rutherford Recreation Soccer and Track/field Program. 
 The Track is open to the public for walking. 
-Hours of operation are Monday – Sunday 6am to 9pm.
+Hours of operation are Monday – Sunday 6am to 9:30pm.
 The stadium field is available by permit only. 
-If you would like to apply for a permit, contact Recreation at 201-460-3015.
-
+If you would like to apply for a permit, visit [RecDesk](https://rutherfordnj.recdesk.com/Community/Home)
 **Tamblyn Field** (30 Woodland Avenue)
 
 * Tim Finnerty Memorial basketball courts
 * 1 football field
 * 2 baseball/ softball diamonds
 * 1 playground
-* picnic area
 
 **Tamblyn Civic Center** (30 Woodland Avenue)
 
 **Lincoln Park** (Park Avenue & Ridge Road)
 
-**Wall Field** (Highland Cross & Eastern Way)
+* 1 Bandshell
+
+**Walls Field** (Highland Cross & Eastern Way)
 
 * 1 basketball court
 * 2 baseball fields
