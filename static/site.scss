@@ -2,15 +2,22 @@
 ---
 
 $breakpoint: 768px;
-$header-bg-color: #0F3B66;
-$main-bg-color: #040000;
-$main-dark-blue: #036;
-$main-gray: #767676;
+
+$rutherford-blue: #12284b;
+$rutherford-cream: #fffdeb;
+$rutherford-green: #6c702f;
+$rutherford-light-gray: #c7c7c7;
+$rutherford-red: #9f3e34;
 
 @import "blog.scss";
 @import "building-permits.scss";
 @import "calendars.scss";
 @import "covid-charts.scss";
 @import "departments.scss";
+@import "homepage.scss";
 @import "navbar.scss";
 @import "page.scss";
+
+.card {
+  border-radius: 1rem !important;
+}
