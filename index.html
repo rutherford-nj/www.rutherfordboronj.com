@@ -71,7 +71,7 @@ hide_header_logo: true
           </div>
           {% else %}
           {% if site.data.homepage.picture.link %}<a href="{{ site.data.homepage.picture.link }}">{% endif %}
-            <img src="{{ site.data.homepage.picture.src }}?zx={{ "now" | date: "%s" }}"
+            <img class="img-fluid" src="{{ site.data.homepage.picture.src }}?zx={{ "now" | date: "%s" }}"
               alt="{{ site.data.homepage.picture.alt }}" />
             {% endif %}
             {% if site.data.homepage.picture.link %}</a>{% endif %}
