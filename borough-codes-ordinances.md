@@ -3,6 +3,8 @@ layout: page
 title: 'Borough Codes & Ordinances'
 ---
 
+<!-- TODO: Fix this page, make it HTML -->
+
 <h2><a href="http://ecode360.com/RU0183?needHash=true">Click Here for Borough Codes and Ordinances</a></h2>
 
 ## Recently Adopted Borough Codes and Ordinances:

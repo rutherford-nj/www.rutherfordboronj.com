@@ -21,7 +21,7 @@ hide_header_logo: true
       <a href="/notifications/">Notify Me</a>
     </div>
     <div class="col d-flex justify-content-center py-1 py-md-2 py-lg-3">
-      <a href="/">How Do I…</a>
+      <a href="/how-do-i/">How Do I…</a>
     </div>
     <div class="col d-flex justify-content-center py-1 py-md-2 py-lg-3">
       <a href="/departments/borough-clerk/minutes-and-agendas/">Minutes & Agendas</a>
@@ -43,7 +43,7 @@ hide_header_logo: true
     <div class="col order-md-last">
       <div class="card mb-4 border-2 homepage-meetings-and-events">
         <div class="card-body d-flex justify-content-center fs-2">
-          <a href="/calendars/">Meetings &amp; Events Calendar</a>
+          <a href="/calendars/" class="stretched-link">Meetings &amp; Events Calendar</a>
         </div>
       </div>
       <div class="card mb-4 border-2 homepage-quick-links">
@@ -70,7 +70,7 @@ hide_header_logo: true
               frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
           </div>
           {% else %}
-          {% if site.data.homepage.picture.link %}<a href="{{ site.data.homepage.picture.link }}">{% endif %}
+          {% if site.data.homepage.picture.link %}<a class="stretched-link" href="{{ site.data.homepage.picture.link }}">{% endif %}
             <img class="img-fluid" src="{{ site.data.homepage.picture.src }}?zx={{ "now" | date: "%s" }}"
               alt="{{ site.data.homepage.picture.alt }}" />
             {% endif %}
