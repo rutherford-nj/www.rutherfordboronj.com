@@ -3,9 +3,11 @@
 
 $breakpoint: 768px;
 
+$rutherford-almost-black: #111921;
 $rutherford-blue: #12284b;
 $rutherford-cream: #fffdeb;
 $rutherford-green: #6c702f;
+$rutherford-dark-gray: #a7a8aa;
 $rutherford-light-gray: #c7c7c7;
 $rutherford-red: #9f3e34;
 
@@ -18,6 +20,6 @@ $rutherford-red: #9f3e34;
 @import "navbar.scss";
 @import "page.scss";
 
-.card {
-  border-radius: 1rem !important;
+main .card {
+  border-radius: 1rem;
 }
