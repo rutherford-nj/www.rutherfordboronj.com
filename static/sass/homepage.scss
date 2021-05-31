@@ -1,6 +1,10 @@
 .homepage-meetings-and-events {
   border-color: $rutherford-red;
 
+  .card-body {
+    padding: .5rem;
+  }
+
   a {
     color: $rutherford-red;
     text-decoration: none;
@@ -16,11 +20,15 @@
 
 .homepage-navbar {
   background-color: $rutherford-blue;
-  color: $rutherford-cream;
 
   a {
-    color: $rutherford-cream;
+    color: rgba(255, 255, 255, .55);
     font-weight: bold;
     text-decoration: none;
+    transition: 0.15s;
+  }
+
+  a:hover {
+    color: rgba(255, 255, 255, .75);
   }
 }
