@@ -6,6 +6,7 @@
 <head>
   <title>{% if page.title and page.title != '07070' %}{{page.title | escape}} | {% endif %}The Borough of Rutherford,
     New Jersey</title>
+  {% include google_analytics.html %}
   <meta charset='UTF-8' />
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
   <meta name="theme-color" content="#036">
@@ -21,34 +22,7 @@
 </head>
 
 <body class="d-flex flex-column h-100">
-  <!-- Google Tag Manager -->
-  <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WJ2VPD" height="0" width="0"
-      style="display:none;visibility:hidden"></iframe></noscript>
-  <script>(function (w, d, s, l, i) {
-      w[l] = w[l] || []; w[l].push({
-        'gtm.start':
-          new Date().getTime(), event: 'gtm.js'
-      }); var f = d.getElementsByTagName(s)[0],
-        j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
-          '//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
-    })(window, document, 'script', 'dataLayer', 'GTM-WJ2VPD');</script>
-  <!-- End Google Tag Manager -->
-  <div id="ie11-warning" style="background-color: red; display: none; font-size: 120%; padding: 1em; width: 100%;">
-    <a
-      href="https://blogs.windows.com/windowsexperience/2021/05/19/the-future-of-internet-explorer-on-windows-10-is-in-microsoft-edge/">Internet
-      Explorer is no longer supported by Microsoft</a>.
-    Many features of this site will not work while using Internet Explorer.
-    <br>
-    Please upgrade to a new browser:
-    <a href="https://www.google.com/chrome/">Google Chrome</a>,
-    <a href="https://www.microsoft.com/en-us/edge">Microsft Edge</a>,
-    or <a href="https://www.mozilla.org/en-US/firefox/new/">Firefox</a>.
-  </div>
-  <script>
-    if (/Trident\/|MSIE/.test(window.navigator.userAgent)) {
-      document.getElementById('ie11-warning').style.display = 'block';
-    }
-  </script>
+  {% include ie_warning.html %}
   <main class="flex-shrink-0">
     <!-- Navigation-->
     <nav class="navbar navbar-expand-lg navbar-dark navbar-rutherford-bg">
