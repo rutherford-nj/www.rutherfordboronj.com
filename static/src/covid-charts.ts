@@ -19,8 +19,7 @@ export function fetchCovidCharts() {
     .then(resp => resp.text())
     .then(text => dataTable.innerHTML += text)
     .then(() => {
-      let t = document.getElementById(tableID);
-      t.querySelectorAll('table').forEach(table => {
+      document.getElementById(tableID).querySelectorAll('table').forEach(table => {
         table.classList.remove('dataframe');
         table.classList.add('table');
         table.classList.add('table-sm');
