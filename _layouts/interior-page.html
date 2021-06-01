@@ -4,7 +4,7 @@ index: true
 ---
 
 {% if page.parent %}
-<nav aria-label="breadcrumb">
+<nav aria-label="breadcrumb" class="mt-2">
   <ol class="breadcrumb">
     {% if page.grandparent %}
     <li class="breadcrumb-item"><a href="{{ page.grandparent_url | default: '../../' }}">{{ page.grandparent | escape }}</a></li>
