@@ -1,19 +1,15 @@
 ---
-layout: default
+layout: page
 section: blog
 ---
 
-<div class="blog-container">
-  {% for category in page.categories %}
-    {% if category != 'departments' %}{% if category != 'committees' %}
-      <div class="blog-icon" style="background-image: url(../../../../icon.png)"></div>
-    {% endif %}{% endif %}
-  {% endfor %}
-  <div class="blog-content">
-    <h3><a href="../../../../">Return to {% if page.categories contains "committees" %}Committee{% else %}Department{% endif %} Homepage</a></h3>
-    <div class="blog-title">{{page.title}}</div>
-    <div class="blog-date">Posted {{page.date | date:"%A %B %-d, %Y"}}</div>
-    {% include social.html %}
-    {{content}}
+<h3><a href="../../../../">Return to
+    {% if page.categories contains "committees" %}Committee{% else %}Department{% endif %} Homepage</a></h3>
+
+<div class="card my-4">
+  <div class="card-header">{{page.title}}</div>
+  <div class="card-body">
+    <p class="card-text">{{content}}</p>
   </div>
+  <div class="card-footer text-muted">Posted {{page.date | date:"%A %B %-d, %Y"}}</div>
 </div>

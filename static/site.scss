@@ -16,10 +16,25 @@ $rutherford-red: #9f3e34;
 @import "calendars.scss";
 @import "covid-charts.scss";
 @import "departments.scss";
+@import "government.scss";
 @import "homepage.scss";
 @import "navbar.scss";
 @import "page.scss";
 
 main .card {
   border-radius: 1rem;
+
+  .card-header {
+    border-top-left-radius: 1rem;
+    border-top-right-radius: 1rem;
+  }
+
+  .card-footer {
+    border-bottom-left-radius: 1rem;
+    border-bottom-right-radius: 1rem;
+  }
+}
+
+a {
+  color: $rutherford-almost-black;
 }

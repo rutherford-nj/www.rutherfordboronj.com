@@ -3,6 +3,19 @@ layout: default
 index: true
 ---
 
+{% comment %}
+path_components ends up being an array like ["", "departments", "borough-clerk"]
+{% endcomment %}
+{% assign path_components = page.url | split: "/" %}
+
+{% if path_components.size > 2 %}
+  {% if path_components[1] == "departments" %}
+  <div class="container-fluid" style="background-color:aquamarine;">
+    {{ path_components[2] }}
+  </div>
+  {% endif %}
+{% endif %}
+
 <div class="container mt-2">
   {{content}}
 </div>
