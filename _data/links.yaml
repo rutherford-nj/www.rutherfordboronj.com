@@ -88,8 +88,6 @@ departments:
     - text: Citizens Survey
       href: citizens-survey/
   recreation:
-    - text: RecDesk
-      href: https://rutherfordnj.recdesk.com/Community/Home
     - text: COVID Waivers
       href: waivers/
     - text: Enrichment Classes
