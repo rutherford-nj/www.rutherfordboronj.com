@@ -3,13 +3,18 @@ layout: page
 title: 'Committees'
 ---
 
-<div class="committee-list" markdown=1>
+<p>
+  The application and interview process takes place annually in the fall for any Rutherford resident interested in serving on a Board, Commission or Committee for the following year.
+</p>
 
-The application and interview process takes place annually in the fall for any Rutherford resident interested in serving on a Board, Commission or Committee for the following year.  
+<div class="row">
+<div class="col-md-4">
+<div class="card mb-4">
+<div class="card-body" markdown=1>
 
-# Boards and Commissions
+## Boards and Commissions
 
-[Click here for the 2021 Board and Commission Meeting Schedule](https://storage.googleapis.com/static.rutherford-nj.com/committees/DOC680.pdf)
+[2021 Board and Commission Meeting Schedule](https://storage.googleapis.com/static.rutherford-nj.com/committees/DOC680.pdf)
 
 *Boards and Commissions are strictly governed by by-laws and require minutes and agendas. Their regular meetings are open to the public.* 
 
@@ -44,9 +49,16 @@ The application and interview process takes place annually in the fall for any R
 
 [**Shade Tree Commission**](shade-tree-commission/)
 
----
+</div>
+</div>
+</div>
 
-# Advisory Committees
+
+<div class="col-md-8">
+<div class="card mb-4">
+<div class="card-body" markdown=1>
+
+## Advisory Committees
 
 *Advisory committee meetings are not subject to the Open Public Meetings Act (OPMA) as no formal action takes place and therefore are not required to be open to the public.*   
 
@@ -136,8 +148,8 @@ Municipal Alliances are local planning and coordinating bodies established in al
 > The vision of the Rutherford Volunteer Committee is to provide every resident the opportunity to participate in and contribute to the betterment of Rutherford. How? 
 By making volunteer opportunities available & accessible in order to bring the community together. If you'd like to be a member of a volunteer team, [please fill out this form.](https://docs.google.com/forms/d/e/1FAIpQLSdrJvChRVE6Xvc1lSz6YxpUwQEJRv49HXx25O5yPdMm2oaTGA/viewform)
 
----
 
-
-
+</div>
+</div>
+</div>
 </div>
