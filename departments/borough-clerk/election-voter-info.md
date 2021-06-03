@@ -23,7 +23,7 @@ All residents are reminded of the following to ensure their voting privilege: Yo
 
 **POLLING PLACE LOCATIONS**
 
-*Please note that due to the construction at Union School, Districts 11 and 12 are being temporarily relocated to the Congregational Church at 251 Union Avenue.
+Please note that due to the construction at Union School, **Districts 11 and 12 are being temporarily relocated to the Congregational Church at 251 Union Avenue.**
 
 
 1st District:	Lincoln School	414 Montross Avenue
@@ -46,10 +46,13 @@ All residents are reminded of the following to ensure their voting privilege: Yo
 
 10th District:	Pierrepont School	70 E. Pierrepont Avenue
 
-11th District:	Congregational Church	251 Union Avenue
+**11th District:	Congregational Church	251 Union Avenue**
 	
-12th District:	Congregational Church	251 Union Avenu
+**12th District:	Congregational Church	251 Union Avenue**
 
+Please note that Poll Workers cannot accept Mail-In Ballots at the polls.  Voters are advised to take their mail-in ballots to the Election Drop-Box located at 176 Park Avenue or to one of the other 18 Election Drop-Boxes located throughout the County.
+
+Bergen County Voters are being strongly encouraged to wear masks in all public buildings.  Each location will have ample supply of extra masks and hand sanitizers.
 
 
 Please call us at 201-460-3001, if you have any questions.
