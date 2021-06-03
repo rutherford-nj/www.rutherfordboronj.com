@@ -11,11 +11,14 @@ path_components ends up being an array like ["", "departments", "borough-clerk"]
 {% if path_components.size > 2 %}
   {% if path_components[1] == "departments" %}
   <div class="container-fluid" style="background-color:aquamarine;">
-    {{ path_components[2] }}
+    {{ path_components[2] }}<br>
+    we're going to put a beautiful banner here<br>
+    it'll be the best<br>
+    just you wait and see
   </div>
   {% endif %}
 {% endif %}
 
-<div class="container mt-2">
+<div class="container mt-4">
   {{content}}
 </div>
