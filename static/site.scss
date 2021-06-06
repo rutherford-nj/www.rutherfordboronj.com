@@ -21,6 +21,10 @@ $rutherford-red: #9f3e34;
 @import "navbar.scss";
 @import "page.scss";
 
+h1, h2 {
+  color: $rutherford-blue;
+}
+
 main .card {
   border-radius: 1rem;
 
