@@ -1,8 +1,3 @@
-<div class="page-post-link">
-  {% for category in include.post.categories %}
-    <img alt="{{category}} post" class="page-post-icon page-post-icon-{{category}}" src="/static/images/clear.gif" />
-  {% endfor %}
-  <div>
+<li class="list-group-item">
     {% if include.post_date %}{{ include.post_date | date:"%b %d" }} - {% endif %}<a href="{{ include.post.url }}">{{ include.post.title }}</a>
-  </div>
-</div>
+</li>

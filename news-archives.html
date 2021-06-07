@@ -10,10 +10,14 @@ title: News Archives
   {% if forloop.first %}
     {% capture lyear %}{{ post.date | date: '%Y' }}{% endcapture %}
     <h3>{{ post.date | date: '%Y' }}</h3>
+    <ul class="list-group mb-4">
   {% endif %}
   {% if year != lyear %}
+    </ul>
     <h3>{{ post.date | date: '%Y' }}</h3>
+    <ul class="list-group mb-4">
   {% endif %}
   {% include post_link.html post=post post_date=post.date %}
   {% capture lyear %}{{ post.date | date: '%Y' }}{% endcapture %}
 {% endfor %}
+</ul>
