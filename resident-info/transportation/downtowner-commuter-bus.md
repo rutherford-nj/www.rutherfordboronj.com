@@ -1,17 +1,15 @@
 ---
 title: "Downtowner and Commuter Bus"
-layout: page
+layout: interior-page
+parent: Transportation
+grandparent: Resident Services
 ---
 
-## Commuter Shuttle - 
+## Commuter Shuttle
 
 **Effective 11/23/2020 commuter shuttle service (morning and evening) is suspended until further notice. The Downtowner will continue to run on its regular schedule.**
 
-The Commuter Shuttle is offered free to all residents. The bus operates Monday through Friday from 6:00 am to 8:43 am in the mornings and 4:49 pm to 7:04 pm in the evenings. There is no service on Saturday, Sunday and Holidays.  
-
-<div style="float: right;">
-<iframe src="https://www.google.com/maps/d/embed?mid=z9E2BG8u0Qag.kLkdVR40gGZo" width="300" height="500"></iframe>
-</div>
+The Commuter Shuttle is offered free to all residents following [this route](https://www.google.com/maps/d/viewer?mid=1CPW4txNeS55syVYQ9XMPqHbDpl0). The bus operates Monday through Friday from 6:00 am to 8:43 am in the mornings and 4:49 pm to 7:04 pm in the evenings. There is no service on Saturday, Sunday and Holidays.  
 
 **Morning Shuttle**
 
@@ -25,7 +23,7 @@ The Commuter Shuttle is offered free to all residents. The bus operates Monday t
 | Orient Way & Woodland Street | 6:10 AM | 6:24 AM | 6:58 AM | 7:33 AM | 7:59 AM | 8:39 AM |
 | Arrive at Train Station | 6:12 AM | 6:26 AM | 7:02 AM | 7:37 AM | 8:03 AM | 8:43 AM  |
 | Train Departs |      	| 6:36 AM	 | 7:12 AM | 7:47 AM	| 8:13 AM	 | 8:53 AM	|
-{: .hover-table }
+{: .table .table-striped .table-hover }
 
 
 **Evening Shuttle**
@@ -39,17 +37,13 @@ Departure time based on train arrival.
 The Shuttle makes stops at Washington Avenue, Union Avenue, Carmita Avenue, West Pierrepont Avenue, Woodland Avenue and Orient Way.	
 
 
-## Downtowner Bus - 
+## Downtowner Bus
 
-The Downtowner Bus is offered FREE to all residents. The bus operates Monday through Friday from 9:00 am to 3:58 pm and travels two loops throughout the Borough. 
+The Downtowner Bus is offered FREE to all residents. The bus operates Monday through Friday from 9:00 am to 3:58 pm and [travels two loops](https://www.google.com/maps/d/viewer?mid=1nwpeeqJfSGZMbLdItbIz__CYx-c) throughout the Borough. 
 
 Due to the Shop-Rite Shuttle on Monday and Wednesday mornings, the Downtowner will NOT be in operation for Trips 2 and 3. There is no service on Saturday, Sunday and Holidays.  
 
-<div style="float: right;">
-  <iframe src="https://www.google.com/maps/d/embed?mid=z9E2BG8u0Qag.kkVKv7_elh6M" width="300" height="500"></iframe>
-</div>
-
-## Shop-Rite Shuttle - 
+## Shop-Rite Shuttle 
 
 Monday and Wednesday mornings the Downtown Shuttle starts at 9:00 am at Kip
 Avenue and continues through loops A and B. It arrives at Lyndhurst Shop-Rite
@@ -66,7 +60,7 @@ approximately 10:00 am and leaves at 11:00 am.
 | Park Avenue & Woodland Avenue | 9:12 | 10:12 | 11:12 | 1:12 | 2:12 | 3:12 |
 | Carmita Avenue & West Newell Avenue | 9:16 | 10:16 | 11:16 | 1:16 | 2:16 | 3:16 |
 | Lincoln Avenue & Summit Cross | 9:20 | 10:20 | 11:20 | 1:20 | 2:20 | 3:20 |
-{: .hover-table }
+{: .table .table-striped .table-hover }
 
 **Loop B**
 
@@ -80,4 +74,4 @@ approximately 10:00 am and leaves at 11:00 am.
 | Union Avenue & Springfield Avenue | 9:44 | 10:44 | 11:44 | 1:44 |      | 3:44 |
 | Morse Avenue & Montross Avenue | 9:46 | 10:46 | 11:46 | 1:46 | 2:46 | 3:46 |
 | Washington Avenue & Grove Street | 9:48 | 10:48 | 11:48 | 1:48 | 2:48 | 3:48 |
-{: .hover-table }
+{: .table .table-striped .table-hover }

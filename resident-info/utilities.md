@@ -1,5 +1,6 @@
 ---
-layout: page
+layout: interior-page
+parent: Resident Services
 title: 'Utilities'
 ---
 
