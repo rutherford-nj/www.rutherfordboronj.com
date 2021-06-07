@@ -5,8 +5,8 @@ layout: page
 <div class="row mt-4">
   <div class="col-md-4">
     <div class="card mb-4">
+      <h5 class="card-header">Search</h5>
       <div class="card-body">
-        <h5 class="card-header mb-4">Search</h5>
         <input id="search-box" type="search" aria-label="Search" placeholder="Search the site...">
         <input id="search-button" type="button" value="Search">
       </div>
@@ -16,9 +16,7 @@ layout: page
   <div class="col-md-8">
     <div class="card mb-4 d-none" id="search-card">
       <div class="card-body">
-        <div>
-          <h2>Your search for &ldquo;<span id="search-query"></span>&rdquo; returned the following pages:</h2>
-        </div>
+        <h2 class="mb-4">Your search for &ldquo;<span id="search-query"></span>&rdquo; returned the following pages:</h2>
         <div id="search-results"></div>
       </div>
     </div>
