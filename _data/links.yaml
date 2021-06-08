@@ -73,7 +73,7 @@ departments:
     - text: Court Staff Assistance
       href: https://storage.googleapis.com/static.rutherford-nj.com/municipal-court/Case%20Resolution%20Without%20In-Person%20Appearance.pdf
     - text: Directions to Municipal Court
-      href: https://storage.googleapis.com/static.rutherford-nj.com/municipal-court/Case%20Resolution%20Without%20In-Person%20Appearance.pdf
+      href: directions/
     - text: Filing a Complaint in Municipal Court
       href: https://storage.googleapis.com/static.rutherford-nj.com/municipal-court/Filing%20a%20Complaint%20in%20Municipal%20Court.pdf
     - text: Forms
