@@ -1,9 +1,8 @@
 ---
-layout: page
+layout: interior-page
+parent: Land Use and Redevelopment
 title: 'PILOT Information'
 ---
-
-[Return to Land Use and Redevelopment page](../)
 
 
 # PILOTS (Payments In Lieu Of Taxes)

@@ -1,9 +1,8 @@
 ---
-layout: page
+layout: interior-page
 title: 'COVID-19 Information-Archives'
+parent: Covid Information
 ---
-
-[Back to Daily COVID-19 Information](/covid-information)
 
 Below find each COVID-19 update made by the Rutherford Mayor and Council from March - present: 
 

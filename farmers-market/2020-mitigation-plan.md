@@ -1,9 +1,8 @@
 ---
-layout: page
+layout: interior-page
 title: 'Farmers Market - 2020 Mitigation Plan'
+parent: Farmers Market
 ---
-
-[Return to Farmers' Market page](/farmers-market/)
 
 **COVID-19 Mitigation Plan for the 2020 Rutherford Farmers Market**
 

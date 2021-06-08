@@ -1,10 +1,8 @@
 ---
-layout: page
+layout: interior-page
 title: 'Farmers Market - Vendor Information'
+parent: Farmers Market
 ---
-
-[Return to Farmers' Market page](/farmers-market/)
-
 
 # 2020 Farmers' Market Vendor Information
 
