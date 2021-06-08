@@ -66,10 +66,26 @@ departments:
     - text: Bergen County Health News
       href: bergen-county/
   municipal-court:
-    - text: Fines & Violations
-      href: fines-and-violations/
-    - text: Important Links & FAQs
-      href: links-and-faqs/
+    - text: Brochures
+      href: brochures/
+    - text: Case Resolution Without In-Person Appearance
+      href: https://storage.googleapis.com/static.rutherford-nj.com/municipal-court/Case%20Resolution%20Without%20In-Person%20Appearance.pdf
+    - text: Court Staff Assistance
+      href: https://storage.googleapis.com/static.rutherford-nj.com/municipal-court/Case%20Resolution%20Without%20In-Person%20Appearance.pdf
+    - text: Directions to Municipal Court
+      href: directions/
+    - text: Filing a Complaint in Municipal Court
+      href: https://storage.googleapis.com/static.rutherford-nj.com/municipal-court/Filing%20a%20Complaint%20in%20Municipal%20Court.pdf
+    - text: Forms
+      href: https://storage.googleapis.com/static.rutherford-nj.com/municipal-court/Filing%20a%20Complaint%20in%20Municipal%20Court.pdf
+    - text: Frequently Asked Questions
+      href: https://storage.googleapis.com/static.rutherford-nj.com/municipal-court/Filing%20a%20Complaint%20in%20Municipal%20Court.pdf
+    - text: New Jersey Courts
+      href: https://njcourts.gov/
+    - text: NJ Motor Vehicle Commission Point Schedule
+      href: https://www.state.nj.us/mvc/license/points-schedule.htm
+    - text: Pay a Municipal Case
+      href: https://portalnjmcdirect-cloud.njcourts.gov/prweb/PRServletPublicAuth/app/MuniPay_/wQ2guhy8lqKPggD8pVI7RLYVZ9vxwNMF*/!STANDARD?AppName=NJMC&fromBrowserHistory=truem
   police:
     - text: Personnel / Contacts
       href: personnel-contacts/
