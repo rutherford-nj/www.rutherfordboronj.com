@@ -24,64 +24,6 @@ Some questions we will ask:
 
 This chart is to show what work the dwelling owner can do.
 
-<div>
-    <table id="construction-permit-table">
-        <thead>
-            <tr>
-                <th rowspan=2>Type of Dwelling</th>
-                <th colspan=2>Plumbing</th>
-                <th colspan=2>HVACR</th>
-                <th colspan=2>Electrical</th>
-            </tr>
-            <tr>
-                <th>Plans</th>
-                <th>Work</th>
-                <th>Plans</th>
-                <th>Work</th>
-                <th>Plans</th>
-                <th>Work</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td>1a. Single-family detached home; own and reside</td>
-                <td>Yes</td><td>Yes</td><td>Yes*</td><td>Yes*</td><td>Yes</td><td>Yes</td>
-            </tr>
-            <tr>
-                <td>1b. Single-family detached home; own but NOT reside</td>
-                <td>No</td><td>No</td><td>No</td><td>No</td><td>No</td><td>No</td>
-            </tr>
-            <tr>
-                <td>2a. Two-family detached home; own and reside</td>
-                <td>No</td><td>No</td><td>No</td><td>No</td><td>Yes</td><td>Yes</td>
-            </tr>
-            <tr>
-                <td>2b. Two-family detached home; own but NOT reside</td>
-                <td>No</td><td>No</td><td>No</td><td>No</td><td>No</td><td>No</td>
-            </tr>
-            <tr>
-                <td>3a. Attached single-family townhouse; own and reside</td>
-                <td colspan=2>Yes if single sewer system; No if common sewer system.</td><td>Yes</td><td>Yes</td><td>Yes</td><td>Yes</td>
-            </tr>
-            <tr>
-                <td>3b. Attached single-family townhouse; own but NOT reside</td>
-                <td>No</td><td>No</td><td>No</td><td>No</td><td>No</td><td>No</td>
-            </tr>
-            <tr>
-                <td>4a. Unit in building of three or more dwellings; own and reside</td>
-                <td>No</td><td>No</td><td>No</td><td>No</td><td>Yes</td><td>Yes</td>
-            </tr>
-            <tr>
-                <td>4b. Unit in building of three or more dwellings; own but NOT reside</td>
-                <td>No</td><td>No</td><td>No</td><td>No</td><td>No</td><td>No</td>
-            </tr>
-            <tr>
-                <td></td><td colspan=6>*Cannot do work that involves the use of chlorofluorocarbons (CFCs) or hydrochlorofluorocarbons (HCFCs)</td>
-            </tr>
-        </tbody>
-    </table>
-</div>
-
 ### Other items to note:
 
 The applicant must wait for permit approval to start any work.
