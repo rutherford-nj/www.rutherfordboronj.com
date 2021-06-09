@@ -20,7 +20,7 @@ $50 for the first hour, $25 for each additional hour.
 | Non-Profit resident group, organization or educational facility, with the exception of Tryon Field | $50.00 |
 | Non-resident Event 51-100 participants | $150.00 |
 | Non-resident Roster or Event participant | $75.00 |
-{: .hover-table}
+{: .table .table-striped .table-hover}
 
 ### Field Permit
 
@@ -30,7 +30,7 @@ $50 for the first hour, $25 for each additional hour.
 | Resident non-profit adult group– field permit w/lights | $200.00 |
 | Non-resident non-profit group –field permit | $100.00 |
 | Non resident non-profit group-field permit w/lights | $250.00 |
-{: .hover-table}
+{: .table .table-striped .table-hover}
 
 ### Tryon Stadium
 
@@ -38,7 +38,7 @@ $50 for the first hour, $25 for each additional hour.
 | Resident non-profit adult group– field permit w/lights – per hour | $50.00 |
 | Non-resident non-profit group –field permit – per hour | $50.00 |
 | Non resident non-profit group-field permit w/lights – per hour | $100.00 |
-{: .hover-table}
+{: .table .table-striped .table-hover}
 
 **TENNIS BADGES**
 2020 badges will no longer be valid after April 10th, 2021. 
@@ -54,7 +54,4 @@ Please order & pay for your badges through [RecDesk](https://rutherfordnj.recdes
 | Student (12 - 18 years) | $5.00 |
 | Adult resident | $20.00 |
 | Guest: Non-resident accompanied by resident | $30.00 |
-{: .hover-table}
-
-
-
+{: .table .table-striped .table-hover}
