@@ -20,7 +20,7 @@ departments:
   building:
     - text: Forms
       href: forms/
-    - text: Construction Permit Process
+    - text: FAQs and Permit Process
       href: permit-process/
     - text: For Business Owners
       href: business-owners/
