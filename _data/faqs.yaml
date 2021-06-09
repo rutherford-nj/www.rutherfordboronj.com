@@ -15,13 +15,59 @@ municipal-court-1:
     - heading: "item 1"
       text: "some text"
     - heading: "item 2"
-      text: "some <strong>html</strong> content. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec non libero vel metus scelerisque vestibulum. Etiam interdum facilisis erat, eu rhoncus neque interdum vitae. Pellentesque ornare laoreet justo in pharetra. Vestibulum id leo velit. Pellentesque suscipit sagittis erat, ultrices eleifend neque mattis eu. Etiam eu nisi nec magna mollis tincidunt porta id mi. Proin scelerisque aliquam lectus. Nunc ac faucibus risus. Quisque venenatis felis id urna sollicitudin placerat. Nulla a blandit est, ut venenatis turpis. Sed feugiat mattis nisl, eu efficitur dolor condimentum scelerisque. Curabitur libero justo, imperdiet sed iaculis iaculis, pretium eu metus."
+      text: "some <strong>html</strong> content"
 
-municipal-court-2:
-  id: "court-2"
-  title: "Section 2"
+building-1:
+  id: "building"
+  title: "Building Permits & Zoning FAQ’s"
   items:
-    - heading: "item 3"
-      text: "some text"
-    - heading: "item 4"
-      text: "some <strong>html</strong> content. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec non libero vel metus scelerisque vestibulum. Etiam interdum facilisis erat, eu rhoncus neque interdum vitae. Pellentesque ornare laoreet justo in pharetra. Vestibulum id leo velit. Pellentesque suscipit sagittis erat, ultrices eleifend neque mattis eu. Etiam eu nisi nec magna mollis tincidunt porta id mi. Proin scelerisque aliquam lectus. Nunc ac faucibus risus. Quisque venenatis felis id urna sollicitudin placerat. Nulla a blandit est, ut venenatis turpis. Sed feugiat mattis nisl, eu efficitur dolor condimentum scelerisque. Curabitur libero justo, imperdiet sed iaculis iaculis, pretium eu metus."
+    - heading: "Building Permits: When are they required?"
+      text: "Generally, you need to obtain a building permit from the Borough whenever you construct, enlarge, alter, repair, move, remove, improve, convert, or demolish a building or other structure. A building could be anything from a tool shed to a house. A Building Permit may include building, grading, plumbing, mechanical and electrical permits. The Borough processes the various permit types required as one total package. Please reach out with any questions on filling out the application."
+    - heading: "What is an accessory structure?"
+      text: "An accessory structure (such as a shed) is a structure separate from the primary residence. It must be no closer than 3’ from all sides of the property line. The structure must also be 10’ from any other structure on the property."
+    - heading: "What is the ordinance of placing a shed on my property?"
+      text: "A shed is an accessory structure and must meet those requirements. A shed can be a maximum of 200 sq. ft. and only requires a zoning permit unless a slab is required, in which case the building section of UCC application will be submitted along side zoning. Set back: The shed must be setback 3’ from the side and rear property line. The shed must be 10’ away from any other structures on the property and cannot exceed 10% of the lot size. The maximum height of the shed is 15’. A survey of the property must be included with the application."
+    - heading: "What is the ordinance for an A/C or Generator?"
+      text: "An A/C condenser or a generator cannot be located on the front façade of a residential structure and must be setback a minimum of 15’ from the front façade if located in the side yard and no closer than 3’ from the property line. A survey of the property must be included with the application."   
+    - heading: "How high can I have my fence?"
+      text: "In all residential zones, fences are allowed to be a maximum of 6’ in the rear yard, 4’ in the side yard, and 3’ in the front yard. The fence in the front yard must be 50% open (no privacy fences in the front). If there is a pool on the property, the building section of the UCC application must be filled out along side of the zoning. A survey of the property must be included with the application."  
+    - heading: "Where can I put my pool?"
+      text: "A pool must be set back at least 5’ from any inside property line and 10’ from any street line. The pool cannot be located in the front yard and cannot occupy more than 75% of the rear or side yard. The pool must also meet the requirements of an accessory structure. The pool must also meet the minimum of the New Jersey Pool Barrier Code. A UCC application as well as a zoning application is required for this type of permit. A survey of the property must be included with the application."     
+    - heading: "How big can my patio be?"
+      text: "A patio is an impervious surface and only requires a zoning permit. The square footage of the patio plus any other impervious surfaces (i.e. driveway, walkway, etc) cannot exceed 25% of the lot size. A survey of the property must be included with the application"       
+    - heading: "How big of a deck can I put in my yard?"
+      text: "A deck attached to the house is part of the principle structure and has the same requirements as a principle structure being 5’ from the property line. A detached deck is an accessory structure and must meet those requirements. This will require a building permit (for footings and framing) as well as zoning. A survey of the property must be included with the application."  
+    - heading: "Where can I put the driveway to my house?"
+      text: "A driveway is an impervious surface. The square footage of the driveway plus any other impervious surfaces (i.e. patio, walkway, etc) cannot exceed 25% of the lot size. A driveway must be at least 8’ in width and a maximum of 12’ in width for the front and side yards. The minimum driveway length is from the front property line to the rear line of the principle structure. A survey of the property must be included with the application."     
+    - heading: "How high can I put a retaining wall?"
+      text: "A retaining wall that is under 3’ in height will only require a zoning permit. A UCC building permit is required for a wall over 3’. A detailed drawing showing how the wall will be constructed is required with the application. A survey of the property must be included with the application."      
+      
+ 
+building-2:
+  id: "building-2"
+  title: "What to expect during the permit process:"
+  items:
+    - heading: "Homeowners & existing commercial tenants"
+      text: "Some questions we will ask:
+o What type of work is being done?
+
+o Is this a single family/multifamily/commercial property?
+
+· A construction Permit Application will be given to the applicant and this must be filled out completely before we can take it in.
+
+· If the job requires it, two signed and sealed sets of sketches, drawings, plans, as well as any other documentation of the proposed work will be submitted for review along with the permit applications.
+
+· Plans will not be reviewed without the applications alongside"
+    - heading: "Other items to note for permit process:" 
+      text: "The applicant must wait for permit approval to start any work.
+
+The building department legally has 20 business days after submittal to issue the permit, however this process does not normally take this long unless there are incompletions with the application. If there are comments from any of the subcode officials these will be communicated promptly to the applicant.
+
+Once the permit is approved the applicant will receive a phone call to pick up and pay for the permit. The permit will be issued when and only when the permit is paid for. After payment is received, the project may commence.
+
+The applicant will receive a placard to be placed in a location easily visible from the street, such as a front window.
+
+Plans, if any, must be kept at the site at all times. This is so the inspector can compare the work being conducted to the approved plans. Please note that the inspector will not conduct an inspection without those plans on site.
+
+For a more detailed view of any and all requirements please see the UCC Construction Official Commentary: https://www.state.nj.us/dca/divisions/codes/publications/pdf_licensing/co_comment.pdf"
+ 
