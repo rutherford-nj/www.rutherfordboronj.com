@@ -29,10 +29,9 @@ municipal-court-1:
     - heading: "Am I eligible for a Public Defender?"
       text: "To see if you are eligible for a Public Defender you must first fill out a financial questionnaire to establish your eligibility. The Judge will review the completed form and grant his approval if you are entitled."
     - heading: "How can I appeal a decision of the Court?"
-      text: "If you disagree with the Judges decision, you may appeal. You must file the appeal within 20 calendar days of your conviction. You will be required to pay a deposit that will be applied against the cost of preparing the transcript. You will also be required to pay $100.00 filing fee. Please download a copy of the municipal court appeals packet available online or pick up a copy in person."  
+      text: "If you disagree with the Judges decision, you may appeal. You must file the appeal within 20 calendar days of your conviction. You will be required to pay a deposit that will be applied against the cost of preparing the transcript. You will also be required to pay $100.00 filing fee. Please download a copy of the municipal court appeals packet available online or pick up a copy in person."
     - heading: "If I wish to pay my ticket, what information do you need from me?"
-      text: "You can pay via the internet, www.njmcdirect.com; you will need the following: East Rutherford court code (0212), ticket prefixes, ticket number, and plate number. If you choose to mail in your payment, simply include the ticket number on your check or money order.    
-
+      text: "You can pay via the internet, www.njmcdirect.com; you will need the following: East Rutherford court code (0212), ticket prefixes, ticket number, and plate number. If you choose to mail in your payment, simply include the ticket number on your check or money order."
 
 building-1:
   id: "building"
