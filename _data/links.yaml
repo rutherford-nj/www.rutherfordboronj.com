@@ -79,7 +79,7 @@ departments:
     - text: Forms
       href: forms/
     - text: Frequently Asked Questions
-      href: https://storage.googleapis.com/static.rutherford-nj.com/municipal-court/Filing%20a%20Complaint%20in%20Municipal%20Court.pdf
+      href: faqs/
     - text: New Jersey Courts
       href: https://njcourts.gov/
     - text: NJ Motor Vehicle Commission Point Schedule
