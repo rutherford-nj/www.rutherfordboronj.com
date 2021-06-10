@@ -24,6 +24,11 @@ h1, h2, h3 {
   color: $rutherford-blue;
 }
 
+a {
+  color: $rutherford-almost-black;
+  text-decoration: underline 5%;
+}
+
 main .card {
   border-radius: 1rem;
 
@@ -36,11 +41,6 @@ main .card {
     border-bottom-left-radius: 1rem;
     border-bottom-right-radius: 1rem;
   }
-}
-
-a {
-  color: $rutherford-almost-black;
-  text-decoration: underline 5%;
 }
 
 .department-card .card-header {
