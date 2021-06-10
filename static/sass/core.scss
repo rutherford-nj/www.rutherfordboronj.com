@@ -1,0 +1,22 @@
+h1, h2, h3 {
+  color: $rutherford-blue;
+}
+
+a {
+  color: $rutherford-almost-black;
+  text-decoration: underline 5%;
+}
+
+main .card {
+  border-radius: 1rem;
+
+  .card-header {
+    border-top-left-radius: 1rem;
+    border-top-right-radius: 1rem;
+  }
+
+  .card-footer {
+    border-bottom-left-radius: 1rem;
+    border-bottom-right-radius: 1rem;
+  }
+}

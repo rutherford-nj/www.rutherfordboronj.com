@@ -19,31 +19,4 @@ $rutherford-red: #9f3e34;
 @import "homepage.scss";
 @import "navbar.scss";
 @import "page.scss";
-
-h1, h2, h3 {
-  color: $rutherford-blue;
-}
-
-a {
-  color: $rutherford-almost-black;
-  text-decoration: underline 5%;
-}
-
-main .card {
-  border-radius: 1rem;
-
-  .card-header {
-    border-top-left-radius: 1rem;
-    border-top-right-radius: 1rem;
-  }
-
-  .card-footer {
-    border-bottom-left-radius: 1rem;
-    border-bottom-right-radius: 1rem;
-  }
-}
-
-.department-card .card-header {
-  background-color: $rutherford-blue;
-  color: white;
-}
+@import "core.scss";
