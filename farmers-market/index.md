@@ -13,11 +13,11 @@ title: 'Farmers Market'
 
 The market will be held in the William’s Plaza, Park Avenue on
 
-Wednesdays* 11:00am to 6:00pm beginning July 7 
+**Wednesdays* 11:00am to 6:00pm beginning July 7** 
 
 and
 
-Saturdays from 8:00am to 2:00pm beginning July 10.
+**Saturdays from 8:00am to 2:00pm beginning July 10.**
 
 The market season will conclude 10/30/2021.
 
