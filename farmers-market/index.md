@@ -13,7 +13,7 @@ title: 'Farmers Market'
 
 The market will be held in the William’s Plaza, Park Avenue on
 
-**Wednesdays* 11:00am to 6:00pm beginning July 7** 
+**Wednesdays 11:00am to 6:00pm beginning July 7** 
 
 and
 
@@ -21,7 +21,7 @@ and
 
 The market season will conclude 10/30/2021.
 
-*Please note: On Wednesday’s Park Avenue will close to vehicles at 4:00 pm for “Dining Under the Stars” please plan your visit accordingly.
+**Please note:** On Wednesdays, Park Avenue will close to vehicles at 4:00 pm for “Dining Out Rutherford.” Please plan your visit accordingly.
 
 The Rutherford Farmer’s Market is returning for its 24th season. The market is sponsored by the Borough of Rutherford. The governing body welcomes the opportunity to support regional farmers by allowing them to market quality products in our downtown area.  These markets provide the economic activity necessary to help preserve farmland, open space and a better quality of life in our region.  
 
