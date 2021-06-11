@@ -5,7 +5,7 @@ title: 'Farmers Market'
 
 # 2021 Farmers' Market       
 
-[See Flyer Here](https://storage.googleapis.com/static.rutherford-nj.com/farmers-market/2020_FarmersMarket.pdf)
+[See Flyer Here](https://storage.googleapis.com/static.rutherford-nj.com/farmers-market/2021_FarmersMarket.pdf)
 
 **[Information for Vendors](./vendor-info/)**
 
