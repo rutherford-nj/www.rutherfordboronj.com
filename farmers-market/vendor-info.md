@@ -48,7 +48,7 @@ If you are interested in participating this year, please complete your registrat
 11. **All fees MUST be paid prior to the Market Date.**
 
 12. Return the **Registration form, Registration Fee, Certificate of Insurance** and
-the Purchased Product Request form to:
+the **Purchased Product Request form** to:
 
 Laurie Gentile
 
