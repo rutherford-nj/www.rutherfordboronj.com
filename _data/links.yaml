@@ -89,6 +89,10 @@ departments:
   police:
     - text: Personnel / Contacts
       href: personnel-contacts/
+    - text: Firearms Applications
+      href: additional-services/firearms/ 
+    - text: Policies
+      href: policies/    
     - text: Resident Parking Permits
       href: parking/
     - text: Kid Print/Safely Back Home
@@ -99,10 +103,7 @@ departments:
       href: https://www.ptoabergencounty.org/
     - text: Additional Police Services & Information
       href: additional-services/
-    - text: Firearms Applications
-      href: additional-services/firearms/
-    - text: Citizens Survey
-      href: citizens-survey/
+
   recreation:
     - text: COVID Waivers
       href: waivers/
