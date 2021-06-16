@@ -47,7 +47,7 @@ departments:
       href: stormwater-information/
   finance:
     - text: Online Tax Payments
-      href: https://www.cit-e.net/rutherford-nj/cit-e-access/TaxBill_Std/?TID=167&TPID=15571
+      href: /departments/tax-collector/online-payments/
     - text: Budgets & Financials
       href: budgets-financials/
     - text: Employment & Bid Notices
@@ -103,7 +103,6 @@ departments:
       href: https://www.ptoabergencounty.org/
     - text: Additional Police Services & Information
       href: additional-services/
-
   recreation:
     - text: COVID Waivers
       href: waivers/
@@ -133,7 +132,7 @@ departments:
       href: tax-maps/
   tax-collector:
     - text: Online Tax Payments
-      href: https://www.cit-e.net/rutherford-nj/cn/TaxBill_Std/?tpid=15571
+      href: online-payments/
     - text: Sign up for Eminder
       href: eminder/
     - text: State Rebates & Reimbursements

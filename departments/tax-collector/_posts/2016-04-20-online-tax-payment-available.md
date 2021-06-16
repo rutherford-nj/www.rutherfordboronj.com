@@ -7,7 +7,7 @@ The Borough of Rutherford is now offering residents the opportunity to pay their
 
 Checking Account - ACH payments or “e-check”, and Credit Cards are now accepted.
 
-[Click here to visit the online tax payment page.](https://www.cit-e.net/rutherford-nj/cit-e-access/TaxBill_Std/?TID=167&TPID=15571)
+[Click here to visit the online tax payment page.](/departments/tax-collector/online-payments/)
 
 The link to the online tax payment page has also been permanently added to the Borough's home page in addition to the Tax Collector's page and the Department of Finance's page. 
 
