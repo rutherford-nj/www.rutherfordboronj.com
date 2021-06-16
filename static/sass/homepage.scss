@@ -1,13 +1,26 @@
-.homepage-meetings-and-events {
-  border-color: $rutherford-red;
-
+.homepage-button {
   .card-body {
     padding: .5rem;
   }
 
   a {
-    color: $rutherford-red;
     text-decoration: none;
+  }
+}
+
+.homepage-meetings-and-events {
+  border-color: $rutherford-red;
+
+  a {
+    color: $rutherford-red;
+  }
+}
+
+.homepage-online-tax-payments {
+  border-color: $rutherford-green;
+
+  a {
+    color: $rutherford-green;
   }
 }
 
