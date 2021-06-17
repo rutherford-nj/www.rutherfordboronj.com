@@ -1,3 +1,4 @@
+---
 layout: blog
 title: Packaging Styrofoam Collection 6/26
 ---
