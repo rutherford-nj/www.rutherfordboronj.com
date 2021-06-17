@@ -6,6 +6,12 @@ title: 'Mayor and Council Newsletters'
 
 # Archive of Mayor and Council Newsletters
 
+- [May 28, 2021](https://storage.googleapis.com/static.rutherford-nj.com/newsletters/Rutherford_Nwsltr_5-28-21.pdf)
+
+- [May 14, 2021](https://storage.googleapis.com/static.rutherford-nj.com/newsletters/Rutherford_Nwsltr_5-14-21.pdf)
+
+- [April 30, 2021](https://storage.googleapis.com/static.rutherford-nj.com/newsletters/Rutherford_Nwsltr_4-30-21.pdf)
+
 - [April 20, 2021: A Special Statement Regarding Mayor Nunziato's Health](https://storage.googleapis.com/static.rutherford-nj.com/statements/Mayor_Nunziato_Statement.pdf)
 
 - [April 16, 2021](https://storage.googleapis.com/static.rutherford-nj.com/newsletters/Rutherford_Nwsltr_4-16-21.pdf)
