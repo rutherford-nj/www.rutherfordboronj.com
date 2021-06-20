@@ -1,5 +1,6 @@
-- title: Test 1!
-  content: Some event is going to happen some day, and we'd put that here.
+- title: FIREWORKS!
+  content: We're going to have fireworks. They'll be great. And after the date the next time the site builds, they'll be removed from here.
+  remove-after: "2021-06-26"
   #image: foo.jpg
 - title: Test 2!
   content: Some other event is going to happen some day, and we'd put that here.
