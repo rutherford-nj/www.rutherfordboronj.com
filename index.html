@@ -23,7 +23,7 @@ title: '07070'
 </div>
 
 <div class="container-fluid">
-  <div class="row row-cols-2 row-cols-md-3 row-cols-lg-6 homepage-navbar">
+  <div class="row row-cols-2 row-cols-md-3 row-cols-lg-5 homepage-navbar">
     <div class="col d-flex justify-content-center py-1 py-md-2 py-lg-3">
       <a href="/departments/">Contact</a>
     </div>
@@ -33,9 +33,11 @@ title: '07070'
     <div class="col d-flex justify-content-center py-1 py-md-2 py-lg-3">
       <a href="/notifications/">Notify Me</a>
     </div>
+    {% comment %}
     <div class="col d-flex justify-content-center py-1 py-md-2 py-lg-3">
       <a href="/how-do-i/">How Do I…</a>
     </div>
+    {% endcomment %}
     <div class="col d-flex justify-content-center py-1 py-md-2 py-lg-3">
       <a href="/departments/borough-clerk/minutes-and-agendas/">Minutes & Agendas</a>
     </div>
@@ -54,9 +56,14 @@ title: '07070'
 
   <div class="row row-cols-1 row-cols-md-2">
     <div class="col order-md-last">
-      <div class="card mb-4 border-2 homepage-meetings-and-events homepage-button">
+      <div class="card mb-4 border-2 homepage-borough-calendar homepage-button">
         <div class="card-body d-flex justify-content-center fs-2">
-          <a href="/calendars/" class="fw-bold stretched-link">Meetings &amp; Events Calendar</a>
+          <a href="/calendars/" class="fw-bold stretched-link">Borough Calendar</a>
+        </div>
+      </div>
+      <div class="card mb-4 border-2 homepage-upcoming-events homepage-button">
+        <div class="card-body d-flex justify-content-center fs-2">
+          <a href="/upcoming-events/" class="fw-bold stretched-link">Upcoming Events</a>
         </div>
       </div>
       <div class="card mb-4 border-2 homepage-quick-links">

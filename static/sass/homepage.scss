@@ -8,11 +8,19 @@
   }
 }
 
-.homepage-meetings-and-events {
+.homepage-borough-calendar {
   border-color: $rutherford-red;
 
   a {
     color: $rutherford-red;
+  }
+}
+
+.homepage-upcoming-events {
+  border-color: $rutherford-blue;
+
+  a {
+    color: $rutherford-blue;
   }
 }
 
