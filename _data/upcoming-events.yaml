@@ -1,10 +1,26 @@
 # remove-after needs to be in the format 2005-10-01
 # where there's a leading zero in front of single digit months or days.
 
-- title: FIREWORKS!
-  content: We're going to have fireworks. They'll be great. And after the date the next time the site builds, they'll be removed from here.
-  remove-after: "2021-06-26"
+
+- title: Saturday, June 26th:  DPW Annual Paper Shred Day and Green Team Styrofoam Collection
+  content:  9:00am - 1:00pm DPW Garage - 220 Highland Cross
+  remove-after: "2021-06-27"
+  "<a href='/committees/green-team/2021/06/17/styrofoam-drive/'>Learn More Here</a>."  
   #image: /upcoming-events/images/foo.jpg
-- title: Labor Day
-  content: It's going to be hot.
-  remove-after: "2021-09-06"
+- title: Saturday, June 26th: 89th Annual Baby Parade
+  content: Check In: 9:30 am at Lincoln Park
+  remove-after: "2021-06-27"
+  "<a href='https://rutherfordnj.recdesk.com/Community/Program/Detail?programId=22'>Register Here</a>."  
+  #image: /upcoming-events/images/foo.jpg
+- title: Saturday, June 26th: FIREWORKS!
+  content: Memorial Field
+  remove-after: "2021-06-27"
+  #image: /upcoming-events/images/foo.jpg
+- title: Dining Out Rutherford
+  content: "Wednesdays through August 25th. Rain Date Thursdays. Park Ave from the Library to Ames Ave will be closed from 4-11pm to create a pedestrian and dining friendly experience in the Downtown. <a href='/outdoor-dining-and-retail/'>Learn More Here</a>."
+  #image: /upcoming-events/images/foo.jpg
+  remove-after: "2021-08-27"
+- title: Rutherford Farmers Market
+  content: "Wednesdays and Saturdays through October 30 at the Williams Center Plaza. <a href='/farmers-market/'>Learn More Here</a>."
+  #image: /upcoming-events/images/foo.jpg
+  remove-after: "2021-10-31"
