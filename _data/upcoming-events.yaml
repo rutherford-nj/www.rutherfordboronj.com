@@ -15,7 +15,10 @@
   remove-after: "2021-06-27"
   image: /upcoming-events/UpcomingEvents_400x300_fireworks.jpg
 - title: "Dining Out Rutherford"
-  content: "Wednesdays through August 25th. Rain Date Thursdays. Park Ave from the Library to Ames Ave will be closed from 4-11pm to create a pedestrian and dining friendly experience in the Downtown. <a href='/outdoor-dining-and-retail/'>Learn More Here</a>."
+  content: >
+    Wednesdays through August 25th. Rain Date Thursdays.
+    Park Ave from the Library to Ames Ave will be closed from 4-11pm to create a pedestrian and dining friendly experience in the Downtown.
+    <a href='/outdoor-dining-and-retail/'>Learn More Here</a>.
   image: /upcoming-events/UpcomingEvents_400x300_DO.jpg
   remove-after: "2021-08-27"
 - title: "Rutherford Farmers Market"
