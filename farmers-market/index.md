@@ -11,7 +11,7 @@ title: 'Farmers Market'
 
 # 2021 Farmers' Market Vendor Information
 
-The market will be held in the William’s Plaza, Park Avenue on
+The market will be held in the William’s Plaza Park Avenue on
 
 **Wednesdays 11:00am to 6:00pm beginning July 7** 
 
