@@ -64,7 +64,7 @@ building-2:
   title: "What to expect during the permit process:"
   items:
     - heading: "Homeowners & existing commercial tenants"
-      text: "Some questions we will ask:
+      text: Some questions we will ask:
 o What type of work is being done?
 
 o Is this a single family/multifamily/commercial property?
@@ -87,7 +87,7 @@ Plans, if any, must be kept at the site at all times. This is so the inspector c
 
 For a more detailed view of any and all requirements please see the UCC Construction Official Commentary: https://www.state.nj.us/dca/divisions/codes/publications/pdf_licensing/co_comment.pdf"
  
-notifications:
+notifications-1:
   id: "notifications-1"
   title: "General"
   items:
@@ -103,19 +103,20 @@ In addition to emergency alerts, you can also choose to receive customizable com
     - heading: "Can you guarantee that I will receive notification if I register?"
       text: "While Rutherford Alerts and Notifications powered by Smart911 is an excellent system, we cannot guarantee that you will receive notification in all cases. Disasters and emergencies are chaotic and unpredictable, and notification is dependent on external providers such as your wireless carrier or email delivery service outside the Rutherford’s control. The system will use several means of communications to try to ensure that should any one communications method, technology, or delivery option be unavailable to reach residents, other methods will be used to improve the likelihood that citizens will see the message."    
 
-notifications:
-id: "notifications-2"   
-title: "Signing Up"
+notifications-2:
+  id: "notifications-2"   
+  title: "Signing Up"
   items:
     - heading: "How do I sign-up for Rutherford Alert and Notification System powered by Smart911?"
-      text: "Signing up is easy! Go to alerts.smart911.com [or insert your custom URL] and register your contact information.
-To update your existing Alerts powered by Smart911[or insert your alert system name] preferences, click here. [insert sign in URL]"
+      text: >
+      Signing up is easy! Go to alerts.smart911.com [or insert your custom URL] and register your contact information.
+      To update your existing Alerts powered by Smart911[or insert your alert system name] preferences, click here. [insert sign in URL]
     - heading: "Who can sign-up for Rutherford Alerts and Notifications?"
       text: "Rutherford Alerts and Notifications powered by Smart911 is available to anyone who lives, works, travels through, or visits the Borough of Rutherford. The address can be your home location, work location, or any other location you care about."
     - heading: "I don’t own a computer – who can help me sign-up?"
       text: "You can visit your local library to sign up online using a public computer."  
       
-  notifications:
+notifications-3:
   id: "notifications-3"     
   title: "Alerts"
   items:
@@ -144,29 +145,19 @@ If you wish instead only to receive emails for Transportation Disruption notific
     - heading: "How does the system respond to busy signals or no-answer situations?"
       text: "If a call completes and is sent to your answering machine or voice mail system, a message is left. If a phone call is not answered or busy, the system redials your number several times."       
  
- notifications:
- id: "notifications-4" 
- title: "Privacy and Contact Information"
-   items:
+notifications-4:
+  id: "notifications-4" 
+  title: "Privacy and Contact Information"
+  items:
     - heading: "Will my information be disclosed or shared?"
-      text: "No, your information is private and will not be used or distributed in any manner. The information that you provide is exempt from public disclosure and will be used for emergency purposes only."      
+      text: >
+      No, your information is private and will not be used or distributed in any manner. The information that you provide is exempt from public
+      disclosure and will be used for emergency purposes only.
     - heading: "What precautions are taken to protect personal contact information stored in the system?"
-      text: "Personal information provided to the Rutherford Alert and Notification System is private and only used to notify you for official Rutherford communications and to support Rutherford’s emergency services.
-Your information is not used for marketing purposes and will not be sold to telemarketers or data-mining organizations. A variety of “opt-in” mechanisms are available to ensure you are getting just the messages you want to receive, delivered via the devices and communications modes that you choose.
-The Rutherford Alert and Notification System utilizes the highest standards in physical and computer security technologies and conducts regular audits to ensure all information is kept secure. Privacy policies are also outlined in the Terms and Conditions you review when you sign up to receive alerts and notifications."      
-            
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
+      text: >
+      Personal information provided to the Rutherford Alert and Notification System is private and only used to notify you for official Rutherford
+      communications and to support Rutherford’s emergency services. Your information is not used for marketing purposes and will not be sold to
+      telemarketers or data-mining organizations. A variety of “opt-in” mechanisms are available to ensure you are getting just the messages you
+      want to receive, delivered via the devices and communications modes that you choose. The Rutherford Alert and Notification System utilizes
+      the highest standards in physical and computer security technologies and conducts regular audits to ensure all information is kept secure.
+      Privacy policies are also outlined in the Terms and Conditions you review when you sign up to receive alerts and notifications.
