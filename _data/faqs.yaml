@@ -87,3 +87,77 @@ Plans, if any, must be kept at the site at all times. This is so the inspector c
 
 For a more detailed view of any and all requirements please see the UCC Construction Official Commentary: https://www.state.nj.us/dca/divisions/codes/publications/pdf_licensing/co_comment.pdf"
  
+notifications:
+  id: "notifications"
+  title: "General"
+  items:
+    - heading: "What is the Rutherford Alerts and Notification System powered by Smart911?"
+      text: "It is the Rutherford’s official emergency alert and notification system. This system is used to send alerts to the public during emergencies. It is a free service that allows you to sign up online to receive customized alerts via text message, email, and voice message. 
+In addition to emergency alerts, you can also choose to receive customizable community notifications. These include notifications about events, road closures, Police and DPW matters and more. This service is provided by Rutherford at no cost to the public; however, message and data rates may apply."
+    - heading: "Why should I sign-up for Rutherford Alerts and Notifications?"
+      text: "When emergencies happen, be the first to know. This system sends official, real-time alerts to the public with information about potentially life-saving actions they may need to take to keep themselves and their families safe. By signing up, you are taking a large step toward improving your personal safety."   
+    - heading: "How does it work?"
+      text: "When an emergency occurs that meets the criteria for sending out an alert to the public, Rutherford’s emergency dispatchers will gather the necessary information and push out an alert to the affected area. Alerts can be sent out Borough-wide to everyone who has opted-in to the system, or to a specific area or neighborhood for more localized events."   
+    - heading: "How much does it cost?"
+      text: "This service is provided by the Borough of Rutherford at no cost to the public; however, message and data rates may apply depending on your provider and phone services." 
+    - heading: "Can you guarantee that I will receive notification if I register?"
+      text: "While Rutherford Alerts and Notifications powered by Smart911 is an excellent system, we cannot guarantee that you will receive notification in all cases. Disasters and emergencies are chaotic and unpredictable, and notification is dependent on external providers such as your wireless carrier or email delivery service outside the Rutherford’s control. The system will use several means of communications to try to ensure that should any one communications method, technology, or delivery option be unavailable to reach residents, other methods will be used to improve the likelihood that citizens will see the message."    
+  title: "Signing Up"
+  items:
+    - heading: "How do I sign-up for Rutherford Alert and Notification System powered by Smart911?"
+      text: "Signing up is easy! Go to alerts.smart911.com [or insert your custom URL] and register your contact information.
+To update your existing Alerts powered by Smart911[or insert your alert system name] preferences, click here. [insert sign in URL]"
+    - heading: "Who can sign-up for Rutherford Alerts and Notifications?"
+      text: "Rutherford Alerts and Notifications powered by Smart911 is available to anyone who lives, works, travels through, or visits the Borough of Rutherford. The address can be your home location, work location, or any other location you care about."
+    - heading: "I don’t own a computer – who can help me sign-up?"
+      text: "You can visit your local library to sign up online using a public computer."   
+  title: "Alerts"
+  items:
+    - heading: "What types of alerts will I receive?"
+      text: "Emergency alerts are sent 24/7 when there is an immediate threat to life and/or property. In addition to emergency alerts, you can also choose to receive customizable community notifications. These include notifications about:
+Severe weather
+Road Closures
+Community Events
+DPW and Sanitation Information
+Police Information"
+    - heading: "Can I call the alert phone number back or reply back to the email?"
+      text: "You are not able to reply to texts or emails sent by the Rutherford Alert and Notification System. Voice messages provide a dial-back number to replay an alert message."
+    - heading: "When will I start receiving alerts?"
+      text: "Once you have signed up online at alerts.smart911.com [or insert your custom URL and confirmed your contact information within the system, you will begin receiving alerts"   
+    - heading: "How do I update or remove my notification preferences and contact information used by the Rutherford Alert and Notification System?"
+      text: "Follow the below steps to change your preferences (for example, to reduce the number of messages of a certain type, or to change the contacts used for each kind of message):
+Go to the login page [inset login URL] for Alerts powered by Smart911[or insert your alert system name] 
+Login using your Alerts powered by Smart911[or insert your alert system name] username and password (If you’ve forgotten these, follow the instructions on the page under “Forgot Username or Password?”)
+Once signed in, click the ‘Preferences’ tab at the top
+Under ‘Notification Preferences’, you can make changes to both the phone numbers and email addresses on which you want to receive Alerts powered by Smart911[or insert your alert system name] messages by clicking or unclicking the checkboxes
+You can also choose what alerts you want to receive and the method you wish to receive them by (text, voice, email)
+For example, if you wish to turn off all messages regarding Transportation Disruptions, simply uncheck the box to the left of “Transportation Disruption”
+If you wish instead only to receive emails for Transportation Disruption notifications, instead uncheck the “Text” and / or “Voice” choices, so that only “Email” remains checked."  
+    - heading: "How often will I receive alerts?"
+      text: "The frequency for which you receive alerts depends on the addresses you provide and the types of alerts you select to receive as well as the frequency of actual emergencies. Emergency alerts will only be sent when there is an immediate threat to life and/or property. Community notifications will be sent when the criteria for sending an alert are met. This system is not intended to bombard you with information. The Borough will only send you alerts about the information you select to receive. To change your alert settings, login to [inset login URL] or  smart911.com and edit your preferences."  
+    - heading: "How does the system respond to busy signals or no-answer situations?"
+      text: "If a call completes and is sent to your answering machine or voice mail system, a message is left. If a phone call is not answered or busy, the system redials your number several times."       
+   title: "Privacy and Contact Information"
+   items:
+    - heading: "Will my information be disclosed or shared?"
+      text: "No, your information is private and will not be used or distributed in any manner. The information that you provide is exempt from public disclosure and will be used for emergency purposes only."      
+    - heading: "What precautions are taken to protect personal contact information stored in the system?"
+      text: "Personal information provided to the Rutherford Alert and Notification System is private and only used to notify you for official Rutherford communications and to support Rutherford’s emergency services.
+Your information is not used for marketing purposes and will not be sold to telemarketers or data-mining organizations. A variety of “opt-in” mechanisms are available to ensure you are getting just the messages you want to receive, delivered via the devices and communications modes that you choose.
+The Rutherford Alert and Notification System utilizes the highest standards in physical and computer security technologies and conducts regular audits to ensure all information is kept secure. Privacy policies are also outlined in the Terms and Conditions you review when you sign up to receive alerts and notifications."      
+            
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
