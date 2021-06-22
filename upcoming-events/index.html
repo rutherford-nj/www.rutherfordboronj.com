@@ -16,8 +16,7 @@ title: 'Upcoming Events'
     <div class="col-md-8">
       <div class="card-body">
         <h5 class="card-title">{{ card.title }}</h5>
-        <p class="card-text">{{ card.content }}</p>
-        {% comment %}<p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>{% endcomment %}
+        <p class="card-text">{{ card.content | markdownify }}</p>
       </div>
     </div>
   </div>
