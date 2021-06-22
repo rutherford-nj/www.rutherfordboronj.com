@@ -8,7 +8,7 @@
       </button>
     </h2>
     <div id="accordion-{{include.faqs.id}}-collapse-{{forloop.index}}" class="accordion-collapse collapse{% if item.expanded %} show{%endif%}" aria-labelledby="accordion-{{include.faqs.id}}-heading-{{forloop.index}}" data-bs-parent="#accordion-{{include.faqs.id}}">
-      <div class="accordion-body">{{ item.text }}</div>
+      <div class="accordion-body">{{ item.text | markdownify }}</div>
     </div>
   </div>
 {% endfor %}

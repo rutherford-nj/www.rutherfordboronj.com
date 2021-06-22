@@ -13,50 +13,110 @@ municipal-court-1:
   title: "Section 1"
   items:
     - heading: "Do I need an attorney?"
-      text: "The court cannot give you legal advice. Contact the Bergen County Bar Association at (201) 488-0044 or at their website https://bergenbar.org/."
+      text: |
+        The court cannot give you legal advice. Contact the Bergen County Bar Association at (201) 488-0044 or at [their website](https://bergenbar.org).
     - heading: "How many points is my ticket?"
-      text: "Points are NOT assessed by the municipal court. They are assessed by the State of New Jersey. Please contact the New Jersey Motor Vehicle Commission at 609-292-6500 or www.njmvc.gov."
+      text: |
+        Points are NOT assessed by the municipal court. They are assessed by the State of New Jersey.
+        Please contact the New Jersey Motor Vehicle Commission at 609-292-6500 or [www.njmvc.gov](https://www.njmvc.gov).
     - heading: "Do I need an attorney?"
-      text: "The court cannot give you legal advice. Contact the Bergen County Bar Association at (201) 488-0044 or at their website https://bergenbar.org/."
+      text: |
+        The court cannot give you legal advice. Contact the Bergen County Bar Association at (201) 488-0044 or at [their website](https://bergenbar.org).
     - heading: "I am an out-of-state driver: will NJ points be carried over to my state?"
-      text: "Please contact the Motor Vehicle Commission in your state to see if any points from the State of New Jersey would transfer over to your driving abstract."  
+      text: |
+        Please contact the Motor Vehicle Commission in your state to see if any points from the State of New Jersey would transfer over to your driving abstract.
     - heading: "If a warrant has been issued for my arrest, how do I take care of it? What is bail?"
-      text: "Warrants are typically issued by the Judge during a court session when a defendant has missed his/or her court date, with no prior request for an adjournment, or is in non-compliance of a court order. The amount of money the Judge issues a warrant for is called bail. Bail is money deposited with the court to ensure your appearance at a future court date. Bail can be posted at the municipal court office, or it can be posted at any police department in the State of New Jersey. Once bail is received, you will be scheduled for a court date. Upon disposition of your summons or complaint, bail money will be refunded."  
+      text: |
+        Warrants are typically issued by the Judge during a court session when a defendant has missed his/or her court date,
+        with no prior request for an adjournment, or is in non-compliance of a court order. The amount of money the Judge
+        issues a warrant for is called bail. Bail is money deposited with the court to ensure your appearance at a future court date.
+        Bail can be posted at the municipal court office, or it can be posted at any police department in the State of New Jersey.
+        Once bail is received, you will be scheduled for a court date. Upon disposition of your summons or complaint, bail money will be refunded.
     - heading: "How do I plead \"not guilty\" to my ticket?"
-      text: "You may call the Municipal Court Office at (201) 438-0169 and speak directly to a staff member."    
+      text: |
+        You may call the Municipal Court Office at (201) 438-0169 and speak directly to a staff member. 
     - heading: "What is a plea agreement?"
-      text: "A plea agreement is a way to settle a case without a trial."    
+      text: |
+        A plea agreement is a way to settle a case without a trial. 
     - heading: "Am I eligible for a Public Defender?"
-      text: "To see if you are eligible for a Public Defender you must first fill out a financial questionnaire to establish your eligibility. The Judge will review the completed form and grant his approval if you are entitled."
+      text: |
+        To see if you are eligible for a Public Defender you must first fill out a financial questionnaire to establish your eligibility.
+        The Judge will review the completed form and grant his approval if you are entitled.
     - heading: "How can I appeal a decision of the Court?"
-      text: "If you disagree with the Judges decision, you may appeal. You must file the appeal within 20 calendar days of your conviction. You will be required to pay a deposit that will be applied against the cost of preparing the transcript. You will also be required to pay $100.00 filing fee. Please download a copy of the municipal court appeals packet available online or pick up a copy in person."
+      text: |
+        If you disagree with the Judges decision, you may appeal. You must file the appeal within 20 calendar days of your conviction.
+        You will be required to pay a deposit that will be applied against the cost of preparing the transcript.
+        You will also be required to pay $100.00 filing fee. Please download a copy of the municipal court
+        appeals packet available online or pick up a copy in person.
     - heading: "If I wish to pay my ticket, what information do you need from me?"
-      text: "You can pay via the internet, www.njmcdirect.com; you will need the following: East Rutherford court code (0212), ticket prefixes, ticket number, and plate number. If you choose to mail in your payment, simply include the ticket number on your check or money order."
+      text: |
+        You can pay via the internet, [www.njmcdirect.com](https://www.njmcdirect.com); you will need the following:
+        East Rutherford court code (0212), ticket prefixes, ticket number, and plate number.
+        If you choose to mail in your payment, simply include the ticket number on your check or money order.
 
 building-1:
   id: "building"
   title: "Building Permits & Zoning FAQ’s"
   items:
     - heading: "Building Permits: When are they required?"
-      text: "Generally, you need to obtain a building permit from the Borough whenever you construct, enlarge, alter, repair, move, remove, improve, convert, or demolish a building or other structure. A building could be anything from a tool shed to a house. A Building Permit may include building, grading, plumbing, mechanical and electrical permits. The Borough processes the various permit types required as one total package. Please reach out with any questions on filling out the application."
+      text: |
+        Generally, you need to obtain a building permit from the Borough whenever you construct, enlarge, alter,
+        repair, move, remove, improve, convert, or demolish a building or other structure. A building could be anything
+        from a tool shed to a house. A Building Permit may include building, grading, plumbing, mechanical and electrical permits.
+        The Borough processes the various permit types required as one total package.
+        Please reach out with any questions on filling out the application.
     - heading: "What is an accessory structure?"
-      text: "An accessory structure (such as a shed) is a structure separate from the primary residence. It must be no closer than 3’ from all sides of the property line. The structure must also be 10’ from any other structure on the property."
+      text: |
+        An accessory structure (such as a shed) is a structure separate from the primary residence.
+        It must be no closer than 3’ from all sides of the property line. The structure must also be 10’
+        from any other structure on the property.
     - heading: "What is the ordinance of placing a shed on my property?"
-      text: "A shed is an accessory structure and must meet those requirements. A shed can be a maximum of 200 sq. ft. and only requires a zoning permit unless a slab is required, in which case the building section of UCC application will be submitted along side zoning. Set back: The shed must be setback 3’ from the side and rear property line. The shed must be 10’ away from any other structures on the property and cannot exceed 10% of the lot size. The maximum height of the shed is 15’. A survey of the property must be included with the application."
+      text: |
+        A shed is an accessory structure and must meet those requirements.
+        A shed can be a maximum of 200 sq. ft. and only requires a zoning permit unless a slab is required,
+        in which case the building section of UCC application will be submitted along side zoning.
+        Set back: The shed must be setback 3’ from the side and rear property line. The shed must be 10’ away from any other
+        structures on the property and cannot exceed 10% of the lot size. The maximum height of the shed is 15’.
+        A survey of the property must be included with the application.
     - heading: "What is the ordinance for an A/C or Generator?"
-      text: "An A/C condenser or a generator cannot be located on the front façade of a residential structure and must be setback a minimum of 15’ from the front façade if located in the side yard and no closer than 3’ from the property line. A survey of the property must be included with the application."   
+      text: |
+        An A/C condenser or a generator cannot be located on the front façade of a residential structure and must be
+        setback a minimum of 15’ from the front façade if located in the side yard and no closer than 3’ from the property line.
+        A survey of the property must be included with the application.
     - heading: "How high can I have my fence?"
-      text: "In all residential zones, fences are allowed to be a maximum of 6’ in the rear yard, 4’ in the side yard, and 3’ in the front yard. The fence in the front yard must be 50% open (no privacy fences in the front). If there is a pool on the property, the building section of the UCC application must be filled out along side of the zoning. A survey of the property must be included with the application."  
+      text: |
+        In all residential zones, fences are allowed to be a maximum of 6’ in the rear yard, 4’ in the side yard,
+        and 3’ in the front yard. The fence in the front yard must be 50% open (no privacy fences in the front).
+        If there is a pool on the property, the building section of the UCC application must be filled out along side of the zoning.
+        A survey of the property must be included with the application.
     - heading: "Where can I put my pool?"
-      text: "A pool must be set back at least 5’ from any inside property line and 10’ from any street line. The pool cannot be located in the front yard and cannot occupy more than 75% of the rear or side yard. The pool must also meet the requirements of an accessory structure. The pool must also meet the minimum of the New Jersey Pool Barrier Code. A UCC application as well as a zoning application is required for this type of permit. A survey of the property must be included with the application."     
+      text: |
+        A pool must be set back at least 5’ from any inside property line and 10’ from any street line.
+        The pool cannot be located in the front yard and cannot occupy more than 75% of the rear or side yard.
+        The pool must also meet the requirements of an accessory structure. The pool must also meet the minimum
+        of the New Jersey Pool Barrier Code. A UCC application as well as a zoning application is required for this type of permit.
+        A survey of the property must be included with the application.
     - heading: "How big can my patio be?"
-      text: "A patio is an impervious surface and only requires a zoning permit. The square footage of the patio plus any other impervious surfaces (i.e. driveway, walkway, etc) cannot exceed 25% of the lot size. A survey of the property must be included with the application"       
+      text: |
+        A patio is an impervious surface and only requires a zoning permit. The square footage of the patio plus any other
+        impervious surfaces (i.e. driveway, walkway, etc) cannot exceed 25% of the lot size.
+        A survey of the property must be included with the application.
     - heading: "How big of a deck can I put in my yard?"
-      text: "A deck attached to the house is part of the principle structure and has the same requirements as a principle structure being 5’ from the property line. A detached deck is an accessory structure and must meet those requirements. This will require a building permit (for footings and framing) as well as zoning. A survey of the property must be included with the application."  
+      text: |
+        A deck attached to the house is part of the principle structure and has the same requirements as a principle structure being
+        5’ from the property line. A detached deck is an accessory structure and must meet those requirements. This will require a
+        building permit (for footings and framing) as well as zoning. A survey of the property must be included with the application.
     - heading: "Where can I put the driveway to my house?"
-      text: "A driveway is an impervious surface. The square footage of the driveway plus any other impervious surfaces (i.e. patio, walkway, etc) cannot exceed 25% of the lot size. A driveway must be at least 8’ in width and a maximum of 12’ in width for the front and side yards. The minimum driveway length is from the front property line to the rear line of the principle structure. A survey of the property must be included with the application."     
+      text: |
+        A driveway is an impervious surface. The square footage of the driveway plus any other impervious surfaces
+        (i.e. patio, walkway, etc) cannot exceed 25% of the lot size. A driveway must be at least 8’ in width and a maximum of 12’
+        in width for the front and side yards. The minimum driveway length is from the front property line to the rear line of the principle structure.
+        A survey of the property must be included with the application.
     - heading: "How high can I put a retaining wall?"
-      text: "A retaining wall that is under 3’ in height will only require a zoning permit. A UCC building permit is required for a wall over 3’. A detailed drawing showing how the wall will be constructed is required with the application. A survey of the property must be included with the application."      
+      text: |
+        A retaining wall that is under 3’ in height will only require a zoning permit.
+        A UCC building permit is required for a wall over 3’. A detailed drawing showing how the wall will be constructed is required with the application.
+        A survey of the property must be included with the application.
       
  
 building-2:
@@ -64,100 +124,132 @@ building-2:
   title: "What to expect during the permit process:"
   items:
     - heading: "Homeowners & existing commercial tenants"
-      text: Some questions we will ask:
-o What type of work is being done?
+      text: |
+        Some questions we will ask:
 
-o Is this a single family/multifamily/commercial property?
-
-· A construction Permit Application will be given to the applicant and this must be filled out completely before we can take it in.
-
-· If the job requires it, two signed and sealed sets of sketches, drawings, plans, as well as any other documentation of the proposed work will be submitted for review along with the permit applications.
-
-· Plans will not be reviewed without the applications alongside"
+        * What type of work is being done?
+        * Is this a single family/multifamily/commercial property?
+        * A construction Permit Application will be given to the applicant and this must be filled out completely before we can take it in.
+        * If the job requires it, two signed and sealed sets of sketches, drawings, plans, as well as any other documentation of the proposed work will be submitted for review along with the permit applications.
+        * Plans will not be reviewed without the applications alongside"
     - heading: "Other items to note for permit process:" 
-      text: "The applicant must wait for permit approval to start any work.
+      text: |
+        The applicant must wait for permit approval to start any work.
 
-The building department legally has 20 business days after submittal to issue the permit, however this process does not normally take this long unless there are incompletions with the application. If there are comments from any of the subcode officials these will be communicated promptly to the applicant.
+        The building department legally has 20 business days after submittal to issue the permit, however this process does not normally take this long unless there are incompletions with the application. If there are comments from any of the subcode officials these will be communicated promptly to the applicant.
 
-Once the permit is approved the applicant will receive a phone call to pick up and pay for the permit. The permit will be issued when and only when the permit is paid for. After payment is received, the project may commence.
+        Once the permit is approved the applicant will receive a phone call to pick up and pay for the permit. The permit will be issued when and only when the permit is paid for. After payment is received, the project may commence.
 
-The applicant will receive a placard to be placed in a location easily visible from the street, such as a front window.
+        The applicant will receive a placard to be placed in a location easily visible from the street, such as a front window.
 
-Plans, if any, must be kept at the site at all times. This is so the inspector can compare the work being conducted to the approved plans. Please note that the inspector will not conduct an inspection without those plans on site.
+        Plans, if any, must be kept at the site at all times. This is so the inspector can compare the work being conducted to the approved plans. Please note that the inspector will not conduct an inspection without those plans on site.
 
-For a more detailed view of any and all requirements please see the UCC Construction Official Commentary: https://www.state.nj.us/dca/divisions/codes/publications/pdf_licensing/co_comment.pdf"
+        For a more detailed view of any and all requirements please see the [UCC Construction Official Commentary](https://www.state.nj.us/dca/divisions/codes/publications/pdf_licensing/co_comment.pdf).
  
 notifications-1:
   id: "notifications-1"
   title: "General"
   items:
     - heading: "What is the Rutherford Alerts and Notification System powered by Smart911?"
-      text: "It is the Rutherford’s official emergency alert and notification system. This system is used to send alerts to the public during emergencies. It is a free service that allows you to sign up online to receive customized alerts via text message, email, and voice message. 
-In addition to emergency alerts, you can also choose to receive customizable community notifications. These include notifications about events, road closures, Police and DPW matters and more. This service is provided by Rutherford at no cost to the public; however, message and data rates may apply."
+      text: |
+        It is the Rutherford’s official emergency alert and notification system. This system is used to send alerts to the public during emergencies.
+        It is a free service that allows you to sign up online to receive customized alerts via text message, email, and voice message. 
+        In addition to emergency alerts, you can also choose to receive customizable community notifications.
+        These include notifications about events, road closures, Police and DPW matters and more. This service is provided by Rutherford at no cost to the public;
+        however, message and data rates may apply.
     - heading: "Why should I sign-up for Rutherford Alerts and Notifications?"
-      text: "When emergencies happen, be the first to know. This system sends official, real-time alerts to the public with information about potentially life-saving actions they may need to take to keep themselves and their families safe. By signing up, you are taking a large step toward improving your personal safety."   
+      text: |
+        When emergencies happen, be the first to know. This system sends official, real-time alerts to the public with information
+        about potentially life-saving actions they may need to take to keep themselves and their families safe. By signing up, you
+        are taking a large step toward improving your personal safety.
     - heading: "How does it work?"
-      text: "When an emergency occurs that meets the criteria for sending out an alert to the public, Rutherford’s emergency dispatchers will gather the necessary information and push out an alert to the affected area. Alerts can be sent out Borough-wide to everyone who has opted-in to the system, or to a specific area or neighborhood for more localized events."   
+      text: |
+        When an emergency occurs that meets the criteria for sending out an alert to the public, Rutherford’s emergency dispatchers will
+        gather the necessary information and push out an alert to the affected area. Alerts can be sent out Borough-wide to everyone who
+        has opted-in to the system, or to a specific area or neighborhood for more localized events.
     - heading: "How much does it cost?"
-      text: "This service is provided by the Borough of Rutherford at no cost to the public; however, message and data rates may apply depending on your provider and phone services." 
+      text: |
+        This service is provided by the Borough of Rutherford at no cost to the public; however,
+        message and data rates may apply depending on your provider and phone services.
     - heading: "Can you guarantee that I will receive notification if I register?"
-      text: "While Rutherford Alerts and Notifications powered by Smart911 is an excellent system, we cannot guarantee that you will receive notification in all cases. Disasters and emergencies are chaotic and unpredictable, and notification is dependent on external providers such as your wireless carrier or email delivery service outside the Rutherford’s control. The system will use several means of communications to try to ensure that should any one communications method, technology, or delivery option be unavailable to reach residents, other methods will be used to improve the likelihood that citizens will see the message."    
+      text: |
+        While Rutherford Alerts and Notifications powered by Smart911 is an excellent system, we cannot guarantee that you will receive
+        notification in all cases. Disasters and emergencies are chaotic and unpredictable, and notification is dependent on external providers
+        such as your wireless carrier or email delivery service outside the Rutherford’s control. The system will use several means of
+        communications to try to ensure that should any one communications method, technology, or delivery option be unavailable to reach residents,
+        other methods will be used to improve the likelihood that citizens will see the message.
 
 notifications-2:
   id: "notifications-2"   
   title: "Signing Up"
   items:
     - heading: "How do I sign-up for Rutherford Alert and Notification System powered by Smart911?"
-      text: >
-      Signing up is easy! Go to alerts.smart911.com [or insert your custom URL] and register your contact information.
-      To update your existing Alerts powered by Smart911[or insert your alert system name] preferences, click here. [insert sign in URL]
+      text: |
+        Signing up is easy! Go to alerts.smart911.com [or insert your custom URL] and register your contact information.
+        To update your existing Alerts powered by Smart911[or insert your alert system name] preferences, click here. [insert sign in URL]
     - heading: "Who can sign-up for Rutherford Alerts and Notifications?"
-      text: "Rutherford Alerts and Notifications powered by Smart911 is available to anyone who lives, works, travels through, or visits the Borough of Rutherford. The address can be your home location, work location, or any other location you care about."
+      text: |
+        Rutherford Alerts and Notifications powered by Smart911 is available to anyone who lives, works, travels through, or visits the Borough of Rutherford.
+        The address can be your home location, work location, or any other location you care about.
     - heading: "I don’t own a computer – who can help me sign-up?"
-      text: "You can visit your local library to sign up online using a public computer."  
+      text: |
+        You can visit your local library to sign up online using a public computer.
       
 notifications-3:
   id: "notifications-3"     
   title: "Alerts"
   items:
     - heading: "What types of alerts will I receive?"
-      text: "Emergency alerts are sent 24/7 when there is an immediate threat to life and/or property. In addition to emergency alerts, you can also choose to receive customizable community notifications. These include notifications about:
-Severe weather
-Road Closures
-Community Events
-DPW and Sanitation Information
-Police Information"
+      text: |
+        Emergency alerts are sent 24/7 when there is an immediate threat to life and/or property.
+        In addition to emergency alerts, you can also choose to receive customizable community notifications. These include notifications about:
+        
+        * Severe weather
+        * Road Closures
+        * Community Events
+        * DPW and Sanitation Information
+        * Police Information
     - heading: "Can I call the alert phone number back or reply back to the email?"
-      text: "You are not able to reply to texts or emails sent by the Rutherford Alert and Notification System. Voice messages provide a dial-back number to replay an alert message."
+      text: |
+        You are not able to reply to texts or emails sent by the Rutherford Alert and Notification System.
+        Voice messages provide a dial-back number to replay an alert message.
     - heading: "When will I start receiving alerts?"
-      text: "Once you have signed up online at alerts.smart911.com [or insert your custom URL and confirmed your contact information within the system, you will begin receiving alerts"   
+      text: |
+        Once you have signed up online at alerts.smart911.com [or insert your custom URL] and confirmed your contact information within the system, you will begin receiving alerts. 
     - heading: "How do I update or remove my notification preferences and contact information used by the Rutherford Alert and Notification System?"
-      text: "Follow the below steps to change your preferences (for example, to reduce the number of messages of a certain type, or to change the contacts used for each kind of message):
-Go to the login page [inset login URL] for Alerts powered by Smart911[or insert your alert system name] 
-Login using your Alerts powered by Smart911[or insert your alert system name] username and password (If you’ve forgotten these, follow the instructions on the page under “Forgot Username or Password?”)
-Once signed in, click the ‘Preferences’ tab at the top
-Under ‘Notification Preferences’, you can make changes to both the phone numbers and email addresses on which you want to receive Alerts powered by Smart911[or insert your alert system name] messages by clicking or unclicking the checkboxes
-You can also choose what alerts you want to receive and the method you wish to receive them by (text, voice, email)
-For example, if you wish to turn off all messages regarding Transportation Disruptions, simply uncheck the box to the left of “Transportation Disruption”
-If you wish instead only to receive emails for Transportation Disruption notifications, instead uncheck the “Text” and / or “Voice” choices, so that only “Email” remains checked."  
+      text: |
+        Follow the below steps to change your preferences (for example, to reduce the number of messages of a certain type, or to change the contacts used for each kind of message):
+        Go to the login page [inset login URL] for Alerts powered by Smart911[or insert your alert system name] 
+        Login using your Alerts powered by Smart911[or insert your alert system name] username and password (If you’ve forgotten these, follow the instructions on the page under “Forgot Username or Password?”)
+        Once signed in, click the ‘Preferences’ tab at the top
+        Under ‘Notification Preferences’, you can make changes to both the phone numbers and email addresses on which you want to receive Alerts powered by Smart911[or insert your alert system name] messages by clicking or unclicking the checkboxes
+        You can also choose what alerts you want to receive and the method you wish to receive them by (text, voice, email)
+        For example, if you wish to turn off all messages regarding Transportation Disruptions, simply uncheck the box to the left of “Transportation Disruption”
+        If you wish instead only to receive emails for Transportation Disruption notifications, instead uncheck the “Text” and / or “Voice” choices, so that only “Email” remains checked."  
     - heading: "How often will I receive alerts?"
-      text: "The frequency for which you receive alerts depends on the addresses you provide and the types of alerts you select to receive as well as the frequency of actual emergencies. Emergency alerts will only be sent when there is an immediate threat to life and/or property. Community notifications will be sent when the criteria for sending an alert are met. This system is not intended to bombard you with information. The Borough will only send you alerts about the information you select to receive. To change your alert settings, login to [inset login URL] or  smart911.com and edit your preferences."  
+      text: |
+        The frequency for which you receive alerts depends on the addresses you provide and the types of alerts you select to receive as well as the
+        frequency of actual emergencies. Emergency alerts will only be sent when there is an immediate threat to life and/or property. Community notifications
+        will be sent when the criteria for sending an alert are met. This system is not intended to bombard you with information. The Borough will only send
+         you alerts about the information you select to receive. To change your alert settings, login to [inset login URL] or smart911.com and edit your preferences.
     - heading: "How does the system respond to busy signals or no-answer situations?"
-      text: "If a call completes and is sent to your answering machine or voice mail system, a message is left. If a phone call is not answered or busy, the system redials your number several times."       
+      text: |
+        If a call completes and is sent to your answering machine or voice mail system, a message is left.
+        If a phone call is not answered or busy, the system redials your number several times.
  
 notifications-4:
   id: "notifications-4" 
   title: "Privacy and Contact Information"
   items:
     - heading: "Will my information be disclosed or shared?"
-      text: >
-      No, your information is private and will not be used or distributed in any manner. The information that you provide is exempt from public
-      disclosure and will be used for emergency purposes only.
+      text: |
+        No, your information is private and will not be used or distributed in any manner. The information that you provide is exempt from public
+        disclosure and will be used for emergency purposes only.
     - heading: "What precautions are taken to protect personal contact information stored in the system?"
-      text: >
-      Personal information provided to the Rutherford Alert and Notification System is private and only used to notify you for official Rutherford
-      communications and to support Rutherford’s emergency services. Your information is not used for marketing purposes and will not be sold to
-      telemarketers or data-mining organizations. A variety of “opt-in” mechanisms are available to ensure you are getting just the messages you
-      want to receive, delivered via the devices and communications modes that you choose. The Rutherford Alert and Notification System utilizes
-      the highest standards in physical and computer security technologies and conducts regular audits to ensure all information is kept secure.
-      Privacy policies are also outlined in the Terms and Conditions you review when you sign up to receive alerts and notifications.
+      text: |
+        Personal information provided to the Rutherford Alert and Notification System is private and only used to notify you for official Rutherford
+        communications and to support Rutherford’s emergency services. Your information is not used for marketing purposes and will not be sold to
+        telemarketers or data-mining organizations. A variety of “opt-in” mechanisms are available to ensure you are getting just the messages you
+        want to receive, delivered via the devices and communications modes that you choose. The Rutherford Alert and Notification System utilizes
+        the highest standards in physical and computer security technologies and conducts regular audits to ensure all information is kept secure.
+        Privacy policies are also outlined in the Terms and Conditions you review when you sign up to receive alerts and notifications.
