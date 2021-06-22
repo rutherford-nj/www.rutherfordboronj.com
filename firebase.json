@@ -37,6 +37,11 @@
     ],
     "redirects": [
       {
+        "source": "/departments/borough-clerk/rent-board/",
+        "destination": "/committees/rent-board/",
+        "type": 301
+      },
+      {
         "source": "/photo-gallery/",
         "destination": "https://www.facebook.com/BoroughofRutherfordNJ/photos/",
         "type": 301
