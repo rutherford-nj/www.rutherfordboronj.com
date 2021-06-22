@@ -88,7 +88,7 @@ Plans, if any, must be kept at the site at all times. This is so the inspector c
 For a more detailed view of any and all requirements please see the UCC Construction Official Commentary: https://www.state.nj.us/dca/divisions/codes/publications/pdf_licensing/co_comment.pdf"
  
 notifications:
-  id: "notifications"
+  id: "notifications-1"
   title: "General"
   items:
     - heading: "What is the Rutherford Alerts and Notification System powered by Smart911?"
@@ -102,7 +102,10 @@ In addition to emergency alerts, you can also choose to receive customizable com
       text: "This service is provided by the Borough of Rutherford at no cost to the public; however, message and data rates may apply depending on your provider and phone services." 
     - heading: "Can you guarantee that I will receive notification if I register?"
       text: "While Rutherford Alerts and Notifications powered by Smart911 is an excellent system, we cannot guarantee that you will receive notification in all cases. Disasters and emergencies are chaotic and unpredictable, and notification is dependent on external providers such as your wireless carrier or email delivery service outside the Rutherford’s control. The system will use several means of communications to try to ensure that should any one communications method, technology, or delivery option be unavailable to reach residents, other methods will be used to improve the likelihood that citizens will see the message."    
-  title: "Signing Up"
+
+notifications:
+id: "notifications-2"   
+title: "Signing Up"
   items:
     - heading: "How do I sign-up for Rutherford Alert and Notification System powered by Smart911?"
       text: "Signing up is easy! Go to alerts.smart911.com [or insert your custom URL] and register your contact information.
@@ -110,7 +113,10 @@ To update your existing Alerts powered by Smart911[or insert your alert system n
     - heading: "Who can sign-up for Rutherford Alerts and Notifications?"
       text: "Rutherford Alerts and Notifications powered by Smart911 is available to anyone who lives, works, travels through, or visits the Borough of Rutherford. The address can be your home location, work location, or any other location you care about."
     - heading: "I don’t own a computer – who can help me sign-up?"
-      text: "You can visit your local library to sign up online using a public computer."   
+      text: "You can visit your local library to sign up online using a public computer."  
+      
+  notifications:
+  id: "notifications-3"     
   title: "Alerts"
   items:
     - heading: "What types of alerts will I receive?"
@@ -137,7 +143,10 @@ If you wish instead only to receive emails for Transportation Disruption notific
       text: "The frequency for which you receive alerts depends on the addresses you provide and the types of alerts you select to receive as well as the frequency of actual emergencies. Emergency alerts will only be sent when there is an immediate threat to life and/or property. Community notifications will be sent when the criteria for sending an alert are met. This system is not intended to bombard you with information. The Borough will only send you alerts about the information you select to receive. To change your alert settings, login to [inset login URL] or  smart911.com and edit your preferences."  
     - heading: "How does the system respond to busy signals or no-answer situations?"
       text: "If a call completes and is sent to your answering machine or voice mail system, a message is left. If a phone call is not answered or busy, the system redials your number several times."       
-   title: "Privacy and Contact Information"
+ 
+ notifications:
+ id: "notifications-4" 
+ title: "Privacy and Contact Information"
    items:
     - heading: "Will my information be disclosed or shared?"
       text: "No, your information is private and will not be used or distributed in any manner. The information that you provide is exempt from public disclosure and will be used for emergency purposes only."      
