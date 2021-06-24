@@ -104,10 +104,8 @@ departments:
     - text: Additional Police Services & Information
       href: additional-services/
   recreation:
-    - text: COVID Waivers
-      href: waivers/
-    - text: Enrichment Classes
-      href: enrichment-classes/
+    - text: RecDesk
+      href: https://rutherfordnj.recdesk.com/Community/Home
     - text: Parks & Facilities
       href: parks-facilities/
     - text: Events Calendar
