@@ -1,0 +1,52 @@
+# remove-after needs to be in the format 2005-10-01
+# where there's a leading zero in front of single digit months or days.
+
+
+- title: "Saturday, June 26th: DPW Annual Paper Shred Day and Green Team Styrofoam Collection"
+  content: |
+    9:00am - 1:00pm DPW Garage - 220 Highland Cross<br>
+    
+    [Learn More Here](/committees/green-team/2021/06/17/styrofoam-drive/).
+  remove-after: "2021-06-27"
+  image: /upcoming-events/UpcomingEvents_400x300_styrofoam.jpg
+- title: "Saturday, June 26th: 89th Annual Baby Parade"
+  content: |
+    Check In: 9:30 am at Lincoln Park.
+    
+    [Register Here](https://rutherfordnj.recdesk.com/Community/Program/Detail?programId=22).
+  remove-after: "2021-06-27"
+  image: /upcoming-events/UpcomingEvents_400x300_babyparade.jpg
+- title: "Saturday, June 26th: FIREWORKS!"
+  content: |
+    Memorial Field 
+    
+    Kimon and the Prophets performing from 7:45 pm - 8:45 pm
+    
+    DJ playing patriotic music 8:45 pm - 9:15 pm
+  remove-after: "2021-06-27"
+  image: /upcoming-events/UpcomingEvents_400x300_fireworks.jpg
+- title: "Dining Out Rutherford"
+  content: |
+    Wednesdays through August 25th. Rain Date Thursdays.
+
+    Park Ave from the Library to Ames Ave will be closed from 4-11pm to create a pedestrian and dining friendly experience in the Downtown.
+    
+    [Learn More Here](/outdoor-dining-and-retail/).
+  image: /upcoming-events/UpcomingEvents_400x300_DO.jpg
+  remove-after: "2021-08-27"
+- title: "Rutherford Farmers Market"
+  content: |
+    Wednesdays and Saturdays through October 30 at the Williams Center Plaza.
+    
+    [Learn More Here](/farmers-market/).
+  image: /upcoming-events/UpcomingEvents_400x300_FarmersMarket.jpg
+  remove-after: "2021-10-31"
+- title: "Rutherford Day - Saturday, September 18th"
+  content: |
+   This Borough-wide event is designed specifically to allow Rutherford community organizations to utilize fields and parks for games and activities.
+   It will provide an opportunity for each service group, club, or business in Rutherford to promote itself, its services, accomplishments, and goals to the residents of Rutherford.
+
+   If your community group would like to participate, [fill out this form](https://docs.google.com/forms/d/e/1FAIpQLSer0WA5yg-5EWMSwLlYwVgceh1z6mgZEEmCXvjfxDyTTJiIqQ/viewform).
+   For more information, email communications@rutherfordboronj.com.
+  image: /upcoming-events/UpcomingEvents_400x300_FarmersMarket.jpg
+  remove-after: "2021-09-19"

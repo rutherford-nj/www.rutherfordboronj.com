@@ -2,9 +2,8 @@ import { API_KEY } from "./gapi";
 import { DateTime } from "luxon";
 
 export function fetchDynamicMessage() {
-  const url = 'https://sheets.googleapis.com/v4/spreadsheets/' +
-    '16Y8NNYSn0yBWrtK3lStuFxJCxg7PThJpmBBxhUFsWvw/values/Message!A1%3AD1?key=' +
-    API_KEY;
+  const sheetKey = '16Y8NNYSn0yBWrtK3lStuFxJCxg7PThJpmBBxhUFsWvw';
+  const url = `https://sheets.googleapis.com/v4/spreadsheets/${sheetKey}/values/Message!A1%3AD1?key=${API_KEY}`;
 
   let handleCells = function (a1: any, b1: any, c1: any, d1: any) {
     if (a1 == 'off' || !b1) {
@@ -17,8 +16,8 @@ export function fetchDynamicMessage() {
     }
     let field = document.getElementById('dynamic-field');
     field.textContent = b1;
-    field.classList.remove('dynamic-message-hidden');
-    field.classList.add(`dynamic-message-${a1}`);
+    field.classList.remove('d-none');
+    field.classList.add(`alert-${a1}`);
   };
 
   let processResponse = function (response: any) {

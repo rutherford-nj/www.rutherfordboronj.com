@@ -1,9 +1,8 @@
 ---
-layout: page
+layout: interior-page
 title: 'COVID-19 Financial Relief Information for Businesses'
+parent: Covid Information
 ---
-
-[Back to COVID-19 Information](/covid-information)
 
 # Financial Relief Information for Businesses
 

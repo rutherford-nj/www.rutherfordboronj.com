@@ -1,13 +1,9 @@
 ---
-layout: page
+layout: interior-page
+parent: Areas of Redevelopment
+grandparent: Land Use and Redevelopment
 title: '106 Park'
 ---
-
-<style>
-p, img { width: 100%; }
-</style>
-
-[Return to Areas of Development page](../)
 
 # The Maples *(106 Park Ave)*
 

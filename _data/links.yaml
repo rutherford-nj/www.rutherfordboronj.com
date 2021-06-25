@@ -4,3 +4,164 @@ nixle:
   href: https://local.nixle.com/rutherford-police-department/
 swift911:
   href: https://portalv4.swiftreach.com/Portal.aspx?c=201547&amp;l=959196
+
+departments:
+  borough-clerk:
+    - text: Election & Voter Info
+      href: election-voter-info/
+    - text: Permits, Licenses & Applications
+      href: permits-licenses/
+    - text: Rent Board
+      href: /committees/rent-board/
+    - text: Minutes & Agendas
+      href: minutes-and-agendas/
+    - text: Mayor & Council Meeting Audio Recordings
+      href: minutes-and-agendas/audio-recordings/
+  building:
+    - text: Forms
+      href: forms/
+    - text: FAQs and Permit Process
+      href: faqs-and-permit-process/
+    - text: For Business Owners
+      href: business-owners/
+    - text: Certificate of Zoning Compliance
+      href: certificate-of-occupancy/
+    - text: Board of Adjustment Agendas
+      href: /departments/borough-clerk/minutes-and-agendas/board-of-adjustment/
+    - text: Planning Board Agendas
+      href: /departments/borough-clerk/minutes-and-agendas/planning-board/
+    - text: Zoning Map
+      href: https://storage.googleapis.com/static.rutherford-nj.com/building/RutherfordZoningMap.pdf
+  dpw:
+    - text: Collection Schedule
+      href: collection-schedule/
+    - text: Recycling Information
+      href: recycling-information/
+    - text: Service Request Forms
+      href: service-request-forms/
+    - text: Power Outage Tips
+      href: http://www.bt.cdc.gov/disasters/poweroutage/needtoknow.asp
+    - text: Clean Water NJ
+      href: https://www.cleanwaternj.org/
+    - text: Stormwater Plans
+      href: stormwater-information/
+  finance:
+    - text: Online Tax Payments
+      href: /departments/tax-collector/online-payments/
+    - text: Budgets & Financials
+      href: budgets-financials/
+    - text: Employment & Bid Notices
+      href: /government/employment-bids/
+  health:
+    - text: Services
+      href: services/
+    - text: Health Links
+      href: links/
+    - text: Board of Health
+      href: /committees/board-of-health/
+    - text: 2020 Annual Report
+      href: https://storage.googleapis.com/static.rutherford-nj.com/health/2020%20Annual%20Report%20(1).pdf
+    - text: Marriage, Remarriage, Civil Union Application REG-77
+      href: https://www.state.nj.us/health/vital/pro-partners-info/forms/
+    - text: Bergen County Health News
+      href: bergen-county/
+  municipal-court:
+    - text: Brochures
+      href: brochures/
+    - text: Case Resolution Without In-Person Appearance
+      href: https://storage.googleapis.com/static.rutherford-nj.com/municipal-court/Case%20Resolution%20Without%20In-Person%20Appearance.pdf
+    - text: Court Staff Assistance
+      href: court-staff-assistance/
+    - text: Directions to Municipal Court
+      href: directions/
+    - text: Filing a Complaint in Municipal Court
+      href: https://storage.googleapis.com/static.rutherford-nj.com/municipal-court/Filing%20a%20Complaint%20in%20Municipal%20Court.pdf
+    - text: Forms
+      href: forms/
+    - text: Frequently Asked Questions
+      href: faqs/
+    - text: New Jersey Courts
+      href: https://njcourts.gov/
+    - text: NJ Motor Vehicle Commission Point Schedule
+      href: https://www.state.nj.us/mvc/license/points-schedule.htm
+    - text: Pay a Municipal Case
+      href: https://portalnjmcdirect-cloud.njcourts.gov/prweb/PRServletPublicAuth/app/MuniPay_/wQ2guhy8lqKPggD8pVI7RLYVZ9vxwNMF*/!STANDARD?AppName=NJMC&fromBrowserHistory=truem
+  police:
+    - text: Personnel / Contacts
+      href: personnel-contacts/
+    - text: Firearms Applications
+      href: additional-services/firearms/ 
+    - text: Policies
+      href: policies/    
+    - text: Resident Parking Permits
+      href: parking/
+    - text: Kid Print/Safely Back Home
+      href: kid-print/
+    - text: FBI Most Wanted
+      href: https://www.fbi.gov/wanted/topten
+    - text: Police Traffic Officers of Bergen County
+      href: https://www.ptoabergencounty.org/
+    - text: Additional Police Services & Information
+      href: additional-services/
+  recreation:
+    - text: RecDesk
+      href: https://rutherfordnj.recdesk.com/Community/Home
+    - text: Parks & Facilities
+      href: parks-facilities/
+    - text: Events Calendar
+      href: /calendars/
+    - text: Badges & Field Permits
+      href: badges-and-field-permits/
+    - text: Forms, Rules & Policies
+      href: forms/
+    - text: Volunteer & Sponsorship
+      href: volunteer-sponsorship/
+    - text: Walk Rutherford
+      href: walk-rutherford/
+  social-services:
+    - text: Community Pantry
+      href: http://www.rutherfordcommunitypantry.org/home
+    - text: Community Outreach
+      href: community-outreach/
+    - text: School Supply Wish List
+      href: https://storage.googleapis.com/static.rutherford-nj.com/social-services/School%20Supply%20Wish%20List2019-2020.pdf
+  tax-assessor:
+    - text: Tax Maps
+      href: tax-maps/
+  tax-collector:
+    - text: Online Tax Payments
+      href: online-payments/
+    - text: Sign up for Eminder
+      href: eminder/
+    - text: State Rebates & Reimbursements
+      href: rebates-reimbursements/
+    - text: Division of Taxation’s Property Tax Relief Program
+      href: https://www.state.nj.us/treasury/taxation/relief.shtml
+  civil-rights-commission:
+    - text: Civil Rights Commission on Facebook
+      href: https://www.facebook.com/RutherfordCRC/
+  planning-board:
+    - text: Master Plan
+      href: /committees/planning-board/master-plan/
+  shade-tree-commission:
+    - text: Shade Tree Request and Complaint Form
+      href: /departments/public-works/shade-tree-commission-form/
+    - text: Emerald Ash Borer Information
+      href: emerald-ash-borer-information/
+    - text: Recommended Tree List
+      href: recommended-tree-list/
+    - text: Tree Care and Services
+      href: tree-care-services/
+    - text: Commissioners Bios
+      href: commissioners-bios/
+    - text: 5 Year Community Forestry Management Plan
+      href: https://storage.googleapis.com/static.rutherford-nj.com/committees/Rutherford_Commty_Forestry_Mgmt_Plan2018-2022-REV.pdf
+  green-team:
+    - text: Sign Up For Green Team Mailing List
+      href: https://rutherfordgreenteam.us13.list-manage.com/subscribe?u=6c64824e101044cb88e049a6e&id=9600eda580
+    - text: Green Team on Facebook
+      href: https://www.facebook.com/RutherfordGreenTeam/
+    - text: Minutes and Annual Reports
+      href: minutes/
+    - text: Green Team Links
+      href: /committees/green-team/links/

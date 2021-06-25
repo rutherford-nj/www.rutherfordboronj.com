@@ -1,9 +1,8 @@
 ---
-layout: page
-title: 'Areas of Redevelopment in Rutherford'
+layout: interior-page
+parent: Land Use and Redevelopment
+title: 'Areas of Redevelopment'
 ---
-
-[Return to Land Use and Redevelopment page](../)
 
 **Redevelopment Plans**
 

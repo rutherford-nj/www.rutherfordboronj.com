@@ -3,14 +3,13 @@ layout: default
 section: blog
 ---
 
-<div class="blog-container">
-  <div class="blog-icon" style="background-image: url(../../../../icon.png)"></div>
-  <div class="blog-content">
-    <h3><a href="/news-archives/">View complete News and Updates archive</a></h3>
-    <div class="blog-title">{{page.title}}</div>
-    <div class="blog-date">Posted {{page.date | date:"%A %B %-d, %Y"}}</div>
-    
-    {% include social.html %}
-    {{content}}
+<div class="container mt-4">
+  <h3><a href="/news-archives/">View complete News and Updates archive</a></h3>
+  <div class="card my-4">
+    <div class="card-header">{{page.title}}</div>
+    <div class="card-body">
+      <p class="card-text">{{content}}</p>
+    </div>
+    <div class="card-footer text-muted">Posted {{page.date | date:"%A %B %-d, %Y"}}</div>
   </div>
 </div>

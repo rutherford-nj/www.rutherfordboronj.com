@@ -3,47 +3,68 @@ layout: page
 title: 'Fire Department'
 ---
 
+{% capture addresses %}Firehouse Addresses:
+40 Ames Avenue
+400 Mortimer Avenue
+350 Union Avenue{% endcapture %}
+{% capture chiefs %}Chief of Department Dennis M. Gentile
+Deputy Chief Thomas Twist III
+1st Assistant Chief Thomas Riser
+2nd Assistant Chief Moshe Stareshefsky
+3rd Assistant Chief Bryan Sartori{% endcapture %}
 
-<div class="page-title">
-  <div class="page-title-name">Volunteer Fire Department</div>
-  <div class="page-location">
-    <div>Firehouse Addresses:</div>
-    <div>40 Ames Avenue</div>
-    <div>400 Mortimer Avenue</div>
-    <div>350 Union Avenue</div>
+<div class="department-title">
+  <h1>Volunteer Fire Department</h1>
+  <h2>{{ addresses | newline_to_br }}</h2>
+</div>
+
+<div class="row">
+  <div class="col-md-6">
+    <div class="card text-white bg-danger fw-bold mb-4">
+      <div class="card-body">
+        <div>Emergency: Dial 911</div>
+      </div>
+    </div>
+
+    <div class="card mb-4 department-card">
+      <div class="card-header">2021 Chiefs:</div>
+      <div class="card-body">
+        <p class="card-text">{{ chiefs | newline_to_br }}</p>
+      </div>
+    </div>
+  </div>
+  <div class="col-md-6">
+    <div class="card">
+      <div class="card-body">
+        <p class="card-text">
+          It is the mission of the Rutherford Fire Department to provide safe, efficient and professional fire and
+          rescue services. For more information please see the Borough Clerk or email recruitment@rutherfordfd.com
+        </p>
+
+        <p class="card-text">
+          The Rutherford Fire Department is an all-volunteer department that protects the Borough's 18,000 residents
+          within an area of 2.4 square miles, consists of five fire companies and operate out of three firehouses
+          strategically located throughout the Borough:
+        </p>
+
+        <p class="card-text">
+          Ames Avenue Firehouse<br>
+          Truck 1 and Engine 4<br>
+          40 Ames Avenue
+        </p>
+
+        <p class="card-text">
+          Mortimer Avenue Firehouse<br>
+          Engine 2 and SSU<br>
+          400 Mortimer Avenue
+        </p>
+
+        <p class="card-text">
+          West End Firehouse<br>
+          Engine 3 and Rescue 5<br>
+          350 Union Avenue
+        </p>
+      </div>
+    </div>
   </div>
 </div>
-
-<div class="page-right">
-  <div class="page-contact-info">
-    <div>Emergency: Dial 911</div>
-  </div>
-</div>
-
-<div class="page-people">
-  <div><strong>2021 Chiefs:</strong></div>
-  <div>Chief of Department Dennis M. Gentile</div>
-  <div>Deputy Chief Thomas Twist III</div>
-  <div>1st Assistant Chief Thomas Riser</div>
-  <div>2nd Assistant Chief Moshe Stareshefsky</div>
-  <div>3rd Assistant Chief Bryan Sartori</div>
-</div>
-
-<div class="page-description">
-  
-   <div>It is the mission of the Rutherford Fire Department to provide safe, efficient and professional fire and rescue services. For more information please see the Borough Clerk or email Recruitment@rutherfordfd.com</div>
-
-  <div>The Rutherford Fire Department is an all-volunteer department that protects the Borough's 18,000 residents within an area of 2.4 square miles, consists of five fire companies and operate out of three firehouses strategically located throughout the Borough:</div>
-  <div>Ames Avenue Firehouse</div>
-  <div>Truck 1 and Engine 4</div>
-  <div>40 Ames Avenue</div>
-  <br>
-  <div>Mortimer Avenue Firehouse</div>
-  <div>Engine 2 and SSU</div>
-  <div>400 Mortimer Avenue</div>
-  <br>
-  <div>West End Firehouse</div>
-  <div>Engine 3 and Rescue 5</div>
-  <div>350 Union Avenue</div>
-</div>
-

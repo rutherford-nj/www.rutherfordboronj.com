@@ -1,0 +1,15 @@
+<h2 class="mt-4">{{ include.faqs.title }}</h2>
+<div class="accordion" id="accordion-{{include.faqs.id}}">
+{% for item in include.faqs.items %}
+  <div class="accordion-item">
+    <h2 class="accordion-header" id="accordion-{{include.faqs.id}}-heading-{{forloop.index}}">
+      <button class="accordion-button{% unless item.expanded %} collapsed{% endunless %}" type="button" data-bs-toggle="collapse" data-bs-target="#accordion-{{include.faqs.id}}-collapse-{{forloop.index}}" aria-expanded="{{item.expanded|default: false}}" aria-controls="accordion-{{include.faqs.id}}-collapse-{{forloop.index}}">
+        {{item.heading}}
+      </button>
+    </h2>
+    <div id="accordion-{{include.faqs.id}}-collapse-{{forloop.index}}" class="accordion-collapse collapse{% if item.expanded %} show{%endif%}" aria-labelledby="accordion-{{include.faqs.id}}-heading-{{forloop.index}}" data-bs-parent="#accordion-{{include.faqs.id}}">
+      <div class="accordion-body">{{ item.text | markdownify }}</div>
+    </div>
+  </div>
+{% endfor %}
+</div>

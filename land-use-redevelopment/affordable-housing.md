@@ -1,9 +1,8 @@
 ---
-layout: page
+layout: interior-page
+parent: Land Use and Redevelopment
 title: 'Affordable Housing'
 ---
-
-[Return to Community Development page](../)
 
 
 **A Brief History of Affordable Housing And What It Means For Rutherford**

@@ -3,63 +3,84 @@ layout: page
 title: 'Recreation Department'
 ---
 
-<div class="page-link-boxes">
-  <div class="page-gradient-box">
-    <div><a href="https://rutherfordnj.recdesk.com/Community/Home">RecDesk</a></div>
-    <div><a href="waivers/">COVID Waivers</a></div>
-    <div><a href="enrichment-classes/">Enrichment Classes</a></div>
-    <div><a href="parks-facilities/">Parks &amp; Facilities</a></div>
-    <div><a href="/calendars/">Events Calendar</a></div>
-    <div><a href="badges-and-field-permits/">Badges &amp; Field Permits</a></div>
-    <div><a href="forms/">Forms, Rules &amp; Policies</a></div>
-    <div><a href="volunteer-sponsorship/">Volunteer &amp; Sponsorship</a></div>
-    <div><a href="walk-rutherford/">Walk Rutherford</a></div>
-  </div>
-  
-  {% include news.html name="Recreation" posts=site.categories.recreation %}
+<div class="department-title">
+  <h1>Department of Recreation</h1>
+  <h2>
+    Located in Borough Hall<br>
+    176 Park Avenue, Ground Floor
+  </h2>
 </div>
 
-<div class="page-overview">
-  <div class="page-title">
-    <div>Department of</div>
-    <div class="page-title-name">Recreation</div>
-    <div class="page-location">
-      <div>Located in Borough Hall</div>
-      <div>176 Park Avenue, Ground Floor</div>
+<div class="row">
+  <div class="col">
+    <div class="alert alert-warning text-center" role="alert">
+      <strong><a href="https://rutherfordnj.recdesk.com/Community/Home">Register for programs using RecDesk</a></strong>
     </div>
   </div>
-  <div class="page-contact-info">
-    <div>p: 201-460-3015</div>
-    <div>f: 201-460-3018</div>
-    <div>recstaff@rutherfordboronj.com</div>
-    <div><strong>Weather &amp; Event Hotline</strong></div>
-    <div><strong>Follow Us on Twitter: @RutherfordRec</strong></div>
-    <div>Hours</div>
-    <div>8:30–4:30</div>
-  </div>
-  <div class="page-people">
-    <div>Department Head: Jessica Lezcano, CPM</div>
-    <div>Maureen Bigley</div>
-    <div>Janice Guzmán</div>
-  </div>
 </div>
+<div class="row">
+  <div class="col-md-4">
+    <div class="card mb-4 department-card">
+      <h5 class="card-header">Contact Info</h5>
+      <div class="card-body">
+        <p class="card-text">
+          phone: 201-460-3015<br>
+          fax: 201-460-3018<br>
+          recstaff@rutherfordboronj.com
+        </p>
+        <p class="card-text fw-bold">
+          Weather &amp; Event Hotline:<br>
+          Follow Us on Twitter: <a href="https://twitter.com/RutherfordRec">@RutherfordRec</a>
+        </p>
+        <p class="card-text">
+          Hours<br>
+          8:30–4:30
+        </p>
+        <p class="card-text">
+          Department Head: Jessica Lezcano, CPM<br>
+          Maureen Bigley<br>
+          Janice Guzmán
+        </p>
+      </div>
+    </div>
 
-<div class="page-description">
-  
-   <div><a href="https://storage.googleapis.com/static.rutherford-nj.com/recreation/Memorial%20Park%20Field%20Locations.pdf"><strong>Rutherford Field Map</strong></a></div>
-  <div>
-    The Rutherford Recreation Department is committed to providing our residents both the young and
-    young-at-heart, with programs that foster a sense of community, sportsmanship and well-being.
-    <br>
-    If you or your child participates in any in-person program sponsored by the Recreation Department we are requiring the family to notify the Recreation Department immediately if they have been made aware that anyone in their household has received a positive COVID test. If you or your child has been notified that you’ve been in close contact with someone who has tested positive, you are
-required to quarantine for 14 days before returning to Borough activities.
-Any family who fails to notify the Borough of a positive test within their household, or anyone
-deemed jeopardizing public health, will have all members of their household suspended from
-recreational activities sponsored by and/or associated with the Borough for one year.
-The safety of our residents is always our first concern. We are all in this together!
+    {% include department_links.html links=site.data.links.departments.recreation %}
+    {% include news.html name="Recreation" posts=site.categories.recreation %}
   </div>
-  <div>
-    Follow this Twitter feed for updates regarding park, facility and gym closings.
+
+  <div class="col-md-8">
+    <div class="card mb-4">
+      <div class="card-body">
+        <p class="card-text">
+          <a
+            href="https://storage.googleapis.com/static.rutherford-nj.com/recreation/Memorial%20Park%20Field%20Locations.pdf"><strong>Rutherford
+              Field Map</strong></a>
+        </p>
+        <p class="card-text">
+          The Rutherford Recreation Department is committed to providing our residents both the young and
+          young-at-heart, with programs that foster a sense of community, sportsmanship and well-being.
+        </p>
+        <p class="card-text">
+          If you or your child participates in any in-person program sponsored by the Recreation Department we are
+          requiring the family to notify the Recreation Department immediately if they have been made aware that anyone
+          in their
+          household has received a positive COVID test. If you or your child has been notified that you’ve been in close
+          contact with someone who has tested positive, you are required to quarantine for 14 days before returning to
+          Borough activities.
+        </p>
+        <p class="card-text">
+          Any family who fails to notify the Borough of a positive test within their household, or anyone
+          deemed jeopardizing public health, will have all members of their household suspended from
+          recreational activities sponsored by and/or associated with the Borough for one year.
+          The safety of our residents is always our first concern. We are all in this together!
+        </p>
+        <p class="card-text">
+          Follow our Twitter feed below for updates regarding park, facility and gym closings.
+        </p>
+      </div>
+    </div>
+    <div class="card mb-4">
+      <div class="card-body">{% include twitter.html username="RutherfordRec" %}</div>
+    </div>
   </div>
-  {% include twitter.html username="RutherfordRec" %}
 </div>

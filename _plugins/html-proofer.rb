@@ -6,13 +6,6 @@ Jekyll::Hooks.register :site, :post_write do |site|
     :check_html => true,
     :disable_external => true,
     :only_4xx => true,
-    :alt_ignore => [
-      "/static/images/health.png",
-      "/static/images/megaphone.png",
-      "borough-hall-govt.jpg",
-      "mayor-and-council.jpg",
-      "photo-gallery.png",
-      "resident-information.jpg",
-    ],
+    :file_ignore => [/.*tmpl.*/],
   }).run
 end

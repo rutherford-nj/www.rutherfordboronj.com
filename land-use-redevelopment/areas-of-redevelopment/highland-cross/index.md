@@ -1,13 +1,9 @@
 ---
-layout: page
+layout: interior-page
+parent: Areas of Redevelopment
+grandparent: Land Use and Redevelopment
 title: 'Highland Cross'
 ---
-
-<style>
-p, img { width: 100%; }
-</style>
-
-[Return to Areas of Development page](../)
 
 # Highland Cross Warehouse/Light Industrial Development
 

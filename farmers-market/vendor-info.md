@@ -1,9 +1,8 @@
 ---
-layout: page
+layout: interior-page
 title: 'Farmers Market - Vendor Information'
+parent: Farmers Market
 ---
-
-[Return to Farmers' Market page](/farmers-market/)
 
 [Printable Vendor Letter](https://storage.googleapis.com/static.rutherford-nj.com/farmers-market/Dear%20Vendor%20web%20link.docx.pdf)
 

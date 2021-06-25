@@ -1,0 +1,24 @@
+---
+layout: page
+title: 'Upcoming Events'
+---
+
+<h1 class="department-title">Upcoming Events</h1>
+
+{% capture today-date %}{{ "now" | date: "%Y-%m-%d" }}{% endcapture %}
+{% for card in site.data.upcoming-events %}
+{% if card.remove-after < today-date %}{% continue %}{% endif %}
+<div class="card mb-4">
+  <div class="row g-0">
+    <div class="col-md-4" data-proofer-ignore>
+      <img class="img-fluid p-2" src="{{ card.image | default: 'https://via.placeholder.com/400x300' }}" alt="">
+    </div>
+    <div class="col-md-8">
+      <div class="card-body">
+        <h5 class="card-title">{{ card.title }}</h5>
+        <p class="card-text">{{ card.content | markdownify }}</p>
+      </div>
+    </div>
+  </div>
+</div>
+{% endfor %}

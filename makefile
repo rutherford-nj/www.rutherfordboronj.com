@@ -18,8 +18,12 @@ local-ci: build-requirements
 	./scripts/local-ci/start-local-ci.sh
 
 
-dev: build-requirements
-	docker run -it --rm -p 0.0.0.0:38081:8080 \
+stop-dev-site:
+	docker stop rutherford-dev-site || true
+
+
+dev: stop-dev-site build-requirements
+	docker run -it --name=rutherford-dev-site --rm -p 0.0.0.0:38081:8080 \
     -v $(SITE_WORKSPACE):/srv/jekyll \
     jekyll/builder:latest jekyll serve --watch -P 8080 -p /dev/null
 

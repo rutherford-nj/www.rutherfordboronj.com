@@ -1,0 +1,29 @@
+---
+layout: page
+title: 'Borough Codes & Ordinances'
+---
+
+<h1>Borough Codes and Ordinances</h1>
+
+<div class="row mt-4">
+  <div class="col-md-4">
+    <div class="card">
+      <div class="card-body">
+        The Borough of Rutherford codes and ordinances can be found at <a href="http://ecode360.com/RU0183">ecode360.com</a>
+      </div>
+    </div>
+  </div>
+  <div class="col-md-8">
+    <div class="card">
+      <div class="card-header">Recently adopted codes and ordinances</div>
+      <div class="card-body">
+        <ul class="list-group">
+          {% comment %} Links are changed in /_data/ordinances.yaml {% endcomment %}
+          {% for ord in site.data.ordinances %}
+          <li class="list-group-item"><a href="{{ord.link}}">{{ord.text}}</a></li>
+          {% endfor %}
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>

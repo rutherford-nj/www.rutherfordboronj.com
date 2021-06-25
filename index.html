@@ -2,92 +2,140 @@
 layout: default
 title: '07070'
 ---
-<div class="homepage-address">
-  Rutherford Borough Hall <div class="homepage-address-mobile-break">•</div> 176 Park Ave • Rutherford, NJ 07070 •
-  201-460-3000
-</div>
 
-<div class="homepage-left">
-  <div class="homepage-top-links">
-    <div class="homepage-alerts">
-      <div><img src="/static/images/megaphone.png" alt=""></div>
-      <div><a href="/notifications/">Sign up for Newsletter, Alerts &amp; Notifications</a></div>
+<div class="w-100 d-none d-lg-block" data-proofer-ignore>
+  <div class="carousel slide carousel-fade" data-bs-ride="carousel">
+    <div class="carousel-inner">
+      <div class="carousel-item active">
+        <img src="/static/images/homepage/header_memorialdrone.jpg" height="500" width="2000" class="img-fluid" alt="">
+      </div>
+      <div class="carousel-item">
+        <img src="/static/images/homepage/header_parkavedrone.jpg" height="500" width="2000" class="img-fluid" alt="">
+      </div>
+      <div class="carousel-item">
+        <img src="/static/images/homepage/header_streetview.jpg" height="500" width="2000" class="img-fluid" alt="">
+      </div>
+      <div class="carousel-item">
+        <img src="/static/images/homepage/header_train.jpg" height="500" width="2000" class="img-fluid" alt="">
+      </div>
     </div>
-    <div class="homepage-covid">
-       <div><img src="/static/images/health.png" alt=""></div>
-       <div><a href="/covid-information/" style="color: #700">COVID-19 Information</a></div>
-    </div>
-    <a href="/outdoor-dining-and-retail/">Dining Out Rutherford</a>
-    <a href="/borough-codes-ordinances/">Borough Codes &amp; Ordinances</a>
-    <a href="/departments/public-works/collection-schedule/">DPW Collection Schedule</a>
-    <a href="/government/employment-bids/">Employment &amp; Bids</a>
-    <a href="/departments/borough-clerk/minutes-and-agendas/">Minutes and Agendas</a>
-    <a href="/departments/borough-clerk/permits-licenses/">Permits, Licenses, Applications</a>
-    <a href="/departments/recreation/">Recreation Department</a>
-    <a href="/roadwork-in-rutherford/">Road Work in Rutherford</a>
-    <a href="https://storage.googleapis.com/static.rutherford-nj.com/newsletters/Rutherforward/Rutherforward_2021.pdf">Rutherforward 2021</a>
-  </div>
-  <div class="homepage-calendar-button">
-    <a href="/calendars/"><img src="/static/images/calendar.png" alt="Calendars" /></a>
-  </div>
-  <div class="homepage-calendar">
-    <iframe
-      src="https://calendar.google.com/calendar/embed?showNav=0&amp;showDate=0&amp;showTabs=0&amp;showTitle=0&amp;showPrint=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;src=kkpe6ck0jkpnmsfk59mgj455j4%40group.calendar.google.com&amp;color=%23BE6D00&amp;src=75r5nqe7qson287rauo77tbuek%40group.calendar.google.com&amp;color=%2342104A&amp;src=9mmlg69uroi4c340ulq1461a80%40group.calendar.google.com&amp;color=%232952A3&amp;ctz=America%2FNew_York"
-      style="border-width:0" width="390" height="600" frameborder="0" scrolling="no"></iframe>
   </div>
 </div>
-
-<div class="homepage-right">
-  {% if site.data.homepage.vimeo_id %}
-  <style>
-    .vimeo-embed-container {
-      position: relative;
-      padding-bottom: 56.25%;
-      height: 0;
-      overflow: hidden;
-      max-width: 100%;
-    }
-
-    .vimeo-embed-container iframe,
-    .vimeo-embed-container object,
-    .vimeo-embed-container embed {
-      position: absolute;
-      top: 0;
-      left: 0;
-      width: 100%;
-      height: 100%;
-    }
-  </style>
-  <div class="vimeo-embed-container">
-    <iframe src="https://player.vimeo.com/video/{{ site.data.homepage.vimeo_id }}?autoplay=1&loop=1&byline=0&portrait=0" frameborder="0"
-      allow="autoplay; fullscreen" allowfullscreen></iframe>
+<div class="w-100 d-block d-lg-none" data-proofer-ignore>
+  <div class="carousel slide carousel-fade" data-bs-ride="carousel">
+    <div class="carousel-inner">
+      <div class="carousel-item active">
+        <img src="/static/images/homepage/header_memorialdrone_mobile.jpg" height="500" width="1700" class="img-fluid" alt="">
+      </div>
+      <div class="carousel-item">
+        <img src="/static/images/homepage/header_parkavedrone_mobile.jpg" height="500" width="1700" class="img-fluid" alt="">
+      </div>
+      <div class="carousel-item">
+        <img src="/static/images/homepage/header_streetview_mobile.jpg" height="500" width="1700" class="img-fluid" alt="">
+      </div>
+      <div class="carousel-item">
+        <img src="/static/images/homepage/header_train_mobile.jpg" height="500" width="1700" class="img-fluid" alt="">
+      </div>
+    </div>
   </div>
-  {% else %}
-  <div class="homepage-right-top-image">
-    <img src="{{ site.data.homepage.picture.src }}?zx={{ "now" | date: "%s" }}" alt="{{ site.data.homepage.picture.alt }}" />
-  </div>
-  {% endif %}
+</div>
 
-  <div class="homepage-top-links homepage-bottom-links">
-    <a style="font-weight: 700;" href="/resident-info/">Resident Information</a>
-    <a style="font-weight: 700;" href="/government/">Borough Hall &amp; Government</a>
-    <a href="/farmers-market/">2021 Farmers Market</a>
-    <a href="/land-use-redevelopment/">Land Use & Redevelopment</a>
-    <a href="https://storage.googleapis.com/static.rutherford-nj.com/sponsorship/Rutherford_Sponsorship_Program_Flyer.pdf">Sponsorship Program</a>
-    <a href="https://www.cit-e.net/rutherford-nj/cn/TaxBill_Std/?tpid=15571">Pay Taxes Online</a>
+<div class="container-fluid">
+  <div class="row row-cols-2 row-cols-md-3 row-cols-lg-5 homepage-navbar">
+    <div class="col d-flex justify-content-center py-1 py-md-2 py-lg-3">
+      <a href="/departments/">Contact</a>
+    </div>
+    <div class="col d-flex justify-content-center py-1 py-md-2 py-lg-3">
+      <a href="/forms-and-permits/">Forms</a>
+    </div>
+    <div class="col d-flex justify-content-center py-1 py-md-2 py-lg-3">
+      <a href="/notifications/">Notify Me</a>
+    </div>
+    {% comment %}
+    <div class="col d-flex justify-content-center py-1 py-md-2 py-lg-3">
+      <a href="/how-do-i/">How Do I…</a>
+    </div>
+    {% endcomment %}
+    <div class="col d-flex justify-content-center py-1 py-md-2 py-lg-3">
+      <a href="/departments/borough-clerk/minutes-and-agendas/">Minutes & Agendas</a>
+    </div>
+    <div class="col d-flex justify-content-center py-1 py-md-2 py-lg-3">
+      <a href="/borough-codes-ordinances/">Codes & Ordinances</a>
+    </div>
   </div>
-  <div class="homepage-tabs">
-    <div class="tab">
-      <button class="tablinks">Twitter</button>
-      <button class="tablinks">Facebook</button>
+</div>
+
+<div class="container">
+  <div class="row justify-content-center g-1 mt-2 mb-4">
+    <div class="col col-auto">Rutherford Borough Hall • 176 Park Ave</div>
+    <div class="col col-auto d-none d-md-block">•</div>
+    <div class="col col-auto">Rutherford, NJ 07070 • 201-460-3000</div>
+  </div>
+
+  <div class="row row-cols-1 row-cols-md-2">
+    <div class="col order-md-last">
+      <div class="card mb-4 border-2 homepage-borough-calendar homepage-button">
+        <div class="card-body d-flex justify-content-center fs-2">
+          <a href="/calendars/" class="fw-bold stretched-link">Borough Calendar</a>
+        </div>
+      </div>
+      <div class="card mb-4 border-2 homepage-upcoming-events homepage-button">
+        <div class="card-body d-flex justify-content-center fs-2">
+          <a href="/upcoming-events/" class="fw-bold stretched-link">Upcoming Events</a>
+        </div>
+      </div>
+      <div class="card mb-4 border-2 homepage-online-tax-payments homepage-button">
+        <div class="card-body d-flex justify-content-center fs-2">
+          <a href="/departments/tax-collector/online-payments/" class="fw-bold stretched-link">Online Tax Payments</a>
+        </div>
+      </div>
+      <div class="card mb-4 border-2 homepage-quick-links">
+        <div class="card-body">
+          <h2 class="card-header mb-4">Quick Links</h2>
+          <ul class="list-group">
+            <li class="list-group-item"><a class="d-block fs-3 mb-2 ps-3" href="/resident-info/">Resident Services</a></li>
+            <li class="list-group-item"><a class="d-block fs-3 mb-2 ps-3" href="/">Business Resources</a></li>
+            <li class="list-group-item"><a class="d-block fs-3 mb-2 ps-3" href="/public-safety/">Public Safety</a></li>
+            <li class="list-group-item"><a class="d-block fs-3 mb-2 ps-3" href="/resident-info/newsletters/">Newsletter
+                Archives</a></li>
+            <li class="list-group-item"><a class="d-block fs-3 mb-2 ps-3" href="/land-use-redevelopment/">Land Use &
+                Redevelopment</a></li>
+            <li class="list-group-item"><a class="d-block fs-3 mb-2 ps-3"
+                href="/departments/public-works/collection-schedule/">Sanitation Collection</a></li>
+            <li class="list-group-item"><a class="d-block fs-3 mb-2 ps-3" href="/departments/police/">Police</a></li>
+            <li class="list-group-item"><a class="d-block fs-3 mb-2 ps-3"
+                href="https://storage.googleapis.com/static.rutherford-nj.com/newsletters/Rutherforward/Rutherforward_2021.pdf">Rutherforward
+                2021</a></li>
+            <li class="list-group-item"><a class="d-block fs-3 mb-2 ps-3" href="/covid-information/">COVID-19 Information</a></li>
+          </ul>
+        </div>
+      </div>
     </div>
 
-    <div class="tabcontent tabcontentinit tab-Twitter">
-      {% include twitter.html username="Rutherford07070" %}
-    </div>
+    <div class="col order-md-1">
+      <div class="card mb-4 border-2">
+        <div class="card-body">
+          {% if site.data.homepage.vimeo_id %}
+          <div class="ratio ratio-16x9">
+            <iframe
+              src="https://player.vimeo.com/video/{{ site.data.homepage.vimeo_id }}?autoplay=1&loop=1&byline=0&portrait=0"
+              frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+          </div>
+          {% else %}
+          {% if site.data.homepage.picture.link %}<a class="stretched-link"
+            href="{{ site.data.homepage.picture.link }}">{% endif %}
+            <img class="img-fluid" src="{{ site.data.homepage.picture.src }}?zx={{ "now" | date: "%s" }}"
+              alt="{{ site.data.homepage.picture.alt }}" />
+            {% endif %}
+            {% if site.data.homepage.picture.link %}</a>{% endif %}
+        </div>
+      </div>
 
-    <div class="tabcontent tab-Facebook">
-      <div class="fb-page" data-href="https://www.facebook.com/BoroughofRutherfordNJ" data-tabs="timeline" data-width="500px" data-height="" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/BoroughofRutherfordNJ" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/BoroughofRutherfordNJ">Borough of Rutherford, NJ</a></blockquote></div>
+      <div class="card mb-4 border-2">
+        <div class="card-body">
+          {% include twitter.html username="Rutherford07070" %}
+        </div>
+      </div>
     </div>
   </div>
 </div>

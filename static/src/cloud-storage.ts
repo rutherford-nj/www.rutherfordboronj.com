@@ -2,7 +2,7 @@ import { API_KEY } from "./gapi";
 
 export function findCloudStorageElements() {
   let makeUrl = function (responseObject: any) {
-    return 'https://storage.googleapis.com/static.rutherford-nj.com/' + responseObject['name'];
+    return `https://storage.googleapis.com/static.rutherford-nj.com/${responseObject['name']}`;
   };
 
   let itemsCompare = function (a: any, b: any) {
@@ -32,10 +32,12 @@ export function findCloudStorageElements() {
     })
 
     let listElt = document.createElement("ul");
+    listElt.classList.add("list-group");
     urls.forEach(val => {
       var filename = val.split('/').pop();
       if (filename) {
         var newElt = document.createElement('li')
+        newElt.classList.add("list-group-item");
         newElt.innerHTML = `<a href="${val}">${filename}</a>`;
         listElt.append(newElt);
       }
@@ -48,10 +50,7 @@ export function findCloudStorageElements() {
     let prefix = elt.getAttribute('data-prefix');
 
     if (prefix) {
-      var contentUrl = 'https://www.googleapis.com/storage/v1/b/' +
-        'static.rutherford-nj.com/o' +
-        '?prefix=' + window.encodeURIComponent(prefix) +
-        '&key=' + API_KEY;
+      var contentUrl = `https://www.googleapis.com/storage/v1/b/static.rutherford-nj.com/o?prefix=${window.encodeURIComponent(prefix)}&key=${API_KEY}`;
 
       window.fetch(contentUrl)
         .then(resp => resp.json())

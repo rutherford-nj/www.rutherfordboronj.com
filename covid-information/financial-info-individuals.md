@@ -1,9 +1,8 @@
 ---
-layout: page
+layout: interior-page
 title: 'COVID-19 Financial & Social Services Information for Individuals'
+parent: Covid Information
 ---
-
-[Back to Daily COVID-19 Information](/covid-information)
 
 # Financial Relief and Social Service Information for Individuals:
 

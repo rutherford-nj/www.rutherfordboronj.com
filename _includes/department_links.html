@@ -1,0 +1,14 @@
+<div class="card mb-4 department-card">
+  <h5 class="card-header">Links</h5>
+  <div class="card-body">
+    <div class="row">
+      <div class="col">
+        <ul class="list-group">
+          {% for link in include.links %}
+          <li class="list-group-item"><a href="{{link.href}}">{{link.text}}</a></li>
+          {% endfor %}
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
