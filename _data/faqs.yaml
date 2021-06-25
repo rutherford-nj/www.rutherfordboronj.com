@@ -19,9 +19,6 @@ municipal-court-1:
       text: |
         Points are NOT assessed by the municipal court. They are assessed by the State of New Jersey.
         Please contact the New Jersey Motor Vehicle Commission at 609-292-6500 or [www.njmvc.gov](https://www.njmvc.gov).
-    - heading: "Do I need an attorney?"
-      text: |
-        The court cannot give you legal advice. Contact the Bergen County Bar Association at (201) 488-0044 or at [their website](https://bergenbar.org).
     - heading: "I am an out-of-state driver: will NJ points be carried over to my state?"
       text: |
         Please contact the Motor Vehicle Commission in your state to see if any points from the State of New Jersey would transfer over to your driving abstract.
@@ -50,9 +47,7 @@ municipal-court-1:
         appeals packet available online or pick up a copy in person.
     - heading: "If I wish to pay my ticket, what information do you need from me?"
       text: |
-        You can pay via the internet, [www.njmcdirect.com](https://www.njmcdirect.com); you will need the following:
-        East Rutherford court code (0212), ticket prefixes, ticket number, and plate number.
-        If you choose to mail in your payment, simply include the ticket number on your check or money order.
+        You can pay via the internet, [www.njmcdirect.com](https://www.njmcdirect.com); Rutherford court code (0256), ticket prefixes, ticket number, and plate number. If you choose to mail in your payment, simply include the ticket number on your check or money order.
 
 building-1:
   id: "building"
