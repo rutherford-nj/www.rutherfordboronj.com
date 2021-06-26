@@ -7,7 +7,7 @@ title: 'Parker Phase II'
 
 # Parker Phase II
 
-![Map of Parker](parker2map.jpg)
+![Map of Parker](parker2map.jpg){: .img-fluid }
 
 **Location:** Park Ave
 

@@ -7,7 +7,7 @@ title: 'Meadow Road'
 
 # Meadow Road
 
-![Map of Meadow Road](meadowrdmap.jpg)
+![Map of Meadow Road](meadowrdmap.jpg){: .img-fluid }
 
 **Location:** Meadow Road
 

@@ -7,7 +7,7 @@ title: 'Holman Properties'
 
 # Holman Properties (Block 110)
 
-![Map of Holman Properties](holmanmap.jpg)
+![Map of Holman Properties](holmanmap.jpg){: .img-fluid }
 
 **Location:** Highland Cross, Park and Lincoln Avenues
 

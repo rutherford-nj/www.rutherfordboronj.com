@@ -7,7 +7,7 @@ title: '106 Park'
 
 # The Maples *(106 Park Ave)*
 
-![Map of 106 Park Ave](106-park-map.jpg)
+![Map of 106 Park Ave](106-park-map.jpg){: .img-fluid }
 
 **Location:** 106 Park Ave
 

@@ -7,7 +7,7 @@ title: 'Agnew Place Area B'
 
 # Agnew Place Area B
 
-![Map of Agnew Place Area B](agnewbmap.jpg)
+![Map of Agnew Place Area B](agnewbmap.jpg){: .img-fluid }
 
 **Location:** 51 Union Ave
 

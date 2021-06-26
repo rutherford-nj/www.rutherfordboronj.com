@@ -7,7 +7,7 @@ title: 'Agnew Place Area A'
 
 # Agnew Place Area A *"The Triangle"*
 
-![Map of Agnew Place Area A](agnewamap.jpg)
+![Map of Agnew Place Area A](agnewamap.jpg){: .img-fluid }
 
 **Location:** Agnew Place Area A *"The Triangle"* Between West Erie and Union Avenues
 

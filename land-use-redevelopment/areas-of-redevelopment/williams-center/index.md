@@ -7,7 +7,7 @@ title: 'The Williams Center'
 
 # The Williams Center
 
-![Map of The Williams Center](wcmap.jpg)
+![Map of The Williams Center](wcmap.jpg){: .img-fluid }
 
 **Location:** 1 Williams Plaza
 

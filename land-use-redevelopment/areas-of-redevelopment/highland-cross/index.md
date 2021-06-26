@@ -7,7 +7,7 @@ title: 'Highland Cross'
 
 # Highland Cross Warehouse/Light Industrial Development
 
-![Map of Highland Cross](highlandmap.jpg)
+![Map of Highland Cross](highlandmap.jpg){: .img-fluid }
 
 **Location:** Eastern end of Highland Cross
 

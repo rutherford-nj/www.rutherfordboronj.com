@@ -16,4 +16,6 @@ The trail system consists of three trails:
 
 Examples of each of the three signs can be found around town. Follow the appropriate colored signs that are located along the streets of Rutherford. Turn in the direction in which the arrows on the signs point, and enjoy!
 
-<iframe src="https://www.google.com/maps/d/embed?mid=1Jpt9FpPlk5puC-pMeJiyJwBcR2M" width="800" height="800"></iframe>
+<div class="embed-responsive embed-responsive-4by3 mb-4">
+  <iframe src="https://www.google.com/maps/d/embed?mid=1Jpt9FpPlk5puC-pMeJiyJwBcR2M" width="100%" height="800"></iframe>
+</div>
