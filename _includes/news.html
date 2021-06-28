@@ -18,11 +18,20 @@
       {% endif %}
       {% if include.include_only_category %}{% if should_include == 0 %}{% continue %}{% endif %}{% endif %}
       {% if include.tag %}{% if should_include == 0 %}{% continue %}{% endif %}{% endif %}
-      <li class="list-group-item"><a href="{{ post.url }}">{{ post.title }}</a></li>
-      {% assign count = count | plus: 1 %}
+      {% comment %}2419200 = four weeks{% endcomment %}
+      {% assign timeframe = 2419200 %}
+      {% assign post_in_seconds = post.date | date: "%s" | plus: 0 %}
+      {% assign recent_posts = "now" | date: "%s" | minus: timeframe  %}
+      {% if post_in_seconds > recent_posts %}
+        <li class="list-group-item"><a href="{{ post.url }}">{{ post.title }}</a></li>
+        {% assign count = count | plus: 1 %}
+      {% endif %}
       {% if count == 10 %}{% break %}{% endif %}
     {% endfor %}
-  </ul>
+    </ul>
+    {% if count == 0 %}
+    No recent updates.
+    {% endif %}
   </div>
   <div class="card-footer text-muted">
     <a href="archive/">News Archives</a>
