@@ -20,25 +20,31 @@ The mission for the garden is to provide the young, and the young at heart, a pl
 ### Compost Pile
 Any garden is much better off with a compost bin, allowing for the recycling of organic material and nutrients. Pretty much any plant-based organic wasted can be composted, with the exception of very hard or woody materials. When left to compost, these materials will be broken down by bacteria into more basic components, which can then be re- used as fertilizer in next year’s planting. Many factors go into maintaining a compost heap, such as ensuring a proper balance of materials, regular aeration, and temperature control, all of which affect the quality of the compost created.
 
-![Composter](/committees/green-team/compost.jpg)
+![Composter](/committees/green-team/compost.jpg){: .img-fluid }
 
 ### Green Roof and Water System
 A very important part of any garden is water management. One of the most effective ways to take advantage of rainwater at our garden is the green roof. Situated atop the pergola in the center of the garden, the green roof consists of a roof which is planted with water-tolerant plants. The roof is able to use up much of the rainwater which would otherwise go to waste. These plants also filter out contaminants which would otherwise reach the water table.
 
 The runoff from this roof leads into our rainwater collection system. This water, already filtered by the roots of green roof, is collected in two large barrels to the side of the covered area. The water is available for a variety of uses, though is mainly used to water plants.
 
-![Green Roof](/committees/green-team/greenroof_1.jpg)
-![Water System](/committees/green-team/greenroof_2.jpg)
+<div class="row row-cols-1 row-cols-sm-2 g-2 my-4">
+  <div class="col">
+    <img src="/committees/green-team/greenroof_1.jpg" alt="Green Roof" class="img-fluid" />
+  </div>
+  <div class="col">
+    <img src="/committees/green-team/greenroof_2.jpg" alt="Water System" class="img-fluid" />
+  </div>
+</div>
 
 ### Planting Beds
 A quintessential part of any community garden, planting beds are used to grow and contain a variety of plants, be it vegetables, herbs, or just ornamentals. Each planting bed is rented out to a community member or group for the entirety of the planting season. Each box is built sustainably, in order to both protect the plants inside and the garden as a whole. All materials, such as the stain, wood, and even nails, were chosen to ensure that they caused the minimal amount of environmental disruption possible.
 
-![Planting Beds](/committees/green-team/plantingbeds.jpg)
+![Planting Beds](/committees/green-team/plantingbeds.jpg){: .img-fluid }
 
 ### Rain Garden
 At the community garden, we hold sustainability as one of our highest priorities. Oftentimes, rain will pick up harmful contaminants which will be drawn into our nearest river, the Passaic. One of the best ways to alleviate the amount of contamination coming from runoff is to install a rain garden. A rain garden, installed in the lowest part of an area affected by runoff, contains plants which help to absorb and filter excess rainwater runoff. The soil itself will help to contain excess water, and the roots of the plants will filter chemicals out of the water. At the Rutherford Community Garden, our rain garden is in the southwestern corner.
 
-![Rain Garden](/committees/green-team/raingarden.jpg)
+![Rain Garden](/committees/green-team/raingarden.jpg){: .img-fluid }
 
 ## Get Involved with the Garden
 
