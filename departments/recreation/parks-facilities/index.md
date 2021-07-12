@@ -17,6 +17,8 @@ The Recreation Department hosts many programs and activities at the locations be
   <div><a href="https://www.google.com/maps/d/u/0/viewer?mid=z9E2BG8u0Qag.ktvpfdZ0zmPo">Click here for a full size map</a></div>
 </div>
 
+Picnic & Pavilion Permits will only be issued one per day per park on first come first serve basis after completion of facilities permit. Borough sponsored activities have priority over all picnic and pavilion areas.
+
 **Memorial Park** (Darwin & Washington Avenues)  
 [Click here for written directions](memorial-field-directions/)
 
