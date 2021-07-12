@@ -17,16 +17,16 @@ title: 'Areas of Redevelopment'
 
 **Areas Designated In Need Of Redevelopment (Plan Pending)**
 
+- [Meadow Road](meadow-road/)
+
+- [Parker Phase II](parker-ii/)
+
+
+**Areas Designated In Need Of Redevelopment (Adopted)**
+
 - [Williams Center](williams-center/)
 
 - [Holman Properties](holman/)
-
-- [Meadow Road](meadow-road/)
-
-
-**Area Under Review for Redevelopment**
-
-- [Parker Phase II](parker-ii/)
 
 
 
