@@ -5,19 +5,7 @@ parent: 'Borough Clerk'
 ---
 
 
-**PRIMARY ELECTION**
-
-**Tuesday, June 8, 2021**
-
-Polls Open
-
-6:00 a.m. - 8:00 p.m.
-
-**The deadline to register to vote for the June 8th, 2021 Primary Election was Tuesday, May 18, 2021.**
-
-For more information visit the Bergen County Website: [www.bergencountyclerk.org](https://www.bergencountyclerk.org/).
-
-All residents are reminded of the following to ensure their voting privilege: You must re-register if you have not voted in any election for four consecutive years, have changed your address or changed your name.
+[2021 General Election Timeline](https://nj.gov/state/elections/assets/pdf/chrons/2021-chron-general-election-0623.pdf)
 
 **POLLING PLACE LOCATIONS**
 
