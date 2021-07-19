@@ -1,3 +1,4 @@
+---
 layout: blog
 title: 2021 General Election Timeline
 ---
