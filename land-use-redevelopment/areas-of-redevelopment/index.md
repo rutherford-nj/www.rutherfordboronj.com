@@ -14,12 +14,12 @@ title: 'Areas of Redevelopment'
 
 - [Agnew Place Area B](agnewb/)
 
+- [Parker Phase II](parker-ii/)
+
 
 **Areas Designated In Need Of Redevelopment (Plan Pending)**
 
 - [Meadow Road](meadow-road/)
-
-- [Parker Phase II](parker-ii/)
 
 
 **Areas Designated In Need Of Redevelopment (Adopted)**
