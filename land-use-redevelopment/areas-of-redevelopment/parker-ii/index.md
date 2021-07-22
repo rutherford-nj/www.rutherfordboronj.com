@@ -20,4 +20,6 @@ The aforementioned properties are all owned by Vango Holdings, LLC, the current 
 
 **Below find documents related to Parker Phase II redevelopment:**
 
+[Redevelopment Plan Introduced on July 12, 2021 pending adoption](https://storage.googleapis.com/static.rutherford-nj.com/community-development/parker-ii/Parker%20Phase%202%20(00267024xD43F8).PDF)
+
 [Mayor and Council Resolution No. 52-2021](https://storage.googleapis.com/static.rutherford-nj.com/community-development/parker-ii/Parker%20II%20M%26C%20RES%2052.pdf)
