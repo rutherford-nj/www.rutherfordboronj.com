@@ -11,13 +11,16 @@ title: 'Farmers Market'
 
 The market will be held in the William’s Plaza Park Avenue on
 
-**Wednesdays 11:00am to 6:00pm beginning July 7** 
+**Wednesdays 11:00am to 4:30pm July 7th - August 25th** 
+
+**Wednesdays 11:00am to 5:00pm September 1st - October 27th** 
 
 and
 
 **Saturdays from 8:00am to 2:00pm beginning July 10.**
 
-The market season will conclude 10/30/2021.
+*Please note: through August 25th Park Avenue will close to vehicles at 5:00pm for “Dining Out Rutherford.” Please plan to conclude your shopping by 4:30.
+
 
 **Please note:** On Wednesdays, Park Avenue will close to vehicles at 4:00 pm for “Dining Out Rutherford.” Please plan your visit accordingly.
 
