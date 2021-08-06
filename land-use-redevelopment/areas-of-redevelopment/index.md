@@ -14,20 +14,16 @@ title: 'Areas of Redevelopment'
 
 - [Agnew Place Area B](agnewb/)
 
+- [Williams Center](williams-center/)
+
 - [Parker Phase II](parker-ii/)
 
 
-**Areas Designated In Need Of Redevelopment (Plan Pending)**
+**Areas Designated In Need Of Redevelopment**
 
 - [Meadow Road](meadow-road/)
 
-
-**Areas Designated In Need Of Redevelopment (Adopted)**
-
-- [Williams Center](williams-center/)
-
 - [Holman Properties](holman/)
-
 
 
 [**Rutherford Redevelopment Information**](https://storage.googleapis.com/static.rutherford-nj.com/community-development/Rutherford_Redevelopment_Information.pdf)
