@@ -134,7 +134,7 @@ departments:
       href: tax-maps/
   tax-collector:
     - text: Online Tax Payments
-      href: online-payments/
+      href: https://www.cit-e.net/rutherford-nj/cn/TaxBill_Std/?tpid=15571
     - text: Sign up for Eminder
       href: eminder/
     - text: State Rebates & Reimbursements
