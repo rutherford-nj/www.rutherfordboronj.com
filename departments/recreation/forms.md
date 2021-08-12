@@ -19,8 +19,6 @@ parent: 'Recreation'
 
 [Program Registration](https://storage.googleapis.com/static.rutherford-nj.com/recreation/Recreation_ProgramRegistration.pdf)
 
-[Tennis Badge Application](https://storage.googleapis.com/static.rutherford-nj.com/recreation/Recreation_TennisBadgeApplication.pdf)
-
 [Health and Wellness Participation Pledge](https://storage.googleapis.com/static.rutherford-nj.com/recreation/Recreation_HealthWellnessPledge.pdf)
 
 
