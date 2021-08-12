@@ -24,6 +24,5 @@ The aforementioned properties are all owned by Vango Holdings, LLC, the current 
 
 [Redevelopment Study](https://storage.googleapis.com/static.rutherford-nj.com/community-development/parker-ii/Area%20in%20Need%20of%20Redevelopment%20-%20Vango%202%20-%20March%2030%2C%202021%20(00254629xD43F8)%20(1).PDF)
 
-[Redevelopment Plan Introduced on July 12, 2021](https://storage.googleapis.com/static.rutherford-nj.com/community-development/parker-ii/Parker%20Phase%202%20(00267024xD43F8).PDF)
+[Parker Phase II Redevelopment Plan](https://storage.googleapis.com/static.rutherford-nj.com/community-development/parker-ii/Parker%20Phase%20II%20Redevelopment%20Plan.PDF)
 
-[Mayor and Council Ordinance](https://storage.googleapis.com/static.rutherford-nj.com/community-development/parker-ii/Parker%20Phase%20II%20Ordinance.pdf)
