@@ -16,7 +16,7 @@ All permits are subject to change according to any future Executive Orders by th
 
 
 
-[**Preliminary Permit Application for Events & Activities**](https://docs.google.com/forms/d/e/1FAIpQLSf8UiP4aocny4fsr5Uj9KgSgxV4EOJqZ0lWx7ffEC-r4Mx3iw/viewform)
+[**Preliminary Permit Application for Events & Activities**](https://rutherfordnj.recdesk.com/Community/Facility)
 
 [NJ Dept of Health Guidance for Sports Activities](https://nj.gov/health/cd/documents/topics/NCOV/COVID_GuidanceForSportsActivities.pdf)
 
