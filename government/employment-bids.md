@@ -4,6 +4,11 @@ title: 'Employment & Bids'
 parent: Government
 ---
 
+[Bid Notice: Tamblyn Field Improvements](https://storage.googleapis.com/static.rutherford-nj.com/finance/Employment/Tamblyn%20Field%20Improvements%20Bid%20Notice%20.pdf)
+
+[Bid Notice: Tamblyn Field House Demolition](https://storage.googleapis.com/static.rutherford-nj.com/finance/Employment/Tamblyn%20Field%20House%20Demolition%20Bid%20Notice.pdf)
+
+[Bid Notice: 2021 Road Program](https://storage.googleapis.com/static.rutherford-nj.com/finance/Employment/Bid%20Notice%20-%202021%20Road%20Program.pdf)
 
 [Job Posting: PT Data Entry Operator Fire Safety](https://storage.googleapis.com/static.rutherford-nj.com/finance/Employment/JA%20fire%20administrator%20PT%20may%202021.pdf)
 
