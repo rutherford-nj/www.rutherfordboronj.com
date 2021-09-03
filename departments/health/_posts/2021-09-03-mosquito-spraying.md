@@ -6,7 +6,7 @@ title: "Mosquito Spraying 9/8"
 
 **Bergen County Mosquito Control will be performing an early morning ULV Truck Spray in Rutherford on Wednesday September 8, 2021 between the hours of 4-6 AM.** 
 
-We will be spraying duet adulticide to eliminate active, adult mosquitoes as well as Vectobac larvacide to help control the mosquito larvae. 
+The County will be spraying duet adulticide to eliminate active, adult mosquitoes as well as Vectobac larvacide to help control the mosquito larvae. 
 
 As a precaution, keep your windows closed during this time. In the event that it rains, the spray will be postponed until the following day. 
 
