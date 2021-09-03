@@ -1,25 +1,21 @@
 ---
 layout: page
-title: 'Labor Day Street Fair 2021'
+title: 'Labor Day Street Fair 2021 - CANCELLED'
 ---
  
-## Rutherford's 45th Annual Labor Day Street Fair will be held 
+## The 2021 Labor Day Street Fair has been CANCELLED
 
-## Monday, September 6th - 10:00am-5:00pm
+At the August 23rd Mayor and Council meeting, the decision was made to cancel the upcoming Labor Day Street Fair. This decision was not made lightly and we understand it may disappoint some. 
 
-The Street Fair will take place on and around Park Avenue in Downtown Rutherford from Ames Avenue to Donaldson Avenue and is being produced by Cliffhanger Productions.
+The sponsorship funding we expected to receive for this year’s Street Fair has not come to fruition, prompting the Borough to reconsider the financial viability of the event.
 
-**Last Day to register for vendors and community non-profit groups will be** 
+It’s important to know that for this Street Fair, the Borough incurs significant costs in overtime for our police and public works employees.  This day begins at 6am with closing Park Ave and running the sweeper until re-opening the street 12 hours later.  We understand the history behind hosting the Labor Day Street Fair, but we must be mindful of the fact that the pandemic continues to impact not only the Borough’s revenues, but those of the sponsors the Borough has traditionally relied on to offset costs.
 
-**Monday, August 23rd - Contact Jimmy Spadola at 201-460-8335**
+Faced with the choice between devoting resources to the Labor Day Street Fair and more Rutherford-centric events, we chose to focus on providing smaller, community-driven events and experiences for our residents like the upcoming Rutherford Day and Halloween Spooktacular. 
 
-**Street Closures and No Parking will enforced from the areas of Lincoln Park to the Train Station beginning at 6am on September 2nd.**
+I’d like to thank Mayor Nunziato and my colleagues for supporting this decision. I believe we all hope to resume the Labor Day Street Fair again when it is a more fiscally viable option. 
 
-## Vendor Applications 
 
-[**Labor Day Standard Application**](https://storage.googleapis.com/static.rutherford-nj.com/labor-day/Labor%20Day%20Standard%20Application%202021%20(2).docx.pdf)
+Sincerely, 
 
-[**Labor Day Application for Non-Profits**](https://storage.googleapis.com/static.rutherford-nj.com/labor-day/Labor%20Day%20Application%20Non%20Profit%202021.docx.pdf)
-
-[**Labor Day Application for Businesses**](https://storage.googleapis.com/static.rutherford-nj.com/labor-day/Labor%20Day%20Rutherford%20Business%20Application%202021.docx.pdf)
-
+Councilman Tom Mullahey
