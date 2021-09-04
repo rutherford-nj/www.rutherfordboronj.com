@@ -2,15 +2,6 @@
 # where there's a leading zero in front of single digit months or days.
 
 
-- title: "Summer Concert Series at Lincoln Park"
-  content: |
-    The July 29th concert, Peach Project, has been rescheduled for Monday, August 2nd due to weather.
-  
-    **The July 1st (Rutherford Community Band) and July 8th (Mighty Spectrum Band) concerts that were cancelled due to rain have been rescheduled for September 23rd and August 19th respectively.**
-   
-    [**Click here for full schedule**](https://storage.googleapis.com/static.rutherford-nj.com/events/2021%20Rutherford%20Summer%20Concert%20Series%20FLYER%20PROOF.pdf)
-  image: /upcoming-events/UpcomingEvents_400x300_Concerts.jpg
-  remove-after: "2021-08-13"  
 - title: "Dining Out Rutherford"
   content: |
     Final Dining Out Rutherford Dates: Wednesday, September 8th and Saturday, October 2nd. 6-10 pm. 
@@ -24,6 +15,13 @@
     [Learn More Here](/outdoor-dining-and-retail/).
   image: /upcoming-events/UpcomingEvents_400x300_DO_sponsors.jpg
   remove-after: "2021-10-04"
+- title: "Multicultural Festival in Lincoln Park 9/24-25"
+  content: |
+    The 2021 Multicultural Festival presented by the Rutherford Civil Rights Commission will be held on Friday September 24th and Saturday September 25th at Lincoln Park.
+   
+    [**See flyer here**](https://storage.googleapis.com/static.rutherford-nj.com/committees/civil-rights/RCRCMultiFestPoster_LV1.pdf)
+  image: /upcoming-events/UpcomingEvents_400x300_multicultural.jpg
+  remove-after: "2021-09-26"  
 - title: "Rutherford Farmers Market"
   content: |
     Wednesdays and Saturdays through October 30 at the Williams Center Plaza.
