@@ -9,7 +9,7 @@ title: "4th Quarter Tax Bills Mailed"
 
 We now offer the convenience of paying by ACH or “e-check” and credit card- online only.
 
-Please visit [this page](/departments/tax-collector/online-payments/) for further details and associated charges.
+Please visit [this page](https://www.cit-e.net/rutherford-nj/cn/TaxBill_Std/?tpid=15571) for further details and associated charges.
 
 There is also a lock box, located on the driveway side of Borough Hall for after-hours drop-off. 
 

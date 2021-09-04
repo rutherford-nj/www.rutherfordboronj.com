@@ -47,7 +47,7 @@ departments:
       href: stormwater-information/
   finance:
     - text: Online Tax Payments
-      href: /departments/tax-collector/online-payments/
+      href: https://www.cit-e.net/rutherford-nj/cn/TaxBill_Std/?tpid=15571
     - text: Budgets & Financials
       href: budgets-financials/
     - text: Employment & Bid Notices
