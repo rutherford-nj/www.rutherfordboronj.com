@@ -11,7 +11,7 @@ Please be advised that the Borough of Rutherford Tax Collector’s Office is ope
 
 - Place your payment in the Drop Box located by the Donaldson Avenue entrance of Borough Hall;
 
-- Pay your taxes via our [on-line payment portal here.](/departments/tax-collector/online-payments/) 
+- Pay your taxes via our [on-line payment portal here.](https://www.cit-e.net/rutherford-nj/cn/TaxBill_Std/?tpid=15571) 
 
 - If you are a Senior Citizen / Disabled Individual (or assisting a Senior or Disabled person) and eligible for the Property Tax Reimbursement program (aka Senior Freeze), the Tax Office has the ability to print our portion of the application from our computer and mail it to you.
 
