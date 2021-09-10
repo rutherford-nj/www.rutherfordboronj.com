@@ -2,6 +2,11 @@
 layout: page
 title: 'Ida Disaster Assistance'
 ---
+
+FEMA is dispatching mobile assistance units to Bergen County to answer questions and help residents complete disaster relief applications in-person. 
+
+**FEMA units will be stationed at Memorial Field on Monday, September 13 from 9am-6pm.**
+
 [**disasterassistance.gov**](https://www.disasterassistance.gov/get-assistance/address-lookup?isMap=false&address=07070): 
 
 If your address is not currently in a declared area, you may still be able to apply online now.
