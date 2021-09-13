@@ -2,6 +2,20 @@
 # where there's a leading zero in front of single digit months or days.
 
 
+- title: "Rutherford Day - Saturday, October 2nd 2021"
+  content: |
+    This event is designed specifically to allow Rutherford community organizations to utilize Memorial Field for games and activities. It will provide an opportunity for each service group, club, or business in Rutherford to promote itself, its services, accomplishments, and goals to the residents of Rutherford.
+    
+    **Classic Car Show - Cornhole Tournament - Youth Soccer Shoot - Many Community Groups!**
+
+    **Beer Garden - Food Trucks - Live Music**
+    
+    [Learn More Here](/rutherford-day/).
+    
+  image: /upcoming-events/UpcomingEvents_400x300_RutherfordDay.jpg
+  remove-after: "2021-10-3"
+
+
 - title: "Dining Out Rutherford"
   content: |
     Final Dining Out Rutherford Dates: Wednesday, September 8th and Saturday, October 2nd. 6-10 pm. 
@@ -30,11 +44,5 @@
   image: /upcoming-events/UpcomingEvents_400x300_FarmersMarket.jpg
   remove-after: "2021-10-31"
 
-- title: "Rutherford Day - Saturday, October 2nd 2021"
-  content: |
-    This event is designed specifically to allow Rutherford community organizations to utilize Memorial Field for games and activities. It will provide an opportunity for each service group, club, or business in Rutherford to promote itself, its services, accomplishments, and goals to the residents of Rutherford.
-    
-    [If your organization is interested in participating in Rutherford Day, please fill out this form](https://docs.google.com/forms/d/e/1FAIpQLSer0WA5yg-5EWMSwLlYwVgceh1z6mgZEEmCXvjfxDyTTJiIqQ/viewform).
-  image: /upcoming-events/UpcomingEvents_400x300_RutherfordDay.jpg
-  remove-after: "2021-10-3"
+
 
