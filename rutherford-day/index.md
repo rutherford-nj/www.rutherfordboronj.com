@@ -9,7 +9,7 @@ This event is designed specifically to allow Rutherford community organizations 
 
 
 **- Classic Car Show** Hosted by the [Volunteer Rutherford First-Aid Ambulance Corps](https://www.rutherfordems.org/?fbclid=IwAR0kefm4ldVude7uy29OvgKDgWPOUVe9zHmie2BawY_A1UzYNkGiYMdJvkY) 
-[Register your car here!](forms.gle/Ltz56PbtJQdzg41N8)
+[**Register your car here!**](forms.gle/Ltz56PbtJQdzg41N8)
 
 **- Cornhole Tournament** Hosted by the [Rutherford Education Foundation](https://www.rutherfordeducationfoundation.org/)
 
