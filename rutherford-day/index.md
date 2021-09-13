@@ -15,7 +15,7 @@ This event is designed specifically to allow Rutherford community organizations 
 
 **- Youth Soccer Shoot** Hosted by the Rutherford Elks Lodge 547  - Open to all kids who are or were 15 years or under as of January 1st, 2021. 
 
-**- Many Rutherford Community Groups ** (Haven't registered your organization yet? Deadline is September 17.) [Register here](https://docs.google.com/forms/d/e/1FAIpQLSer0WA5yg-5EWMSwLlYwVgceh1z6mgZEEmCXvjfxDyTTJiIqQ/viewform) 
+**- Many Rutherford Community Groups** (Haven't registered your organization yet? Deadline is September 17.) [Register here](https://docs.google.com/forms/d/e/1FAIpQLSer0WA5yg-5EWMSwLlYwVgceh1z6mgZEEmCXvjfxDyTTJiIqQ/viewform) 
 
 **- Annual Remembrance Softball Game** 
 
