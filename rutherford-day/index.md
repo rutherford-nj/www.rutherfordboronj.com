@@ -11,7 +11,7 @@ This event is designed specifically to allow Rutherford community organizations 
 **- Classic Car Show** Hosted by the [Volunteer Rutherford First-Aid Ambulance Corps](https://www.rutherfordems.org/?fbclid=IwAR0kefm4ldVude7uy29OvgKDgWPOUVe9zHmie2BawY_A1UzYNkGiYMdJvkY) 
 [**Register your car here!**](https://forms.gle/Ltz56PbtJQdzg41N8)
 
-**- Cornhole Tournament** Hosted by the [Rutherford Education Foundation](https://www.rutherfordeducationfoundation.org/)
+**- Cornhole Tournament** Hosted by the [Rutherford Education Foundation](https://www.rutherfordeducationfoundation.org/) - **email Andy Michalski at michalsa@me.com to register and for more information.**
 
 **- Youth Soccer Shoot** Hosted by the Rutherford Elks Lodge 547  - Open to all kids who are or were 15 years or under as of January 1st, 2021. 
 
