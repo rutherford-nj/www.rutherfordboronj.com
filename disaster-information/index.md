@@ -3,9 +3,17 @@ layout: page
 title: 'Ida Disaster Assistance'
 ---
 
-FEMA is dispatching mobile assistance units to Bergen County to answer questions and help residents complete disaster relief applications in-person. 
+**Disaster  Recovery  Centers have opened  in  Bergen,  Hunterdon  and  Mercer  counties  to  help  residents  in New  Jersey  affected  by  the  remnants  of  Hurricane  Ida.**
 
-**FEMA units will be stationed at Memorial Field on Monday, September 13 from 9am-6pm.**
+The Bergen County Recovery Center is:
+
+Ciarco  Learning  Center,  355 Main St.,  Hackensack,  NJ  07652 
+
+Hours:  7  a.m.  to  7  p.m.  ET,  Monday  through  Saturday   Closed  Sundays 
+
+The fastest and easiest way to apply is by visiting [disasterassistance.gov](https://www.disasterassistance.gov/) or by downloading the FEMA App on the Apple App Store or the Google Play Store. 
+
+[Learn more here](https://storage.googleapis.com/static.rutherford-nj.com/aid-information/NR%20005%20-%20DRCs%20to%20Open%20in%20Bergen%20Hunterdon%20and%20Mercer%20Counties.pdf)
 
 [**disasterassistance.gov**](https://www.disasterassistance.gov/get-assistance/address-lookup?isMap=false&address=07070): 
 
