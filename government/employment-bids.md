@@ -4,6 +4,8 @@ title: 'Employment & Bids'
 parent: Government
 ---
 
+[Job Announcement: Tax Office Clerk](https://storage.googleapis.com/static.rutherford-nj.com/finance/Employment/Clerk%20Job%20Announcement%20Tax%20Office%202021%20for%20website.pdf)
+
 [Bid Notice: Tamblyn Field Improvements](https://storage.googleapis.com/static.rutherford-nj.com/finance/Employment/Tamblyn%20Field%20Improvements%20Bid%20Notice%20.pdf)
 
 [Bid Notice: Tamblyn Field House Demolition](https://storage.googleapis.com/static.rutherford-nj.com/finance/Employment/Tamblyn%20Field%20House%20Demolition%20Bid%20Notice.pdf)
