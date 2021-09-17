@@ -86,6 +86,8 @@ departments:
       href: https://www.state.nj.us/mvc/license/points-schedule.htm
     - text: Pay a Municipal Case
       href: https://portalnjmcdirect-cloud.njcourts.gov/prweb/PRServletPublicAuth/app/MuniPay_/wQ2guhy8lqKPggD8pVI7RLYVZ9vxwNMF*/!STANDARD?AppName=NJMC&fromBrowserHistory=truem
+    - text: Remote/Virtual Courtroom Security
+      href: remote-courtroom-security/
   police:
     - text: Personnel / Contacts
       href: personnel-contacts/
