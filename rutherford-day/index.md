@@ -13,7 +13,7 @@ This event is designed specifically to allow Rutherford community organizations 
 
 **- Cornhole Tournament** Hosted by the [Rutherford Education Foundation](https://www.rutherfordeducationfoundation.org/) - **email Andy Michalski at michalsa@me.com to register and for more information.**
 
-**- Youth Soccer Shoot** Hosted by the Rutherford Elks Lodge 547  - Open to all kids who are or were 15 years or under as of January 1st, 2021. 
+**- Youth Soccer Shoot** Hosted by the Rutherford Elks Lodge 547  - Open to all kids who are or were 15 years or under as of January 1st, 2021. [**Participants - fill out and bring this form to the event**](https://storage.googleapis.com/static.rutherford-nj.com/community-events/rutherford-day/Lodge%20shoot%20application%20(2).pdf)
 
 **- Many Rutherford Community Groups** (Haven't registered your organization yet? Deadline is September 17.) [Register here](https://docs.google.com/forms/d/e/1FAIpQLSer0WA5yg-5EWMSwLlYwVgceh1z6mgZEEmCXvjfxDyTTJiIqQ/viewform) 
 
