@@ -5,6 +5,8 @@ parent: 'Borough Clerk'
 ---
 
 
+[2021 Voting Information from Bergen County](https://storage.googleapis.com/static.rutherford-nj.com/borough-clerk/election-info/Bergen%20County%20-%203%20Ways%20to%20Vote%20(1).pdf)
+
 [2021 General Election Timeline](https://nj.gov/state/elections/assets/pdf/chrons/2021-chron-general-election-0623.pdf)
 
 **POLLING PLACE LOCATIONS**
