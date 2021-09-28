@@ -9,9 +9,13 @@ title: 'Rutherford Day 2021'
 
 This event is designed specifically to allow Rutherford community organizations to utilize Memorial Field for games and activities. It will provide an opportunity for each service group, club, or business in Rutherford to promote itself, its services, accomplishments, and goals to the residents of Rutherford. Open to Rutherford-based community organizations and businesses only. 
 
+---
+
 Memorial Field Parking Lot will be closed to vehicular traffic. Street parking only. 
 
 **FREE Parking & Shuttle** from Felician’s Montross Ave Parking Lot
+
+---
 
 
 **- Classic Car Show** Hosted by the [Volunteer Rutherford First-Aid Ambulance Corps](https://www.rutherfordems.org/?fbclid=IwAR0kefm4ldVude7uy29OvgKDgWPOUVe9zHmie2BawY_A1UzYNkGiYMdJvkY) 
