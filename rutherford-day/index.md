@@ -31,9 +31,9 @@ Memorial Field Parking Lot will be closed to vehicular traffic. Street parking o
 
 **- With DJ & Live Music by:**
 
-    - 11:15 - Ken Turtoro of Two’s Company
+    11:15 - Ken Turtoro of Two’s Company
 
-    - 12:15 - Rutherford Rocks Youth Bands
+    12:15 - Rutherford Rocks Youth Bands
 
-    - 1:00 - See Plus
+    1:00 - See Plus
 
