@@ -7,7 +7,7 @@ title: 'Rutherford Day 2021'
 
 **@ Memorial Field 11am-4pm**
 
-[See flyer here](https://storage.googleapis.com/static.rutherford-nj.com/events/RutherfordDay2021_Flyer_2.pdf)
+[**See flyer here**](https://storage.googleapis.com/static.rutherford-nj.com/events/RutherfordDay2021_Flyer_2.pdf)
 
 This event is designed specifically to allow Rutherford community organizations to utilize Memorial Field for games and activities. It will provide an opportunity for each service group, club, or business in Rutherford to promote itself, its services, accomplishments, and goals to the residents of Rutherford. Open to Rutherford-based community organizations and businesses only. 
 
