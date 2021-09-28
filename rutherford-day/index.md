@@ -36,6 +36,8 @@ Memorial Field Parking Lot will be closed to vehicular traffic. Street parking o
 
 **- Annual Remembrance Softball Game** 
 
+**- Pumpkin Patch and Painting Sponsored by Felician University**
+
 **- Beer Garden**
 
 **- Food Vendors** 
