@@ -1,5 +1,5 @@
 picture:
-  src: /static/images/homepage/stay_informed.jpg
+  src: /static/images/homepage/homepage_mainimage_rutherfordday.jpg
   alt: Stay Informed
-  link: /notifications/
+  link: /upcoming-events/
 #vimeo_id: 552020187
