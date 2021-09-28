@@ -3,17 +3,24 @@ layout: page
 title: 'Rutherford Day 2021'
 ---
 
-# Rutherford Day - Saturday, October 2, 2021 @ Memorial Field
+# Rutherford Day - Saturday, October 2, 2021
+
+**@ Memorial Field 11am-4pm**
 
 [See flyer here](https://storage.googleapis.com/static.rutherford-nj.com/events/RutherfordDay2021_Flyer_2.pdf)
 
 This event is designed specifically to allow Rutherford community organizations to utilize Memorial Field for games and activities. It will provide an opportunity for each service group, club, or business in Rutherford to promote itself, its services, accomplishments, and goals to the residents of Rutherford. Open to Rutherford-based community organizations and businesses only. 
 
+
+**@ Park Ave 6-10pm - The Final Dining Out Rutherford of the Season**
+
+**Featuring Music by Super Trans Am  - "The Ultimate Seventies Experience"**
+
 ---
 
 Memorial Field Parking Lot will be closed to vehicular traffic. Street parking only. 
 
-**FREE Parking & Shuttle** from Felician’s Montross Ave Parking Lot
+**FREE Parking & Shuttle** from Felician’s Montross Ave Parking Lot to Memorial Field.
 
 ---
 
