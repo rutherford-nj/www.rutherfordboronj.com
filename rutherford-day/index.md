@@ -9,6 +9,10 @@ title: 'Rutherford Day 2021'
 
 This event is designed specifically to allow Rutherford community organizations to utilize Memorial Field for games and activities. It will provide an opportunity for each service group, club, or business in Rutherford to promote itself, its services, accomplishments, and goals to the residents of Rutherford. Open to Rutherford-based community organizations and businesses only. 
 
+Memorial Field Parking Lot will be closed to vehicular traffic. Street parking only. 
+
+**FREE Parking & Shuttle** from Felician’s Montross Ave Parking Lot
+
 
 **- Classic Car Show** Hosted by the [Volunteer Rutherford First-Aid Ambulance Corps](https://www.rutherfordems.org/?fbclid=IwAR0kefm4ldVude7uy29OvgKDgWPOUVe9zHmie2BawY_A1UzYNkGiYMdJvkY) 
 [**Register your car here!**](https://forms.gle/Ltz56PbtJQdzg41N8)
@@ -24,4 +28,12 @@ This event is designed specifically to allow Rutherford community organizations 
 **- Beer Garden**
 
 **- Food Vendors** 
+
+**- With DJ & Live Music by:**
+
+    - 11:15 - Ken Turtoro of Two’s Company
+
+    - 12:15 - Rutherford Rocks Youth Bands
+
+    - 1:00 - See Plus
 
