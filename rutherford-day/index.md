@@ -9,6 +9,8 @@ title: 'Rutherford Day 2021'
 
 [**See flyer here**](https://storage.googleapis.com/static.rutherford-nj.com/events/RutherfordDay2021_Flyer_2Header.pdf)
 
+[Map of events at Memorial Field](https://www.google.com/maps/d/edit?mid=1nxLYv9TIylPhTYHqe6kmkqFtnrkJwwCG&usp=sharing)
+
 This event is designed specifically to allow Rutherford community organizations to utilize Memorial Field for games and activities. It will provide an opportunity for each service group, club, or business in Rutherford to promote itself, its services, accomplishments, and goals to the residents of Rutherford. Open to Rutherford-based community organizations and businesses only. 
 
 
