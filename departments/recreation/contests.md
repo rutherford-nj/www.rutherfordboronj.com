@@ -8,7 +8,7 @@ parent: 'Recreation'
 
 # 2021 Halloween Events and Contests!
 
-To register for Halloween Contests, visit RecDesk and filter by "Holiday." 
+To register for Halloween Contests, visit RecDesk Programs and filter by "Holiday." 
 
 [https://rutherfordnj.recdesk.com/Community/Program](https://rutherfordnj.recdesk.com/Community/Program)
 
