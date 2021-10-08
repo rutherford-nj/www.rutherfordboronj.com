@@ -4,7 +4,7 @@ title: 'Coaches Community'
 parent: 'Recreation'
 ---
 
-
+**For a list of current coaching opportunities, visit Rec Desk and filter by "Adult"** [https://rutherfordnj.recdesk.com/Community/Program](https://rutherfordnj.recdesk.com/Community/Program)
 
 # Coaches Community
 
