@@ -4,9 +4,10 @@ title: 'Coaches Community'
 parent: 'Recreation'
 ---
 
-**For a list of current coaching opportunities, visit Rec Desk and filter by "Adult"** [https://rutherfordnj.recdesk.com/Community/Program](https://rutherfordnj.recdesk.com/Community/Program)
 
 # Coaches Community
+
+**For a list of current coaching opportunities, visit Rec Desk and filter by "Adult"** [https://rutherfordnj.recdesk.com/Community/Program](https://rutherfordnj.recdesk.com/Community/Program)
 
 **All coaching volunteers are required to take the Rutgers Certification Course. This is a life time certification and mandatory for all Recreation Coaches.**
 
