@@ -11,9 +11,9 @@ parent: 'Recreation'
 
 **All coaching volunteers are required to take the Rutgers Certification Course. This is a life time certification and mandatory for all Recreation Coaches.**
 
-[- October 18 2021 FREE Rutgers Certification Course - Online](https://rutherfordnj.recdesk.com/Community/Program/Detail?programId=113)
+[- October 18th 2021 FREE Rutgers Certification Course - Online](https://rutherfordnj.recdesk.com/Community/Program/Detail?programId=113)
 
-[- November 4 2021 FREE Rutgers Certification Course - Online](https://rutherfordnj.recdesk.com/Community/Program/Detail?programId=114)
+[- November 4th 2021 FREE Rutgers Certification Course - Online](https://rutherfordnj.recdesk.com/Community/Program/Detail?programId=114)
 
 Contact Rutherford Rec at 201-460-3015 for other available Rutgers Course dates.
 
