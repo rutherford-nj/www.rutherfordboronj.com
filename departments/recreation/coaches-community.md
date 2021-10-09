@@ -19,7 +19,7 @@ Contact Rutherford Rec at 201-460-3015 for other available Rutgers Course dates.
 
 **All coaching volunteers are required to take the FHS Concussions in Sports Certification Course
 
-FHS Concussions in Sports Certification availbe here: [https://nfhslearn.com/courses/concussion-in-sports-2
+FHS Concussions in Sports Certification available here: [https://nfhslearn.com/courses/concussion-in-sports-2
 ](https://nfhslearn.com/courses/concussion-in-sports-2)
 
 **Additional Resources for Coaches & Parents**
