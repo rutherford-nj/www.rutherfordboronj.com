@@ -21,6 +21,8 @@ In September of 2019 a settlement with the FSHC was reached that will protect th
 
 **Affordable Housing Information**
 
+[Affordable Housing FAQs](./faqs/)
+
 [Rutherford's Agreement with FSHC](https://storage.googleapis.com/static.rutherford-nj.com/community-development/Rutherford's%20Agreement%20with%20FSHC.pdf)
 
 [Rutherford Concise Vacant Land Analysis Text Oct 17, 2017](https://storage.googleapis.com/static.rutherford-nj.com/community-development/Rutherford%20concise%20vacant%20land%20analysis%20text%20October%2017%2C%202017%20(from%20July%2024-May%202017)%20orig.pdf)
