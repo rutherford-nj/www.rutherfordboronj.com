@@ -248,3 +248,15 @@ notifications-4:
         want to receive, delivered via the devices and communications modes that you choose. The Rutherford Alert and Notification System utilizes
         the highest standards in physical and computer security technologies and conducts regular audits to ensure all information is kept secure.
         Privacy policies are also outlined in the Terms and Conditions you review when you sign up to receive alerts and notifications.
+
+affordable-housing:
+  id: "affordable-housing"
+  title: "Affordable Housing FAQs"
+  items:
+    - heading: "Lorem Ipsum"
+      text: |
+        Some content should go here. It can be long and wrap like the rest above does.
+        See?
+    - heading: "Lorem Ipsum, the sequel"
+      text: |
+        More fabulous answers to amazing questions goes here.
