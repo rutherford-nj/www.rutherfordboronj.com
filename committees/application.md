@@ -6,7 +6,7 @@ parent: 'Committees'
 
 [**2022 Board, Commission and Committee Descriptions**](https://storage.googleapis.com/static.rutherford-nj.com/committees/2022%20Committee%20Descriptions.pdf)
 
-# 2022 applications for select Boards & Commissions have been reopened from Wednesday, October 13th 2021 through Tuesday, November 30th. 
+# 2022 applications for select Boards & Commissions have been reopened from Wednesday, October 13th 2021 through Monday, November 15th. 
 
 Applicant interviews will take place via Zoom during November and December of this year. 
 
