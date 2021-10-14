@@ -2,7 +2,13 @@
 # where there's a leading zero in front of single digit months or days.
 
 
- 
+- title: "Halloween Events & Contests"
+  content: |
+    
+    [Learn More Here](/departments/recreation/contests/).
+  image: /upcoming-events/UpcomingEvents_400x300_Halloween.jpg
+  remove-after: "2021-10-31" 
+
 - title: "Rutherford Farmers Market"
   content: |
     Wednesdays and Saturdays through October 30 at the Williams Center Plaza.
