@@ -19,9 +19,9 @@ To register for Halloween Contests, visit RecDesk Programs and filter by "Holida
 
 [- All events flyer](https://storage.googleapis.com/static.rutherford-nj.com/recreation/contests/2021_Halloween_AllEvents.pdf)
 
-- Ragamuffin Halloween Costume Parade (Pre-Registration Requested) [See flyer here](https://storage.googleapis.com/static.rutherford-nj.com/recreation/contests/2021_Halloween_Ragamuffin.pdf)
+- [Ragamuffin Halloween Costume Parade](https://storage.googleapis.com/static.rutherford-nj.com/recreation/contests/2021_Halloween_Ragamuffin.pdf) [Register here](https://rutherfordnj.recdesk.com/Community/Program/Detail?programId=115)
 
-- Halloween House Decorating Contest (Registration Required) [See flyer here](https://storage.googleapis.com/static.rutherford-nj.com/recreation/contests/2021_Halloween_HouseDecor.pdf)
+- [Halloween House Decorating Contest](https://storage.googleapis.com/static.rutherford-nj.com/recreation/contests/2021_Halloween_HouseDecor.pdf) [Register here](https://rutherfordnj.recdesk.com/Community/Program/Detail?programId=112)
 
 - Halloween Purple Pumpkin Pursuit [See flyer here](https://storage.googleapis.com/static.rutherford-nj.com/recreation/contests/2021_Halloween_PurplePumpkin.pdf)
 
