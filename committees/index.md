@@ -3,6 +3,7 @@ layout: page
 title: 'Committees'
 ---
 
+[**2022 Committee, Board and Commission Application**](./application/)
 <p>
   The application and interview process takes place annually in the fall for any Rutherford resident interested in serving on a Board, Commission or Committee for the following year.
 </p>
