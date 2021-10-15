@@ -4,6 +4,7 @@ parent: Land Use and Redevelopment
 title: 'Affordable Housing'
 ---
 
+[Affordable Housing FAQs](./faqs/)
 
 **A Brief History of Affordable Housing And What It Means For Rutherford**
 
@@ -19,9 +20,7 @@ To avoid builders remedy lawsuits and allow for responsible growth and redevelop
 
 In September of 2019 a settlement with the FSHC was reached that will protect the borough until July 1, 2025. It establishes certain benchmarks and goals for the borough’s development of affordable housing through its ordinances, administrative procedures, redevelopment and planning.
 
-**Affordable Housing Information**
-
-[Affordable Housing FAQs](./faqs/)
+**Additional Affordable Housing Information**
 
 [Rutherford's Agreement with FSHC](https://storage.googleapis.com/static.rutherford-nj.com/community-development/Rutherford's%20Agreement%20with%20FSHC.pdf)
 
