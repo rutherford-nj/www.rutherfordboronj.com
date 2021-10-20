@@ -22,7 +22,7 @@ Please click on an item below to download the appropriate form and return to the
 
 [**Firearms Applications**](/departments/police/additional-services/) - Handled by Rutherford Police Department. 
 
-[**Film Permit**](https://storage.googleapis.com/static.rutherford-nj.com/borough-clerk/permits-licenses/Forms/FILM.pdf)
+[**Film Permit**](https://storage.googleapis.com/static.rutherford-nj.com/borough-clerk/permits-licenses/FILM.pdf)
 – Borough Ordinance requires permits when filming within the Borough.
 
 **Garage Sale** – You are allowed to hold three (3) garage sales per calendar year and must phone the Clerk’s Office to register the sale.  A garage sale is defined as the selling of used household items.  There is no fee. 
