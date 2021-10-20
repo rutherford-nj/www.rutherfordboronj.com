@@ -12,7 +12,7 @@ jobs:
         uses: lycheeverse/lychee-action@v1.0.9
         with:
           args: >
-            "./**/*.md" "./**/*.html"
+            "./**/*.md" "./**/*.html" "./**/*.yml"
             --verbose --no-progress --exclude-mail
             --exclude https://apis.google.com/
             --exclude https://sheets.googleapis.com/
