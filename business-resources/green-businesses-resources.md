@@ -33,7 +33,7 @@ title: 'Green Business Resources'
 
 # Rutherford Green Business Recognition Program
 
-* [About the program](https://docs.google.com/document/u/0/d/14MGeKd0ZIuFh_Zsn6JXL_83y7b5W3JiWiZTTjwiy-Ns/edit){:target="_blank"}
+* [About the program](../green-leaf-program/){:target="_blank"}
     * [Recycling in Rutherford](/departments/public-works/recycling-information/){:target="_blank"}
         ([Printable 'cheat sheet'](https://storage.googleapis.com/static.rutherford-nj.com/public-works/Rutherford%202019%20recycling.pdf){:target="_blank"})
     * [Sustainable Jersey Green Business Recognition Program Action](https://www.sustainablejersey.com/actions/?type=1336777436&tx_sjcert_action%5BactionObject%5D=46&tx_sjcert_action%5Baction%5D=getPDF&tx_sjcert_action%5Bcontroller%5D=Action&cHash=ed52b645b6f7d1035b1317b4854c2e08){:target="_blank"}
