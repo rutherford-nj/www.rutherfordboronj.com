@@ -1,0 +1,29 @@
+name: Links
+
+on:
+  workflow_dispatch:
+
+jobs:
+  linkChecker:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Link Checker
+        uses: lycheeverse/lychee-action@v1.0.9
+        with:
+          args: >
+            "./**/*.md" "./**/*.html"
+            --verbose --no-progress --exclude-mail
+            --exclude https://apis.google.com/
+            --exclude https://sheets.googleapis.com/
+            --exclude https://clients6.google.com/
+            --exclude https://fonts.gstatic.com/
+        env:
+          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
+        
+      - name: Create Issue From File
+        uses: peter-evans/create-issue-from-file@v3
+        with:
+          title: Link Checker Report
+          content-filepath: ./lychee/out.md
+          labels: report, automated issue
