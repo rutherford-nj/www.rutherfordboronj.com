@@ -20,7 +20,7 @@ As a preview to the Green Leaf Recognition program, some of the criteria used to
 1. Pollution and hazardous material reduction in operations and equipment
 1. Transparency & education for customers and staff
 
-A first step, any business interested in participating should sign up for free with the [New Jersey Sustainable Business Registry Program](http://registry.njsbdc.com/).  The membership requirements include  identifying five sustainable actions, one measurable environmental benefit and one cost savings practice.  If you reach out to the Green Team ([GreenTeam@RutherfordBoroNJ.com](mailto:GreenTeam@RutherfordBoroNJ.com), we will be happy to help or or even complete the registration with you! 
+A first step, any business interested in participating should sign up for free with the [New Jersey Sustainable Business Registry Program](http://registry.njsbdc.com/).  The membership requirements include  identifying five sustainable actions, one measurable environmental benefit and one cost savings practice.  If you reach out to the Green Team (GreenTeam@RutherfordBoroNJ.com), we will be happy to help or or even complete the registration with you! 
 
 The [Rutherford Green Team](/committees/green-team/) stands ready to assist businesses in tapping into existing financial assistance, understanding the evolving regulatory environment and advising on simple changes that can make a lasting impact in our community.
 
