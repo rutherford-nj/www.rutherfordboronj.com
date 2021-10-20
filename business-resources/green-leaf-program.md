@@ -12,13 +12,13 @@ The Borough of Rutherford, as a Sustainable Jersey Silver Certified Community, h
 As a preview to the Green Leaf Recognition program, some of the criteria used to assess sustainability will be based on the Sustainable Jersey green business recognition action, including:
 
 1. Water efficiency in kitchens and restrooms
-2. Waste reduction and recycling of food and materials
-3. Sustainable goods & materials for furnishings and equipment
-4. Sustainable products and food items
-5. Energy usage and efficiency
-6. Reusables & environmentally preferable disposables
-7. Pollution and hazardous material reduction in operations and equipment
-8. Transparency & education for customers and staff
+1. Waste reduction and recycling of food and materials
+1. Sustainable goods & materials for furnishings and equipment
+1. Sustainable products and food items
+1. Energy usage and efficiency
+1. Reusables & environmentally preferable disposables
+1. Pollution and hazardous material reduction in operations and equipment
+1. Transparency & education for customers and staff
 
 A first step, any business interested in participating should sign up for free with the [New Jersey Sustainable Business Registry Program](http://registry.njsbdc.com/){:target="_blank"}.  The membership requirements include  identifying five sustainable actions, one measurable environmental benefit and one cost savings practice.  If you reach out to the Green Team ([GreenTeam@RutherfordBoroNJ.com](mailto:GreenTeam@RutherfordBoroNJ.com), we will be happy to help or or even complete the registration with you! 
 
