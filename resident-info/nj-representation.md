@@ -16,11 +16,11 @@ For the [36th Legislative District](https://en.wikipedia.org/wiki/36th_Legislati
 
 The Governor of New Jersey is Phil Murphy (D, Middletown Township). The Lieutenant Governor of New Jersey is Sheila Oliver (D, East Orange). 
 
-**County of Bergen:** [www.co.bergen.nj.us](https://www.co.bergen.nj.us/)
+**County of Bergen:** [co.bergen.nj.us](https://co.bergen.nj.us/)
 
 Bergen County is governed by the County Executive James J. Tedesco III (D) of Paramus (term ends December 31, 2018).  
 
-**Bergen County Freeholders:** [nj-bergencounty.civicplus.com](http://nj-bergencounty.civicplus.com/740/Freeholder-Board)
+**Bergen County Commissioners:** [co.bergen.nj.us](https://co.bergen.nj.us/county-officials/commissioners)
 
 Bergen County's constitutional officials are County Clerk John S. Hogan (D, Northvale, 2021), Sheriff Michael Saudino (D, Emerson, 2019) and Surrogate Michael R. Dressler (D, Cresskill, 2021).
 

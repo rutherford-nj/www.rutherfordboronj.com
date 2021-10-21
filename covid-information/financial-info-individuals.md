@@ -12,7 +12,7 @@ parent: Covid Information
 
   - [Jobs Portal](https://jobs.covid19.nj.gov/index.html)
     
-  - [Division of Local Government Services (DLGS) Emergency Rental Assistance Program](https://www.nj.gov/dca/divisions/dhcr/offices/cverap.html)
+  - [Division of Local Government Services (DLGS) Emergency Rental Assistance Program](https://www.nj.gov/dca/cverap2.shtml)
 
   - [Mental Health (NJ State Resources)](https://covid19.nj.gov/faqs/nj-information/get-assistance/who-can-i-call-if-i%E2%80%99m-feeling-stressed-or-anxious-during-the-covid-19-outbreak)
   

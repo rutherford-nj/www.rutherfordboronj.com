@@ -12,11 +12,11 @@ parent: 'Municipal Court'
 
 - [Do I qualify for a Public Defender?](https://njcourts.gov/courts/assets/municipal/indigencyguidelines.pdf?c=KRC)
 
-- [Where may I pay my fine?](http://www.NJMCdirect.com)
+- [Where may I pay my fine?](https://www.njmcdirect.com)
 
 - [Municipal Court Appeal Forms](https://www.njcourts.gov/forms/10559_muni_appeal_kit.pdf?c=QQ0)
 
-- [NJ Motor Vehicle Commission Point Schedule](http://www.state.nj.us/mvc/Violations/penalties_pointSchedule.htm)
+- [NJ Motor Vehicle Commission Point Schedule](https://www.state.nj.us/mvc/license/points-schedule.htm)
 
 - [Records Request Application Form Online](https://www.njcourts.gov/selfhelp/index.html)
 

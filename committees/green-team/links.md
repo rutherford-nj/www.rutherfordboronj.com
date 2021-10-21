@@ -16,7 +16,7 @@ parent: 'Green Team'
 
 • [New Jersey Urban and Community Forestry Program](https://www.state.nj.us/dep/parksandforests/forest/community/index.html) 
 
-• [Drug Enforcement Agency National Take Back Day](http://www.deadiversion.usdoj.gov/drug_disposal/takeback/index.html) 
+• [Drug Enforcement Agency National Take Back Day](https://www.deadiversion.usdoj.gov/drug_disposal/takeback/) 
 
 • [US Dept of Energy SolSmart Community](http://www.gosparc.org) 
 
