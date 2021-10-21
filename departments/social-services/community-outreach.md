@@ -12,7 +12,7 @@ parent: 'Social Services'
 
 ### Home Energy Assistance PSE&G
 
-[Get application online](https://nj.pseg.com/saveenergyandmoney/gethelppayingyourbill/cantaffordtopay,
+[Get application online](https://nj.pseg.com/saveenergyandmoney/gethelppayingyourbill/cantaffordtopay),
 1.800.510.3102, or e-mail energyassistance@dca.state.nj.us.
 
 ### Programs available
