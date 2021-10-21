@@ -7,26 +7,23 @@ title: 'Green Business Resources'
 
 # Get ready for the single-use plastics ban and other legistations! 
 
-## NJ Business Action Center
-* [Plastics Ban Law Factsheet](https://www.nj.gov/dep/dshw/plastic-ban-law/nj_plastics_ban.pdf)
-* [Sustainable vendor list](https://business.nj.gov/bags/buyer-sign-in)
-* [Video -- Counting Down to NJ's 2022 Ban on Plastic Carryout Bags and Polystyrene Foam](https://www.youtube.com/watch?v=GrmgV39aph0)
+* Beginning **November 4, 2021**, Food service businesses shall only provide a **single-use plastic straw** to a customer upon request.
+* Beginning **May 4 2022**, NJ prohibits selling to, or providing their customers with, **single-use plastic carryout bags** or a **polystyrene foam product**.
+* Beginning **October 14, 2021**, each food waste generator that generates an average projected volume of 52 or more tons per year of food waste must **source separate its food waste** from other solid waste; and send the source separated food waste to an authorized **food waste recycling facility**.
 
 ## NJ DEP
-* [Overview of plastic ban legislation](https://www.nj.gov/dep/plastic-ban-law/)
-* [Solid Waste - Food Waste legislation](https://www.nj.gov/dep/dshw/food-waste-recycling-law/food-waste-legislation.html)
-* [Online Business Portal](https://www.nj.gov/dep/online/)
+* [Overview of plastic straw, carryout bags and foam legislation](https://www.nj.gov/dep/plastic-ban-law/)
+* [Food Waste Recycling Legislation](https://www.nj.gov/dep/dshw/food-waste-recycling-law/)
 
-## Business.NJ.gov
+## NJ Business Action Center
+* [Ban the Bag Factsheet with Exceptions](https://www.nj.gov/dep/dshw/plastic-ban-law/nj_plastics_ban.pdf)
+* [Sustainable vendor list](https://business.nj.gov/bags/buyer-sign-in)
+* [Video -- Counting Down to NJ's 2022 Ban on Plastic Carryout Bags and Polystyrene Foam](https://www.youtube.com/watch?v=GrmgV39aph0)
 * [Overview of plastic ban legislation](https://business.nj.gov/bags/plastic-ban-law)
 
-## Association of New Jersey Environmental Commissions
-* [ANJEC Homepage](https://anjec.org) resources:
-* [Rolling out the plastic ban ANJEC webinar](https://www.youtube.com/watch?v=fu6mDJ7X464)
-* [Resources pertaining to the plastic ban legislation](https://anjec.org/conferences-workshops/)
-* [Web site  by ANJEC and its partners](https://njnoplastics.org).  It has separate pages addressing residents, municipalities, and businesses.  If you click the ‘resources’ link on the right, you’ll find videos,  factsheets, flyers, templates, and more. 
-
-## NJ Clean Communities
+## Additional Plastic Pollution resources
+* [Association of New Jersey Environmental Commissions (ANJEC)](https://anjec.org) resources:
+* [NJ No Plastics](https://njnoplastics.org)
 * [Bag up NJ](https://www.njclean.org/our-programs/single-use-plastics/bag-up-nj)
 
 ----
