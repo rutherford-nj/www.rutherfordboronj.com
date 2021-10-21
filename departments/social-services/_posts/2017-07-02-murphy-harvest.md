@@ -13,7 +13,3 @@ The Murphy children are remembering the spirit of their parents, Don and Rose Mu
 [Please click here to view the full flyer](https://storage.googleapis.com/static.rutherford-nj.com/social-services/RPF2017POSTER.pdf)
 
 Food Pantry drop offs will run between our parents' birthdays, June 27th - July 23rd. 
-
-FOR ONLINE DONATIONS THROUGH AUGUST:
-
-[crowdrise.com/murphy-harvest-for-rutherford-food-pantry/fundraiser/suzannemurphy-breen](https://www.crowdrise.com/murphy-harvest-for-rutherford-food-pantry/fundraiser/suzannemurphy-breen)
