@@ -25,8 +25,6 @@ Lacrosse – [Rutherfordlax.weebly.com](http://rutherfordlax.weebly.com/)
 
 Rutherford Cub Scout Pack 168 - [Pack 168 Website](https://pack168rutherford.wordpress.com/) - [Pack 168 on Facebook](https://www.facebook.com/Cub-Scout-Pack-168-Rutherford-NJ-774991122514085/)
 
-Theatre Enrichment – [www.theatre4children.com](https://www.theatre4children.com/)
-
 [Rutherford Junior Football and Cheerleading](https://www.leaguelineup.com/welcome.asp?url=rjfbulldogs)
 
 Rutherford FC Travel Soccer Club - [www.rutherfordfc.com](http://www.rutherfordfc.com/)
