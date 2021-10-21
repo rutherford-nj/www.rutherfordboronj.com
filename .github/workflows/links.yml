@@ -19,6 +19,7 @@ jobs:
             --exclude https://sheets.googleapis.com/
             --exclude https://clients6.google.com/
             --exclude https://fonts.gstatic.com/
+            --exclude https://www.njmcdirect.com/
             --exclude https://twitter.com/%7B%7B%20include.username%20%7D%7D
             --exclude "https://player.vimeo.com/video/*"
         env:
