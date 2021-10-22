@@ -16,4 +16,4 @@ The safety data sheets for the County's materials being used are below:
 
 [Data Sheet](https://storage.googleapis.com/static.rutherford-nj.com/health/Mosquito/duet-msds.pdf)
 
-The map of the spray area and additional information can be found on Bergen County's website: [https://www.co.bergen.nj.us/mosquito-control/bergen-county-mosquito-control-spray-notice](https://web.archive.org/web/20210121054919/https://www.co.bergen.nj.us/mosquito-control/bergen-county-mosquito-control-spray-notice)
+The map of the spray area and additional information can be found on [Bergen County's website](https://web.archive.org/web/20210121054919/https://www.co.bergen.nj.us/mosquito-control/bergen-county-mosquito-control-spray-notice)
