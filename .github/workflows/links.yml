@@ -15,6 +15,7 @@ jobs:
             "./**/*.md" "./**/*.html" "./**/*.yml"
             --verbose --no-progress --exclude-mail
             --insecure
+            --timeout 60
             --exclude https://apis.google.com/
             --exclude https://sheets.googleapis.com/
             --exclude https://clients6.google.com/
