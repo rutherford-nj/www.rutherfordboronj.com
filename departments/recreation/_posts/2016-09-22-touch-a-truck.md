@@ -15,5 +15,3 @@ Rutherford Rec will be hosting its 11th annual Touch-A-Truck event for children 
 Sunday, September 25 from 1:00 - 3:00 p.m. at the Memorial Park Parking Lot.
 
 We look forward to seeing you at this fun event for Rutherford families!
-
-[View flyer here](https://storage.googleapis.com/static.rutherford-nj.com/recreation/Touch%20A%20Truck.pdf)
