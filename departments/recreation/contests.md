@@ -25,6 +25,7 @@ To register for Halloween Contests, visit RecDesk Programs and filter by "Holida
   - [Printable Map of House Decorating Contestants](https://storage.googleapis.com/static.rutherford-nj.com/recreation/contests/2021_HouseDecorating_MAP.pdf)
   - [Digital Map of House Decorating Contestants](https://www.google.com/maps/d/edit?mid=1u3vW0PmYoKeDJlmlCBjwxrURbI-4dXNN&usp=sharing)
   - [Peoples Choice Voting Form](https://docs.google.com/forms/d/e/1FAIpQLSeBMhhF5SerN6Gs1SJO9PG-ypIhDFDRmChIRj2INBKNXbnaTw/viewform)
+  
 
 - Halloween Purple Pumpkin Pursuit [See flyer here](https://storage.googleapis.com/static.rutherford-nj.com/recreation/contests/2021_Halloween_PurplePumpkin.pdf)
 
