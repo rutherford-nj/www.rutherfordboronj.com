@@ -1,0 +1,17 @@
+name: Archive Minutes and Agendas
+on:
+  workflow_dispatch:
+jobs:
+  archive:
+    name: archive
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v2
+      - name: Make Zips
+        run: scripts/archive/run-archive.sh 
+      - name: Upload Artifacts
+        uses: actions/upload-artifact@v2
+        with:
+          name: zips
+          path: work/artifacts
