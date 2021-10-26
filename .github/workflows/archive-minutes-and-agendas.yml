@@ -1,6 +1,8 @@
 name: Archive Minutes and Agendas
 on:
   workflow_dispatch:
+  schedule:
+    - cron: 42 21 29-31 12 *
 jobs:
   archive:
     name: archive
