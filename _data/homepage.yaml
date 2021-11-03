@@ -1,5 +1,5 @@
 picture:
-  src: /static/images/homepage/homepage_mainimage_voting.jpg
-  alt: voting
-  link: /departments/borough-clerk/election-voter-info/
+  src: /static/images/homepage/stay_informed.jpg
+  alt: notifications
+  link: /notifications/
 #vimeo_id: 552020187
