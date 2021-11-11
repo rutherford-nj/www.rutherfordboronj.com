@@ -13,7 +13,4 @@ Andrew Ortega 5K Run & Family Fun Walk
 
 [See Flyer Here](https://storage.googleapis.com/static.rutherford-nj.com/recreation/posts/2018FLYER_ORTEGA_PDF.pdf)
 
-[Register Here](https://runsignup.com/Race/NJ/Rutherford/8thAnnualAndrewOrtegaTouchAHeart5KRunFunWalk)
-
-
 For more information visit [andrewortegafoundation.org](https://andrewortegafoundation.org/)

@@ -15,7 +15,6 @@ For information on COVID-19/Novel Coronavirus and its impact on businesses, plea
 **Information for Businesses Provided by the County**
 
 In response to the economic challenges with which our small businesses are contending, the County has created the **Bergen County CARES Small Business Grant Program**: 
-[bergencountycares.org](https://bergencountycares.org/)
 
 - [Bergen County CARES Act Program Outline](https://storage.googleapis.com/static.rutherford-nj.com/covid/business-info/BC%20CARES%202_Program%20Outline.docx.pdf)
 
@@ -41,7 +40,7 @@ In response to the economic challenges with which our small businesses are conte
  
 - [NJDOL and the Coronavirus (COVID-19): What Employers & Businesses Should Know](https://www.nj.gov/labor/employer-services/business/covid.shtml)
  
-- [NJEDA](https://www.njeda.com/about/Public-Information/Coronavirus-Information)
+- [business.nj.gov](https://business.nj.gov/covid)
  
 - [Information on COVID-19's Impact on Businesses and Question Portal](https://faq.business.nj.gov/en/collections/2198378-information-for-nj-businesses-on-the-coronavirus-outbreak)
 
@@ -50,7 +49,7 @@ In response to the economic challenges with which our small businesses are conte
 
 **Federal Programs via the Small Business Administration:**
 
-- [Small Business Guidance & Loan Resources](https://www.sba.gov/page/coronavirus-covid-19-small-business-guidance-loan-resources)
+- [Small Business Guidance & Loan Resources](https://www.sba.gov/funding-programs/loans/covid-19-relief-options)
 
 - [What financial assistance is available from the U.S. Small Business Administration (SBA)?](https://faq.business.nj.gov/en/articles/3789809-what-financial-assistance-is-available-from-the-u-s-small-business-administration-sba)
 

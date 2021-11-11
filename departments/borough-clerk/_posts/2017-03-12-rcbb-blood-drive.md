@@ -15,7 +15,7 @@ Rutherford Community Blood Bank 60th Birthday Celebration Blood Drive
 
 **Registration:** Appointments are not required, but can be made by calling 201-251-3703 or [online here](https://donor.cbsblood.org/donor/schedules/drive_schedule/41657). A free cholesterol screening will be included.
 
-**Details:** Donors should bring ID and eat before coming. Individuals 16 or 17 years of age must bring the [parental consent form available here](http://www.communitybloodservices.org/pdf/Parental_Consent_E.pdf.)
+**Details:** Donors should bring ID and eat before coming. Individuals 16 or 17 years of age must bring a parental consent form.
 
 **For more information about the Rutherford Community Blood Bank’s founding and history, see below**
 

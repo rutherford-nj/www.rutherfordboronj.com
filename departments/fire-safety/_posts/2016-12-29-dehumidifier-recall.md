@@ -7,4 +7,4 @@ To avoid the risk of fire, injury and property damage, the Bureau of Fire Safety
 
 [www.recallrtr.com/dehumidifier](https://www.recallrtr.com/dehumidifier)
 
-[www.cpsc.gov/Recalls/2013/Gree-Recalls- 12-Brands- of-Dehumidifiers/](https://www.cpsc.gov/Recalls/2013/Gree-Recalls- 12-Brands- of-Dehumidifiers/)
+[www.cpsc.gov/Recalls/2013/gree-recalls-12-brands-of-dehumidifiers](https://www.cpsc.gov/Recalls/2013/gree-recalls-12-brands-of-dehumidifiers)

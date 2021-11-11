@@ -16,8 +16,7 @@ title: 'Business Resources'
 
 # Bergen County Financial Resources:  
 
-In response to the economic challenges with which our small businesses are contending, the County has created the Bergen County CARES Small Business Grant Program: 
-[bergencountycares.org](https://bergencountycares.org/)
+In response to the economic challenges with which our small businesses are contending, the County has created the [Bergen County CARES Small Business Grant Program](https://www.co.bergen.nj.us/public-information/press-releases/357-bergen-county-extends-small-business-grant-program-deadline-to-october-30-and-expands-eligibility-to-30-employees)
 
  The Bergen County CARES Small Business Grant Program is an economic stability measure designed to provide financial relief to small businesses negatively affected by the COVID-19 pandemic and to increase overall business confidence during recovery.
 

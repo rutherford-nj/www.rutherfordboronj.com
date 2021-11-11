@@ -10,7 +10,7 @@ parent: 'Police Department'
 
 [**Pets & Animal Control**](pets-animals/)
 
-[**Drug Enforcement Agency National Take Back Day**](http://www.deadiversion.usdoj.gov/drug_disposal/takeback/index.html)
+[**Drug Enforcement Agency National Take Back Day**](https://www.deadiversion.usdoj.gov/drug_disposal/takeback/)
 
 **Report Copies** – Records Bureau
 

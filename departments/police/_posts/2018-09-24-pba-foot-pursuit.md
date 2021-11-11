@@ -12,8 +12,6 @@ Memorial Park • Race Time 10:00am
 
 BBQ • Kids Activities • DJ
 
-[**Check out all the information here and register online!**](https://www.rutherfordpba5k.com/)
-
 [See flyer here](https://storage.googleapis.com/static.rutherford-nj.com/police/Flyer%2011%20x%2017.pdf)
 
 Proceeds benefit Rutherford PBA Local #300 and the Friends of the Rutherford Public Library
