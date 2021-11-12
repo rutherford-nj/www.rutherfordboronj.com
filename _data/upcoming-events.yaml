@@ -2,12 +2,17 @@
 # where there's a leading zero in front of single digit months or days.
 
 
-- title: "Halloween Events & Contests"
+- title: "Holiday 2021"
   content: |
+    2-5pm - Holiday Float Touring Rutherford with Santa and Live Music! Sponsored by Native Development LLC
     
-    [Learn More Here](/departments/recreation/contests/).
-  image: /upcoming-events/UpcomingEvents_400x300_Halloween.jpg
-  remove-after: "2021-10-31" 
+    Approximately 5pm - Immediately following the Touring Holiday Float: Tree Lighting in front of the Library
+    
+    5-8pm Holiday Village in Lincoln Park - Sponsored by BCB Bank
+    
+    [Learn More Here](https://storage.googleapis.com/static.rutherford-nj.com/recreation/winter-2020-21/2021_HolidayFloat_TreeLighting_Wonderland.pdf).
+  image: /upcoming-events/UpcomingEvents_400x300_holiday.jpg
+  remove-after: "2021-11-28" 
 
 - title: "Rutherford Farmers Market"
   content: |
