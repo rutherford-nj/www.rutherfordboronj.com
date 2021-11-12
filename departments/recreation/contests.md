@@ -8,6 +8,18 @@ parent: 'Recreation'
 
 # 2021 Holiday Contests and Events!
 
+**Saturday, November 27th:** 
+
+- Traveling Holiday Float with Santa and Live Music 2-4:45 pm
+
+- Holiday Tree Lighting at the Library 5 pm
+
+- Holiday Village in Lincoln Park 5-8 pm
+
+[See Flyer Here](https://storage.googleapis.com/static.rutherford-nj.com/recreation/winter-2020-21/2021_HolidayFloat_TreeLighting_Wonderland.pdf)
+
+---
+
 To register for Holiday Contests, visit RecDesk Programs and filter by "Holiday." 
 
 [https://rutherfordnj.recdesk.com/Community/Program](https://rutherfordnj.recdesk.com/Community/Program)
