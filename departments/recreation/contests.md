@@ -20,12 +20,6 @@ parent: 'Recreation'
 
 ---
 
-To register for Holiday Contests, visit RecDesk Programs and filter by "Holiday." 
-
-[https://rutherfordnj.recdesk.com/Community/Program](https://rutherfordnj.recdesk.com/Community/Program)
-
-* Must sign up for a RecDesk account in order to register for contests.
-
 
 **Contests back by popular demand!**
 
@@ -34,6 +28,8 @@ To register for Holiday Contests, visit RecDesk Programs and filter by "Holiday.
 • [Holiday House Decorating Contest](https://storage.googleapis.com/static.rutherford-nj.com/recreation/contests/2021_HolidayHouseDecorating_Contest.pdf)
 
 [- Holiday House Decorating Contest - Register Here (Required by 12/13)](https://rutherfordnj.recdesk.com/Community/Program/Detail?programId=174)
+
+*Must sign up for a RecDesk account in order to register for contests.
 
 • [Gingerbread House Decorating Contest](https://storage.googleapis.com/static.rutherford-nj.com/recreation/contests/2021_Gingerbread_Contest.pdf)
 
