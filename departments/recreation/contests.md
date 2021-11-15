@@ -29,7 +29,7 @@ parent: 'Recreation'
 
 [- Holiday House Decorating Contest - Register Here (Required by 12/13)](https://rutherfordnj.recdesk.com/Community/Program/Detail?programId=174)
 
-*Must sign up for a RecDesk account in order to register for contests.
+*Must already have, or sign up for, a RecDesk account in order to register.
 
 • [Gingerbread House Decorating Contest](https://storage.googleapis.com/static.rutherford-nj.com/recreation/contests/2021_Gingerbread_Contest.pdf)
 
