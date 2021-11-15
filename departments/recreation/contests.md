@@ -29,6 +29,15 @@ To register for Holiday Contests, visit RecDesk Programs and filter by "Holiday.
 
 **Contests back by popular demand!**
 
-[- Holiday House Decorating Contest - Register Here](https://rutherfordnj.recdesk.com/Community/Program/Detail?programId=174)
+• [Golden Gourd Pursuit 11/21, 11/22](https://storage.googleapis.com/static.rutherford-nj.com/recreation/contests/2021_GoldenGourd.pdf)
+
+• [Holiday House Decorating Contest](https://storage.googleapis.com/static.rutherford-nj.com/recreation/contests/2021_HolidayHouseDecorating_Contest.pdf)
+
+[- Holiday House Decorating Contest - Register Here (Required by 12/13)](https://rutherfordnj.recdesk.com/Community/Program/Detail?programId=174)
+
+• [Gingerbread House Decorating Contest](https://storage.googleapis.com/static.rutherford-nj.com/recreation/contests/2021_Gingerbread_Contest.pdf)
+
+
+
 
 
