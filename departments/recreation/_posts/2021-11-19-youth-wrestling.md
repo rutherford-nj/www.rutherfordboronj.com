@@ -13,7 +13,7 @@ Beginning of December 2021 and runs through to March 2022
 
 $75 per person
 
-Register on Rec Desk at https://rutherfordnj.recdesk.com/Community/Home
+Register on Rec Desk at [https://rutherfordnj.recdesk.com/Community/Program/Detail?programId=185](https://rutherfordnj.recdesk.com/Community/Program/Detail?programId=185)
 
 Wrestling Coordinators & Coaches Wanted!
 
