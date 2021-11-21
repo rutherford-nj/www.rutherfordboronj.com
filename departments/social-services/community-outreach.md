@@ -240,11 +240,10 @@ Apply for Unemployment benefits online [www.njuifile.net](https://njsuccess.dol.
 Assistance with water bill for low-income individuals  
 1-877-652-9426.
 
-### United Water Cares
+### SUEZ Cares
 
-No income guideline  
-
-1-888-942-8080 or [www.suezcares.org](http://www.suezcares.org/)
+No income guideline
+1-800-422-0141
 
 </div>
 
