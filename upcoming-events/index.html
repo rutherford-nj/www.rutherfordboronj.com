@@ -16,7 +16,8 @@ title: 'Upcoming Events'
     <div class="col-md-8">
       <div class="card-body">
         <h5 class="card-title">{{ card.title }}</h5>
-        <p class="card-text">{{ card.content | markdownify }}</p>
+        {% capture card_content %}{% include_relative {{ card.content }} %}{% endcapture %}
+        <p class="card-text">{{ card_content | markdownify }}</p>
       </div>
     </div>
   </div>
