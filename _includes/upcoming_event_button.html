@@ -1,0 +1,10 @@
+{% capture today-date %}{{ "now" | date: "%Y-%m-%d" }}{% endcapture %}
+{% for card in site.data.upcoming-events %}
+{% if card.remove-after < today-date %}{% continue %}{% endif %} <div
+    class="card mb-4 border-2 homepage-upcoming-events homepage-button">
+    <div class="card-body d-flex justify-content-center fs-2">
+        <a href="/upcoming-events/" class="fw-bold stretched-link">Upcoming Events</a>
+    </div>
+    </div>
+    {% break %}
+    {% endfor %}
