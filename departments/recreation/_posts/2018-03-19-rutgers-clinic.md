@@ -20,7 +20,7 @@ will be teaching the course.
 All coaches must also take an on-line concussion training course and send their certificate to the
 Recreation Department.
 
-[https://www.cdc.gov/concussion/HeadsUp/Training/HeadsUpConcussion.html](http://www.cdc.gov/concussion/HeadsUp/Training/HeadsUpConcussion.html)
+[https://www.cdc.gov/headsup/youthsports/training/index.html](https://www.cdc.gov/headsup/youthsports/training/index.html)
 
 This is a life - time certification. Coaches may re-take the course to refresh their remembrance.
 Thank you!
