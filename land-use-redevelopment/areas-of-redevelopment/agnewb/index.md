@@ -19,7 +19,7 @@ This property at the corner of Chestnut Street and Union Avenue is Area B in the
 
 **Below find documents detailing the history of Agnew Place Area B:**
 
-[Agnew Place Area B Redevelopment Plan](https://storage.googleapis.com/static.rutherford-nj.com/community-development/agnew-b/2019-01-25%20Rutherford%20Area%20B_%2051%20Union%20Redevelopment%20Plan.pdf)
+[Agnew Place Area B Redevelopment Plan](https://storage.googleapis.com/static.rutherford-nj.com/community-development/agnew-b/Redevelopment%20PlanArea%20B.pdf)
 
 [Agnew Area In Need Study, with Planning Board Resolution](https://storage.googleapis.com/static.rutherford-nj.com/community-development/agnew-a/2.16%20Agnew%20Area%20in%20Need%20Study%20with%20Planning%20Board%20reso.pdf)
 
