@@ -17,7 +17,7 @@ parent: 'Building'
 
 [**6. Contractor's Registration**](https://storage.googleapis.com/static.rutherford-nj.com/building/Building%20Dept%20Forms/06-Rutherford%20Contractor%20Registration.pdf) 
 
-[**7. Zoning Application (Any Exterior Work)**](https://storage.googleapis.com/static.rutherford-nj.com/building/Building%20Dept%20Forms/07-ZONING%20Application.pdf)
+[**7. Zoning Application (Any Exterior Work)**](https://storage.googleapis.com/static.rutherford-nj.com/building/Building%20Dept%20Forms/ZONING%20Application.pdf)
 
 [**8. Residential Certificate of Zoning Compliance Application and Requirements**](https://storage.googleapis.com/static.rutherford-nj.com/building/Building%20Dept%20Forms/08-Residential%20Certificate%20of%20Zoning%20Compliance%20Application%20and%20Requirements.pdf) 
 
