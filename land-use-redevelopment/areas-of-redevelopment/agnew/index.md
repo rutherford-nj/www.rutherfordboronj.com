@@ -19,7 +19,7 @@ The triangle encompassing the Borough’s former DPW site as its base and coming
 
 **Below find documents detailing the history of Agnew Place Area A:**
 
-[Agnew Place Area A Redevelopment Plan](https://storage.googleapis.com/static.rutherford-nj.com/community-development/agnew-a/2019-01-25%20Rutherford%20Area%20A_The%20Triangle%20Redevelopment%20Plan.pdf)
+[Agnew Place Area A Redevelopment Plan](https://storage.googleapis.com/static.rutherford-nj.com/community-development/agnew-a/Redevelopment%20PlanArea%20A.pdf)
 
 [Agnew Area In Need Study, with Planning Board Resolution](https://storage.googleapis.com/static.rutherford-nj.com/community-development/agnew-a/2.16%20Agnew%20Area%20in%20Need%20Study%20with%20Planning%20Board%20reso.pdf)
 
