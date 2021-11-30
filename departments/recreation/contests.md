@@ -6,24 +6,13 @@ parent: 'Recreation'
 
 
 
-# 2021 Holiday Contests and Events!
+# 2021 Holiday Contests and Activities!
 
-**Saturday, November 27th:** 
+[**Sign Up Here To Receive A Letter From Santa!**](https://docs.google.com/forms/d/1GlZfu1448xAfqhz_9VyXGlzsVs6bP_CurCMMp0NEZvA/edit?ts=61a50814)
 
-- Traveling Holiday Float with Santa and Live Music 2-4:45 pm
+If you'd like a very special child who lives in Rutherford to receive a letter in the mail from the North Pole this holiday season, please provide the information below by MIDNIGHT, SUNDAY, DECEMBER 12TH. The elves, with the help of the Rutherford Rec Department, are working very hard at getting the letters in the mail and to the child's house by December 25th. 
 
-- Holiday Tree Lighting at the Library 5 pm
-
-- Holiday Village in Lincoln Park 5-8 pm
-
-[See Flyer Here](https://storage.googleapis.com/static.rutherford-nj.com/recreation/winter-2020-21/2021_HolidayFloat_TreeLighting_Wonderland.pdf)
-
----
-
-
-**Contests back by popular demand!**
-
-• [Golden Gourd Pursuit 11/21, 11/22](https://storage.googleapis.com/static.rutherford-nj.com/recreation/contests/2021_GoldenGourd.pdf)
+**Holiday Contests back by popular demand!**
 
 • [Holiday House Decorating Contest](https://storage.googleapis.com/static.rutherford-nj.com/recreation/contests/2021_HolidayHouseDecorating_Contest.pdf)
 
