@@ -143,6 +143,8 @@ departments:
       href: https://www.cit-e.net/rutherford-nj/cn/TaxBill_Std/?tpid=15571
     - text: Sign up for Eminder
       href: eminder/
+    - text: NJ Guide to Property Taxes
+      href: https://storage.googleapis.com/static.rutherford-nj.com/tax/homeowners_guide_to_property_taxes_brochure_oct_2018.pdf
     - text: State Rebates & Reimbursements
       href: rebates-reimbursements/
     - text: Division of Taxation’s Property Tax Relief Program
