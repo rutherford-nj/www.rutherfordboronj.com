@@ -8,7 +8,7 @@ Free Resident Parking Permits are required for on street parking for all residen
 
 **RESIDENTIAL PARKING PERMIT EXTENSION INFORMATION** 
 
-All current residential parking permits that expire at year’s end 2020 will be extended through 12-31-21.  
+All current residential parking permits that expire at year’s end 2020 and 2021 will be extended through 12-31-22.  
 
 No new tags or alterations will be needed for valid permits issued. * Newly issued license plates and transfer of license plates require a new application. 
 
