@@ -11,11 +11,10 @@ parent: 'Recreation'
 
 **Holiday Contests back by popular demand!**
 
-• [Holiday House Decorating Contest](https://storage.googleapis.com/static.rutherford-nj.com/recreation/contests/2021_HolidayHouseDecorating_Contest.pdf)
+• [Digital Holiday House Decorating Contestant Map](https://www.google.com/maps/d/viewer?hl=en&mid=1F17mYEXzqG3CiODyE4jkP3YsqdvWI3aN&ll=40.82877143242435%2C-74.11138744999998&z=14)
 
-[- Holiday House Decorating Contest - Register Here (Required by 12/13)](https://rutherfordnj.recdesk.com/Community/Program/Detail?programId=174)
+• [Printable Holiday House Decorating Contestant Map](https://storage.googleapis.com/static.rutherford-nj.com/recreation/contests/2021_Holiday_Map.pdf)
 
-*Must already have, or sign up for, a RecDesk account in order to register.
 
 • [Gingerbread House Decorating Contest](https://storage.googleapis.com/static.rutherford-nj.com/recreation/contests/2021_Gingerbread_Contest.pdf)
 
