@@ -26,6 +26,10 @@ title: 'COVID-19 Information'
 
 ---
 
+[**December 20, 2021: A statement from Mayor Nunziato** Addressed - Recreation Dept Closures and Health Department Information](https://storage.googleapis.com/static.rutherford-nj.com/covid/December%2020%202021%20(1).pdf)
+
+---
+
 **Important links:** 
 
 COVID-19 Data Dashboard: [https://covid19.nj.gov/#live-updates](https://covid19.nj.gov/#live-updates)
