@@ -38,6 +38,8 @@ COVID-19 Symptom Checker: [https://covid19.nj.gov/forms/self](https://covid19.nj
 
 Isolation and Quarantine Calculator: [https://covid19.nj.gov/pages/quarantine-calculator](https://covid19.nj.gov/pages/quarantine-calculator)
 
+COVID-19 Quarantine and Isolation - CDC: [https://www.cdc.gov/coronavirus/2019-ncov/your-health/quarantine-isolation.html#digital](https://www.cdc.gov/coronavirus/2019-ncov/your-health/quarantine-isolation.html#digital)
+
 NJ Travel Restrictions: [https://covid19.nj.gov/faqs/nj-information/travel-and-transportation/are-there-travel-restrictions-to-or-from-new-jersey](https://covid19.nj.gov/faqs/nj-information/travel-and-transportation/are-there-travel-restrictions-to-or-from-new-jersey)
 
 COVID-19 General information: [https://www.cdc.gov/coronavirus/2019-ncov/your-health/about-covid-19.html](https://www.cdc.gov/coronavirus/2019-ncov/your-health/about-covid-19.html)
