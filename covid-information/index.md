@@ -16,33 +16,41 @@ title: 'COVID-19 Information'
 [**Return to Homepage**](/)
 
 
-
-[Information from the Rutherford Health Department regarding the COVID vaccine](/departments/health/2021/01/19/vaccine-hotline/)
-
-Bergen County residents age 75 years and older now have the option to schedule vaccination appointments at the Bergen County vaccination site, located at the Alternate Care Facility Annex on the campus of Bergen New Bridge Medical Center. **To schedule a vaccination appointment, residents 75 and older can call 201-967-4070.** If no appointments are available, an agent will take the caller’s information and add them to a waitlist. [Learn more here](https://co.bergen.nj.us/public-information/press-releases/438-incoming-vaccination-help-line-set-to-open-for-bergen-county-vaccination-center1234)
-
-**To schedule a ride seniors can call the [Bergen County Division of Community Transportation](https://www.co.bergen.nj.us/public-works-community-transportation) at 201-368-5955.** Seniors interested in accessing the Ryde4Life program must have a working cell phone with them during the transportation service and must apply for the ride 24 hours in advance of their appointment. Some of the information needed to book a ride will include: first and last name; address; cell phone number; pick-up address; pick-up time; and destination address.
-
-[Rutgers UBHC and the State of New Jersey have partnered to assist clients with getting connected with a mental health clinician and/or substance abuse clinician to assist with their short term needs.](https://storage.googleapis.com/static.rutherford-nj.com/covid/Covid%20Counseling%202.docx.pdf) 
-
-[FEMA will begin accepting applications for Funeral Assistance on Monday, April 12, 2021. Learn more here](https://www.fema.gov/disasters/coronavirus/economic/funeral-assistance)
-
 # COVID-19 Information for Rutherford
 
-[**Chart of progression of Rutherford COVID-19 cases**](charts/)
+[**COVID_Instructions_Persons_Who_Test_Negative**](https://storage.googleapis.com/static.rutherford-nj.com/covid/COVID_Instructions_Persons_Who_Test_Negative.pdf)
 
-[March Community Drive-Thru COVID-19 Testing Dates at Bergen Community College](https://swift911v4.swiftreach.com/Public/Attachments/200986/files/Winter%20Month%20of%20March.pdf)
+[**COVID_Instructions_Persons_Who_Test_Positive**](https://storage.googleapis.com/static.rutherford-nj.com/covid/COVID_Instructions_Persons_Who_Test_Positive.pdf)
 
-[COVID-19 Vaccine Locations for Eligible Recipients](https://covid19.nj.gov/pages/covid-19-vaccine-locations-for-eligible-recipients)
+[**Charts of progression of Rutherford COVID-19 cases**](charts/)
 
+---
 
-[**Wednesday, March 31, 2021: A video update from Councilman Mullahey**](https://youtu.be/JLfPF4SesDs)
+**Important links:** 
 
-Addressed: COVID cases amongst school-aged Rutherford children
+COVID-19 Data Dashboard: [https://covid19.nj.gov/#live-updates](https://covid19.nj.gov/#live-updates)
 
-[Read Transcript Here](https://storage.googleapis.com/static.rutherford-nj.com/covid/March%2031%20Tom%20Mullahey.pdf)
+Vaccine Appointment Finder: [https://covid19.nj.gov/pages/finder](https://covid19.nj.gov/pages/finder)
 
+COVID-19 Test Finder: [https://covid19.nj.gov/pages/testing#test-sites](https://covid19.nj.gov/pages/testing#test-sites)
 
+COVID-19 Symptom Checker: [https://covid19.nj.gov/forms/self](https://covid19.nj.gov/forms/self)
+
+Isolation and Quarantine Calculator: [https://covid19.nj.gov/pages/quarantine-calculator](https://covid19.nj.gov/pages/quarantine-calculator)
+
+NJ Travel Restrictions: [https://covid19.nj.gov/faqs/nj-information/travel-and-transportation/are-there-travel-restrictions-to-or-from-new-jersey](https://covid19.nj.gov/faqs/nj-information/travel-and-transportation/are-there-travel-restrictions-to-or-from-new-jersey)
+
+COVID-19 General information: [https://www.cdc.gov/coronavirus/2019-ncov/your-health/about-covid-19.html](https://www.cdc.gov/coronavirus/2019-ncov/your-health/about-covid-19.html)
+
+COVID-19 Variant Surveillance Report reported by commercial labs and the Public Health and Environmental Laboratories (PHEL) that have been submitted for surveillance purposes posted weekly on [https://www.state.nj.us/health/cd/statistics/covid/](https://www.state.nj.us/health/cd/statistics/covid/)
+
+SARS-CoV-2 Variant Classifications and Definitions: [https://www.cdc.gov/coronavirus/2019-ncov/cases-updates/variant-surveillance/variant-info.html#Concern](https://www.cdc.gov/coronavirus/2019-ncov/cases-updates/variant-surveillance/variant-info.html#Concern)
+
+SARS-CoV-2 Variant proportions: [https://covid.cdc.gov/covid-data-tracker/#variant-proportions](https://covid.cdc.gov/covid-data-tracker/#variant-proportions)
+
+NJDOH Guidance for Variant Strain Surveillance and Submission [https://www.state.nj.us/health/cd/documents/topics/NCOV/SARS-CoV2_Strain_Surveillance.pdf](https://www.state.nj.us/health/cd/documents/topics/NCOV/SARS-CoV2_Strain_Surveillance.pdf)
+
+Please contact the Communicable Disease Service at CDS.COV.SIC@doh.nj.gov with any questions about the report.
 
 ---
 
@@ -52,27 +60,13 @@ Addressed: COVID cases amongst school-aged Rutherford children
 
 ---
 
-[**Financial and Social Services Information for Individuals**](financial-info-individuals/)
-
-[**Financial Relief Information for Businesses**](business-information/)
+**For Archives of Mayor and Council Briefings and Transcripts [click here](archives/)**
 
 ---
 
-**For Archives of Mayor and Council Briefings and Transcripts [click here](archives/)**
+[**Financial and Social Services Information for Individuals**](financial-info-individuals/)
 
-
-
-**Important links:** 
-
-[Testing sites, helplines and more: www.nj211.org](https://www.nj211.org/coronavirus-covid-19)
-
-[NJ COVID-19 Information Hub](https://covid19.nj.gov/)
-
-[Rumor Control From the NJ Office of Homeland Security](https://www.njhomelandsecurity.gov/covid19)
-
-[NJ Dept of Health](https://www.nj.gov/health/)
-
-[Letter from Rutherford Volunteer Ambulance Corp](https://storage.googleapis.com/static.rutherford-nj.com/covid/EMS%20Statement.docx.pdf)
+[**Financial Relief Information for Businesses**](business-information/)
 
 ---
 
