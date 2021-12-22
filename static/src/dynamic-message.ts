@@ -20,6 +20,15 @@ export function fetchDynamicMessage() {
     field.classList.add(`alert-${a1}`);
   };
 
+  if (window.location.href.endsWith("/covid-information/charts/")) {
+    handleCells(
+      "warning",
+      "The NJ State system for reporting COVID cases is temporarily down and the Rutherford Health Department is unable to access cases for 12/21. Case numbers should be available tomorrow, 12/23.",
+      "12/31/2021",
+      "12:00:00 pm");
+    return
+  }
+
   let processResponse = function (response: any) {
     handleCells(
       response['values'][0][0],
