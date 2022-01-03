@@ -9,17 +9,18 @@ title: 'Highland Cross'
 
 ![Map of Highland Cross](highlandmap.jpg){: .img-fluid }
 
-**Location:** Eastern end of Highland Cross
+**Location:** The end of Highland Cross, east of Route 17 and located primarily within the zoning authority of the NJSEA.
 
-**Project Type:** Warehouse/Light Industrial
+**Project Description:** 
 
-**Project Status:** Construction to begin Fall of 2020
+· A 357,521 square foot warehouse/light industrial facility
 
-The Highland Cross area east of Route 17 and located primarily within the zoning authority of the NJSEA has been under consideration for more than 20 years.  At 26 plus acres, it was, for several years considered suitable for residential mixed-use development. Residents and elected officials understandably had concerns about creating another Rutherford across route 17. 
+· 8 Loading docks
 
-The complexities brought on by the failed Encap development, the housing bubble, the Great Recession, and the American Dream project all served to delay development. In 2017 NJSEA in coordination with the Borough deemed the area unsuitable for residential development clearing the way for the recently approved NJSEA Redevelopment Plan allowing for Warehouse/Light Industrial with no residential development. 
+· 206 exterior & 175 interior van parking spaces
 
-On 3/8/21 the Council passed, on first reading, Ordinance 3549-21 which authorizes the execution of a financial agreement by and between the Borough and Linque- H.C. Partners Urban Renewal, L.L.C.  This ordinance will be before the council for consideration on second reading at the meeting scheduled for 3/22/21.
+· Construction is underway
+
 
 **Below find documents detailing the history of Highland Cross:**
 
