@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "lunr": "^2.3.9",
-    "luxon": "^2.2.0"
+    "luxon": "^2.3.0"
   },
   "devDependencies": {
     "@types/lunr": "^2.3.4",
