@@ -95,8 +95,8 @@ departments:
       href: additional-services/firearms/ 
     - text: Policies
       href: policies/    
-    - text: RPD Major Discipline Report
-      href: https://docs.google.com/spreadsheets/d/e/2PACX-1vS81Pt3SCuNq4Io2wftlupigGkPVglQIilupuvN5erBTJO3IoZ9Kn4Zzl5ekVEe_w/pubhtml
+    - text: RPD Major Discipline Reports
+      href: major-discipline-reports/
     - text: MV Stop Data
       href: mv-stop-data/
     - text: Resident Parking Permits
