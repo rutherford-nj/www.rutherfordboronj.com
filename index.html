@@ -153,19 +153,6 @@ title: '07070'
               <span class="visually-hidden">Next</span>
             </button>
           </div>
-          {% if site.data.homepage.vimeo_id %}
-          <div class="ratio ratio-16x9">
-            <iframe
-              src="https://player.vimeo.com/video/{{ site.data.homepage.vimeo_id }}?autoplay=1&loop=1&byline=0&portrait=0"
-              frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-          </div>
-          {% else %}
-          {% if site.data.homepage.picture.link %}<a class="stretched-link"
-            href="{{ site.data.homepage.picture.link }}">{% endif %}
-            <img class="img-fluid" src="{{ site.data.homepage.picture.src }}?zx={{ " now" | date: "%s" }}"
-              alt="{{ site.data.homepage.picture.alt }}" />
-            {% endif %}
-            {% if site.data.homepage.picture.link %}</a>{% endif %}
         </div>
       </div>
 
