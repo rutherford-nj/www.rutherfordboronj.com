@@ -13,7 +13,7 @@ title: 'The Williams Center'
 
 **Project Description:** 
 
-· Redevelopment plan approved- see below.
+· Redevelopment plan approved- see below
 
 · Developer’s project plan pending
 
