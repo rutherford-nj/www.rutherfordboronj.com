@@ -11,13 +11,13 @@ title: 'Agnew Place Area B'
 
 **Location:** 51 Union Ave
 
-**Project Type:** Residential
+**Project Description:** 
 
-**Project Status:** 
-
-This property at the corner of Chestnut Street and Union Avenue is Area B in the two-part redevelopment plan. After receiving the designation as an area in need of redevelopment, the owner of the property applied to the Planning Board for approval of a four story/21 unit residential building with onsite parking. The Planning Board approved the project in September of 2019. A redevelopment agreement is currently being drafted.
+· Approved for a four story/21-unit residential building with onsite parking.
 
 **Below find documents detailing the history of Agnew Place Area B:**
+
+[Planning Board Site Plan Approval Resolution](https://storage.googleapis.com/static.rutherford-nj.com/community-development/agnew-b/51%20Union_%2018%20Rutherford%20LLC%20PB%20reso.pdf)
 
 [Agnew Place Area B Redevelopment Plan](https://storage.googleapis.com/static.rutherford-nj.com/community-development/agnew-b/Redevelopment%20PlanArea%20B.pdf)
 
