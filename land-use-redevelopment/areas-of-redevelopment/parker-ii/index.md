@@ -9,14 +9,21 @@ title: 'Parker Phase II'
 
 ![Map of Parker](parker2map.jpg){: .img-fluid }
 
-**Location:** Park Ave
+**Location:** 118 Park Ave
 
-**Project Status:** Area Under Review for Redevelopment”
+**Project Description:** 
 
-On February 8, 2021 the Mayor and Council adopted Resolution No. 52 which authorizes the Planning Board to conduct a preliminary investigation to determine whether properties – Block 73 Lots 5.02, 6, 20.01, 22 and 22.01 on Chestnut Street and
-Park Avenue constitute a non-condemnation area in need of redevelopment. 
+· Parker Phase II is owned by Vango Holdings, LLC.
 
-The aforementioned properties are all owned by Vango Holdings, LLC, the current owners of the Parker. The Planning Board has yet to begin this process.
+· 4 and 5 story sections with 60 residential units
+
+· 2 retail units
+
+· 92 parking spaces
+
+· A drop-off lane housed within the structure for use by delivery services
+
+· Construction has begun
 
 **Below find documents related to Parker Phase II redevelopment:**
 
@@ -26,3 +33,4 @@ The aforementioned properties are all owned by Vango Holdings, LLC, the current 
 
 [Parker Phase II Redevelopment Plan](https://storage.googleapis.com/static.rutherford-nj.com/community-development/parker-ii/Parker%20Phase%20II%20Redevelopment%20Plan.PDF)
 
+[Redevelopment Agreement](https://storage.googleapis.com/static.rutherford-nj.com/community-development/parker-ii/11.3.2021%20Redevelopment%20Agreement.pdf)
