@@ -122,6 +122,37 @@ title: '07070'
     <div class="col order-md-1">
       <div class="card mb-4 border-2">
         <div class="card-body">
+          <div id="carouselImageButtons" class="carousel carousel-dark slide" data-bs-ride="carousel">
+            <div class="carousel-inner">
+              <div class="carousel-item active">
+                <a href="/notifications/">
+                  <img class="d-block w-100" src="/static/images/homepage/stay_informed.jpg"
+                    alt="Rutherford Notifications">
+                </a>
+              </div>
+              <div class="carousel-item">
+                <a href="/departments/public-works/collection-schedule/">
+                  <img class="d-block w-100" src="/static/images/homepage/sanitation.jpg"
+                    alt="Sanitation collection schedule">
+                </a>
+              </div>
+              <div class="carousel-item">
+                <a href="https://rutherfordnj.recdesk.com/Community/Home">
+                  <img class="d-block w-100" src="/static/images/homepage/recdesk.jpg" alt="Sign up for RecDesk">
+                </a>
+              </div>
+            </div>
+            <button class="carousel-control-prev" type="button" data-bs-target="#carouselImageButtons"
+              data-bs-slide="prev">
+              <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+              <span class="visually-hidden">Previous</span>
+            </button>
+            <button class="carousel-control-next" type="button" data-bs-target="#carouselImageButtons"
+              data-bs-slide="next">
+              <span class="carousel-control-next-icon" aria-hidden="true"></span>
+              <span class="visually-hidden">Next</span>
+            </button>
+          </div>
           {% if site.data.homepage.vimeo_id %}
           <div class="ratio ratio-16x9">
             <iframe
