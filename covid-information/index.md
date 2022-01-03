@@ -24,13 +24,13 @@ title: 'COVID-19 Information'
 
 [**Charts of progression of Rutherford COVID-19 cases**](charts/)
 
-COVID TESTING NOW AVAILABLE for Rutherford residents at Felician University - 217 Montross Ave (the white house next to Education Commons). 
+COVID TESTING AVAILABLE for Rutherford residents at Felician University - 217 Montross Ave (the white house next to Education Commons). 
 
-Rapid and PCR tests are available Monday, December 27th through Thursday December 30th 11am-6pm and Monday through Friday 11am-6pm beginning Monday, January 3rd. 
+Rapid and PCR tests are available Monday through Friday 11am-6pm. 
 
 Bring identification and insurance card if possible. Be prepared to give an email address to receive results of your test. 
 
-Free parking available at the Montross Ave parking lot. Walk-Ins welcome.
+Free parking available at the Montross Ave parking lot. Walk-Ins Only.
 
 Testing provided by Grapefruit Testing. 
 
