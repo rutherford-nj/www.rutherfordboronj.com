@@ -1,5 +1,6 @@
 import { API_KEY } from "./gapi";
 import { DateTime } from "luxon";
+import { cachedFetch } from "./cached-fetch";
 
 export function fetchDynamicMessage() {
   const sheetKey = '16Y8NNYSn0yBWrtK3lStuFxJCxg7PThJpmBBxhUFsWvw';
@@ -32,7 +33,7 @@ export function fetchDynamicMessage() {
     processResponse(response);
   };
 
-  window.fetch(url)
-    .then(resp => resp.json())
-    .then(json => success(json));
+  cachedFetch({ url, ttlInSeconds: 120 })
+    .then(resp => resp && resp.json())
+    .then(json => json && success(json));
 }
