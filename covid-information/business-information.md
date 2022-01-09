@@ -50,7 +50,3 @@ In response to the economic challenges with which our small businesses are conte
 **Federal Programs via the Small Business Administration:**
 
 - [Small Business Guidance & Loan Resources](https://www.sba.gov/funding-programs/loans/covid-19-relief-options)
-
-- [What financial assistance is available from the U.S. Small Business Administration (SBA)?](https://faq.business.nj.gov/en/articles/3789809-what-financial-assistance-is-available-from-the-u-s-small-business-administration-sba)
-
-
