@@ -3,6 +3,10 @@
     "lunr": "^2.3.9",
     "luxon": "^2.3.0"
   },
+  "scripts": {
+    "build": "webpack",
+    "watch": "webpack --watch"
+  },
   "devDependencies": {
     "@types/lunr": "^2.3.4",
     "@types/luxon": "^2.0.8",

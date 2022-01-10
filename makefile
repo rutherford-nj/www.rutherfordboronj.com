@@ -7,7 +7,7 @@ compile-typescript:
 	docker run --rm \
 		-v $(SITE_WORKSPACE):/srv/jekyll \
 		-w /srv/jekyll/static \
-		jekyll/builder:latest /bin/bash -c "npm install && npx webpack"
+		jekyll/builder:latest /bin/bash -c "npm install && npm run build"
 
 
 build-requirements: compile-typescript
@@ -20,6 +20,13 @@ local-ci: build-requirements
 
 stop-dev-site:
 	docker stop rutherford-dev-site || true
+
+
+dev-typescript:
+	docker run --rm \
+		-v $(SITE_WORKSPACE):/srv/jekyll \
+		-w /srv/jekyll/static \
+		jekyll/builder:latest /bin/bash -c "npm install && npm run watch"
 
 
 dev: stop-dev-site build-requirements
