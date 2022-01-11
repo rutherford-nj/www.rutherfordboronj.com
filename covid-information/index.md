@@ -18,6 +18,8 @@ title: 'COVID-19 Information'
 
 # COVID-19 Information for Rutherford
 
+[**Quarantine Guidelines January 10 2022**](https://storage.googleapis.com/static.rutherford-nj.com/covid/Quarantine%20Timeframes_01102220221001%20(1).pdf)
+
 [**COVID_Instructions_Persons_Who_Test_Negative**](https://storage.googleapis.com/static.rutherford-nj.com/covid/COVID_Instructions_Persons_Who_Test_Negative.pdf)
 
 [**COVID_Instructions_Persons_Who_Test_Positive**](https://storage.googleapis.com/static.rutherford-nj.com/covid/COVID_Instructions_Persons_Who_Test_Positive.pdf)
@@ -53,8 +55,6 @@ COVID-19 Test Finder: [https://covid19.nj.gov/pages/testing#test-sites](https://
 COVID-19 Symptom Checker: [https://covid19.nj.gov/forms/self](https://covid19.nj.gov/forms/self)
 
 Isolation and Quarantine Calculator: [https://covid19.nj.gov/pages/quarantine-calculator](https://covid19.nj.gov/pages/quarantine-calculator)
-
-COVID-19 Quarantine and Isolation - CDC: [https://www.cdc.gov/coronavirus/2019-ncov/your-health/quarantine-isolation.html#digital](https://www.cdc.gov/coronavirus/2019-ncov/your-health/quarantine-isolation.html#digital)
 
 NJ Travel Restrictions: [https://covid19.nj.gov/faqs/nj-information/travel-and-transportation/are-there-travel-restrictions-to-or-from-new-jersey](https://covid19.nj.gov/faqs/nj-information/travel-and-transportation/are-there-travel-restrictions-to-or-from-new-jersey)
 
