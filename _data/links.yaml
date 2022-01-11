@@ -52,6 +52,9 @@ departments:
       href: budgets-financials/
     - text: Employment & Bid Notices
       href: /government/employment-bids/
+  fire-department:
+    - text: Example
+      href: https://www.google.com
   health:
     - text: Services
       href: services/
