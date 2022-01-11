@@ -32,6 +32,8 @@ Deputy Chief Thomas Twist III
         <p class="card-text">{{ chiefs | newline_to_br }}</p>
       </div>
     </div>
+
+    {% include department_links.html links=site.data.links.departments.fire-department %}
   </div>
   <div class="col-md-6">
     <div class="card">
