@@ -53,8 +53,8 @@ departments:
     - text: Employment & Bid Notices
       href: /government/employment-bids/
   fire-department:
-    - text: Example
-      href: https://www.google.com
+    - text: Fire Prevention Tips
+      href: fire-prevention-tips/
   health:
     - text: Services
       href: services/
