@@ -55,6 +55,8 @@ departments:
   fire-department:
     - text: Fire Prevention Tips
       href: fire-prevention-tips/
+    - text: Carbon Monoxide Safety
+      href: https://www.usfa.fema.gov/prevention/outreach/carbon_monoxide.html
   health:
     - text: Services
       href: services/
