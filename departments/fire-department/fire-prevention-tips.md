@@ -1,3 +1,9 @@
+---
+layout: interior-page
+title: 'Fire Prevention Tips'
+parent: 'Fire Department'
+---
+
 Home fires are preventable! The following are simple steps that each of us can take to prevent a tragedy.
 
 **Most Importantly:**
