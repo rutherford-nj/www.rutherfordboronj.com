@@ -75,13 +75,7 @@ title: 'Committees'
 
 > This committee, comprised of members who are either persons with disabilities, parents of a child with a disability, a resident family member who is the caregiver of a person with a disability, or Borough residents seeking opportunities to help those with disabilities, is charged with providing opportunities for greater unity across the borough through identifying and addressing barriers within the Borough’s borders for residents with disabilities.
 
----
-
-**Citizens's Finance Advisory Committee** - Council Liaison: Mark Goldsack
-
-> The Citizens Finance Advisory Committee is tasked to financially analyze and offer strategic advice to the Mayor and Council concerning existing and /or new programs established in the Borough.
-
----
+---                            
 
 **County Park Development Committee** - Council Liaisons: Tom Mullahey & Ray Guzmán
 
@@ -95,19 +89,19 @@ title: 'Committees'
 
 ---
 
-**Downhill Derby Committee** - Council Liaison: Tom Mullahey
+**Downhill Derby Committee** - Council Liaison: Mark Goldsack
 
 > The Rutherford Downhill Derby is an annual town event providing kids and adults with the opportunity to design, build and race gravity powered race carts.
 
 ---
 
-[**Green Team**](green-team/) - Council Liaison: Maria Begg-Roberson
+[**Green Team**](green-team/) - Council Liaison: Ray Guzmán
 
 > The Rutherford Green Team’s primary mission is to lead and coordinate the sustainability activities of the community. Specifically, we advise the Borough Council and develop initiatives and projects that contribute to the long range sustainable development of the Borough of Rutherford and beyond.
 
 ---
 
-**Historic Preservation Committee** - Council Liaison: Ray Guzmán
+**Historic Preservation Committee** - Council Liaison: Maria Begg-Roberson
 
 > [www.rutherfordhpc.org](https://www.rutherfordhpc.org/)
 
@@ -126,7 +120,7 @@ Municipal Alliances are local planning and coordinating bodies established in al
 
 ---
 
-**Recreation Advisory Committee** - Council Liaison Stephanie McGowan
+**Recreation Advisory Committee** - Council Liaison Mark Goldsack
 
 > The Recreation Advisory Committee meets monthly to discuss issues pertaining to Recreation.  The committee meets with coaches and coordinators before the season to ensure proper preparation and after the season to reflect on what needs improvement and what we can build upon.
 
@@ -144,7 +138,7 @@ Municipal Alliances are local planning and coordinating bodies established in al
 
 ---
 
-**Volunteer Committee** - Council Liaison Mark Goldsack
+**Volunteer Committee** - Council Liaison Maria Begg-Roberson
 
 > The vision of the Rutherford Volunteer Committee is to provide every resident the opportunity to participate in and contribute to the betterment of Rutherford. How? 
 By making volunteer opportunities available & accessible in order to bring the community together. If you'd like to be a member of a volunteer team, [please fill out this form.](https://docs.google.com/forms/d/e/1FAIpQLSdrJvChRVE6Xvc1lSz6YxpUwQEJRv49HXx25O5yPdMm2oaTGA/viewform)
