@@ -3,7 +3,7 @@ layout: page
 title: 'Committees'
 ---
 
-[**2022 Committee, Board and Commission Application**](./application/)
+
 <p>
   The application and interview process takes place annually in the fall for any Rutherford resident interested in serving on a Board, Commission or Committee for the following year.
 </p>
@@ -15,7 +15,7 @@ title: 'Committees'
 
 ## Boards and Commissions
 
-[2021 Board and Commission Meeting Schedule](https://storage.googleapis.com/static.rutherford-nj.com/committees/DOC680.pdf)
+[2022 Board and Commission Meeting Schedule](https://storage.googleapis.com/static.rutherford-nj.com/committees/ANNUAL%20NOTICE%202022.pdf)
 
 *Boards and Commissions are strictly governed by by-laws and require minutes and agendas. Their regular meetings are open to the public.* 
 
