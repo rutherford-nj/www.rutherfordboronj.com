@@ -3,7 +3,7 @@
 apt update
 yes | apt install zip
 
-YEAR=`date +"%Y"`
+YEAR="2021"
 
 function archive {
   gsutil -m cp -r gs://static.rutherford-nj.com/borough-clerk/$1/agendas .
