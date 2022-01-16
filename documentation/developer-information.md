@@ -1,6 +1,6 @@
 ## GitHub
 
-The site is managed almost entirely through GitHub. The [rutherford-nj/www.rutherford-nj.com repository](https://github.com/rutherford-nj/www.rutherford-nj.com) houses the configuration for a Jekyll-based website, which automatically publishes to www.rutherfordboronj.com (see the section on GitHub Actions below).
+The site is managed almost entirely through GitHub. The [rutherford-nj/www.rutherfordboronj.com repository](https://github.com/rutherford-nj/www.rutherfordboronj.com) houses the configuration for a Jekyll-based website, which automatically publishes to www.rutherfordboronj.com (see the section on GitHub Actions below).
 
 ## Jekyll
 
