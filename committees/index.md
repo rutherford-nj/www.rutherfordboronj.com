@@ -15,7 +15,7 @@ title: 'Committees'
 
 ## Boards and Commissions
 
-[2022 Board and Commission Meeting Schedule](https://storage.googleapis.com/static.rutherford-nj.com/committees/ANNUAL%20NOTICE%202022.pdf)
+[2022 Board and Commission Meeting Schedule](https://storage.googleapis.com/static.rutherford-nj.com/committees/ANNUAL%20NOTICE%202022%20(1).pdf)
 
 *Boards and Commissions are strictly governed by by-laws and require minutes and agendas. Their regular meetings are open to the public.* 
 
