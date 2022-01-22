@@ -8,7 +8,7 @@ export function fetchCovidCharts() {
   }
 
   const baseURL = 'https://rutherford-nj.github.io/data-committee.covid-data/';
-  const dtURL = `${baseURL}cases_Rutherford_14d_SMA.html`;
+  const dtURL = `${baseURL}cases_Rutherford_14d_SMA_and_7d_SMA.html`;
   const updatedURL = `${baseURL}last_updated`;
 
   window.fetch(updatedURL)
