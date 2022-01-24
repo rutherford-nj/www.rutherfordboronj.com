@@ -24,7 +24,7 @@ title: 'Green Business Resources'
 ## Additional Plastic Pollution resources
 * [Association of New Jersey Environmental Commissions (ANJEC)](https://anjec.org) resources:
 * [NJ No Plastics](https://njnoplastics.org)
-* [Bag up NJ](https://bagupnj.com/)
+* [Bag up NJ](https://www.njclean.org/our-programs/bag-up-nj)
 
 ----
 
