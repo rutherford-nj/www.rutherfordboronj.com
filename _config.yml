@@ -3,4 +3,4 @@ permalink: pretty
 future: false
 sass:
   style: compressed
-  sass_dir: static/sass
+  sass_dir: static/src/sass
