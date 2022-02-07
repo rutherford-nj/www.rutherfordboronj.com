@@ -11,7 +11,7 @@ title: 'Roadwork in Rutherford'
 
 
 
-SUEZ will be working in streets in Rutherford starting this spring as part of the company’s ongoing project to remove the remaining lead from the system. 
+SUEZ is working in Rutherford streets as part of the company’s ongoing project to remove the remaining lead from the system. 
 
 SUEZ has identified roughly 500 service lines in the borough that potentially contain lead. Over the next several months, crews will be digging at these locations to determine the material in those pipes.
 
