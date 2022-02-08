@@ -53,6 +53,14 @@ departments:
     - text: Employment & Bid Notices
       href: /government/employment-bids/
   fire-department:
+    - text: Requirements To Be A Firefighter
+      href: https://storage.googleapis.com/static.rutherford-nj.com/fire-department/FF%20INSTRUCTIONS-REQUIREMENTS.docx.pdf
+    - text: Application To Be A Firefighter
+      href: https://storage.googleapis.com/static.rutherford-nj.com/fire-department/FIREFIGHTER%20Application.docx.pdf
+    - text: Requirements To Be A Junior Firefighter
+      href: https://storage.googleapis.com/static.rutherford-nj.com/fire-department/JUNIOR%20FF%20INSTRUCTIONS-REQUIREMENTS.docx.pdf  
+    - text: Application To Be A Junior Firefighter
+      href: https://storage.googleapis.com/static.rutherford-nj.com/fire-department/JUNIOR%20FF%20Application.docx.pdf    
     - text: Fire Prevention Tips
       href: fire-prevention-tips/
     - text: Carbon Monoxide Safety
