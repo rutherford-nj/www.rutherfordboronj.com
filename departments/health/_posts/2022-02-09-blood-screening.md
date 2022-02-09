@@ -3,7 +3,7 @@ layout: blog
 title: "Blood Screening 4/9"
 ---
 
-**The Rutherford Health Department will be conducting a Skin Cancer Screening for residents on Wednesday, March 9th**
+**The Rutherford Health Department will be conducting a Blood Screening for residents on Saturday, April 9th**
 
 [Blood Screening Flyer](https://storage.googleapis.com/static.rutherford-nj.com/health/Blood%20Screening%20Flyer.pdf)
 
