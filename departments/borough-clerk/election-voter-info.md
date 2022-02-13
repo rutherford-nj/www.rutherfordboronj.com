@@ -8,7 +8,7 @@ parent: 'Borough Clerk'
 
 [2021 Voting Information from Bergen County](https://storage.googleapis.com/static.rutherford-nj.com/borough-clerk/election-info/Bergen%20County%20-%203%20Ways%20to%20Vote%20(1).pdf)
 
-[2021 General Election Timeline](https://nj.gov/state/elections/assets/pdf/chrons/2021-chron-general-election-0623.pdf)
+[2021 General Election Timeline](https://web.archive.org/web/20210711195223/https://nj.gov/state/elections/assets/pdf/chrons/2021-chron-general-election-0623.pdf)
 
 
 **NOTE:  In-Person Early Voting Locations open Saturday, October 23rd through Sunday, October 31, 2021;** Monday through Saturday, 10:00 am to 8:00 pm and Sunday, 10:00 am to 6:00 pm.  Rutherford is host to an early voting location at the Williams Center, 15 Sylvan Street.  For information in regards to the other eight Bergen County locations, kindly contact the Bergen County Board of Elections at elections@co.bergen.nj.us or (201) 336-6230.
