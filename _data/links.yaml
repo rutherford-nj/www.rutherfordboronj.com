@@ -68,6 +68,8 @@ departments:
   health:
     - text: Services
       href: services/
+    - text: Forms
+      href: forms/   
     - text: Health Links
       href: links/
     - text: Board of Health
