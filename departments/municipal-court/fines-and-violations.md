@@ -54,8 +54,8 @@ All penalties are inclusive of fines and costs.
     <tr><td>39:4-138D</td><td>Blocking Driveway</td><td>$54.00</td></tr>
     <tr><td>39:4-138E</td><td>25 Feet from Crosswalk</td><td>$54.00</td></tr>
     <tr><td>39:4-138H</td><td>50 Feet from Stop Sign</td><td>$54.00</td></tr>
-    <tr><td>126-62</td><td>Alternate Side Parking</td><td>$35.00</td></tr>
+    <tr><td>126-62</td><td>Alternate Side Parking</td><td>$45.00</td></tr>
     <tr><td>126-11</td><td>Snow Emergency</td><td>$200.00</td></tr>
-    <tr><td>126-32</td><td>Overtime Meter Parking</td><td>$20.00</td></tr>
+    <tr><td>126-32</td><td>Overtime Meter Parking</td><td>$40.00</td></tr>
   </tbody>
 </table>
