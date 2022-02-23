@@ -14,6 +14,15 @@ export function findCloudStorageElements() {
       return 0;
   }
 
+  let itemsCompareAlpha = function (a: any, b: any) {
+    if (a['name'] < b['name'])
+      return -1;
+    else if (a['name'] > b['name'])
+      return 1;
+    else
+      return 0;
+  }
+
   let success = function (response: any, elt: HTMLElement) {
     let urls = <string[]>[];
     let items = <Array<any>>response['items'];
@@ -22,7 +31,11 @@ export function findCloudStorageElements() {
       elt.innerHTML += '<div>Content coming soon.</div>'
       return;
     }
-    items.sort(itemsCompare);
+    if (elt.getAttribute('data-sorttype') == 'alpha') {
+      items.sort(itemsCompareAlpha);
+    } else {
+      items.sort(itemsCompare);
+    }
     items.reverse();
 
     items.forEach(val => {
