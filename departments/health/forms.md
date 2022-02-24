@@ -12,4 +12,4 @@ parent: 'Health Department'
 
 [Temporary Event Application](https://storage.googleapis.com/static.rutherford-nj.com/health/forms/Temporary%20Event%20Application.pdf)
 
-[Vending Machine Application](https://storage.googleapis.com/static.rutherford-nj.com/health/forms/Temporary%20Event%20Application.pdf)
+[Vending Machine Application](https://storage.googleapis.com/static.rutherford-nj.com/health/forms/Vending%20Machine%20Application.pdf)
