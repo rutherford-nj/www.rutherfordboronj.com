@@ -32,8 +32,6 @@ In response to the economic challenges with which our small businesses are conte
 
 **Information for Businesses Provided by the State**
 
-- [COVID-19 Information for New Jersey Businesses](https://faq.business.nj.gov/en/collections/2198378-information-for-nj-businesses-on-the-coronavirus-outbreak)
-
 - [A Coronavirus Pandemic Resource Guide for New Jerseyans from the Office of Senator Cory Booker](https://storage.googleapis.com/static.rutherford-nj.com/covid/Office%20of%20U.S.%20Sen%20Cory%20Booker_%20A%20Coronavirus%20Pandemic%20Resource%20Guide%20for%20NJ%20(Updated%20April%204%2C%202020).pdf)
 
 - [Emergency Assistance Eligibility Wizard](https://assistance.business.nj.gov/)
@@ -41,11 +39,6 @@ In response to the economic challenges with which our small businesses are conte
 - [NJDOL and the Coronavirus (COVID-19): What Employers & Businesses Should Know](https://www.nj.gov/labor/employer-services/business/covid.shtml)
  
 - [business.nj.gov](https://business.nj.gov/covid)
- 
-- [Information on COVID-19's Impact on Businesses and Question Portal](https://faq.business.nj.gov/en/collections/2198378-information-for-nj-businesses-on-the-coronavirus-outbreak)
-
-- [New Jersey Programs](https://faq.business.nj.gov/en/articles/3838662-what-new-state-financial-support-programs-is-my-business-eligible-for-how-do-i-use-the-eligibility-wizard)
-
 
 **Federal Programs via the Small Business Administration:**
 
