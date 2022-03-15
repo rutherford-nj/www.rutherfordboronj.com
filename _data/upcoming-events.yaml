@@ -1,7 +1,24 @@
 # remove-after needs to be in the format 2005-10-01
 # where there's a leading zero in front of single digit months or days.
 
-- title: "Saturday, November 27th 2021"
-  content: holiday_parade.md
-  image: /upcoming-events/UpcomingEvents_400x300_holiday.jpg
-  remove-after: "2021-11-27" 
+- title: "Community Clean-Up Day: Saturday, April 30"
+  content: Saturday, April 30th 9:00am - 10:30am - Join the Green Team & Volunteer Committees to help make Rutherford even MORE beautiful at our annual Clean-Up Day!
+
+  [Pre-Register Here](https://docs.google.com/forms/d/e/1FAIpQLSdrW9ZP_X4WJBQedb4K13doqVAqIntZ9ZX0PyaCtnrPogKLMQ/viewform)
+
+  Registration and check-in at Borough Hall, 176 Park Ave, at 9am.
+
+  Please bring rakes, gloves, smiles and a helping hand.
+
+  Clean up areas include the Train Station, Williams Center Plaza, Ettrick Terrace Parking Lot, Erie Avenue
+  image: /upcoming-events/UpcomingEvents_400x300_CleanUpDay.jpg
+  remove-after: "2022-05-02" 
+  
+  - title: "Rutherford TreeFest '22: Saturday, April 30"
+  content: Saturday, April 30th 12:00pm - 5:00pm - An Arbor Day Craft & Food Festival celebrating the Borough of Trees at Lincoln Park
+
+  Looking for vendors of sustainable and natural products! Email communications@rutherfordboronj.com for more information
+
+ FEATURING - EDUCATIONAL BOOTHS, TOY & CRAFT VENDORS, FOOD & DRINKBEER GARDEN, LIVE MUSIC and MORE!
+  image: /upcoming-events/UpcomingEvents_400x300_Treefest.jpg
+  remove-after: "2022-05-02" 
