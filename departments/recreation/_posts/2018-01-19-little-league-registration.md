@@ -7,7 +7,7 @@ title: 2018 Little League Registration
 
 Registration is available at the Recreation Office - Checks should be payable to Rutherford Little League.
 
-Visit the Rutherford Little League website at [www.Rutherford-ll.info](http://www.Rutherford-ll.info/ ) for more information.
+Visit the [Rutherford Little League website](https://tshq.bluesombrero.com/rutherfordllnj) for more information.
 
 Thank you,
 

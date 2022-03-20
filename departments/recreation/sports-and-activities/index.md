@@ -13,7 +13,7 @@ parent: 'Recreation'
 
 Tennis Lessons - [Tennis Dynamics](https://storage.googleapis.com/static.rutherford-nj.com/recreation/spring-2021/RUTHERFORD%20Spring%202021%20Sundays%233.pdf)
 
-Rutherford Little League - [www.rutherford-ll.info](http://www.rutherford-ll.info/home.htm)
+[Rutherford Little League](https://tshq.bluesombrero.com/rutherfordllnj)
 
 Nereid Boat Club – [nereidbc.org](http://nereidbc.org/) headcoach@nereidbc.org 
 
