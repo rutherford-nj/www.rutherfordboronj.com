@@ -5,6 +5,11 @@
   content: volunteer.md
   image: /upcoming-events/UpcomingEvents_400x300_Volunteer.jpg
   remove-after: "2022-04-02" 
+  
+- title: "Annual Easter Egg Hunt"
+  content: volunteer.md
+  image: /upcoming-events/UpcomingEvents_400x300_easter.jpg
+  remove-after: "2022-04-10" 
 
 - title: "Community Clean-Up Day: Saturday, April 30"
   content: community-cleanup-day.md
