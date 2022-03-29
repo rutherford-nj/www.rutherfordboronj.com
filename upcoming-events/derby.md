@@ -7,4 +7,4 @@
 
 The Rutherford Downhill Derby is an exciting, annual town event providing kids and adults with the opportunity to design, build and race gravity powered race carts.
 
-(Register and learn more at www.rutherforddownhillderby.org)[https://www.rutherforddownhillderby.org/]
+[Register and learn more at www.rutherforddownhillderby.org](https://www.rutherforddownhillderby.org/)
