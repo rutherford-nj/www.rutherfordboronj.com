@@ -1,6 +1,4 @@
-**Saturday, April 9th, 2022** 
-**ANNUAL EGG HUNT**
-PRE-REGISTRATION REQUIRED! Residents ONLY with a WRISTBAND*
+*PRE-REGISTRATION REQUIRED! Residents ONLY with a WRISTBAND*
 
 Rain date – Sunday, April 10th
 
@@ -14,12 +12,8 @@ Rain date – Sunday, April 10th
 
 [Register on Rec Desk for Children 1st through 3rd grade](https://rutherfordnj.recdesk.com/Community/Program/Detail?programId=208)
 
-For safety reasons, no parents will be allowed on the field.
+For safety reasons, no parents will be allowed on the field. CHILDREN MUST HAVE A WRISTBAND TO ATTEND
 
-CHILDREN MUST HAVE A WRISTBAND TO ATTEND
-
-B.Y.O.B-Bring your own BASKET!
-
-Peter Cottontail will be available for pictures at 1:30pm at Tryon Field
+B.Y.O.B-Bring your own BASKET! Peter Cottontail will be available for pictures at 1:30pm at Tryon Field
 
 
