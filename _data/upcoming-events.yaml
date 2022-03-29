@@ -6,7 +6,7 @@
   image: /upcoming-events/UpcomingEvents_400x300_Volunteer.jpg
   remove-after: "2022-04-02" 
   
-- title: "Annual Easter Egg Hunt"
+- title: "Annual Easter Egg Hunt: Saturday, April 9"
   content: egg-hunt.md
   image: /upcoming-events/UpcomingEvents_400x300_easter.jpg
   remove-after: "2022-04-10" 
@@ -20,6 +20,11 @@
   content: treefest.md
   image: /upcoming-events/UpcomingEvents_400x300_Treefest.jpg
   remove-after: "2022-05-02" 
+  
+- title: "Downhill Derby: Saturday, June 18"
+  content: derby.md
+  image: /upcoming-events/UpcomingEvents_400x300_derby.jpg
+  remove-after: "2022-06-19" 
   
   
 
