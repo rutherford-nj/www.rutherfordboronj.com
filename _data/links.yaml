@@ -70,6 +70,8 @@ departments:
       href: services/
     - text: Forms
       href: forms/   
+    - text: Mosquito Information
+      href: mosquito-info/
     - text: Health Links
       href: links/
     - text: Board of Health
