@@ -15,7 +15,7 @@ Please click on an item below to download the appropriate form and return to the
 
 [**Construction/Zoning Permits**](/departments/building/)
 
-[**Dumpster**](https://storage.googleapis.com/static.rutherford-nj.com/borough-clerk/permits-licenses/DUMPSTER%20(new).pdf)
+[**Dumpster**](https://storage.googleapis.com/static.rutherford-nj.com/borough-clerk/permits-licenses/DUMPSTER.pdf)
 – If you need to place a dumpster on the street or driveway, a permit is required at the cost of $25.00 for 15 days.  If being placed in meter spaces $5.00 per day, per meter.
   
 [**Employment Application**](https://storage.googleapis.com/static.rutherford-nj.com/borough-clerk/permits-licenses/Employment%20Application%20REVISED.pdf)
@@ -35,7 +35,7 @@ Please click on an item below to download the appropriate form and return to the
 
 **Liquor License** – Renewed yearly – 4 club licenses and 10 store licenses. Application process in compliance with Alcohol Beverage Control Commission requirements.
 
-[**Mobile Storage Unit (POD)**](https://storage.googleapis.com/static.rutherford-nj.com/borough-clerk/permits-licenses/Forms/POD.pdf)
+[**Mobile Storage Unit (POD)**](https://storage.googleapis.com/static.rutherford-nj.com/borough-clerk/permits-licenses/POD.pdf)
 – Maintenance of container must meet requirements of Ordinance # 3126-06.  Storage units must be legally parking in compliance with NJ Motor Vehicle laws.  Fee $25 – If being placed in meter spaces $5 per day per meter.
 
 [**OPRA – Public Records Request**](https://storage.googleapis.com/static.rutherford-nj.com/borough-clerk/permits-licenses/OPRA%20Form%20April%202021.pdf)
@@ -45,7 +45,7 @@ Please click on an item below to download the appropriate form and return to the
 
 [**Parking Payment Coupon**](https://storage.googleapis.com/static.rutherford-nj.com/borough-clerk/permits-licenses/Forms/PARKING%20PAYMENT%20COUPON.pdf)
 
-[**Parking Meters**](https://storage.googleapis.com/static.rutherford-nj.com/borough-clerk/permits-licenses/Forms/PARKING%20METER%20PERMIT.pdf)
+[**Parking Meters**](https://storage.googleapis.com/static.rutherford-nj.com/borough-clerk/permits-licenses/PARKING%20METER%20PERMIT.pdf)
 – May be reserved for purpose of construction job or moving van in the business districts.Meters are $5 per day per meter.
 
 [**Resident Parking Permits**](/departments/police/parking/)
