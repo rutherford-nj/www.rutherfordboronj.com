@@ -4,7 +4,7 @@ title: Summer Camp Counselors Wanted
 ---
 
 
-**New Summer Camp Staff Camp** 
+**Summer Camp Staff Wanted** 
 
 •	Rising Sophomore and older 
 
