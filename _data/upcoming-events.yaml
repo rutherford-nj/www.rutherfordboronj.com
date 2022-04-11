@@ -1,15 +1,6 @@
 # remove-after needs to be in the format 2005-10-01
 # where there's a leading zero in front of single digit months or days.
 
-- title: "2022 Mayor’s Volunteer Recognition Dinner"
-  content: volunteer.md
-  image: /upcoming-events/UpcomingEvents_400x300_Volunteer.jpg
-  remove-after: "2022-04-02" 
-  
-- title: "Annual Egg Hunt: Saturday, April 9"
-  content: egg-hunt.md
-  image: /upcoming-events/UpcomingEvents_400x300_easter.jpg
-  remove-after: "2022-04-10" 
 
 - title: "Community Clean-Up Day: Saturday, April 30"
   content: community-cleanup-day.md
