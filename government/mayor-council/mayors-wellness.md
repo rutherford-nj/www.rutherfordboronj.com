@@ -12,6 +12,8 @@ The Mayors Wellness Campaign (MWC) is a statewide community health initiative th
 
 Mayor Nunziato is happy to support the following Mayors Wellness Campaign initiatives: 
 
-- Walk to School with the Mayor 
+- Walk to School with the Mayor
+
+- Bike Rides 
 
 - [Green Leaf Business Recognition Program](/committees/green-team/green-leaf-program/)
