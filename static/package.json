@@ -9,7 +9,7 @@
     "watch": "webpack --watch"
   },
   "devDependencies": {
-    "@types/bootstrap": "^5.1.9",
+    "@types/bootstrap": "^5.1.10",
     "@types/lunr": "^2.3.4",
     "@types/luxon": "^2.3.1",
     "ts-loader": "^9.2.8",
