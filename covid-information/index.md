@@ -26,16 +26,6 @@ title: 'COVID-19 Information'
 
 [**Charts of progression of Rutherford COVID-19 cases**](charts/)
 
-COVID TESTING AVAILABLE for Rutherford residents at Felician University - 217 Montross Ave (the white house next to Education Commons). 
-
-Rapid and PCR tests are available Monday through Friday 11am-6pm. 
-
-Bring identification and insurance card if possible. Be prepared to give an email address to receive results of your test. 
-
-Free parking available at the Montross Ave parking lot. Walk-Ins Only.
-
-Testing provided by Grapefruit Testing. 
-
 ---
 
 [**December 20, 2021: A statement from Mayor Nunziato** Addressed - Recreation Dept Closures and Health Department Information](https://storage.googleapis.com/static.rutherford-nj.com/covid/December%2020%202021%20(1).pdf)
