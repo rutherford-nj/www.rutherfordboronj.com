@@ -41,17 +41,16 @@ $50 for the first hour, $25 for each additional hour.
 {: .table .table-striped .table-hover}
 
 **TENNIS BADGES**
-2020 badges will no longer be valid after April 10th, 2021. 
+It's time to purchase new Tennis badges for 2022! 2021 badges will no longer be valid after April 18th. 
 
-TENNIS BADGES All Rutherford Residents interested in utilizing our Tennis Courts must purchase a Badge. There are 6 courts at Memorial Park.
+All Rutherford Residents interested in utilizing our Tennis Courts must purchase a Badge. There are 6 courts at Memorial Park
+Please order & pay for your badges through our Rec Desk system. Once purchased you can pick up your badges at the Rec Department at Borough Hall, 176 Park Ave, lower level M-F 8:30AM-4:30 PM.
 
-Please order & pay for your badges through [RecDesk](https://rutherfordnj.recdesk.com/Community/Home). Once purchased the Rec Department will contact you for a pick up. 
 
-### Tennis Badges [Click here for 2021 Badge Application](https://register.communitypass.net/reg/index.cfm)
+### Tennis Badges [Memberships (recdesk.com)](https://rutherfordnj.recdesk.com/Community/Membership?type=6)
 
-| Youth resident (ages 12 and younger) | NO FEE |
-| Senior citizen resident (age 62 & above)| NO FEE |
-| Student (12 - 18 years) | $5.00 |
-| Adult resident | $20.00 |
-| Guest: Non-resident accompanied by resident | $30.00 |
+| Youth resident (ages 17 and younger) | $5.00 |
+| Adult Resident Ages 18-61 | $20.00 |
+| Senior Resident 62 and up | FREE |
+| Non-resident guest accompanied by a resident | $30.00 |
 {: .table .table-striped .table-hover}
