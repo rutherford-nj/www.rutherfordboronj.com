@@ -49,7 +49,7 @@ Please order & pay for your badges through our Rec Desk system. Once purchased y
 
 ### Tennis Badges [Memberships (recdesk.com)](https://rutherfordnj.recdesk.com/Community/Membership?type=6)
 
-| Youth resident (ages 17 and younger) | $5.00 |
+| Youth Resident (ages 17 and under) | $5.00 |
 | Adult Resident Ages 18-61 | $20.00 |
 | Senior Resident 62 and up | FREE |
 | Non-resident guest accompanied by a resident | $30.00 |
