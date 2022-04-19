@@ -40,14 +40,12 @@ $50 for the first hour, $25 for each additional hour.
 | Non resident non-profit group-field permit w/lights – per hour | $100.00 |
 {: .table .table-striped .table-hover}
 
-**TENNIS BADGES**
+### Tennis Badges [Memberships (recdesk.com)](https://rutherfordnj.recdesk.com/Community/Membership?type=6)
+
 It's time to purchase new Tennis badges for 2022! 2021 badges will no longer be valid after April 18th. 
 
 All Rutherford Residents interested in utilizing our Tennis Courts must purchase a Badge. There are 6 courts at Memorial Park
 Please order & pay for your badges through our Rec Desk system. Once purchased you can pick up your badges at the Rec Department at Borough Hall, 176 Park Ave, lower level M-F 8:30AM-4:30 PM.
-
-
-### Tennis Badges [Memberships (recdesk.com)](https://rutherfordnj.recdesk.com/Community/Membership?type=6)
 
 | Youth Resident (ages 17 and under) | $5.00 |
 | Adult Resident Ages 18-61 | $20.00 |
