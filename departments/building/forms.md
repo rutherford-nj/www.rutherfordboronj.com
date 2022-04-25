@@ -7,7 +7,7 @@ parent: 'Building'
 
 [**1. UCC Jacket and Permit Application Form (Building/Electric/Plumbing/Fire)**](https://storage.googleapis.com/static.rutherford-nj.com/building/Building%20Dept%20Forms/01-UCC%20Permit%20Application.pdf)
 
-[**2. Dumpster Permit Application**](https://storage.googleapis.com/static.rutherford-nj.com/borough-clerk/permits-licenses/DUMPSTER%20(new).pdf)
+[**2. Dumpster Permit Application**](https://storage.googleapis.com/static.rutherford-nj.com/borough-clerk/permits-licenses/DUMPSTER.pdf)
 
 [**3. Chimney Verification Form**](https://storage.googleapis.com/static.rutherford-nj.com/building/Building%20Dept%20Forms/03-Chimney%20Verification%20Form-f370.pdf)
 
