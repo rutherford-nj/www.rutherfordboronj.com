@@ -6,25 +6,34 @@ parent: 'Borough Clerk'
 
 [**Three Ways to Vote in Bergen County** - A podcast from the Bergen County Board of Commissioners](https://bergencountycommissioners.libsyn.com/three-ways-to-vote-in-bergen-county)
 
-[2021 Voting Information from Bergen County](https://storage.googleapis.com/static.rutherford-nj.com/borough-clerk/election-info/Bergen%20County%20-%203%20Ways%20to%20Vote%20(1).pdf)
+**2022 NJ Primary Election**
 
-[2021 General Election Timeline](https://web.archive.org/web/20210711195223/https://nj.gov/state/elections/assets/pdf/chrons/2021-chron-general-election-0623.pdf)
+Tuesday, June 7, 2022
+
+Polls Open 6:00 a.m. - 8:00 p.m.
 
 
-**NOTE:  In-Person Early Voting Locations open Saturday, October 23rd through Sunday, October 31, 2021;** Monday through Saturday, 10:00 am to 8:00 pm and Sunday, 10:00 am to 6:00 pm.  Rutherford is host to an early voting location at the Williams Center, 15 Sylvan Street.  For information in regards to the other eight Bergen County locations, kindly contact the Bergen County Board of Elections at elections@co.bergen.nj.us or (201) 336-6230.
+The Official Mail-In Ballots for the June Primary have been mailed out to voters with Active Vote By Mail Requests. Only voters with active vote by mail requests will receive their ballot within the next three (3) days. Voters with active requests who do not receive their ballot by May 6, 2022 should call the County at 201-336-7020 to request a duplicate. The Deadline for County to receive Vote by Mail Applications for this Election is May 31, 2022. 
 
-**POLLING PLACE LOCATIONS**
+**The deadline to register to vote for this Election is Tuesday, May 17, 2022.**  The Borough Clerk’s office will be opened from 8:30 a.m. to 9:00 p.m. on May 17th for those wishing to register that day.   
 
-Please note that due to the construction at Union School, **Districts 11 and 12 are being temporarily relocated to the Congregational Church at 251 Union Avenue.**
+Any resident may register to vote in the Borough Clerk's Office in Borough Hall at 176 Park Avenue during regular office hours of 8:30 a.m. to 4:30 p.m. Monday through Friday.  
+
+You may also call and request a form be mailed to you or go to the County Website: [www.bergencountyclerk.org.](https://www.bergencountyclerk.org/)  All residents are reminded of the following to ensure their voting privilege:   You must re-register if you have not voted in any election for four consecutive years, have changed your address or changed your name.
+
+
+# POLLING PLACE LOCATIONS
+
+**Note that for this Primary Election, Districts 3, 4, 11 and 12 will have changes to their polling locations as noted below.**
 
 
 1st District:	Lincoln School	414 Montross Avenue
 		
 2nd District:	High School	56 Elliott Place
 
-3rd District: 	Congregational Church	251 Union Avenue
+**3rd District: Felician University 	227 Montross Avenue**
 
-4th District:	Congregational Church 	251 Union Avenue
+**4th District:	Felician University 	227 Montross Avenue**
 
 5th District:	Washington School	89 Wood Street
 
@@ -38,13 +47,11 @@ Please note that due to the construction at Union School, **Districts 11 and 12 
 
 10th District:	Pierrepont School	70 E. Pierrepont Avenue
 
-**11th District:	Congregational Church	251 Union Avenue**
-	
-**12th District:	Congregational Church	251 Union Avenue**
+**11th District: Felician University 	227 Montross Avenue**
+
+**12th District: Felician University 	227 Montross Avenue**
 
 Please note that Poll Workers cannot accept Mail-In Ballots at the polls.  Voters are advised to take their mail-in ballots to the Election Drop-Box located at 176 Park Avenue or to one of the other 18 Election Drop-Boxes located throughout the County.
-
-Bergen County Voters are being strongly encouraged to wear masks in all public buildings.  Each location will have ample supply of extra masks and hand sanitizers.
 
 
 Please call us at 201-460-3001, if you have any questions.
