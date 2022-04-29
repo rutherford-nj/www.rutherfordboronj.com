@@ -2,7 +2,7 @@ Saturday, April 30th 12:00pm - 5:00pm - An Arbor Day Craft & Food Festival celeb
 
 FEATURING - Food Trucks, Beer Garden, Live Music by Tainted Luv 80's Band
 
-Sponsored by BCB Bank with vendors including the RHS Booster Club, Chamber of Commerce, Rutherford Green TEam, Garden Club, Scouts, Health and Wellness Vendors, Local Businesses and more!
+Sponsored by BCB Bank with vendors including the RHS Booster Club, Chamber of Commerce, Rutherford Green Team, Garden Club, Scouts, Health and Wellness Vendors, Local Businesses and more!
 
 Special Presentations:
 
