@@ -6,7 +6,7 @@ parent: 'Borough Clerk'
 
 [**Three Ways to Vote in Bergen County** - A podcast from the Bergen County Board of Commissioners](https://bergencountycommissioners.libsyn.com/three-ways-to-vote-in-bergen-county)
 
-**2022 NJ Primary Election**
+# 2022 NJ Primary Election
 
 Tuesday, June 7, 2022
 
@@ -22,14 +22,14 @@ Any resident may register to vote in the Borough Clerk's Office in Borough Hall 
 You may also call and request a form be mailed to you or go to the County Website: [www.bergencountyclerk.org.](https://www.bergencountyclerk.org/)  All residents are reminded of the following to ensure their voting privilege:   You must re-register if you have not voted in any election for four consecutive years, have changed your address or changed your name.
 
 
-# POLLING PLACE LOCATIONS
+# POLLING PLACE LOCATIONS IN RUTHERFORD
 
 **Note that for this Primary Election, Districts 3, 4, 11 and 12 will have changes to their polling locations as noted below.**
 
 
-1st District:	Lincoln School	414 Montross Avenue
+1st District:	Lincoln School		414 Montross Avenue
 		
-2nd District:	High School	56 Elliott Place
+2nd District:	High School		56 Elliott Place
 
 **3rd District: Felician University 	227 Montross Avenue**
 
@@ -37,11 +37,11 @@ You may also call and request a form be mailed to you or go to the County Websit
 
 5th District:	Washington School	89 Wood Street
 
-6th District:	High School	56 Elliott Place
+6th District:	High School		56 Elliott Place
 
-7th District:	Sylvan School	109 Sylvan Street
+7th District:	Sylvan School		109 Sylvan Street
 
-8th District:	Sylvan School	109 Sylvan Street
+8th District:	Sylvan School		109 Sylvan Street
 
 9th District:	Pierrepont School	70 E. Pierrepont Avenue
 
