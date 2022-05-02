@@ -1,7 +1,5 @@
 
-**National Night Out 2022**
-
-**Tuesday, August 2nd 6-8pm - Lincoln Park**
+**6-8pm - Lincoln Park**
 
 **Presented by the Rutherford Police Department**
 
