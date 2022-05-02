@@ -2,16 +2,11 @@
 # where there's a leading zero in front of single digit months or days.
 
 
-- title: "Community Clean-Up Day: Saturday, April 30"
-  content: community-cleanup-day.md
-  image: /upcoming-events/UpcomingEvents_400x300_CleanUpDay.jpg
-  remove-after: "2022-05-02" 
+- title: "National Night Out - Tuesday, August 2nd"
+  content: nno.md
+  image: /upcoming-events/UpcomingEvents_400x300_NNO.jpg
+  remove-after: "2022-08-03" 
 
-- title: "Rutherford TreeFest '22: Saturday, April 30"
-  content: treefest.md
-  image: /upcoming-events/UpcomingEvents_400x300_Treefest.jpg
-  remove-after: "2022-05-02" 
-  
 
   
 
