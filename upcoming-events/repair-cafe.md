@@ -1,6 +1,6 @@
 Lincoln Park 12-4
 
-Rain Date
+Rain Date May 22nd
 
 Volunteer experts will help you repair household items. [See Flyer Here](https://storage.googleapis.com/static.rutherford-nj.com/committees/green-team/posts/repaircafeFB.pdf)
 
