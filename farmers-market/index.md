@@ -37,6 +37,6 @@ Check back regularly as vendors are added!
 
 **For General Information:**
 
-Contact: Rose Inguanti
+Contact: Laurie Gentile
 
-201-460-3000 ext. 3104 Email: ringuanti@rutherfordboronj.com
+201-460-3000 ext. 3114 Email: lgentile@rutherfordboronj.com
