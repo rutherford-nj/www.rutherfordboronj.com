@@ -3,32 +3,27 @@ layout: page
 title: 'Farmers Market'
 ---
 
-# 2021 Farmers' Market       
+# 2022 Farmers' Market       
 
-[See Flyer Here](https://storage.googleapis.com/static.rutherford-nj.com/farmers-market/2021_FarmersMarket.pdf)
+[See Flyer Here](https://storage.googleapis.com/static.rutherford-nj.com/farmers-market/FarmersMarket2022.pdf)
 
-**[Information for Vendors](./vendor-info/)**
+**[Information for Vendors](https://storage.googleapis.com/static.rutherford-nj.com/farmers-market/2022_FarmersMarket_VendorInfo.pdf)**
 
 The market will be held in the William’s Plaza Park Avenue on
 
-**Wednesdays 11:00am to 4:30pm July 7th - August 25th** 
-
-**Wednesdays 11:00am to 5:00pm September 1st - October 27th** 
+**Wednesdays 11:00am to 4:00pm July 6th - October 26th** 
 
 and
 
-**Saturdays from 8:00am to 2:00pm beginning July 10.**
+**Saturdays from 8:00am to 2:00pm July 9th - October 29th**
 
-*Please note: through August 25th Park Avenue will close to vehicles at 5:00pm for “Dining Out Rutherford.” Please plan to conclude your shopping by 4:30.
+*Please note: On Wednesdays, the market begins its closure at 4:00. Patrons will be able to complete their shopping for a few minutes past 4:00. Wednesdays in September, Park Avenue closes to vehicles at 5:00 for Dining Out Rutherford, please plan your trip to accordingly. The market season concludes 10/29/2022
 
 
 **Please note:** On Wednesdays, Park Avenue will close to vehicles at 4:00 pm for “Dining Out Rutherford.” Please plan your visit accordingly.
 
-The Rutherford Farmer’s Market is returning for its 24th season. The market is sponsored by the Borough of Rutherford. The governing body welcomes the opportunity to support regional farmers by allowing them to market quality products in our downtown area.  These markets provide the economic activity necessary to help preserve farmland, open space and a better quality of life in our region.  
+The Rutherford Farmer’s Market is returning for its 25th season. The market is sponsored by the Borough of Rutherford. The governing body welcomes the opportunity to support regional farmers by allowing them to market quality products in our downtown area. 
 
-Our borough benefits because market patrons have access to fresh, high quality produce and our local businesses enjoy increased business activity.
-
-As restrictions ease, the Borough requests that both vendors and patrons observe remaining NJ Department of Health and CDC public health guidelines and employ hygienic practices around food and other people at all times.
 
 Vendors for this year include:
 
