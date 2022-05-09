@@ -9,6 +9,8 @@ title: 'Farmers Market'
 
 **[Information for Vendors](https://storage.googleapis.com/static.rutherford-nj.com/farmers-market/2022_FarmersMarket_VendorInfo.pdf)**
 
+[Health Department Forms For Food Vendors](/departments/health/forms/)
+
 The market will be held in the William’s Plaza Park Avenue on
 
 **Wednesdays 11:00am to 4:00pm July 6th - October 26th** 
