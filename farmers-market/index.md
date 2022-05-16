@@ -9,7 +9,7 @@ title: 'Farmers Market'
 
 Vendors must be prequalified before registering. Please contact Laurie Gentile for additional information. Please review Information for Vendors for fees and other requirements.
 
-**[Information for Vendors](https://storage.googleapis.com/static.rutherford-nj.com/farmers-market/2022%20Vendor%20letter%20only%20revised.pdf)**
+**[Information for Vendors](https://storage.googleapis.com/static.rutherford-nj.com/farmers-market/2022%20Vendor%20letter%20only%20revised_1.pdf)**
 
 **[Health Department Forms For Food Vendors](/departments/health/forms/)**
 
