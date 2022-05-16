@@ -7,7 +7,9 @@ title: 'Farmers Market'
 
 [See Flyer Here](https://storage.googleapis.com/static.rutherford-nj.com/farmers-market/FarmersMarket2022.pdf)
 
-**[Information for Vendors](https://storage.googleapis.com/static.rutherford-nj.com/farmers-market/2022_FarmersMarket_VendorInfo.pdf)**
+Vendors must be prequalified before registering. Please contact Laurie Gentile for additional information. Please review Information for Vendors for fees and other requirements.
+
+**[Information for Vendors](https://storage.googleapis.com/static.rutherford-nj.com/farmers-market/2022%20Vendor%20letter%20only%20revised.pdf)**
 
 **[Health Department Forms For Food Vendors](/departments/health/forms/)**
 
@@ -21,17 +23,12 @@ and
 
 *Please note: On Wednesdays, the market begins its closure at 4:00. Patrons will be able to complete their shopping for a few minutes past 4:00. Wednesdays in September, Park Avenue closes to vehicles at 5:00 for Dining Out Rutherford, please plan your trip to accordingly. The market season concludes 10/29/2022
 
-
-**Please note:** On Wednesdays, Park Avenue will close to vehicles at 4:00 pm for “Dining Out Rutherford.” Please plan your visit accordingly.
-
 The Rutherford Farmer’s Market is returning for its 25th season. The market is sponsored by the Borough of Rutherford. The governing body welcomes the opportunity to support regional farmers by allowing them to market quality products in our downtown area. 
 
 
 Vendors for this year include:
 
 • Sy Grisconis Farm – Fresh produce
-
-• Dr. Pickle – Pickles and brine cured products – Wednesdays
 
 Check back regularly as vendors are added!
 
