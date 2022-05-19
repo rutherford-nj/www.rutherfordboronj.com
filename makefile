@@ -1,13 +1,13 @@
 # Set SITE_WORKSPACE when running locally.
 SITE_WORKSPACE := $(if $(SITE_WORKSPACE),$(SITE_WORKSPACE),$(PWD))
 export SITE_WORKSPACE
-
+JEKYLL_IMAGE := jekyll/builder:4.2.0
 
 compile-typescript:
 	docker run --rm \
 		-v $(SITE_WORKSPACE):/srv/jekyll \
 		-w /srv/jekyll/static \
-		jekyll/builder:latest /bin/bash -c "npm install && npm run build"
+		$(JEKYLL_IMAGE) /bin/bash -c "npm install && npm run build"
 
 
 build-requirements: compile-typescript
@@ -26,19 +26,19 @@ dev-typescript:
 	docker run --rm \
 		-v $(SITE_WORKSPACE):/srv/jekyll \
 		-w /srv/jekyll/static \
-		jekyll/builder:latest /bin/bash -c "npm install && npm run watch"
+		$(JEKYLL_IMAGE) /bin/bash -c "npm install && npm run watch"
 
 
 dev: stop-dev-site build-requirements
 	docker run -it --name=rutherford-dev-site --rm -p 0.0.0.0:38081:8080 \
     -v $(SITE_WORKSPACE):/srv/jekyll \
-    jekyll/builder:4.2.0 jekyll serve --watch -P 8080 -p /dev/null
+    $(JEKYLL_IMAGE) jekyll serve --watch -P 8080 -p /dev/null
 
 
 prod: build-requirements
 	docker run \
     -v $(SITE_WORKSPACE):/srv/jekyll \
-    jekyll/builder:4.2.0 jekyll build
+    $(JEKYLL_IMAGE) jekyll build
 
 
 deploy: prod
