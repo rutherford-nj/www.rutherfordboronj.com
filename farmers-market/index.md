@@ -21,7 +21,7 @@ and
 
 **Saturdays from 8:00am to 2:00pm July 9th - October 29th**
 
-*Please note: On Wednesdays, the market begins its closure at 4:00. Patrons will be able to complete their shopping for a few minutes past 4:00. Wednesdays in September, Park Avenue closes to vehicles at 5:00 for Dining Out Rutherford, please plan your trip to accordingly. The market season concludes 10/29/2022
+*Please note: On Wednesdays, the market begins its closure at 4:00. Patrons will be able to complete their shopping for a few minutes past 4:00. Wednesdays in September, Park Avenue closes to vehicles at 5:00 for Dining Out Rutherford, please plan your trip accordingly. The market season concludes 10/29/2022
 
 The Rutherford Farmer’s Market is returning for its 25th season. The market is sponsored by the Borough of Rutherford. The governing body welcomes the opportunity to support regional farmers by allowing them to market quality products in our downtown area. 
 
