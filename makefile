@@ -32,13 +32,13 @@ dev-typescript:
 dev: stop-dev-site build-requirements
 	docker run -it --name=rutherford-dev-site --rm -p 0.0.0.0:38081:8080 \
     -v $(SITE_WORKSPACE):/srv/jekyll \
-    jekyll/builder:latest jekyll serve --watch -P 8080 -p /dev/null
+    jekyll/builder:4.2.0 jekyll serve --watch -P 8080 -p /dev/null
 
 
 prod: build-requirements
 	docker run \
     -v $(SITE_WORKSPACE):/srv/jekyll \
-    jekyll/builder:latest jekyll build
+    jekyll/builder:4.2.0 jekyll build
 
 
 deploy: prod
