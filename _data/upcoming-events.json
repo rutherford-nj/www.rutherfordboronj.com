@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Green Team Repair Cafe - Saturday, May 21st",
+    "content": "repair-cafe.md",
+    "image": "/upcoming-events/UpcomingEvents_400x300_RepairCafe.jpg",
+    "remove-after": "2022-05-23"
+  },
+  {
+    "title": "National Night Out - Tuesday, August 2nd",
+    "content": "nno.md",
+    "image": "/upcoming-events/UpcomingEvents_400x300_NNO.jpg",
+    "remove-after": "2022-08-03"
+  },
+  {
+    "title": "2nd Annual Rutherford Day - Saturday, September 24th",
+    "content": "rutherford-day.md",
+    "image": "/upcoming-events/UpcomingEvents_400x300_RutherfordDay.jpg",
+    "remove-after": "2022-09-25"
+  }
+]
