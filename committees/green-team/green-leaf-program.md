@@ -21,17 +21,17 @@ The [Rutherford Green Team](/committees/green-team/) also stands ready to assist
  
 ## Requirements
 
-The criteria used in our program  are  based on the [**New Jersey Sustainable Business Registry (NJSBR)**](http://registry.njsbdc.com/), a free statewide program that is a partnership between the [**Rutgers’ New Jersey Small Business Development Centers (NJSBDC)**](https://www.njsbdc.com/) and the [**New Jersey Department of Environmental Protection (NJDEP)**](http://www.nj.gov/dep/). To be listed on this registry, a business must commit  to  five (5) actions in 11 categories (listed below)  including one (1) measurable environmental benefit and one (1) cost savings they experienced. Businesses need to re-register every two (2) years at which time they must add one (1) action and one (1) measurable result.
+The criteria used in our program  are  based on the [**<span style="color:green">New Jersey Sustainable Business Registry (NJSBR)</span>**](http://registry.njsbdc.com/), a free statewide program that is a partnership between the [**<span style="color:green">Rutgers’ New Jersey Small Business Development Centers (NJSBDC)</span>**](https://www.njsbdc.com/) and the [**<span style="color:green">New Jersey Department of Environmental Protection (NJDEP)</span>**](http://www.nj.gov/dep/). To be listed on this registry, a business must commit  to  five (5) actions in 11 categories (listed below)  including one (1) measurable environmental benefit and one (1) cost savings they experienced. Businesses need to re-register every two (2) years at which time they must add one (1) action and one (1) measurable result.
 
-To qualify for the Rutherford Green Leaf program, a business must commit to four of the five NJSBR actions in the mandatory categories listed below, including the category of “other” where we require a business to  list how it complies with existing waste and recycling regulations and provides single-use items only upon request. Additionally, we’ve identified several “priority actions” that we feel are of high value to our town. These actions are not mandatory since they don’t apply to all businesses, but we feel that they deserve special emphasis and will be highlighted on the certification and on our town website. 
+To qualify for the **<span style="color:green">Rutherford Green Leaf program</span>**, a business must commit to **<span style="color:green">four of the five NJSBR actions in the mandatory categories</span>** listed below, including the category of “Rutherford” where we require a business to  list how it complies with existing waste and recycling regulations and provides single-use items only upon request. Additionally, we’ve identified several “priority actions” that we feel are of high value to our town. These actions are not mandatory since they don’t apply to all businesses, but we feel that they deserve special emphasis and will be highlighted on the certification and on our town website. 
 
 ### NJSBR Categories
-_(mandatory Rutherford Green Leaf categories in **bold**)_
-* **Rutherford**
+_(mandatory Rutherford Green Leaf categories in **<span style="color:green">bold</span>**)_
+* **<span style="color:green">Rutherford</span>**
   * List how you comply with existing waste and recycling regulations and provide single-use items (i.e. take-away flatware, carry-out bags, condiments) only upon request
-* **Community**
-* **Management & Leadership**
-* **Waste**
+* **<span style="color:green">Community</span>**
+* **<span style="color:green">Management & Leadership</span>**
+* **<span style="color:green">Waste</span>**
 * Energy
 * Transportation
 * Water
@@ -49,7 +49,9 @@ Rutherford Green Team “priority  actions” include
 * _Certification Programs_: **Other Sustainability Certification/Recognition Programs**
 * _Environmental & Community Restoration_: **Share your Environmental Successes**
 
-![Action table](https://drive.google.com/uc?export=view&id=1c5umc_VHXTlbGn98vVl4fXJW5zSfs0w1)
+<a href="https://drive.google.com/uc?export=view&id=1c5umc_VHXTlbGn98vVl4fXJW5zSfs0w1">
+  <img src="https://drive.google.com/uc?export=view&id=1c5umc_VHXTlbGn98vVl4fXJW5zSfs0w1" alt="Action table" width="1000"/>
+</a>
 
 ## Application
 
