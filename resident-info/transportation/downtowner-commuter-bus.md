@@ -5,6 +5,8 @@ parent: Transportation
 grandparent: Resident Services
 ---
 
+[**For a printable version of the Shuttle Schedules click here**](https://storage.googleapis.com/static.rutherford-nj.com/public-works/DPW_CommuterBus.pdf)
+
 ## Commuter Shuttle
 
 The Commuter Shuttle is offered free to all residents following [this route](https://www.google.com/maps/d/viewer?mid=1CPW4txNeS55syVYQ9XMPqHbDpl0). The bus operates Monday through Friday from 6:00 am to 8:43 am in the mornings and 4:49 pm to 7:04 pm in the evenings. There is no service on Saturday, Sunday and Holidays.  
