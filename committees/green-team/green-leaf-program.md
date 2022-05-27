@@ -7,6 +7,8 @@ title: 'Green Leaf Program'
 
 # Green Leaf Business Recognition Program
 
+[Download the Green Leaf Brochure here](https://storage.googleapis.com/static.rutherford-nj.com/committees/green-team/GreenLeaf_Trifold.pdf)
+
 The Borough of Rutherford, as a Sustainable Jersey Silver Certified Community, has made a commitment to support the economic, cultural and environmental sustainability of the community. Rutherford will be announcing a new local sustainable business recognition program. The Green Leaf Recognition Program will assist businesses to make a similar commitment while promoting your business, saving money, minimizing risk, gaining competitive advantage and being socially responsible.
 
 As a preview to the Green Leaf Recognition program, some of the criteria used to assess sustainability will be based on the Sustainable Jersey green business recognition action, including:
