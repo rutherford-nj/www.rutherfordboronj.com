@@ -60,11 +60,3 @@ Surrendering license plates does NOT require a reservation. Simply walk up.
 * New Titles/Registrations (in-state or out of state)”
 
 **RPD will NOT handle the required pre-registration. Each customer must register with the link above for the specific date listed.** 
-
-ONLINE REGISTRATION 
-
-[April 21, 2022 click to register]( https://forms.gle/QJKHw3aJd91iBgpe7)
-
-[May 12, 2022 click to register](https://forms.gle/Ccfm7gp9vXueMHUC7)
-
-As the event date approaches you will receive a confirmation e-mail for NJMVC. 
