@@ -16,6 +16,4 @@ Rutherford is home to both public and private schools as well as a local univers
 
 [St. Mary's High School](http://www.stmaryhs.org/)
 
-[St. Mary's Elementary School](http://www.academyatsmes.org/smes/_top)
-
 [Felician University](http://www.felician.edu/)
