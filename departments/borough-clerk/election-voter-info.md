@@ -14,6 +14,14 @@ Polls Open 6:00 a.m. - 8:00 p.m.
 
 [Early Voting instructions from the Bergen County Superintendent of Elections in three languages as well as step-by-step pictures of how to vote on the Early Voting equipment.](https://storage.googleapis.com/static.rutherford-nj.com/borough-clerk/election-info/Early_Voting_Instructions.pdf)
 
+**Early Voting At The Williams Center - 15 Sylvan Street**
+
+Friday, June 3rd - 10am to 8pm
+
+Saturday, June 4th - 10am to 8pm
+
+Sunday, June 5th - 10am to 6pm
+
 The Official Mail-In Ballots for the June Primary have been mailed out to voters with Active Vote By Mail Requests. Only voters with active vote by mail requests will receive their ballot within the next three (3) days. Voters with active requests who do not receive their ballot by May 6, 2022 should call the County at 201-336-7020 to request a duplicate. The Deadline for County to receive Vote by Mail Applications for this Election is May 31, 2022. 
 
 **The deadline to register to vote for this Election is Tuesday, May 17, 2022.**  The Borough Clerk’s office will be opened from 8:30 a.m. to 9:00 p.m. on May 17th for those wishing to register that day.   
