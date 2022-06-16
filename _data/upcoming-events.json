@@ -11,6 +11,12 @@
     "image": "/upcoming-events/UpcomingEvents_400x300_composting.jpg",
     "remove-after": "2022-06-20"
   },
+   {
+    "title": "Shred Day and Styrofoam Collection - Saturday, June 25th",
+    "content": "shred-styrofoam-day.md",
+    "image": "/upcoming-events/UpcomingEvents_400x300_shredday.jpg",
+    "remove-after": "2022-06-26"
+  },
   
   {
     "title": "Fireworks - Saturday, July 2nd",
