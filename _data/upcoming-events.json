@@ -17,6 +17,12 @@
     "image": "/upcoming-events/UpcomingEvents_400x300_shredday.jpg",
     "remove-after": "2022-06-26"
   },
+   {
+    "title": "Summer Concert Series in Lincoln Park: Thursdays 8-10pm",
+    "content": "summer-concerts.md",
+    "image": "/upcoming-events/UpcomingEvents_400x300_concerts.jpg",
+    "remove-after": "2022-08-20"
+  },
   
   {
     "title": "Fireworks - Saturday, July 2nd",
