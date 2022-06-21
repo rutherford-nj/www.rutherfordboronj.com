@@ -5,12 +5,6 @@
     "image": "/upcoming-events/UpcomingEvents_400x300_DO.jpg",
     "remove-after": "2022-07-01"
   },
-  {
-    "title": "Green Team Composting Workshop - Saturday, June 18th",
-    "content": "composting.md",
-    "image": "/upcoming-events/UpcomingEvents_400x300_composting.jpg",
-    "remove-after": "2022-06-20"
-  },
    {
     "title": "Shred Day and Styrofoam Collection - Saturday, June 25th",
     "content": "shred-styrofoam-day.md",
@@ -23,7 +17,12 @@
     "image": "/upcoming-events/UpcomingEvents_400x300_concerts.jpg",
     "remove-after": "2022-08-20"
   },
-  
+    {
+    "title": "90th Annual Baby Parade - Saturday, July 2nd",
+    "content": "baby-parade.md",
+    "image": "/upcoming-events/UpcomingEvents_400x300_babyparade.jpg",
+    "remove-after": "2022-07-04"
+  },  
   {
     "title": "Fireworks - Saturday, July 2nd",
     "content": "fireworks.md",
