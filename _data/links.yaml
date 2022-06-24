@@ -84,6 +84,8 @@ departments:
       href: https://www.state.nj.us/health/vital/registration-vital/marriage-licenses/
     - text: Bergen County Health News
       href: bergen-county/
+    - text: NJ Dept of Health 2022 Healthy Community Report
+      href: https://storage.googleapis.com/static.rutherford-nj.com/health/2022%20Rutherford%20Healthy%20Community%20Report.pdf
   municipal-court:
     - text: Brochures
       href: brochures/
