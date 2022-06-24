@@ -27,3 +27,5 @@ title: 'The Williams Center'
 
 [Mayor and Council Ordinance](https://storage.googleapis.com/static.rutherford-nj.com/community-development/williams-center/3562-21%20Mayor%20%26%20Council%20Ordinance%20Williams%20Center.pdf)
 
+[DRAFT Amended Plan for Mayor and Council Approval - June 2022, Amendments in Yellow](https://storage.googleapis.com/static.rutherford-nj.com/community-development/williams-center/3562-21%20Mayor%20%26%20Council%20Ordinance%20Williams%20Center.pdf)
+
