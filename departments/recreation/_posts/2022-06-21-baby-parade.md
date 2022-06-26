@@ -19,6 +19,6 @@ GRAND PRIZE: $100.00
 
 10- $50.00
 
-[Please PRE-REGISTER on Rutherford RecDesk http://rutherfordnj_recdesk.com/](https://rutherfordnj.recdesk.com/Community/Program/Detail?programId=266)
+[Please PRE-REGISTER on Rutherford RecDesk](https://rutherfordnj.recdesk.com/Community/Program/Detail?programId=266)
 
 SPONSORED BY LIGHTBRIDGE ACADEMY
