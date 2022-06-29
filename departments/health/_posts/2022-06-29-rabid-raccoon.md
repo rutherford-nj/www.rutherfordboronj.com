@@ -3,7 +3,7 @@ layout: blog
 title: "Rabid Raccoon on Elliot Place"
 ---
 
-[Rabid Raccoon News Release]((https://storage.googleapis.com/static.rutherford-nj.com/health/Rabid%20Raccoon%20Elliot%20Pl.%20-%2006.29.22.pdf)
+[Rabid Raccoon News Release](https://storage.googleapis.com/static.rutherford-nj.com/health/Rabid%20Raccoon%20Elliot%20Pl.%20-%2006.29.22.pdf)
 
 The Rutherford Board of Health received notification that a raccoon has tested positive for rabies. The rabid raccoon was on Elliot Place. There are no reported human exposures and the dog in question will be placed in confinement.
 Residents should be advised of the following:
