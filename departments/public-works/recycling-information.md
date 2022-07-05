@@ -12,6 +12,8 @@ parent: 'Public Works'
 
 [**Rutherford Recycles - A List of What Is and Isn't Acceptable**](https://storage.googleapis.com/static.rutherford-nj.com/public-works/Rutherford%202019%20recycling.pdf)
 
+[**What To Keep Out Of Your Recycling Bin**](https://storage.googleapis.com/static.rutherford-nj.com/public-works/Poster-Most-Common-Contaminants.pdf)
+
 [**Additional Recycling Information from Bergen County**](https://www.bcua.org/index.asp?SEC=47A7CBED-B1B8-4146-BEC1-C43C5EDD24E6&Type=B_BASIC&utm_source=mv&utm_medium=display&utm_campaign=newssites&utm_term=dbm&utm_content=recycle_v1)
 
 **Recycle Drop-Off**
