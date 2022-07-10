@@ -10,7 +10,7 @@ parent: 'Green Team'
 
 • [Recycle Coach](/departments/public-works/2019/04/25/recyclecoach/)
 
-• [NJ Health Care Quality Institute’s Mayor’s Wellness Campaign](https://www.njhcqi.org/mayors-wellness-campaign/)
+• [NJ Health Care Quality Institute’s Mayor’s Wellness Campaign](https://web.archive.org/web/20220412132419/https://www.njhcqi.org/mayors-wellness-campaign/)
 
 • [Farmer’s Market](/farmers-market/)
 

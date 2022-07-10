@@ -46,8 +46,6 @@ COVID-19 Symptom Checker: [https://covid19.nj.gov/forms/self](https://covid19.nj
 
 Isolation and Quarantine Calculator: [https://covid19.nj.gov/pages/quarantine-calculator](https://covid19.nj.gov/pages/quarantine-calculator)
 
-NJ Travel Restrictions: [https://covid19.nj.gov/faqs/nj-information/travel-and-transportation/are-there-travel-restrictions-to-or-from-new-jersey](https://covid19.nj.gov/faqs/nj-information/travel-and-transportation/are-there-travel-restrictions-to-or-from-new-jersey)
-
 COVID-19 General information: [https://www.cdc.gov/coronavirus/2019-ncov/your-health/about-covid-19.html](https://www.cdc.gov/coronavirus/2019-ncov/your-health/about-covid-19.html)
 
 COVID-19 Variant Surveillance Report reported by commercial labs and the Public Health and Environmental Laboratories (PHEL) that have been submitted for surveillance purposes posted weekly on [https://www.state.nj.us/health/cd/statistics/covid/](https://www.state.nj.us/health/cd/statistics/covid/)
