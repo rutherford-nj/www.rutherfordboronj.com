@@ -4,10 +4,10 @@ title: 'Roadwork in Rutherford'
 ---
 
 
-## SUEZ Road Work in Rutherford Spring 2022
+## SUEZ Road Work in Rutherford Summer 2022
 
 
-[**SUEZ Roadwork Schedule June 23-24**](https://storage.googleapis.com/static.rutherford-nj.com/road-work/RoadWorkSchedule.pdf) 
+[**SUEZ Roadwork Schedule July 13-15**](https://storage.googleapis.com/static.rutherford-nj.com/road-work/RoadWorkSchedule_7-13thru7-15.pdf)
 
 
 
