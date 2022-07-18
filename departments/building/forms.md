@@ -23,7 +23,7 @@ parent: 'Building'
 
 [**9. Commercial Certificate of Zoning Compliance Application and Requirements**](https://storage.googleapis.com/static.rutherford-nj.com/building/Building%20Dept%20Forms/09-Commercial%20Certificate%20of%20Zoning%20Compliance%20Application.pdf)
 
-[**10. Complaint Form**](https://storage.googleapis.com/static.rutherford-nj.com/building/Building%20Dept%20Forms/10-Complaint%20Form.pdf)
+[**10. Complaint Form**](https://storage.googleapis.com/static.rutherford-nj.com/building/Building%20Dept%20Forms/10-complaint%20form%20template-new%20letterhead.pdf)
 
 [**11. Outdoor Cafe License Application and Ordinance**](https://storage.googleapis.com/static.rutherford-nj.com/building/Building%20Dept%20Forms/11_Outdoor%20cafe%20license%20application.pdf)
 
