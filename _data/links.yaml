@@ -67,6 +67,11 @@ departments:
       href: fire-prevention-tips/
     - text: Carbon Monoxide Safety
       href: https://www.usfa.fema.gov/prevention/outreach/carbon_monoxide.html
+   fire-safety:
+    - text: Mobile Cookline Checklist
+      href: https://storage.googleapis.com/static.rutherford-nj.com/fire-safety/Fire%20Safety%20Mobile%20Cookline%20Checklist%2022.05.pdf   
+    - text: Fire Safety Permit Application
+      href: https://storage.googleapis.com/static.rutherford-nj.com/fire-safety/Fire%20Safety%20Type%20I%20Permit%20Applicaton%2022.05.pdf     
   health:
     - text: Services
       href: services/
