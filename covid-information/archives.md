@@ -377,8 +377,6 @@ Addressed: New COVID-19 cases; Cancellation of Community Events; NJ State Volunt
 
 Addressed: New COVID-19 cases; US Census; Mental Health & Jobs Portals
 
-[US Census Response Rates](https://2020census.gov/en/response-rates.html?cid=20423:%2Bcensus%20%2Bresponse%20%2Brates:sem.ga:p:dm:en:&utm_source=sem.ga&utm_medium=p&utm_campaign=dm:en&utm_content=20423&utm_term=%2Bcensus%20%2Bresponse%20%2Brates)
-
 [State of New Jersey COVID-19 Jobs and Hiring Portal](https://jobs.covid19.nj.gov/?Facets.filterbox.filter0=%5B%5D&Facets.filterbox.filter1=%5B%5D)
 
 [Who can I call if I’m feeling stressed or anxious during the COVID-19 outbreak?](https://covid19.nj.gov/faqs/nj-information/get-assistance/who-can-i-call-if-im-feeling-stressed-or-anxious-during-the-covid-19-outbreak)
