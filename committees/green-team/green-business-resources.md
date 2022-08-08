@@ -45,5 +45,5 @@ title: 'Green Business Resources'
     * [Overview of incentives for Businesses](https://njcleanenergy.com/files/file/Library/FY22/CI%20Overview%202021-09-17%20final.pdf)
     * [School and Small Business Energy Efficiency Stimulus Program](https://njcleanenergy.com/school-and-small-business-energy-efficiency-stimulus-program)
     * [PSE&G Energy Efficient Solutions for Businesses ](https://bizsave.pseg.com/home/)
-        * [Direct Install](https://bizsave.pseg.com/home/wp-content/uploads/2021/10/PSEG_Brochure_SmBiz_DirectInstall_R3.pdf) (in [Español](https://bizsave.pseg.com/home/wp-content/uploads/2021/10/PSEG_Brochure_SmBiz_DirectInstall_Spanish_R2.pdf))
+        * [Direct Install](https://bizsave.pseg.com/wp-content/uploads/2022/06/PSEG_DirectInstall_English.pdf) (in [Español](https://bizsave.pseg.com/wp-content/uploads/2022/06/PSEG_DirectInstall_Spanish.pdf))
         * [Incentives on Energy Efficient Equipment](https://bizsave.pseg.com/home/energy-efficiency-equipment/)
