@@ -1,10 +1,5 @@
 [
-  {
-    "title": "Dining Out Rutherford - Wednesdays in June",
-    "content": "DO.md",
-    "image": "/upcoming-events/UpcomingEvents_400x300_DO.jpg",
-    "remove-after": "2022-07-01"
-  },
+
    {
     "title": "2022 Farmers' Market at the Williams Center Plaza",
     "content": "farmersmarket.md",
@@ -34,6 +29,12 @@
     "content": "nno.md",
     "image": "/upcoming-events/UpcomingEvents_400x300_NNO.jpg",
     "remove-after": "2022-08-03"
+  },
+   {
+    "title": "Dining Out Rutherford - September",
+    "content": "DO.md",
+    "image": "/upcoming-events/UpcomingEvents_400x300_DO.jpg",
+    "remove-after": "2022-10-03"
   },
   {
     "title": "2nd Annual Rutherford Day - Saturday, September 24th",
