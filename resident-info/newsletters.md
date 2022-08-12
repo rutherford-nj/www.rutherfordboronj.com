@@ -6,7 +6,9 @@ title: 'Mayor and Council Newsletters'
 
 # Archive of Mayor and Council Newsletters
 
-- [July 22, 2022]((https://storage.googleapis.com/static.rutherford-nj.com/newsletters/Rutherford_Nwsltr_7-22-2022.pdf)
+- [August 12, 2022](https://storage.googleapis.com/static.rutherford-nj.com/newsletters/Rutherford_Nwsltr_8-12-2022.pdf)
+
+- [July 22, 2022](https://storage.googleapis.com/static.rutherford-nj.com/newsletters/Rutherford_Nwsltr_7-22-2022.pdf)
 
 - [June 30, 2022](https://storage.googleapis.com/static.rutherford-nj.com/newsletters/Rutherford_Nwsltr_6-30-2022.pdf)
 
