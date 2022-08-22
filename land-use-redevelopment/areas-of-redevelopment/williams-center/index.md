@@ -23,7 +23,7 @@ title: 'The Williams Center'
 
 [Williams Center Mayor & Council Resolution No. 201-2020](https://storage.googleapis.com/static.rutherford-nj.com/community-development/williams-center/Wm%20Ctr%20M%26C%20RES201.pdf)
 
-[Williams Center Redevelopment Plan](https://storage.googleapis.com/static.rutherford-nj.com/community-development/williams-center/Theater%20District%20Redevelopment%20Area%20A.PDF)
+[Williams Center Redevelopment Plan (Amended June 2022)](https://storage.googleapis.com/static.rutherford-nj.com/community-development/williams-center/wcw%20RDP%20JUNE%202022%20ORD.pdf))
 
 [Mayor and Council Ordinance](https://storage.googleapis.com/static.rutherford-nj.com/community-development/williams-center/3562-21%20Mayor%20%26%20Council%20Ordinance%20Williams%20Center.pdf)
 
