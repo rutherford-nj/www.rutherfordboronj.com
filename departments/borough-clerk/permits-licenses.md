@@ -20,6 +20,8 @@ Please click on an item below to download the appropriate form and return to the
   
 [**Employment Application**](https://storage.googleapis.com/static.rutherford-nj.com/borough-clerk/permits-licenses/Employment%20Application%20REVISED.pdf)
 
+[**Event Coordinator Packet**](https://storage.googleapis.com/static.rutherford-nj.com/borough-clerk/permits-licenses/Rutherford_EventInformationPacket.pdf)
+
 [**Firearms Applications**](/departments/police/additional-services/) - Handled by Rutherford Police Department. 
 
 [**Film Permit**](https://storage.googleapis.com/static.rutherford-nj.com/borough-clerk/permits-licenses/FILM.pdf)
