@@ -2,7 +2,7 @@
 
 [See flyer here](https://storage.googleapis.com/static.rutherford-nj.com/events/RutherfordDay2022_1.pdf)
     
-• Cornhole Tournament - Hosted by the [Rutherford Education Foundation](https://www.rutherfordeducationfoundation.org/)
+• Cornhole Tournament - Hosted by the [Rutherford Education Foundation - REGISTER HERE](https://www.rutherfordeducationfoundation.org/ref-cornhole-2022-copy)
 
 • Touch-A-Truck
 
