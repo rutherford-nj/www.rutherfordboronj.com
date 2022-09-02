@@ -7,7 +7,7 @@ compile-typescript:
 	docker run --rm \
 		-v $(SITE_WORKSPACE):/srv/jekyll \
 		-w /srv/jekyll/static \
-		$(JEKYLL_IMAGE) /bin/bash -c "npm install && npm run build"
+		$(JEKYLL_IMAGE) /bin/bash -c "yarn && yarn run build"
 
 
 build-requirements: compile-typescript
