@@ -1,20 +1,17 @@
 [
-
-
   {
     "title": "2022 Farmers Market",
     "content": "farmersmarket.md",
     "image": "/upcoming-events/UpcomingEvents_400x300_farmersmarket.jpg",
     "remove-after": "2022-10-30"
   },
-  
   {
     "title": "2022 Multicultural Festival - September 9th & 10th",
     "content": "multicultural.md",
     "image": "/upcoming-events/UpcomingEvents_400x300_multicultural.jpg",
     "remove-after": "2022-09-11"
   },
-   {
+  {
     "title": "Dining Out Rutherford - September",
     "content": "DO.md",
     "image": "/upcoming-events/UpcomingEvents_400x300_DOSept.jpg",
@@ -26,7 +23,7 @@
     "image": "/upcoming-events/UpcomingEvents_400x300_RutherfordDay.jpg",
     "remove-after": "2022-09-25"
   },
-    {
+  {
     "title": "Green Team Repair Cafe - Saturday, October 1st",
     "content": "repair-cafe.md",
     "image": "/upcoming-events/UpcomingEvents_400x300_RepairCafe.jpg",
