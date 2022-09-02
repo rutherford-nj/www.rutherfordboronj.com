@@ -1,0 +1,5 @@
+{% if site.data.banner.type != "off" %}
+<div id="dynamic-field" class="alert alert-{{site.data.banner.type}} text-center">
+    {{ site.data.banner.message }}
+</div>
+{% endif %}

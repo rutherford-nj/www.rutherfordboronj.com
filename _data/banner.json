@@ -1,0 +1,6 @@
+{
+    "inst 1": "set 'type' below to the word 'off' to disable the banner",
+    "inst 2": "set to 'warning' for a yellow banner, set to 'danger' for a red banner",
+    "type": "warning",
+    "message": "Borough Offices will close at 2:30 Friday September 2nd and will be closed Monday September 5th. There will not be a street fair held on Labor Day."
+}

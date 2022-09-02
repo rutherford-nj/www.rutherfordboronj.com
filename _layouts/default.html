@@ -60,10 +60,7 @@
       </div>
     </nav>
 
-    <div id="dynamic-field" class="alert alert-warning text-center">
-      Borough Offices will close at 2:30 Friday September 2nd and will be closed Monday September 5th.
-      There will not be a street fair held on Labor Day.
-    </div>
+    {% include banner.html %}
     {{content}}
     <script src='/static/dist/bundle.js?zx={{ "now" | date: "%s" }}' defer></script>
   </main>
