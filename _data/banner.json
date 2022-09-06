@@ -1,6 +1,6 @@
 {
     "inst 1": "set 'type' below to the word 'off' to disable the banner",
     "inst 2": "set to 'warning' for a yellow banner, set to 'danger' for a red banner",
-    "type": "warning",
-    "message": "off"
+    "type": "off",
+    "message": ""
 }
