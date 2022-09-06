@@ -7,7 +7,7 @@ title: 'Roadwork in Rutherford'
 ## SUEZ Road Work in Rutherford Summer 2022
 
 
-[**SUEZ Roadwork Schedule August 22-26**](https://storage.googleapis.com/static.rutherford-nj.com/road-work/RoadWorkSchedule_8-22thru26.pdf)
+[**SUEZ Roadwork Schedule September 7-9**](https://storage.googleapis.com/static.rutherford-nj.com/road-work/Dewcon%20Rutherford%20Schedule%20for%209-5-22%20Through%209-9-22.pdf)
 
 
 SUEZ is working in Rutherford streets as part of the company’s ongoing project to remove the remaining lead from the system. 
