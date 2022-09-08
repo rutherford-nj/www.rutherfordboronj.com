@@ -18,3 +18,7 @@ Wednesday, October 5, 2022
 Appointment Required
 
 Call 201-460-3020
+
+Rutherford Health Department
+
+184 Park Avenue Rutherford
