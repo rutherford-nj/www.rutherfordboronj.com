@@ -13,3 +13,5 @@
 • Many Community Groups with Kids’ Activities
 
 • Live Music by Kurty & Marty,  Super TransAm with Rutherford’s own James McGill & more!
+
+[Click here for more information](/rutherford-day)
