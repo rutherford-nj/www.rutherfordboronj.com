@@ -31,7 +31,7 @@ Memorial Field Parking Lot will be closed to vehicular traffic. Street parking o
 
 **- Food Vendors** 
 
-**- With DJ & Live Music by
+**- With DJ & Live Music by:**
 
 - Rutherford Rocks
 
