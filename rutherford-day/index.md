@@ -1,24 +1,16 @@
 ---
 layout: page
-title: 'Rutherford Day 2021'
+title: 'Rutherford Day 2022'
 ---
 
-# Rutherford Day - Saturday, October 2, 2021
+# Rutherford Day - Saturday, September 24th, 2022
 
-**@ Memorial Field 11am-4pm**
+**@ Memorial Field 12pm-6pm**
 
-[**See flyer here**](https://storage.googleapis.com/static.rutherford-nj.com/events/RutherfordDay2021_Flyer_2Header.pdf)
+[**See flyer here**](https://storage.googleapis.com/static.rutherford-nj.com/events/RutherfordDay2022_1.pdf)
 
-[Map of events at Memorial Field](https://www.google.com/maps/d/edit?mid=1nxLYv9TIylPhTYHqe6kmkqFtnrkJwwCG&usp=sharing)
+This event is designed specifically to allow Rutherford community organizations to utilize Memorial Field for games and activities. It will provide an opportunity for each service group, club, or business in Rutherford to promote itself, its services, accomplishments, and goals to the residents of Rutherford. 
 
-This event is designed specifically to allow Rutherford community organizations to utilize Memorial Field for games and activities. It will provide an opportunity for each service group, club, or business in Rutherford to promote itself, its services, accomplishments, and goals to the residents of Rutherford. Open to Rutherford-based community organizations and businesses only. 
-
-
-**@ Park Ave 6-10pm - The Final Dining Out Rutherford of the Season**
-
-**Featuring Music by Super Trans Am  - "The Ultimate Seventies Experience"**
-
----
 
 Memorial Field Parking Lot will be closed to vehicular traffic. Street parking only. 
 
@@ -27,16 +19,11 @@ Memorial Field Parking Lot will be closed to vehicular traffic. Street parking o
 ---
 
 
-**- Classic Car Show** Hosted by the [Volunteer Rutherford First-Aid Ambulance Corps](https://www.rutherfordems.org/?fbclid=IwAR0kefm4ldVude7uy29OvgKDgWPOUVe9zHmie2BawY_A1UzYNkGiYMdJvkY) 
-[**Register your car here!**](https://forms.gle/Ltz56PbtJQdzg41N8)
-
 **- Cornhole Tournament** Hosted by the Rutherford Education Foundation
 
-**- Youth Soccer Shoot** Hosted by the Rutherford Elks Lodge 547  - Open to all kids who are or were 15 years or under as of January 1st, 2021. [**Participants - fill out and bring this form to the event**](https://storage.googleapis.com/static.rutherford-nj.com/community-events/rutherford-day/Lodge%20shoot%20application%20(2).pdf)
+**- Youth Soccer Shoot** Hosted by the Rutherford Elks Lodge 547  - Open to all kids who are or were 15 years or under as of January 1st, 2021. 
 
 **- Many Rutherford Community Groups**  
-
-**- Annual Remembrance Softball Game** 
 
 **- Pumpkin Patch and Painting Sponsored by Felician University**
 
@@ -44,11 +31,10 @@ Memorial Field Parking Lot will be closed to vehicular traffic. Street parking o
 
 **- Food Vendors** 
 
-**- With DJ & Live Music by:**
+**- With DJ & Live Music by
 
-    11:15 - Ken Turtoro of Two’s Company
+- Rutherford Rocks
 
-    12:15 - Rutherford Rocks Youth Bands
+- 2:00 - 3:30pm Kurt and Marty
 
-    1:00 - See Plus
-
+- 4:00 - 6:00pm Super Trans Am
