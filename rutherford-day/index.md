@@ -19,7 +19,7 @@ Memorial Field Parking Lot will be closed to vehicular traffic. Street parking o
 ---
 
 
-**- Cornhole Tournament** Hosted by the Rutherford Education Foundation
+**- Cornhole Tournament** Hosted by the Rutherford Education Foundation [Register Here](https://www.rutherfordeducationfoundation.org/ref-cornhole-2022-copy)
 
 **- Youth Soccer Shoot** Hosted by the Rutherford Elks Lodge 547  - Open to all kids who are or were 15 years or under as of January 1st, 2021. 
 
