@@ -13,7 +13,9 @@ Hosted by Rutherford Rock and Rutherford Arts Committee
 
 **RULES AND REGULATIONS REGISTRATION:**
 
-All bands wishing to register for the Battle of the Bands contest must have an adult register on their behalf through RecDesk and read and accept the rules and regulations before completing the registration form.
+
+In order to register a band, a single adult representing the band must fill out the information below and is responsible for forwarding the event waiver to all individuals in the band, including one adult that will be tasked with helping the band set up on stage.  Anyone that has not signed a waiver will not be allowed on stage.  Waivers can be returned to the Rec Department and can also be collected at the day of the event.
+
 
 There is a no registration fee.  Register through the Rutherford Recreation Rec Desk.  Deadline for entry October 10th, 2022.
 
