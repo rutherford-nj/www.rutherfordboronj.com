@@ -17,7 +17,7 @@ Hosted by Rutherford Rock and Rutherford Arts Committee
 In order to register a band, a single adult representing the band must fill out the information below and is responsible for forwarding the event waiver to all individuals in the band, including one adult that will be tasked with helping the band set up on stage.  Anyone that has not signed a waiver will not be allowed on stage.  Waivers can be returned to the Rec Department and can also be collected at the day of the event.
 
 
-There is a no registration fee.  Register through the Rutherford Recreation Rec Desk.  Deadline for entry October 10th, 2022.
+There is a no registration fee.  [Register HERE through the Rutherford Recreation Rec Desk](https://rutherfordnj.recdesk.com/Community/Program/Detail?programId=395).  Deadline for entry October 10th, 2022.
 
 
 **GENERAL RULES:**
