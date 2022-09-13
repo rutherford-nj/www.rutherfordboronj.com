@@ -1,5 +1,10 @@
 [
     {
+        "link": "/rutherford-day/",
+        "image": "/static/images/homepage/homepage_mainimage_rutherfordday.jpg",
+        "alt": "Rutherford Day 2022"
+    },
+    {
         "link": "/notifications/",
         "image": "/static/images/homepage/stay_informed.jpg",
         "alt": "Rutherford Notifications"
