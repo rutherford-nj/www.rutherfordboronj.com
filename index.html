@@ -139,23 +139,13 @@ title: '07070'
         <div class="card-body homepage-carousels">
           <div id="carouselImageButtons" class="carousel carousel-dark slide">
             <div class="carousel-inner">
-              <div class="carousel-item active">
-                <a href="/notifications/">
-                  <img class="d-block w-100" src="/static/images/homepage/stay_informed.jpg"
-                    alt="Rutherford Notifications">
+              {% for button in site.data.homepage-buttons %}
+              <div class="carousel-item{% if forloop.first %} active{% endif %}">
+                <a href="{{ button.link }}">
+                  <img class="d-block w-100" src="{{ button.image }}" alt="{{ button.alt }}">
                 </a>
               </div>
-              <div class="carousel-item">
-                <a href="/departments/public-works/collection-schedule/">
-                  <img class="d-block w-100" src="/static/images/homepage/sanitation.jpg"
-                    alt="Sanitation collection schedule">
-                </a>
-              </div>
-              <div class="carousel-item">
-                <a href="https://rutherfordnj.recdesk.com/Community/Home">
-                  <img class="d-block w-100" src="/static/images/homepage/recdesk.jpg" alt="Sign up for RecDesk">
-                </a>
-              </div>
+              {% endfor %}
             </div>
             <button class="carousel-control-prev" type="button" data-bs-target="#carouselImageButtons"
               data-bs-slide="prev">

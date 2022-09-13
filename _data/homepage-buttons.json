@@ -1,0 +1,17 @@
+[
+    {
+        "link": "/notifications/",
+        "image": "/static/images/homepage/stay_informed.jpg",
+        "alt": "Rutherford Notifications"
+    },
+    {
+        "link": "/departments/public-works/collection-schedule/",
+        "image": "/static/images/homepage/sanitation.jpg",
+        "alt": "Sanitation collection schedule"
+    },
+    {
+        "link": "https://rutherfordnj.recdesk.com/Community/Home",
+        "image": "/static/images/homepage/recdesk.jpg",
+        "alt": "Sign up for RecDesk"
+    }
+]
