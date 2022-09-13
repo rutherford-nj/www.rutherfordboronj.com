@@ -9,6 +9,8 @@ title: 2022 Battle of the Bands Rules & Regulations
 
 **Sunday October 23rd - 5pm**
 
+[See Flyer Here](https://storage.googleapis.com/static.rutherford-nj.com/committees/arts/Arts_2022_BattleOfTheBands.pdf)
+
 Hosted by Rutherford Rock and Rutherford Arts Committee
 
 **RULES AND REGULATIONS REGISTRATION:**
