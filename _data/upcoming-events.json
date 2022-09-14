@@ -28,5 +28,11 @@
     "content": "repair-cafe.md",
     "image": "/upcoming-events/UpcomingEvents_400x300_RepairCafe.jpg",
     "remove-after": "2022-10-03"
+  },
+    {
+    "title": "Battle of the Bands @ The Williams Center - Sunday, October 23rd",
+    "content": "battleofthebands.md",
+    "image": "/upcoming-events/UpcomingEvents_400x300_BattleoftheBands.jpg",
+    "remove-after": "2022-10-24"
   }
 ]
