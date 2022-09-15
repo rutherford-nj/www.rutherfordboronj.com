@@ -7,7 +7,7 @@ title: 'Rutherford Day 2022'
 
 **@ Memorial Field 12pm-6pm**
 
-[**See flyer here**](https://storage.googleapis.com/static.rutherford-nj.com/events/RutherfordDay2022_1.pdf)
+[**See flyer here**](https://storage.googleapis.com/static.rutherford-nj.com/events/RutherfordDay2022.pdf)
 
 This event is designed specifically to allow Rutherford community organizations to utilize Memorial Field for games and activities. It will provide an opportunity for each service group, club, or business in Rutherford to promote itself, its services, accomplishments, and goals to the residents of Rutherford. 
 
@@ -21,7 +21,7 @@ Memorial Field Parking Lot will be closed to vehicular traffic. Street parking o
 
 **- Cornhole Tournament** Hosted by the Rutherford Education Foundation [Register Here](https://www.rutherfordeducationfoundation.org/ref-cornhole-2022-copy)
 
-**- Youth Soccer Shoot** Hosted by the Rutherford Elks Lodge 547  - Open to all kids who are or were 15 years or under as of January 1st, 2021. 
+**- Youth Soccer Shoot** Hosted by the Rutherford Elks Lodge 547  - Open to all kids who are or were 15 years or under as of January 1st, 2021. Registration is at the field starting at 11:00 and shoot at 12:15
 
 **- Many Rutherford Community Groups**  
 
