@@ -23,7 +23,9 @@ If you are receiving a Senior Citizen or Disabled Individual, $250.00 property t
 
 **The State of New Jersey currently has two programs available for eligible residents:**
 
-**Homestead Rebate:** Information about the Homestead Rebate may be obtained from the Division of Taxation by calling 1‑888‑238‑1233.
+**ANCHOR program for Homeowners or Tenants:** for information and qualification requirements, please visit the following website 
+[https://www.state.nj.us/treasury/taxation/anchor/index.shtml](https://www.state.nj.us/treasury/taxation/anchor/index.shtml) or call the New Jersey Division of Taxation at 888-238-1233.
+
 
 **Property Tax Reimbursement (PTR) aka "Senior Freeze":** For qualified Seniors or Disabled.  
 Information / Applications may be obtained by calling 1‑800‑323‑4400  
