@@ -139,6 +139,8 @@ departments:
       href: https://www.ptoabergencounty.org/
     - text: Additional Police Services & Information
       href: additional-services/
+    - text: Digital Parking Meter Brochure
+      href: https://storage.googleapis.com/static.rutherford-nj.com/police/Rutherford_Brochure_M5_090622_Final.pdf   
   recreation:
     - text: RecDesk
       href: https://rutherfordnj.recdesk.com/Community/Home
