@@ -8,16 +8,16 @@ parent: 'Borough Clerk'
 
 [A podcast from the Bergen County Board of Commissioners](https://bergencountycommissioners.libsyn.com/three-ways-to-vote-in-bergen-county)
 
-# EARLY VOTING LOCATION IN RUTHERFORD: 
-
-The Williams Center - 15 Sylvan Street
-
-October 29th - November 6th: Monday-Saturday, 10am to 8pm; Sunday, 10am to 6pm
-
-
 Any resident may register to vote in the Borough Clerk's Office in Borough Hall at 176 Park Avenue during regular office hours of 8:30 a.m. to 4:30 p.m. Monday through Friday.  
 
 You may also call and request a form be mailed to you or go to the County Website: [www.bergencountyclerk.org.](https://www.bergencountyclerk.org/)  All residents are reminded of the following to ensure their voting privilege:   You must re-register if you have not voted in any election for four consecutive years, have changed your address or changed your name.
+
+
+# EARLY VOTING LOCATION IN RUTHERFORD: 
+
+**The Williams Center - 15 Sylvan Street**
+
+**October 29th - November 6th: Monday-Saturday, 10am to 8pm; Sunday, 10am to 6pm**
 
 
 # POLLING PLACE LOCATIONS IN RUTHERFORD:
