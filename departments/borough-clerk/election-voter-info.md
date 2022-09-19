@@ -45,9 +45,9 @@ You may also call and request a form be mailed to you or go to the County Websit
 
 10th District:	Pierrepont School	70 E. Pierrepont Avenue
 
-**11th District: Felician University 	227 Montross Avenue**
+11th District:  Union School  		359 Union Avenue
 
-**12th District: Felician University 	227 Montross Avenue**
+12th District:  Union School  		359 Union Avenue
 
 Please note that Poll Workers cannot accept Mail-In Ballots at the polls.  Voters are advised to take their mail-in ballots to the Election Drop-Box located at 176 Park Avenue or to one of the other 18 Election Drop-Boxes located throughout the County.
 
