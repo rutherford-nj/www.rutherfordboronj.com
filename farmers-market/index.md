@@ -5,7 +5,12 @@ title: 'Farmers Market'
 
 # 2022 Farmers' Market sponsored by [MAST](https://mastconstruction.com/)      
 
+**The September 21st and September 24th Farmers Markets have been cancelled due to unforeseen circumstances with the participating farmer. We apologize for any inconvenience.**
+
+
 [See Flyer Here](https://storage.googleapis.com/static.rutherford-nj.com/farmers-market/FarmersMarket2022.pdf)
+
+
 
 Vendors must be prequalified before registering. Please contact Laurie Gentile for additional information. Please review Information for Vendors for fees and other requirements.
 
