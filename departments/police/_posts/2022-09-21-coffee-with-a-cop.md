@@ -13,7 +13,7 @@ What: Coffee with a Cop
 
 Where: Lincoln Park / Hutzel Memorial Band Shell
 
-When: Wednesday, October 5, 2022 / 8AM-10PM
+When: Wednesday, October 5, 2022 / 8-10AM
 
 Giveaways including a LOL Yards Sign Gift Certificate valued at $150.00.
 
