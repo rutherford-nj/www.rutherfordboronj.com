@@ -36,8 +36,8 @@ Memorial Field Parking Lot will be closed to vehicular traffic. Street parking o
 
 **- With DJ & Live Music by:**
 
-- Rutherford Rocks
+- 12:45 Rutherford Rocks
 
-- 2:00 - 3:30pm Kurt and Marty
+- 1:30 - 3:00pm Kurt and Marty
 
 - 4:00 - 6:00pm Super Trans Am
