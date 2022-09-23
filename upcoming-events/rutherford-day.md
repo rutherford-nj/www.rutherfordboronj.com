@@ -2,13 +2,15 @@
 
 [See flyer here](https://storage.googleapis.com/static.rutherford-nj.com/events/RutherfordDay2022.pdf)
     
+[Click here for more information](/rutherford-day)
+
 • Cornhole Tournament - Hosted by the [Rutherford Education Foundation - REGISTER HERE](https://www.rutherfordeducationfoundation.org/ref-cornhole-2022-copy)
 
 • Elks Youth Soccer Shoot Out - Register 11am-12pm
 
 • Touch-A-Truck
 
-• Food Trucks
+• Food Truck & Grill
 
 • Beer Garden
 
@@ -16,4 +18,4 @@
 
 • Live Music by Kurty & Marty,  Super TransAm with Rutherford’s own James McGill & more!
 
-[Click here for more information](/rutherford-day)
+
