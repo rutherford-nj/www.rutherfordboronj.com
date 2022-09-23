@@ -16,7 +16,11 @@ This event is designed specifically to allow Rutherford community organizations 
 
 Memorial Field Parking Lot will be closed to vehicular traffic. Street parking only. 
 
-**FREE Parking & Shuttle** from Felician’s Montross Ave Parking Lot to Memorial Field.
+FREE Shuttle buses will run from the Felician Universtiy Montross Avenue Parking Lot (230 Montross Ave) to Memorial Field between 11:30am and 6:30pm. 
+
+Monona and Darwin Aves will be open to one way traffic only near Memorial Field. The Memorial Field Parking Lot and Tennis Courts will be closed beginning 6am.
+
+Reminder: Dogs are not permitted on Borough fields. 
 
 ---
 
