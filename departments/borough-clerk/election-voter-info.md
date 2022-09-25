@@ -6,8 +6,6 @@ parent: 'Borough Clerk'
 
 [**Learn More About The Three Ways to Vote in Bergen County - Vote By Mail, In-Person Early & Election Day**](https://nj.gov/state/elections/vote-how-to.shtml)
 
-[A podcast from the Bergen County Board of Commissioners](https://bergencountycommissioners.libsyn.com/three-ways-to-vote-in-bergen-county)
-
 Any resident may register to vote in the Borough Clerk's Office in Borough Hall at 176 Park Avenue during regular office hours of 8:30 a.m. to 4:30 p.m. Monday through Friday.  
 
 You may also call and request a form be mailed to you or go to the County Website: [www.bergencountyclerk.org.](https://www.bergencountyclerk.org/)  All residents are reminded of the following to ensure their voting privilege:   You must re-register if you have not voted in any election for four consecutive years, have changed your address or changed your name.
