@@ -1,0 +1,46 @@
+---
+layout: page
+title: 'COVID-19 Charts'
+---
+
+<p>
+  <a class="fw-bold" href="../">Return to COVID Information</a>
+</p>
+
+<p>
+  <span class="fw-bold">
+    Below are charts created to help understand the spread of COVID-19 within Rutherford, comparing Rutherford to other regions.
+    The charts on this page were created by the Data & Analytics committee.
+  </span>
+</p>
+<p>
+  On Friday March 18th, 2022 the Borough began reporting COVID cases weekly instead of daily.
+  As we have continued to monitor the spread of COVID through the town and region, we have decided to no longer report local cases.
+  Rutherford case counts have proportionally followed Bergen County case counts.
+  For continued monitoring of the spread of COVID in the region we suggest following
+  Bergen County information through the [State of New Jersey reporting site](https://covid19.nj.gov/),
+  or sites such as [Covid Act Now](https://covidactnow.org/us/new_jersey-nj/county/bergen_county/)
+</p>
+<p>
+  <a href="#rutherford-covid-data-table">Rutherford data</a> comes from the Rutherford Health Department.
+</p>
+<p>
+  All other data comes from the <a href="https://github.com/nytimes/covid-19-data">New York Times</a>, based on reports from state and local health agencies.
+</p>
+<p>
+ <a href="https://storage.googleapis.com/static.rutherford-nj.com/covid/2021QTR1_CovidCaseReport.pdf">2021 First Quarter COVID Case Charts</a>
+</p>
+
+<div style="width: 100%">
+  <img style="width: 100%" src="new_cases_Rutherford_fitted_14d.svg" alt="Rutherford New Covid Cases">
+</div>
+<div style="width: 100%">
+  <img style="width: 100%" src="new_cases_per_100K_incidence.svg" alt="New Cases/100k 14d incidence (sum)">
+</div>
+<div style="width: 100%">
+  <img style="width: 100%" src="new_cases_per_100K_3d_trajectory.svg" alt="New Cases/100k 3 Day trajectory">
+</div>
+<div id="rutherford-covid-data-table" style="width: 100%">
+  <p>This table is the data provided by the Rutherford Health Department.</p>
+  {% include_relative charts_table_partial.html %}
+</div>
