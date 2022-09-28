@@ -143,11 +143,11 @@ departments:
       href: https://storage.googleapis.com/static.rutherford-nj.com/police/Rutherford_Brochure_M5_090622_Final.pdf 
   public-information:
     - text: Sign Up For Emergency Notifications
-      href: notifications/
+      href: /notifications/
     - text: Calendar
-      href: calendars/    
+      href: /calendars/    
     - text: Rutherford Report Newsletters
-      href: resident-info/newsletters/  
+      href: /resident-info/newsletters/  
     - text: Facebook
       href: https://www.facebook.com/BoroughofRutherfordNJ   
     - text: Twitter
@@ -155,7 +155,7 @@ departments:
     - text: YouTube & Livestreaming Meetings
       href: https://www.youtube.com/c/BoroughHall/featured      
     - text: Minutes & Agendas
-      href: minutes-and-agendas/       
+      href: /departments/borough-clerk/minutes-and-agendas/       
   recreation:
     - text: RecDesk
       href: https://rutherfordnj.recdesk.com/Community/Home
