@@ -1,1 +1,50 @@
+---
+layout: page
+title: 'Public Information'
+---
 
+<div class="department-title">
+  <h1>Office of Public Information</h1>
+  <h2>
+    Located in Borough Hall<br>
+    176 Park Avenue, Second Level
+  </h2>
+</div>
+
+<div class="row">
+  <div class="col-md-4">
+    <div class="card mb-4 department-card">
+      <h5 class="card-header">Contact Info</h5>
+      <div class="card-body">
+        <p class="card-text">
+          phone: 201-460-3022<br>
+         communications@rutherfordboronj.com
+        </p>
+        <p class="card-text">
+          Hours<br>
+          8:30–4:30 
+        </p>
+        <p class="card-text">
+          <span class="fw-bold">Public Information Officer:</span> Kim Bogosian<br>
+        </p>
+      </div>
+    </div>
+
+    {% include department_links.html links=site.data.links.departments.borough-clerk %}
+
+    {% include news.html name="Borough Clerk" posts=site.categories.borough-clerk %}
+  </div>
+
+  <div class="col-md-8">
+    <div class="card mb-4">
+      <div class="card-body">
+        <p class="card-text">
+         The Public Information Officer (PIO) manages the content, execution and implementation of the Borough's digital and print communications including its     website, calendar, newsletter, social media, mailers and special event coordination and promotion as well as public relations. 
+        </p>
+        <p class="card-text">
+          The PIO also assists the Governing Body in their efforts collect and disseminate information and facilitates day-to-day communications between the Governing Body and the community. Additionally, the PIO manages the Board, Commission and Committee application and interview process. 
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
