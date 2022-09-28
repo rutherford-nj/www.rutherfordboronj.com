@@ -140,7 +140,22 @@ departments:
     - text: Additional Police Services & Information
       href: additional-services/
     - text: Digital Parking Meter Brochure
-      href: https://storage.googleapis.com/static.rutherford-nj.com/police/Rutherford_Brochure_M5_090622_Final.pdf   
+      href: https://storage.googleapis.com/static.rutherford-nj.com/police/Rutherford_Brochure_M5_090622_Final.pdf 
+  public-information:
+    - text: Sign Up For Emergency Notifications
+      href: notifications/
+    - text: Calendar
+      href: calendars/    
+    - text: Rutherford Report Newsletters
+      href: resident-info/newsletters/  
+    - text: Facebook
+      href: https://www.facebook.com/BoroughofRutherfordNJ   
+    - text: Twitter
+      href: https://twitter.com/Rutherford07070  
+    - text: YouTube & Livestreaming Meetings
+      href: https://www.youtube.com/c/BoroughHall/featured      
+    - text: Minutes & Agendas
+      href: minutes-and-agendas/       
   recreation:
     - text: RecDesk
       href: https://rutherfordnj.recdesk.com/Community/Home
