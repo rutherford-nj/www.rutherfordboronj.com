@@ -1,3 +1,5 @@
+**Please note: Due to the weather forecast, the Repair Cafe is moved to the Rutherford Public Library Auditorium. (Rear entrance of library)
+
 Volunteer experts will help you repair
 
 • bicycles • computers • clothing • furniture • small appliances • sewing machines
