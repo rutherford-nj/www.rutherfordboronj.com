@@ -7,15 +7,18 @@ Join the Green Team for at the popular Repair Cafe
 
 **Saturday, October 1st**
 
-**12-4pm**
+**12-4pm (last repair 3:30)**
 
-**Lincoln Park**
-
-Rain Date October 2nd
+**Due to the weather forecast, the Repair Cafe is moved to the Rutherford Public Library Auditorium (Rear entrance of the library)**
 
 [See Flyer Here](https://storage.googleapis.com/static.rutherford-nj.com/committees/green-team/posts/repaircafeflyer2022.pdf)
 
 [For more information visit www.repaircafegs.org](https://www.repaircafegs.org/)
+
+•	One item or two knives at a time
+
+•	Bring any needed parts with you
+
 
 Volunteer experts will help you repair
 
