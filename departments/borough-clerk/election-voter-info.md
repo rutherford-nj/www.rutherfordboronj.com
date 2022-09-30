@@ -8,6 +8,8 @@ parent: 'Borough Clerk'
 
 Any resident may register to vote in the Borough Clerk's Office in Borough Hall at 176 Park Avenue during regular office hours of 8:30 a.m. to 4:30 p.m. Monday through Friday.  
 
+Ballots have been mailed out to voters with Active Vote by Mail requests for the November 8th General Election. To track your ballot or find a drop box near you please visit [www.vote.nj.gov](https://nj.gov/state/elections/vote.shtml)
+
 You may also call and request a form be mailed to you or go to the County Website: [www.bergencountyclerk.org.](https://www.bergencountyclerk.org/)  All residents are reminded of the following to ensure their voting privilege:   You must re-register if you have not voted in any election for four consecutive years, have changed your address or changed your name.
 
 
@@ -20,16 +22,16 @@ You may also call and request a form be mailed to you or go to the County Websit
 
 # POLLING PLACE LOCATIONS IN RUTHERFORD:
 
-**Note that for this Primary Election, Districts 3, 4, 11 and 12 will have changes to their polling locations as noted below.**
+**Districts 11 and 12 have now returned to the permanent location at Union School. Entrance on Belford Avenue.**
 
 
 1st District:	Lincoln School		414 Montross Avenue
 		
 2nd District:	High School		56 Elliott Place
 
-**3rd District: Felician University 	227 Montross Avenue**
+3rd District:   Felician University 	227 Montross Avenue
 
-**4th District:	Felician University 	227 Montross Avenue**
+4th District:	Felician University 	227 Montross Avenue
 
 5th District:	Washington School	89 Wood Street
 
@@ -43,9 +45,9 @@ You may also call and request a form be mailed to you or go to the County Websit
 
 10th District:	Pierrepont School	70 E. Pierrepont Avenue
 
-11th District:  Union School  		359 Union Avenue
+**11th District:  Union School  		359 Union Avenue**
 
-12th District:  Union School  		359 Union Avenue
+**12th District:  Union School  		359 Union Avenue**
 
 Please note that Poll Workers cannot accept Mail-In Ballots at the polls.  Voters are advised to take their mail-in ballots to the Election Drop-Box located at 176 Park Avenue or to one of the other 18 Election Drop-Boxes located throughout the County.
 
