@@ -6,30 +6,18 @@
     "remove-after": "2022-10-30"
   },
   {
-    "title": "2022 Multicultural Festival - September 9th & 10th",
-    "content": "multicultural.md",
-    "image": "/upcoming-events/UpcomingEvents_400x300_multicultural.jpg",
-    "remove-after": "2022-09-11"
-  },
-  {
-    "title": "CANCELLED DUE TO WEATHER: Oct. 1 Dining Out Rutherford & Concert",
-    "content": "DO.md",
-    "image": "/upcoming-events/UpcomingEvents_400x300_DOSept.jpg",
-    "remove-after": "2022-10-03"
-  },
-  {
-    "title": "2nd Annual Rutherford Day - Saturday, September 24th",
-    "content": "rutherford-day.md",
-    "image": "/upcoming-events/UpcomingEvents_400x300_RutherfordDay.jpg",
-    "remove-after": "2022-09-25"
-  },
-  {
-    "title": "Green Team Repair Cafe - Saturday, October 1st",
-    "content": "repair-cafe.md",
-    "image": "/upcoming-events/UpcomingEvents_400x300_RepairCafe.jpg",
-    "remove-after": "2022-10-03"
+    "title": "Coffee With A Cop - Wednesday, October 5th",
+    "content": "coffeewithcop.md",
+    "image": "/upcoming-events/UpcomingEvents_400x300_coffeewcop.jpg",
+    "remove-after": "2022-10-06"
   },
     {
+    "title": "Health Department Blood Screening - Wednesday, October 19th",
+    "content": "health-blood-screening.md",
+    "image": "/upcoming-events/UpcomingEvents_400x300_Health.jpg",
+    "remove-after": "2022-10-20"
+  },  
+  {
     "title": "Health Department Blood Screening - Saturday, October 22nd",
     "content": "health-blood-screening.md",
     "image": "/upcoming-events/UpcomingEvents_400x300_Health.jpg",
