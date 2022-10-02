@@ -1,7 +1,5 @@
 WILLIAMS CENTER PLAZA
 
-**Due to the weather forecast, the 10/1 Farmers Market is CANCELLED**
-
 Wednesdays 11:00 am - 4:00 pm
 
 July 6th - 26th
