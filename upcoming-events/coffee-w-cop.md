@@ -6,4 +6,4 @@ Giveaways including a LOL Yards Sign Gift Certificate valued at $150.00.
 
 Meet the Nurses of your local Health Department. Free Blood Pressure Checks.
 
-[For more information](/departments/police/2022/09/21/coffee-with-a-cop/)
+[For more information click here](/departments/police/2022/09/21/coffee-with-a-cop/)
