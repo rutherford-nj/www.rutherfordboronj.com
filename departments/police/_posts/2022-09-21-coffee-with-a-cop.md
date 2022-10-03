@@ -11,7 +11,7 @@ Who: Rutherford Police Officers
 
 What: Coffee with a Cop
 
-Where: Lincoln Park / Hutzel Memorial Band Shell
+Where: Lincoln Park / Hutzel Memorial Band Shell - *In case of rain, Coffee With a Cop will be held in the Rutherford Health Department lobby located at 184 Park Ave. 
 
 When: Wednesday, October 5, 2022 / 8-10AM
 
