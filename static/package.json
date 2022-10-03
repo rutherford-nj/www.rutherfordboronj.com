@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "bootstrap": "^5.2.1",
+    "bootstrap": "^5.2.2",
     "lunr": "^2.3.9"
   },
   "scripts": {
@@ -8,7 +8,7 @@
     "watch": "webpack --watch"
   },
   "devDependencies": {
-    "@types/bootstrap": "^5.2.4",
+    "@types/bootstrap": "^5.2.5",
     "@types/lunr": "^2.3.4",
     "ts-loader": "^9.4.1",
     "typescript": "^4.8.4",
