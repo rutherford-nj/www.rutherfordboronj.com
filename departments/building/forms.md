@@ -25,5 +25,5 @@ parent: 'Building'
 
 [**10. Complaint Form**](https://storage.googleapis.com/static.rutherford-nj.com/building/Building%20Dept%20Forms/10-complaint%20form%20template-new%20letterhead.pdf)
 
-[**11. Outdoor Cafe License Application and Ordinance**](https://storage.googleapis.com/static.rutherford-nj.com/building/Building%20Dept%20Forms/11_Outdoor%20cafe%20license%20application.pdf)
+[**11. Outdoor Cafe License Application and Ordinance**](https://storage.googleapis.com/static.rutherford-nj.com/building/Building%20Dept%20Forms/11_Outdoor%20cafe%20license%20application%20with%20ordinance_22.pdf)
 
