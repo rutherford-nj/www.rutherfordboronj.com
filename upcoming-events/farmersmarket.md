@@ -1,5 +1,7 @@
 WILLIAMS CENTER PLAZA
 
+**The Wednesday, October 5th Farmers Market is cancelled due to the anticipated weather conditions.**
+
 Wednesdays 11:00 am - 4:00 pm
 
 July 6th - 26th
