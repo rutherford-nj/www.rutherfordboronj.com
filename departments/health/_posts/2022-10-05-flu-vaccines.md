@@ -3,6 +3,8 @@ layout: blog
 title: "Seasonal Flu Vaccines 10/26/22"
 ---
 
+[See Flyer Here](https://storage.googleapis.com/static.rutherford-nj.com/health/posts/2022%20Flu%20Flyer.pdf)
+
 The Rutherford Health Department will be conducting two Seasonal Influenza Vaccination Programs for residents on Wednesday, October 26, 2022.
 
 The first seasonal influenza vaccination program is ONLY for residents 65 years of age and older and will be held on Wednesday, October 26, 2022, between the hours of 9:30 AM and 11:30 AM. 
