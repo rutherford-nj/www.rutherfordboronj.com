@@ -26,7 +26,7 @@ Reminder: Dogs are not permitted on Borough fields. 
 
 **- 11am - Rutherford PBA vs Rutherford Fire Department Softball Game** Diamond 3
 
-**- Cornhole Tournament** Hosted by the Rutherford Education Foundation [Register Here](https://www.rutherfordeducationfoundation.org/ref-cornhole-2022-copy)
+**- Cornhole Tournament** Hosted by the Rutherford Education Foundation.
 
 **- Youth Soccer Shoot** Hosted by the Rutherford Elks Lodge 547  - Open to all kids who are or were 15 years or under as of January 1st, 2021. Registration is at the field starting at 11:00 and shoot at 12:15
 

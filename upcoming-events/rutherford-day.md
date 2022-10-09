@@ -4,7 +4,7 @@
     
 [Click here for more information](/rutherford-day)
 
-• Cornhole Tournament - Hosted by the [Rutherford Education Foundation - REGISTER HERE](https://www.rutherfordeducationfoundation.org/ref-cornhole-2022-copy)
+• Cornhole Tournament - Hosted by the Rutherford Education Foundation.
 
 • Elks Youth Soccer Shoot Out - Register 11am-12pm
 
