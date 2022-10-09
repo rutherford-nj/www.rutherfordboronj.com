@@ -11,13 +11,13 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Link Checker
-        uses: lycheeverse/lychee-action@v1.0.9
+        uses: lycheeverse/lychee-action@v1.5.1
         with:
           args: >
             "./**/*.md" "./**/*.html" "./**/*.yml"
             --verbose --no-progress --exclude-mail
             --insecure
-            --timeout 60
+            --max-retries 10
             --exclude https://apis.google.com/
             --exclude https://sheets.googleapis.com/
             --exclude https://clients6.google.com/
