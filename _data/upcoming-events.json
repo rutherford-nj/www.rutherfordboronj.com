@@ -12,12 +12,6 @@
     "remove-after": "2022-11-01"
   },
   
-  {
-    "title": "Coffee With A Cop - Wednesday, October 5th",
-    "content": "coffee-w-cop.md",
-    "image": "/upcoming-events/UpcomingEvents_400x300_coffeewcop.jpg",
-    "remove-after": "2022-10-06"
-  },
     {
     "title": "Health Department Pap/Breast Screening - Wednesday, October 19th",
     "content": "breast-pap-screening.md",
@@ -36,4 +30,10 @@
     "image": "/upcoming-events/UpcomingEvents_400x300_BattleoftheBands.jpg",
     "remove-after": "2022-10-24"
   }
+    {
+    "title": "Prescription Drug Take Back Day - Saturday, October 29th, 10am-2pm",
+    "content": "drug-takeback.md",
+    "image": "/upcoming-events/UpcomingEvents_400x300_dea.jpg",
+    "remove-after": "2022-10-30"
+  },
 ]
