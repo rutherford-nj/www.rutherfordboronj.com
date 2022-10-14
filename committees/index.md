@@ -5,7 +5,9 @@ title: 'Committees'
 
 
 <p>
-  The application and interview process takes place annually in the fall for any Rutherford resident interested in serving on a Board, Commission or Committee for the following year.
+  The 2023 Committee, Board and Commission application form is now available through Friday, November 18th. If you would like to be considered for a Committee, Board or Commission, please fill out the application. You will be contacted for an interview via Zoom by the end of the year. These applications are forwarded to the Mayor and a Council Subcommittee for their consideration. Official appointments are made by the Mayor at a Council meeting, typically in January of each year.
+  
+[**2023 Committee, Board and Commission Talent Bank Application**](https://docs.google.com/forms/d/e/1FAIpQLSdPafXP8YQUOWmCkERbAHezVAc3XYJyuhs7W5W1SYGtTAUG6g/viewform)  
 </p>
 
 <div class="row">
