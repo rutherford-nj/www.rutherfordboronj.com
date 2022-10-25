@@ -18,7 +18,7 @@ Appeal Kit Spanish
 
 Plea by Mail
 
-[Plea by Mail (njcourts.gov)](https://storage.googleapis.com/static.rutherford-nj.com/municipal-court/10715_plea_mail.pdf)
+[Plea by Mail (njcourts.gov)](https://www.njcourts.gov/forms/10715_plea_mail.pdf?c=5zd)
  
 
 Copies of Court Records
