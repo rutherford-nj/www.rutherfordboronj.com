@@ -25,6 +25,7 @@ jobs:
             --exclude https://clients6.google.com/
             --exclude https://fonts.gstatic.com/
             --exclude https://www.njmcdirect.com/
+            --exclude "https://www.instagram.com/*"
             --exclude "https://twitter.com/*"
             --exclude "https://player.vimeo.com/video/*"
         env:

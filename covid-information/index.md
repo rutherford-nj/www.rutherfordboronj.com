@@ -50,8 +50,6 @@ COVID-19 General information: [https://www.cdc.gov/coronavirus/2019-ncov/your-he
 
 COVID-19 Variant Surveillance Report reported by commercial labs and the Public Health and Environmental Laboratories (PHEL) that have been submitted for surveillance purposes posted weekly on [https://www.state.nj.us/health/cd/statistics/covid/](https://www.state.nj.us/health/cd/statistics/covid/)
 
-SARS-CoV-2 Variant Classifications and Definitions: [https://www.cdc.gov/coronavirus/2019-ncov/cases-updates/variant-surveillance/variant-info.html#Concern](https://www.cdc.gov/coronavirus/2019-ncov/cases-updates/variant-surveillance/variant-info.html#Concern)
-
 SARS-CoV-2 Variant proportions: [https://covid.cdc.gov/covid-data-tracker/#variant-proportions](https://covid.cdc.gov/covid-data-tracker/#variant-proportions)
 
 NJDOH Guidance for Variant Strain Surveillance and Submission [https://www.state.nj.us/health/cd/documents/topics/NCOV/SARS-CoV2_Strain_Surveillance.pdf](https://www.state.nj.us/health/cd/documents/topics/NCOV/SARS-CoV2_Strain_Surveillance.pdf)
