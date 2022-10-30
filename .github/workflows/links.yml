@@ -10,11 +10,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
+      - name: Build site
+        run: make prod
       - name: Link Checker
-        uses: lycheeverse/lychee-action@v1.4.1
+        uses: lycheeverse/lychee-action@v1.5.1
         with:
           args: >
-            "./**/*.md" "./**/*.html" "./**/*.yml"
+            _site/**/*.html
             --verbose --no-progress --exclude-mail
             --insecure
             --max-retries 10
