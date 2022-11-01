@@ -4,7 +4,7 @@ title: 'Employment & Bids'
 parent: Government
 ---
 
-[Rebid Notice: Clara's Tunnel](https://storage.googleapis.com/static.rutherford-nj.com/finance/Employment/Rebid%20Notice%20-%20Clara's%20Tunnel%20(00338601xD43F8).pdf)
+[Plenary Retail Consumption Liquor License Bids](https://storage.googleapis.com/static.rutherford-nj.com/finance/Employment/Plenary%20Retail%20Consumption%20Liquor%20License%20Bid.pdf)
 
 [RPD: Class IB Special Law Enforcement Officer](https://storage.googleapis.com/static.rutherford-nj.com/finance/Employment/SLEO%20Class%20IB%20Requirements%20and%20Application%20Details.pdf)
 
