@@ -2,5 +2,5 @@
     "inst 1": "to disable the banner, set the message below to empty quotes",
     "inst 2": "set type to 'warning' for a yellow banner, set to 'danger' for a red banner",
     "type": "warning",
-    "message": "<a href='/departments/building/'>The Building Dept will be closed to the public for administrative purposes on the following Fridays: Oct 14, Oct 28, Nov 4 & Nov 18.</a>"
+    "message": "<a href='/departments/building/'>The Building Dept will be closed to the public for administrative purposes on the following Fridays: Nov 4 & Nov 18.</a>"
 }
