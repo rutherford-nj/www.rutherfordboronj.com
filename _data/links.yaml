@@ -39,8 +39,10 @@ departments:
       href: recycling-information/
     - text: Service Request Forms
       href: service-request-forms/
-    - text: Power Outage Tips
-      href: http://www.bt.cdc.gov/disasters/poweroutage/needtoknow.asp
+    - text: How to Identify and Kill Spotted Lantern Flies
+      href: https://storage.googleapis.com/static.rutherford-nj.com/committees/ShadeTree_SpottedLanternFly.pdf
+     - text: Power Outage Tips
+      href: http://www.bt.cdc.gov/disasters/poweroutage/needtoknow.asp     
     - text: Clean Water NJ
       href: https://www.cleanwaternj.org/
     - text: Stormwater Plans
