@@ -13,13 +13,6 @@ Ballots have been mailed out to voters with Active Vote by Mail requests for the
 You may also call and request a form be mailed to you or go to the County Website: [www.bergencountyclerk.org.](https://www.bergencountyclerk.org/)  All residents are reminded of the following to ensure their voting privilege:   You must re-register if you have not voted in any election for four consecutive years, have changed your address or changed your name.
 
 
-# EARLY VOTING LOCATION IN RUTHERFORD: 
-
-**The Williams Center - 15 Sylvan Street**
-
-**October 29th - November 6th: Monday-Saturday, 10am to 8pm; Sunday, 10am to 6pm**
-
-
 # POLLING PLACE LOCATIONS IN RUTHERFORD:
 
 **Districts 11 and 12 have now returned to the permanent location at Union School. Entrance on Belford Avenue.**
