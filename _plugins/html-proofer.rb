@@ -5,6 +5,7 @@ Jekyll::Hooks.register :site, :post_write do |site|
     :check_favicon => true,
     :check_html => true,
     :disable_external => true,
+    :enforce_https => false,
     :only_4xx => true,
     :file_ignore => [/.*tmpl.*/],
   }).run

@@ -1,7 +1,7 @@
 # Set SITE_WORKSPACE when running locally.
 SITE_WORKSPACE := $(if $(SITE_WORKSPACE),$(SITE_WORKSPACE),$(PWD))
 export SITE_WORKSPACE
-JEKYLL_IMAGE := jekyll/builder:4.2.0
+JEKYLL_IMAGE := jekyll/builder:4.2.2
 
 compile-typescript:
 	docker run --rm \
