@@ -46,4 +46,4 @@ deploy: prod
 	  -v $(SITE_WORKSPACE):/work \
 	  -w /work \
 	  andreysenov/firebase-tools \
-	  firebase deploy --non-interactive --token=$(RBH_FIREBASE_TOKEN) --project=$(FIREBASE_PROJECT)
+	  firebase deploy --non-interactive --project=$(FIREBASE_PROJECT)
