@@ -14,15 +14,15 @@ jobs:
 
     - name: Build the site and deploy
       env:
-        BETA_SA_CREDENTIALS: ${{ secrets.BETA_SA_CREDENTIALS }}
+        BETA_SA_CREDENTIALS: 
         PROD_SA_CREDENTIALS: ${{ secrets.PROD_SA_CREDENTIALS }}
         SITE_WORKSPACE: ${{ github.workspace }}
       run: |
-        export GOOGLE_APPLICATION_CREDENTIALS=$RUNNER_TEMP/firebase.json
-        echo "$BETA_SA_CREDENTIALS" > $RUNNER_TEMP/firebase.json
+        export GOOGLE_APPLICATION_CREDENTIALS=$HOME/gcloud.json
+        echo '${{ secrets.BETA_SA_CREDENTIALS }}' > $HOME/gcloud.json
         export FIREBASE_PROJECT="rutherford-nj-beta-site"
         [[ "$GITHUB_REF" == refs/heads/www ]] && \
-          echo "$PROD_SA_CREDENTIALS" > $RUNNER_TEMP/firebase.json && \
+          echo '${{ secrets.PROD_SA_CREDENTIALS }}' > $HOME/gcloud.json && \
           export FIREBASE_PROJECT="rutherford-nj" && \
           rm $SITE_WORKSPACE/robots.txt
         make deploy

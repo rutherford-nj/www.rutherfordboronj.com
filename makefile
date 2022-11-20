@@ -45,5 +45,4 @@ deploy: prod
 	docker run \
 	  -v $(SITE_WORKSPACE):/work \
 	  -w /work \
-	  andreysenov/firebase-tools \
-	  firebase deploy --non-interactive --project=$(FIREBASE_PROJECT)
+	  npx firebase-tools deploy --project=$(FIREBASE_PROJECT)
