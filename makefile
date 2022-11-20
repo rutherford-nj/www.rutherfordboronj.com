@@ -42,7 +42,4 @@ prod: build-requirements
 
 
 deploy: prod
-	docker run \
-	  -v $(SITE_WORKSPACE):/work \
-	  -w /work \
-	  npx firebase-tools deploy --project=$(FIREBASE_PROJECT)
+	npx firebase-tools deploy --project=$(FIREBASE_PROJECT) $(SITE_WORKSPACE)
