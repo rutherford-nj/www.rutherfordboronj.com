@@ -44,7 +44,7 @@ prod: build-requirements
 deploy: prod
 	docker run \
 	  -v $(SITE_WORKSPACE):/work \
-	  -v $HOME:/github_home \
+	  -v $(HOME):/github_home \
 	  -e GOOGLE_APPLICATION_CREDENTIALS=/github_home/gcloud.json \
 	  -w /work \
 	  andreysenov/firebase-tools \
