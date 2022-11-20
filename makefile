@@ -42,4 +42,10 @@ prod: build-requirements
 
 
 deploy: prod
-	npx firebase-tools deploy --project=$(FIREBASE_PROJECT) $(SITE_WORKSPACE)
+	docker run \
+	  -v $(SITE_WORKSPACE):/work \
+	  -v $HOME:/github_home \
+	  -e GOOGLE_APPLICATION_CREDENTIALS=/github_home/gcloud.json \
+	  -w /work \
+	  andreysenov/firebase-tools \
+	  firebase deploy --project=$(FIREBASE_PROJECT)
