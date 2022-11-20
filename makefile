@@ -44,6 +44,8 @@ prod: build-requirements
 deploy: prod
 	docker run \
 	  -v $(SITE_WORKSPACE):/work \
+	  -v $(HOME):/github_home \
+	  -e GOOGLE_APPLICATION_CREDENTIALS=/github_home/gcloud.json \
 	  -w /work \
 	  andreysenov/firebase-tools \
-	  firebase deploy --non-interactive --token=$(RBH_FIREBASE_TOKEN) --project=$(FIREBASE_PROJECT)
+	  firebase deploy --project=$(FIREBASE_PROJECT)

@@ -14,11 +14,13 @@ jobs:
 
     - name: Build the site and deploy
       env:
-        RBH_FIREBASE_TOKEN: ${{ secrets.RBH_FIREBASE_TOKEN }}
         SITE_WORKSPACE: ${{ github.workspace }}
       run: |
+        export GOOGLE_APPLICATION_CREDENTIALS=$HOME/gcloud.json
+        echo '${{ secrets.BETA_SA_CREDENTIALS }}' > $HOME/gcloud.json
         export FIREBASE_PROJECT="rutherford-nj-beta-site"
         [[ "$GITHUB_REF" == refs/heads/www ]] && \
+          echo '${{ secrets.PROD_SA_CREDENTIALS }}' > $HOME/gcloud.json && \
           export FIREBASE_PROJECT="rutherford-nj" && \
           rm $SITE_WORKSPACE/robots.txt
         make deploy
