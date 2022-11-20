@@ -14,8 +14,6 @@ jobs:
 
     - name: Build the site and deploy
       env:
-        BETA_SA_CREDENTIALS: 
-        PROD_SA_CREDENTIALS: ${{ secrets.PROD_SA_CREDENTIALS }}
         SITE_WORKSPACE: ${{ github.workspace }}
       run: |
         export GOOGLE_APPLICATION_CREDENTIALS=$HOME/gcloud.json
