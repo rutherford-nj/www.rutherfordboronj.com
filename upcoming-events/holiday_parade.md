@@ -1,3 +1,6 @@
+[See Flyer Here](https://storage.googleapis.com/static.rutherford-nj.com/events/2022_HolidayFloat_TreeLighting_Wonderland.pdf)
+
+
 **1:30-3:30pm - Holiday Float Touring Rutherford with Santa and Live Music!**
 
 Listen to a few songs at the following locations:
@@ -35,4 +38,3 @@ and ending at the Rutherford Holiday Tree Lighting at 5PM.
 . Music
 . and more!
     
-[Learn More Here](https://storage.googleapis.com/static.rutherford-nj.com/events/2022_HolidayFloat_TreeLighting_Wonderland.pdf)
