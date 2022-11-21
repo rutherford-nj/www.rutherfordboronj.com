@@ -2,7 +2,7 @@
 
 **1:30-3:30pm - Holiday Float Touring Rutherford with Santa and Live Music!**
 
-Listen to a few songs at the following locations:
+Listen to a few songs by Luke and the Troublemakers at the following locations:
 
 . Sylvan School (109 Sylvan Street approximately 1:40pm)
 
@@ -29,7 +29,7 @@ and ending at the Rutherford Holiday Tree Lighting at 5PM.
 
 **5-8pm - Holiday Village in Lincoln Park**
 
-. Free Pictures with Santa Sponsored by BCB Bank
+. Free Pictures with Santa courtesy of BCB Bank
 . Stories with Mrs. Claus inside the Health Dept Lobby 184 Park Ave
 . Horse and Carriage Rides Around Lincoln Park
 . Trackless Train
