@@ -30,10 +30,16 @@ and ending at the Rutherford Holiday Tree Lighting at 5PM.
 **5-8pm - Holiday Village in Lincoln Park**
 
 . Free Pictures with Santa courtesy of BCB Bank
+
 . Stories with Mrs. Claus inside the Health Dept Lobby 184 Park Ave
+
 . Horse and Carriage Rides Around Lincoln Park
+
 . Trackless Train
+
 . Food Vendors
+
 . Music
+
 . and more!
     
