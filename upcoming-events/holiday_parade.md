@@ -1,5 +1,4 @@
-[See Flyer Here](https://storage.googleapis.com/static.rutherford-nj.com/events/2022_HolidayFloat_TreeLighting_Wonderland.pdf)
-
+[See Flyer Here](https://storage.googleapis.com/static.rutherford-nj.com/events/2022_HolidayFloat_TreeLighting_Wonderland_1.pdf)
 
 **1:30-3:30pm - Holiday Float Touring Rutherford with Santa and Live Music!**
 
