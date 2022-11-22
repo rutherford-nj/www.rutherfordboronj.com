@@ -47,5 +47,5 @@ deploy: prod
 	  -v $(HOME):/github_home \
 	  -e GOOGLE_APPLICATION_CREDENTIALS=/github_home/gcloud.json \
 	  -w /work \
-	  andreysenov/firebase-tools \
+	  andreysenov/firebase-tools:11.15.0-node-lts \
 	  firebase deploy --project=$(FIREBASE_PROJECT)
