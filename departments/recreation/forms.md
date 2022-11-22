@@ -6,6 +6,8 @@ parent: 'Recreation'
 
 [**Recreation Policies**](../recreation-policies/)
 
+[**Pickleball Rules & Policies**](../pickleball/)
+
 **Forms** 
 
 
