@@ -42,10 +42,5 @@ prod: build-requirements
 
 
 deploy: prod
-	docker run \
-	  -v $(SITE_WORKSPACE):/work \
-	  -v $(HOME):/github_home \
-	  -e GOOGLE_APPLICATION_CREDENTIALS=/github_home/gcloud.json \
-	  -w /work \
-	  andreysenov/firebase-tools:11.15.0-node-lts \
-	  firebase deploy --project=$(FIREBASE_PROJECT)
+	curl -sL https://firebase.tools | bash
+	firebase deploy --project=$(FIREBASE_PROJECT)
