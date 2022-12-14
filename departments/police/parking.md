@@ -6,12 +6,17 @@ parent: 'Police Department'
 
 Free Resident Parking Permits are required for on street parking for all residents who live east of Ridge Road and can be applied for through the Police Department 
 
-**RESIDENTIAL PARKING PERMIT EXTENSION INFORMATION** 
+**RESIDENTIAL PARKING PERMIT INFORMATION** 
 
-All current residential parking permits that expire at year’s end 2020 and 2021 will be extended through 12-31-22.  
+All current residential parking permits that expired will remain active indefinitely. No new issuance or alterations of a parking permit will be needed for valid permits previously issued. 
 
-No new tags or alterations will be needed for valid permits issued. * Newly issued license plates and transfer of license plates require a new application. 
+Newly issued license plates, transfer of license plates, and the lease or purchase of a new vehicle require a new application. 
 
-Due to COVID-19 and the fact that we now handle many of our calls for service inside our lobby, we would like to remind you of the need to limit individuals in our building for the safety of our community and staff. Please e-mail all Residential Parking Program applications, including new and modifications for a switch of vehicles, and questions to traffic@rutherfordpd.com 
+Please e-mail all Residential Parking Program applications, including new and modifications for a transfer of license plates, and questions to traffic@rutherfordpd.com
+
+An application received without all required documentation will not be processed.
+
+An application received from a non-resident will be denied.  Your driver’s license must reflect your Rutherford home address.  The only exclusion is business issued permits. 
+
 
 [**Click here for more information and application**](https://storage.googleapis.com/static.rutherford-nj.com/police/Parking%20Permit%20Letter%20and%20Application%20(1).pdf).
