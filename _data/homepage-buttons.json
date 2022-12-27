@@ -2,7 +2,7 @@
    
     {
         "link": "/upcoming-events/",
-        "image": "/static/images/homepage/bestofbergen.jpg",
+        "image": "/static/images/homepage/homepage_mainimage_bestofbergen.jpg",
         "alt": "2023 Best of bergen"
     },
    {
@@ -12,7 +12,7 @@
     },
     {
         "link": "/departments/public-works/collection-schedule/",
-        "image": "/static/images/homepage/sanitation.jpg",
+        "image": "/static/images/homepage/homepage_mainimage_sanitation.jpg",
         "alt": "Sanitation collection schedule"
     },
     {
