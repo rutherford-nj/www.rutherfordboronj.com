@@ -1,6 +1,11 @@
 [
    
     {
+        "link": "/upcoming-events/",
+        "image": "/static/images/homepage/bestofbergen.jpg",
+        "alt": "2023 Best of bergen"
+    },
+   {
         "link": "/notifications/",
         "image": "/static/images/homepage/stay_informed.jpg",
         "alt": "Rutherford Notifications"
