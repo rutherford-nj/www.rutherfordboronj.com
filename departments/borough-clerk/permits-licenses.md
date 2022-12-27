@@ -50,7 +50,7 @@ Please click on an item below to download the appropriate form and return to the
 [**Parking Payment Coupon**](https://storage.googleapis.com/static.rutherford-nj.com/borough-clerk/permits-licenses/Forms/PARKING%20PAYMENT%20COUPON.pdf)
 
 [**Parking Meters**](https://storage.googleapis.com/static.rutherford-nj.com/borough-clerk/permits-licenses/PARKING%20METER%20PERMIT.pdf)
-– May be reserved for purpose of construction job or moving van in the business districts.Meters are $5 per day per meter.
+– May be reserved for purpose of construction job or moving van in the business districts. Meters are $25 per day per meter.
 
 [**Resident Parking Permits**](/departments/police/parking/)
 
