@@ -2,5 +2,5 @@
     "inst 1": "to disable the banner, set the message below to empty quotes",
     "inst 2": "set type to 'warning' for a yellow banner, set to 'danger' for a red banner",
     "type": "warning",
-    "message": "Metered parking enforcement is suspended through January 2nd. Happy Holidays!"
+    "message": "Borough Hall will close at noon on December 30 and be closed Monday, January 2nd. Metered parking enforcement is suspended through January 2nd. Happy Holidays!"
 }
