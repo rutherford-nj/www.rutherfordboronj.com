@@ -44,5 +44,5 @@ While dog licensing is required throughout the state, cat licensing is regulated
 
 In addition, unvaccinated dogs and cats that have an encounter with a suspected rabid animal (bat, raccoon, skunk, fox, groundhog) can be subject to euthanasia or ordered placed in strict quarantine with no human or animal contact, for 4 months in a kennel, or cage in a veterinary hospital, animal control facility, commercial boarding establishment, or an escape proof pen at the owner’s home.
 
-Protect your dog, cat, and your family from the deadly rabies vaccine! Obtain a dog and cat license from the police department records bureau weekdays between 7:30 AM to 3:30 PM. Additional information on dog and cat licensing can be obtained by calling the police department records bureau at 201-460- 3045.
+Protect your dog, cat, and your family from the deadly rabies vaccine! Obtain a dog and cat license from the police department records bureau weekdays between 8:30 AM to 4:30 PM. Additional information on dog and cat licensing can be obtained by calling the police department records bureau at 201-460- 3045.
 
