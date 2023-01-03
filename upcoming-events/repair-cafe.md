@@ -1,10 +1,10 @@
-**Please note: Due to the weather forecast, the Repair Cafe is moved to the Rutherford Public Library Auditorium. (Rear entrance of library)**
+**At the Rutherford Public Library, 150 Park Ave (please us rear auditorium entrance of library)**
 
 Volunteer experts will help you repair
 
-• bicycles • computers • clothing • furniture • small appliances • sewing machines
+• bicycles • computers • clothing • small appliances • sewing machines
 
-• lamps • lawnmowers • electronics • jewelry •  and knife sharpening
+• lamps • electronics • jewelry •  and knife sharpening
 
 Volunteers will have the right tools, but if possible, bring any needed parts. One item (or two knives) at a time. Sevice is first-come, first-served.
 
