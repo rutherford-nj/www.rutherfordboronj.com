@@ -32,7 +32,7 @@ dev-typescript:
 dev: stop-dev-site build-requirements
 	docker run -it --name=rutherford-dev-site --rm -p 0.0.0.0:38081:8080 \
     -v $(SITE_WORKSPACE):/srv/jekyll \
-    $(JEKYLL_IMAGE) jekyll serve --watch -P 8080 -p /dev/null
+    $(JEKYLL_IMAGE) gem install webrick && jekyll serve --watch -P 8080 -p /dev/null
 
 
 prod: build-requirements
