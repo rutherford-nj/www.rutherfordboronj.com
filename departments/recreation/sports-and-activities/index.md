@@ -5,7 +5,6 @@ parent: 'Recreation'
 ---
 
 <a href="childrens-catalog/"><img style="max-width: 400px; width: 100%;" src="childrenssports.png" alt="Children's Sports"></a>
-<a href="adult-catalog/"><img style="max-width: 400px; width: 100%;" src="adultssports.png" alt="Adults' Sports"></a>
 
 
 **The Recreation Department is proud to partner with the following organizations that offer programs for Rutherford Residents:** 
