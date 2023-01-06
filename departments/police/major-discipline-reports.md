@@ -6,6 +6,8 @@ parent: 'Police Department'
 
 Below is the RPD major dicipline reports by year:
 
+[2022 RPD Major Discipline Report](https://docs.google.com/spreadsheets/d/1kubWYN0UbToL5tdeK-MOyd22HbkZj1w4/edit)
+
 [2021 RPD Major Discipline Report](https://docs.google.com/spreadsheets/d/1-_cNwnHf2k2KNX11-FUO8bLUCL5IyUCU/edit)
 
 [2020 RPD Major Discipline Report](https://docs.google.com/spreadsheets/d/1Q_CNlfclOaxwBHdTcjC5Q5sr92fMNK60/edit)
