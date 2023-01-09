@@ -5,11 +5,9 @@ title: 'Committees'
 
 
 <p markdown=1>
- **The 2023 Committee, Board and Commission application form is now available through Friday, November 18th.**
  
  If you would like to be considered for a Committee, Board or Commission, please fill out the application. You will be contacted for an interview via Zoom by the end of the year. These applications are forwarded to the Mayor and a Council Subcommittee for their consideration. Official appointments are made by the Mayor at a Council meeting, typically in January of each year.
-  
-[**2023 Committee, Board and Commission Talent Bank Application**](https://docs.google.com/forms/d/e/1FAIpQLSdPafXP8YQUOWmCkERbAHezVAc3XYJyuhs7W5W1SYGtTAUG6g/viewform)  
+
 
 [**2023 Committee, Board and Commission Descriptions**](https://storage.googleapis.com/static.rutherford-nj.com/committees/2023%20Committee%20Descriptions.pdf)  
 
@@ -84,31 +82,19 @@ title: 'Committees'
 
 ---                            
 
-**County Park Development Committee** - Council Liaisons: Tom Mullahey & Ray Guzmán
-
-> Bergen County plans to build a new County Park on the site of the abandoned Norfolk Southern railroad tracks on the East Rutherford/Rutherford border.This committee would work in conjunction with counterparts in East Rutherford and Bergen County to determine what features the new County Park would be most desirable for our area.
-
----
-
 **Data and Analytics Committee** - Council Liaison: Matt Cokeley
 
 > An exploratory committee to determine the feasibility of data collection and analysis that can help inform decisions made within the Borough and promote evidence-based governing. By analyzing large data sets, the committee could alert the governing body to trends and outliers potentially useful for grants and other programs
 
 ---
 
-**Downhill Derby Committee** - Council Liaison: Mark Goldsack
-
-> The Rutherford Downhill Derby is an annual town event providing kids and adults with the opportunity to design, build and race gravity powered race carts.
-
----
-
-[**Green Team**](green-team/) - Council Liaison: Ray Guzmán
+[**Green Team**](green-team/) - Council Liaison: Christie Del Rey-Cone
 
 > The Rutherford Green Team’s primary mission is to lead and coordinate the sustainability activities of the community. Specifically, we advise the Borough Council and develop initiatives and projects that contribute to the long range sustainable development of the Borough of Rutherford and beyond.
 
 ---
 
-**Historic Preservation Committee** - Council Liaison: Maria Begg-Roberson
+**Historic Preservation Committee** - Council Co-Liaisons: Maria Begg-Roberson and Ray Guzman
 
 > [www.rutherfordhpc.org](https://www.rutherfordhpc.org/)
 
@@ -127,7 +113,7 @@ Municipal Alliances are local planning and coordinating bodies established in al
 
 ---
 
-**Recreation Advisory Committee** - Council Liaison Mark Goldsack
+**Recreation Advisory Committee** - Council Liaison Maria Begg-Roberson
 
 > The Recreation Advisory Committee meets monthly to discuss issues pertaining to Recreation.  The committee meets with coaches and coordinators before the season to ensure proper preparation and after the season to reflect on what needs improvement and what we can build upon.
 
@@ -145,10 +131,10 @@ Municipal Alliances are local planning and coordinating bodies established in al
 
 ---
 
-**Volunteer Committee** - Council Liaison Maria Begg-Roberson
+**Volunteer Committee** - Council Liaison Susan Quatrone
 
 > The vision of the Rutherford Volunteer Committee is to provide every resident the opportunity to participate in and contribute to the betterment of Rutherford. How? 
-By making volunteer opportunities available & accessible in order to bring the community together. If you'd like to be a member of a volunteer team, [please fill out this form.](https://docs.google.com/forms/d/e/1FAIpQLSdrJvChRVE6Xvc1lSz6YxpUwQEJRv49HXx25O5yPdMm2oaTGA/viewform)
+By making volunteer opportunities available & accessible in order to bring the community together. 
 
 
 </div>
