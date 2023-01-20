@@ -100,8 +100,6 @@ title: 'Committees'
 
 **Historic Preservation Committee** - Council Co-Liaisons: Maria Begg-Roberson and Ray Guzman
 
-> [www.rutherfordhpc.org](https://www.rutherfordhpc.org/)
-
 > The objective of the Historic Preservation Committee is to educate the community about what value historic preservation offers to maintain the character of neighborhoods as reflected by the architecture and aesthetics. Furthermore, the Committee advises any borough board or agency of the historic nature of a property should demolition or construction be proposed.
 > 
 > The Historic Preservation Committee meets the 1st Monday of each Month at 7:30 p.m.  If interested in attending a meeting, kindly email: ruthefordhpc@gmail.com for information.
