@@ -57,7 +57,7 @@ title: 'Committees'
 
 ---
 
-[**All Board & Commission Minutes & Agendas**](departments/borough-clerk/minutes-and-agendas/)
+[**All Board & Commission Minutes & Agendas**](/departments/borough-clerk/minutes-and-agendas/)
 
 </div>
 </div>
