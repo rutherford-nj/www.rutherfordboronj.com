@@ -55,6 +55,10 @@ title: 'Committees'
 
 [**Shade Tree Commission**](shade-tree-commission/)
 
+---
+
+[**All Board & Commission Minutes & Agendas**](departments/borough-clerk/minutes-and-agendas/)
+
 </div>
 </div>
 </div>
