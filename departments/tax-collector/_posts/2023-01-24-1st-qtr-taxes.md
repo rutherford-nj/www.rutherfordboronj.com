@@ -9,3 +9,14 @@ Payments can be made via US mail, the drop box located to the left of the Donald
 [Please also visit this link to the NJ Division of Treasury](https://www.nj.gov/treasury/taxation/anchor/index.shtml?utm_campaign=20230113_nwsltr&utm_medium=email&utm_source=govdelivery) for information regarding the State’s ANCHOR program for Homeowners and Tenants.  
 
 **Filing deadline is February 28, 2023.**
+
+Who is eligible for the ANCHOR program?
+
+ANCHOR eligibility is as follows:
+
+•	Homeowners with income of $150,000 or less will receive $1,500.
+
+•	Homeowners with income of more than $150,000 and up to $250,000 will receive $1,000.
+
+•	Renters with income of $150,000 or less will receive $450.
+
