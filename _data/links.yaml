@@ -161,7 +161,9 @@ departments:
     - text: YouTube & Livestreaming Meetings
       href: https://www.youtube.com/c/BoroughHall/featured      
     - text: Minutes & Agendas
-      href: /departments/borough-clerk/minutes-and-agendas/       
+      href: /departments/borough-clerk/minutes-and-agendas/
+    - text: 2023 Sponsorship Program   
+      href: https://storage.googleapis.com/static.rutherford-nj.com/sponsorship/2023_Rutherford_Sponsorship_Program_Packet.pdf
   recreation:
     - text: RecDesk
       href: https://rutherfordnj.recdesk.com/Community/Home
