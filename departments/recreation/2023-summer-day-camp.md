@@ -12,6 +12,8 @@ parent: 'Recreation'
  
 Day Camp Help Wanted! Click here for more information:  [New Rutherford Summer Camp Staff 2023 (google.com)](https://docs.google.com/forms/d/e/1FAIpQLScxSotlNZ13Ww1rcDE7NyfTa9tAa_CRxVFWu0-CmxJCgBUdMg/viewform)
 
+[Counselor in Training Form](https://docs.google.com/forms/d/e/1FAIpQLSft9WN9y6ZwRsoqBbzpeRuZdNdMPB33vGJ4iF3dqcTlY16lkQ/viewform?usp=sharing)
+
 **OUR DAY CAMP PROGRAM IS FIRST COME – FIRST SERVED ~ LIMITED SPOTS AVAILABLE**
 
 The Rutherford Recreation Department Day Camp will be held from June 26 – August 4, 2023. Our Day Camp program is available to all resident children, entering Kindergarten through 8th grade in Fall 2023. Children will enjoy six fun-filled weeks of activities, sports, arts & crafts, special events & themed days.
