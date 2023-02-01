@@ -7,6 +7,10 @@ title: "Free Rabies Clinic 3/18/23"
 
 **The Rutherford Health Department will be having its Annual Free Rabies Clinic for Rutherford on Saturday, March 18, 2023, from 10:00 AM – 12:00 PM at the Mortimer Avenue Firehouse located at 400 Mortimer Ave.**   
 
+[See Flyer Here](https://storage.googleapis.com/static.rutherford-nj.com/health/posts/2023%20Rabies%20Clinic%20Flyer%20English.pdf)
+
+[En Espanol](https://storage.googleapis.com/static.rutherford-nj.com/health/posts/2023%20Rabies%20Clinic%20Flyer%20Spanish.pdf)
+
 Registration forms can be picked up in advance at the Health Department located at 184 Park Avenue, between 8:30 AM and 4:30 PM on weekdays or at Police Headquarters after normal working hours.
 
 All cats and dogs must be accompanied by an adult and restrained on a leash or in a carrier. 
