@@ -7,7 +7,7 @@ title: "Free Balance & Fall Prevention Seminar 3/9/23"
 
 [See Flyer Here](https://storage.googleapis.com/static.rutherford-nj.com/health/posts/Balance%20Fall%20Prevention%203.9.23.pdf)
 
-**Monday, March 9, 2023 Time: 11:00 am – 12:00 pm**
+**Thursday, March 9, 2023 Time: 11:00 am – 12:00 pm**
 
 Location: Rutherford Health Department
 
