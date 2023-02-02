@@ -32,6 +32,8 @@ departments:
       href: /departments/borough-clerk/minutes-and-agendas/planning-board/
     - text: Zoning Map
       href: https://storage.googleapis.com/static.rutherford-nj.com/building/RutherfordZoningMap.pdf
+    - text: Drug Free Zone Map
+      href: https://storage.googleapis.com/static.rutherford-nj.com/building/Rutherford_Drug_Free_Zones_2021_Map_V5_Sign_Seal_Copy.pdf
   dpw:
     - text: Collection Schedule
       href: collection-schedule/
