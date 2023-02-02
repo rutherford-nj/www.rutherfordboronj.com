@@ -4,15 +4,16 @@ title: 'Sports & Activities'
 parent: 'Recreation'
 ---
 
-<a href="childrens-catalog/"><img style="max-width: 400px; width: 100%;" src="childrenssports.png" alt="Children's Sports"></a>
+As a courtesy to our residents, please see links below to other Rutherford community organizations. 
 
-
-**The Recreation Department is proud to partner with the following organizations that offer programs for Rutherford Residents:** 
+Please note, Rutherford Recreation is not affiliated with any of these organizations. 
 
 
 Tennis Lessons - [Tennis Dynamics](https://storage.googleapis.com/static.rutherford-nj.com/recreation/spring-2021/RUTHERFORD%20Spring%202021%20Sundays%233.pdf)
 
 [Rutherford Little League](https://tshq.bluesombrero.com/rutherfordllnj)
+
+[Rutherford Girls Softball](https://www.rutherfordgirlssoftball.com/)
 
 Nereid Boat Club – [nereidbc.org](http://nereidbc.org/) headcoach@nereidbc.org 
 
