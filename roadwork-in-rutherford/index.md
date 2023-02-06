@@ -7,7 +7,7 @@ title: 'Roadwork in Rutherford'
 ## SUEZ Road Work in Rutherford Winter 2023
 
 
-[**SUEZ Roadwork Schedule January 30 - February 3**](https://storage.googleapis.com/static.rutherford-nj.com/road-work/Dewcon%20Rutherford%20Schedule%20for%201-30-22%20thru%202-3-22.pdf)
+[**SUEZ Roadwork Schedule February 6 - February 10**](https://storage.googleapis.com/static.rutherford-nj.com/road-work/Dewcon%20Rutherford%20Schedule%20for%202-6-23%20thru%202-10-23.pdf)
 
 SUEZ is working in Rutherford streets as part of the company’s ongoing project to remove the remaining lead from the system. 
 
