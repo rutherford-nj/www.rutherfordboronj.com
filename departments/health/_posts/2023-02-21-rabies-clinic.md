@@ -5,7 +5,7 @@ title: "Free Rabies Clinic 3/18/23"
 
 # FREE Rabies Clinic 3/18/23
 
-**The Rutherford Health Department will be having its Annual Free Rabies Clinic for Rutherford on Saturday, March 18, 2023, from 10:00 AM – 12:00 PM at the Mortimer Avenue Firehouse located at 400 Mortimer Ave.**   
+**The Rutherford Health Dept will be having its Annual Free Rabies Clinic for Rutherford on Saturday, March 18, 2023, from 10:00 AM – 12:00 PM at the Mortimer Avenue Firehouse located at 400 Mortimer Ave.**   
 
 [See Flyer Here](https://storage.googleapis.com/static.rutherford-nj.com/health/posts/2023%20Rabies%20Clinic%20Flyer%20English.pdf)
 
