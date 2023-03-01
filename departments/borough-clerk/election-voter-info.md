@@ -6,11 +6,25 @@ parent: 'Borough Clerk'
 
 [**Learn More About The Three Ways to Vote in Bergen County - Vote By Mail, In-Person Early & Election Day**](https://nj.gov/state/elections/vote-how-to.shtml)
 
+# 2023 Primary Election Dates
+
+**April 12, 2023** - Party Affiliation Deadline
+
+**May 16, 2023** - Voter Registration Deadline
+
+**June 2, June 3 & June 4, 2023** - Primary Early Voting Period
+
+**June 6, 2023** - Primary Election
+
 Any resident may register to vote in the Borough Clerk's Office in Borough Hall at 176 Park Avenue during regular office hours of 8:30 a.m. to 4:30 p.m. Monday through Friday.  
 
-Ballots have been mailed out to voters with Active Vote by Mail requests for the November 8th General Election. To track your ballot or find a drop box near you please visit [www.vote.nj.gov](https://nj.gov/state/elections/vote.shtml)
-
 You may also call and request a form be mailed to you or go to the County Website: [www.bergencountyclerk.org.](https://www.bergencountyclerk.org/)  All residents are reminded of the following to ensure their voting privilege:   You must re-register if you have not voted in any election for four consecutive years, have changed your address or changed your name.
+
+**Mail-In Ballot Applications:** County Clerk 201-336-7020
+
+**Voter Registration:** Superintendent of Elections 201-336-6109
+
+**Mail-In Ballot Return:** Board of Elections 201-336-6230
 
 
 # POLLING PLACE LOCATIONS IN RUTHERFORD:
