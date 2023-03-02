@@ -1,0 +1,1 @@
+[Proposal to amend Cannabis Businesses Ord. No. 3566-21 - Presented by Councilman Matt Cokeley](https://storage.googleapis.com/static.rutherford-nj.com/special-presentations/Cannabis_Class_5_6_Ord_FIN_r1.pdf)
