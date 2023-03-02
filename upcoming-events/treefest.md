@@ -1,10 +1,15 @@
- An Arbor Day Craft & Food Festival celebrating the Borough of Trees at Lincoln Park.
+ An Arbor Day Craft & Food Festival celebrating the Borough of Trees at Lincoln Park hosted by the Rutherford Shade Tree Commission.
 
-FEATURING - Food Trucks, Beer Garden, Live Music
+FEATURING - Food Trucks, Beer Garden, Live Music, Entertainment
 
-Sponsored by BCB Bank with vendors including the RHS Booster Club, Chamber of Commerce, Rutherford Green Team, Garden Club, Scouts, Health and Wellness Vendors, Local Businesses and more!
+Sponsored by BCB Bank
 
 Rain Date Sunday, April 23rd
 
+[See Flyer Here](https://storage.googleapis.com/static.rutherford-nj.com/committees/shade-tree/ShadeTree_Treefest_2023.pdf)
+
 [Now accepting vendor registrations!](https://docs.google.com/forms/d/e/1FAIpQLSf7BbbPeserZekwe0m8BSMUwlrXa0K05bw5xTIMeHqhAdW-vw/viewform)
 
+Government and non-profit vendors can register for free! 
+
+[There is a $10 fee for Rutherford resident vendors and a $50 free for non-resident vendors payable through RecDesk.](https://rutherfordnj.recdesk.com/Community/Program/Detail?programId=458)
