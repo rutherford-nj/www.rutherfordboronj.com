@@ -7,8 +7,7 @@ title: 'Roadwork in Rutherford'
 ## SUEZ Road Work in Rutherford Winter 2023
 
 
-[**SUEZ Roadwork Schedule February 27 - March 3**](https://storage.googleapis.com/static.rutherford-nj.com/road-work/Dewcon%20Rutherford%20Schedule%20for%202-27-23%20thru%203-3-23.pdf))
-
+[**SUEZ Roadwork Schedule March 6-10**](https://storage.googleapis.com/static.rutherford-nj.com/road-work/Dewcon%20Rutherford%20Schedule%20for%203-6-23%20thru%203-10-23.pdf)
 SUEZ is working in Rutherford streets as part of the company’s ongoing project to remove the remaining lead from the system. 
 
 SUEZ has identified roughly 500 service lines in the borough that potentially contain lead. Over the next several months, crews will be digging at these locations to determine the material in those pipes.
