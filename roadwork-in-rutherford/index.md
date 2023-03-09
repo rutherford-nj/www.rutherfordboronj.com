@@ -10,19 +10,10 @@ Beginning Thursday, March 9th, concrete work will commence on West Newell, then,
 
 Please observe "No Parking" signs as posted in these areas through the spring. 
 
-- West Newell (full length)
-
-- Lincoln (Park – East Pierrepont)
-
-- Woodland (Ridge to Orient)
-
 - Yahara (Darwin to Vanderburg)
 
 - Monona (Grand to Vanderburg)
 
-- Insley (Grand to Jackson)
-
-- Sidney (full length)
 
 
 ## SUEZ Road Work in Rutherford Winter 2023
