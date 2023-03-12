@@ -34,8 +34,6 @@ title: 'COVID-19 Information'
 
 **Important links:** 
 
-Free COVID Home Testing: [https://learn.vaulthealth.com/nj/](https://learn.vaulthealth.com/nj/)
-
 COVID-19 Data Dashboard: [https://covid19.nj.gov/#live-updates](https://covid19.nj.gov/#live-updates)
 
 Vaccine Appointment Finder: [https://covid19.nj.gov/pages/finder](https://covid19.nj.gov/pages/finder)
