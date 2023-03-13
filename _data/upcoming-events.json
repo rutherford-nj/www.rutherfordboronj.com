@@ -30,5 +30,11 @@
     "content": "treefest.md",
     "image": "/upcoming-events/UpcomingEvents_400x300_Treefest.jpg",
     "remove-after": "2023-04-24"
+  },
+      {
+    "title": "Repair Cafe - Saturday, May 13th, 11:30am-3:30pm",
+    "content": "treefest.md",
+    "image": "/upcoming-events/UpcomingEvents_400x300_RepairCafe.jpg",
+    "remove-after": "2023-05-14"
   }
 ]
