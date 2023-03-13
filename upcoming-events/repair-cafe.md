@@ -2,7 +2,7 @@
 
 Volunteer experts will help you repair
 
-• bicycles • computers • clothing • small appliances • sewing machines
+• bicycles • computers • clothing • knit items • small appliances • sewing machines
 
 • lamps • electronics • jewelry •  and knife sharpening
 
