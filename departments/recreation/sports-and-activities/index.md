@@ -27,6 +27,6 @@ Rutherford Cub Scout Pack 168 - [Pack 168 Website](https://pack168rutherford.wor
 
 [Rutherford Junior Football and Cheerleading](https://www.leaguelineup.com/welcome.asp?url=rjfbulldogs)
 
-Rutherford FC Travel Soccer Club - [www.rutherfordfc.com](http://www.rutherfordfc.com/)
+Rutherford FC Travel Soccer Club - [www.rutherfordfc.org](https://www.rutherfordfc.org/))
 
 Rutherford Swim Association - [www.rutherfordswim.org](https://www.rutherfordswim.org/)
