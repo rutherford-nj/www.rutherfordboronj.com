@@ -5,7 +5,7 @@ parent: Government
 ---
 
 
-[Consumption License Bid](consumption-license/)
+[Consumption License Bid](../consumption-license/)
 
 [Job Posting: Building Sub-Code Official](https://storage.googleapis.com/static.rutherford-nj.com/finance/Employment/BUILDING%20SUB%20Posting.doc.pdf)
 
