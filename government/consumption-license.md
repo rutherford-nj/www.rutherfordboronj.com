@@ -10,4 +10,4 @@ parent: Government
 
 [- Public Notice](https://storage.googleapis.com/static.rutherford-nj.com/finance/Employment/consumption-license/BIDS.pdf)
 
-[- Borough Checklist](https://storage.googleapis.com/static.rutherford-nj.com/finance/Employment/consumption-license/Rutherford_Liquor%20license%20checklist%20and%20bid%20form.pdf))
+[- Borough Checklist](https://storage.googleapis.com/static.rutherford-nj.com/finance/Employment/consumption-license/Rutherford_Liquor%20license%20checklist%20and%20bid%20form.pdf)
