@@ -9,6 +9,10 @@ Wednesday, March 22, 2023 6:00 pm – 7:00 pm
 
 [See Flyer Here](https://storage.googleapis.com/static.rutherford-nj.com/health/posts/Drug%20Trends.pdf)
 
+**FREE NARCAN KITS AVAILABLE**
+
+Must be 18 years and older - Limited Supplies
+
 Rutherford Health Department 184 Park Ave. Rutherford NJ, 07070
 
 This Free presentation will be led by the Bergen County Prevention Coalition.
