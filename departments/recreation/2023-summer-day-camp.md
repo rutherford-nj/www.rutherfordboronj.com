@@ -8,7 +8,7 @@ parent: 'Recreation'
 
 **Registration opens Monday, April 3rd at 8:30 am via [RecDesk](https://rutherfordnj.recdesk.com/Community/Program)**
  
-[Please see attached flyer for more information](https://storage.googleapis.com/static.rutherford-nj.com/recreation/2023%20summer%20camp%20flyer_pricing.doc.pdf)
+[Please see attached flyer for more information](https://storage.googleapis.com/static.rutherford-nj.com/recreation/Summer%20Camp/2023%20summer%20camp%20flyer.doc.pdf)
  
 Day Camp Help Wanted! Click here for more information:  [New Rutherford Summer Camp Staff 2023 (google.com)](https://docs.google.com/forms/d/e/1FAIpQLScxSotlNZ13Ww1rcDE7NyfTa9tAa_CRxVFWu0-CmxJCgBUdMg/viewform)
 
@@ -16,13 +16,13 @@ Day Camp Help Wanted! Click here for more information:  [New Rutherford Summer C
 
 **OUR DAY CAMP PROGRAM IS FIRST COME – FIRST SERVED ~ LIMITED SPOTS AVAILABLE**
 
-The Rutherford Recreation Department Day Camp will be held from June 26 – August 4, 2023. Our Day Camp program is available to all resident children, entering Kindergarten through 8th grade in Fall 2023. Children will enjoy six fun-filled weeks of activities, sports, arts & crafts, special events & themed days.
+The Rutherford Recreation Department Day Camp will be held from June 26 – August 4, 2023. Our Day Camp program is available to all resident children, entering Kindergarten through 8th grade in Fall 2023. Children will enjoy six fun-filled weeks of activities, sports, arts & crafts, special events & themed days. All camps are $500 per child. 
 
 **KINDER CAMP Kindergarten-2nd Grade** (*must be entering the grade in Fall 2023) Location: Tamblyn Field 8:30am – 3:30pm 
 
 **JUNIOR CAMP Grades 3-4** (*must be entering the grade in Fall 2023) Location: Washington School 8:30am – 3:30pm 
 
-**SENIOR CAMP Grades 5-8** (*must be entering the grade in Fall 2023) Location: TBA (Camp will be in a Rutherford School) 8:30am – 3:30pm
+**SENIOR CAMP Grades 5-8** (*must be entering the grade in Fall 2023) Location: Pierrepont School (Camp will be in a Rutherford School) 8:30am – 3:30pm
 
 ➢ Campers must be entering the grade in Fall 2023
 
