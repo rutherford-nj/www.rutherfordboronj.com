@@ -2,5 +2,5 @@
     "inst 1": "to disable the banner, set the message below to empty quotes",
     "inst 2": "set type to 'warning' for a yellow banner, set to 'danger' for a red banner",
     "type": "warning",
-    "message": ""
+    "message": "Please note - the following dates of scheduled Mayor and Council meetings have been changed: The April 10th Mayor and Council meeting is rescheduled to April 17th.The April 24th Mayor and Council meeting is rescheduled to May 2nd. The May 8th Mayor and Council meeting has been cancelled. "
 }
