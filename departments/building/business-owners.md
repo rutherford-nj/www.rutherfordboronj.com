@@ -13,14 +13,10 @@ parent: 'Building'
 
 [Sidewalk Cafe and Parklet Ordinance](https://storage.googleapis.com/static.rutherford-nj.com/building/Building%20Dept%20Forms/Definitions.%20-%20License%20required.%20-%20General%20eligibility%20standards.%20-%20Application%20for%20licensing.%20%20-%20License%20investigations.%20-%20License%20issuance.%20-%20Restriction%20on%20transfer.%20-%20Consent%20to%20inspections.%20-%20Indemnif.pdf)
 
-- [Application for: Cafe License](https://storage.googleapis.com/static.rutherford-nj.com/building/Building%20Dept%20Forms/Cafe%20License%20Application.pdf) - 
-
-(For eating establishments intending to provide sidewalk dining)
+- [Application for: Cafe License](https://storage.googleapis.com/static.rutherford-nj.com/building/Building%20Dept%20Forms/Cafe%20License%20Application.pdf)(For eating establishments intending to provide sidewalk dining)
 
 
-- [Application for: Parklet](https://storage.googleapis.com/static.rutherford-nj.com/building/Building%20Dept%20Forms/Parklet%20Application.pdf)
-
-(For eating establishments intending to create and outdoor dining space using cement barriers)
+- [Application for: Parklet](https://storage.googleapis.com/static.rutherford-nj.com/building/Building%20Dept%20Forms/Parklet%20Application.pdf)(For eating establishments intending to create and outdoor dining space using cement barriers)
 
 Please send application (with layout) and $100 application fee. Once parklet is approved, additional fees will be collected beginning April 18, 2023
 
