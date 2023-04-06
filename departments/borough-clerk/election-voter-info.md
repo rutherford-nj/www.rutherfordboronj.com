@@ -14,6 +14,8 @@ parent: 'Borough Clerk'
 
 **June 2, June 3 & June 4, 2023** - Primary Early Voting Period
 
+[- Early Voting Locations in Bergen County](https://www.bergencountyclerk.org/Services/77)
+
 **June 6, 2023** - Primary Election
 
 Any resident may register to vote in the Borough Clerk's Office in Borough Hall at 176 Park Avenue during regular office hours of 8:30 a.m. to 4:30 p.m. Monday through Friday.  
