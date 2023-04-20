@@ -10,7 +10,7 @@ parent: 'Public Works'
 <iframe src="https://app.my-waste.mobi/US/NJ/Rutherford?resize" width="100%" height="700" frameborder="0"></iframe>
 <script src="https://app.my-waste.mobi/resources/js/release/client.min.js" type="text/javascript"></script>
 
-[**Rutherford Recycles - A List of What Is and Isn't Acceptable**](https://storage.googleapis.com/static.rutherford-nj.com/public-works/Rutherford%202019%20recycling.pdf)
+[**Rutherford Recycles - A List of What Is and Isn't Acceptable**](https://storage.googleapis.com/static.rutherford-nj.com/public-works/Rutherford%20Recycling.pdf)
 
 [**What To Keep Out Of Your Recycling Bin**](https://storage.googleapis.com/static.rutherford-nj.com/public-works/Poster-Most-Common-Contaminants.pdf)
 
