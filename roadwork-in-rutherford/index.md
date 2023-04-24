@@ -19,7 +19,7 @@ Please observe "No Parking" signs as posted in these areas through the spring.
 ## Veolia Road Work in Rutherford Spring 2023
 
 
-[**Veolia Roadwork Schedule April 3-7**](https://storage.googleapis.com/static.rutherford-nj.com/road-work/Dewcon%20Rutherford%20Schedule%20for%204-3-23%20thru%204-7-23.pdf)
+[**Veolia Roadwork Schedule April 24-27**](https://storage.googleapis.com/static.rutherford-nj.com/road-work/Dewcon%20Rutherford%20Schedule%20for%204-24-23%20thru%204-7-28.pdf)
 Veolia is working in Rutherford streets as part of the company’s ongoing project to remove the remaining lead from the system. 
 
 For more information click here: [https://mywater.veolia.us/new-jersey/water-in-my-area/service-lines](https://mywater.veolia.us/new-jersey/water-in-my-area/service-lines)
