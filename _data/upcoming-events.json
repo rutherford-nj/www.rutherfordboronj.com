@@ -8,29 +8,23 @@
     "remove-after": "2023-03-09"
   },
   {
-    "title": "FREE Balance & Fall Prevention Seminar - Thursday, March 9th, 11am-12pm",
-    "content": "health-fall-prevention.md",
-    "image": "/upcoming-events/UpcomingEvents_400x300_Health.jpg",
-    "remove-after": "2023-03-10"
-  }, 
-  {
     "title": "FREE Rabies Clinic - Saturday, March 18th, 10am-2pm",
     "content": "rabies-2023.md",
     "image": "/upcoming-events/UpcomingEvents_400x300_Health.jpg",
     "remove-after": "2023-03-19"
   },  
-    {
-    "title": "TreeFest '23 - Saturday, April 22nd, 12pm-5pm",
-    "content": "treefest.md",
-    "image": "/upcoming-events/UpcomingEvents_400x300_Treefest.jpg",
-    "remove-after": "2023-04-24"
-  },
       {
     "title": "Blood Screening - Saturday, April 29th, 7am-9am",
     "content": "blood-screening.md",
     "image": "/upcoming-events/UpcomingEvents_400x300_Health.jpg",
     "remove-after": "2023-04-30"
   },
+    {
+    "title": "COVID Booster Immunization Clinic - Thursday, May 11th, 3pm-7pm",
+    "content": "health-covid-booster.md",
+    "image": "/upcoming-events/UpcomingEvents_400x300_Health.jpg",
+    "remove-after": "2023-05-12"
+  }, 
       {
     "title": "Repair Cafe - Saturday, May 13th, 11:30am-3:30pm",
     "content": "repair-cafe.md",
