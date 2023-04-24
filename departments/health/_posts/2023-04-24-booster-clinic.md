@@ -3,9 +3,10 @@ layout: blog
 title: "COVID Booster Clinic 5/11/23"
 ---
 
+# COVID-19 IMMUNIZATION CLINIC
+
 [See Flyer Here](https://storage.googleapis.com/static.rutherford-nj.com/health/posts/Rutherford%20COVID19%20Vax%20Event.pdf)
 
-# COVID-19 IMMUNIZATION CLINIC
 
 **THURSDAY, MAY 11 - 3PM - 7PM**
 
