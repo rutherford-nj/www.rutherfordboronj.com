@@ -16,6 +16,10 @@ Staying up to date with COVID 19 vaccinations and boosters is the most effective
 
 To register, visit: [bergencovidvaccine.com/vaccine/invite](https://bergencovidvaccine.com/vaccine/invite)
 
+Pzer Passcode: RutherfordPzer 
+
+Moderna Passcode: RutherfordModerna
+
 Please bring:
 
 • ID and insurance information (if applicable)
