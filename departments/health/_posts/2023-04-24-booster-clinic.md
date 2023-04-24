@@ -14,7 +14,7 @@ Rutherford Health Department 184 Park Ave., Rutherford, NJ 07070
 
 Staying up to date with COVID 19 vaccinations and boosters is the most effective tool we have for reducing death, hospitalization, and severe illness from COVID-19.
 
-To register, visit: bergencovidvaccine.com/vaccine/invite
+To register, visit: [bergencovidvaccine.com/vaccine/invite](https://bergencovidvaccine.com/vaccine/invite)
 
 Please bring:
 
