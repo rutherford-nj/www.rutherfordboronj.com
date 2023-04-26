@@ -9,6 +9,8 @@ Saturday, April 29, 2023
 
 7:00am-9:00am
 
+Walk-ins Welcome
+
 BLOOD SCREENING FEE: $22.00
 
 [See Flyer Here](https://storage.googleapis.com/static.rutherford-nj.com/health/posts/Blood%20Screening%20Flyer%2004.29.23.pdf)
