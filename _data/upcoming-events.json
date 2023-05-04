@@ -1,24 +1,6 @@
 [
   
 
-  {
-    "title": "Vaping: Save Your Breath, What Every Parents Needs To Know - Tuesday, March 7th, 6pm",
-    "content": "vaping.md",
-    "image": "/upcoming-events/UpcomingEvents_400x300_vaping.jpg",
-    "remove-after": "2023-03-09"
-  },
-  {
-    "title": "FREE Rabies Clinic - Saturday, March 18th, 10am-2pm",
-    "content": "rabies-2023.md",
-    "image": "/upcoming-events/UpcomingEvents_400x300_Health.jpg",
-    "remove-after": "2023-03-19"
-  },  
-      {
-    "title": "Blood Screening - Saturday, April 29th, 7am-9am",
-    "content": "blood-screening.md",
-    "image": "/upcoming-events/UpcomingEvents_400x300_Health.jpg",
-    "remove-after": "2023-04-30"
-  },
     {
     "title": "COVID Booster Immunization Clinic - Thursday, May 11th, 3pm-7pm",
     "content": "health-covid-booster.md",
@@ -36,5 +18,11 @@
     "content": "skin-screening.md",
     "image": "/upcoming-events/UpcomingEvents_400x300_Health.jpg",
     "remove-after": "2023-05-16"
-  }
+  },
+      {
+    "title": "2023 Mayor's Volunteer Recognition Dinner - Friday, June 23rd, 7:00pm-11:00pm",
+    "content": "volunteeer.md",
+    "image": "/upcoming-events/UpcomingEvents_400x300_Volunteer.jpg",
+    "remove-after": "2023-06-24"
+  } 
 ]
