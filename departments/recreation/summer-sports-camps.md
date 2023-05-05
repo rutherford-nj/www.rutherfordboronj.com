@@ -13,3 +13,5 @@ parent: 'Recreation'
 - [All-Pro Football Camp](https://storage.googleapis.com/static.rutherford-nj.com/recreation/Summer%20Camp/summer-sports-camps/All-Pro%20FootballCamp%20Flyer%202023.pdf)
 
 - [1st Touch Soccer Camp](https://storage.googleapis.com/static.rutherford-nj.com/recreation/Summer%20Camp/summer-sports-camps/1st%20Touch%20Soccer%20Camp%20Brochure%20Summer%202023.pdf)
+
+- [Felician Womens Basketball Camp](https://www.accelevents.com/e/2023-womens-basketball-summer-camps)
