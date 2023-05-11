@@ -13,6 +13,12 @@
     "image": "/upcoming-events/UpcomingEvents_400x300_RepairCafe.jpg",
     "remove-after": "2023-05-14"
   },
+      {
+    "title": "2023 Mayors Wellness Family Bike Rides",
+    "content": "bikerides.md",
+    "image": "/upcoming-events/UpcomingEvents_400x300_bikerides.jpg",
+    "remove-after": "2023-09-20"
+  }, 
         {
     "title": "FREE Skin Cancer Screening - Monday, May 15th, 3:30pm-5:30pm",
     "content": "skin-screening.md",
