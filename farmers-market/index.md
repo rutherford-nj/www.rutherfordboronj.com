@@ -3,9 +3,7 @@ layout: page
 title: 'Farmers Market'
 ---
 
-# 2022 Farmers' Market sponsored by [MAST](https://mastconstruction.com/)      
-
-Due to the anticipated weather conditions, the Farmers Market has been cancelled for Wednesday, October 5th. 
+# 2022 Farmers' Market 
 
 
 [See Flyer Here](https://storage.googleapis.com/static.rutherford-nj.com/farmers-market/FarmersMarket2022.pdf)
