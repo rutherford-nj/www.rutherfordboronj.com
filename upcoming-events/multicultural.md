@@ -1,10 +1,14 @@
-2022 Multicultural Festival - Friday September 9th and Saturday September 10th
+Presented by the Rutherford Civil Rights Commission
 
 Lincoln Park
 
-Friday September 9th - 5:00 - 9:00 pm
+The Rutherford Civil Rights Commission is proud to welcome you to the 19th annual
+Rutherford Multicultural Festival — Rutherford’s fun, free, family-friendly celebration of
+diversity — taking place this year on Sept 8 and 9.
 
-Saturday September 10th - 1:00 - 8:00 pm
+Save the date and join us for a weekend of live music, dancing, art, spoken word, food
+and vendors from around the world!
 
-Presented by the Rutherford Civil Rights Commission
-
+If you would like to join us as an official festival sponsor, vendor or exhibitor, please get
+in touch: CivilRightsCommission@rutherfordboronj.com. No contribution is too small
+and all are welcome!
