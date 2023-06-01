@@ -20,4 +20,16 @@
     "image": "/upcoming-events/UpcomingEvents_400x300_Volunteer.jpg",
     "remove-after": "2023-06-24"
   } 
+      {
+    "title": "Farmers Market - Wednesdays & Saturdays July 5th - October 28th",
+    "content": "farmers-market.md",
+    "image": "/upcoming-events/UpcomingEvents_400x300_farmersmarket.jpg",
+    "remove-after": "2023-11-01"
+  },
+      {
+    "title": "19th Annual Multicultural Festival - Friday Sept. 8th & Saturday Sept. 9th",
+    "content": "multicultural.md",
+    "image": "/upcoming-events/UpcomingEvents_400x300_multicultural.jpg",
+    "remove-after": "2023-09-10"
+  }
 ]
