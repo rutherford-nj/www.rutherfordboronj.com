@@ -19,4 +19,4 @@ An application received without all required documentation will not be processed
 An application received from a non-resident will be denied.  Your driver’s license must reflect your Rutherford home address.  The only exclusion is business issued permits. 
 
 
-[**Click here for more information and application**](https://storage.googleapis.com/static.rutherford-nj.com/police/Parking%20Permit%20Letter%20and%20Application%20(1).pdf).
+[**Click here for more information and application**](https://storage.googleapis.com/static.rutherford-nj.com/police/Parking%20Permit%20Letter%20and%20Application.pdf)
