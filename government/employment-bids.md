@@ -5,8 +5,6 @@ parent: Government
 ---
 
 
-[RFP: Event Planner](https://storage.googleapis.com/static.rutherford-nj.com/finance/Employment/RFP%20Event%20Planner%20Notice.pdf)
-
 [Job Posting: Park Rangers](https://storage.googleapis.com/static.rutherford-nj.com/finance/Employment/Help%20Wanted%20-%20Park%20Ranger%20RUTHERFORD%20RECREATION%20DEPARTMENT.pdf)
 
 [RPD: Class IB Special Law Enforcement Officer](https://storage.googleapis.com/static.rutherford-nj.com/finance/Employment/SLEO%20Class%20IB%20Requirements%20and%20Application%20Details.pdf)
