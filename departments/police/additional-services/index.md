@@ -4,7 +4,7 @@ title: 'Additional Police Services'
 parent: 'Police Department'
 ---
 
-[**Alarm Registration**](alarms/)
+[**Persons with a Disability Placard**](disability-placard/)
 
 [**Firearms Applications**](firearms/)
 
