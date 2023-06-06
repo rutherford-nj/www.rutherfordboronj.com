@@ -9,7 +9,7 @@ parent: 'Additional Police Services'
 
 Report missing pets to the Borough’s Animal Control Officer at 201-652-4554. 
 
-Don’t forget to register your dog and/or cat annually through the Police Department Records Bureau, which can be reached weekdays at 201-460-3045.
+Don’t forget to register your dog and/or cat annually through the Police Department Records Bureau, which can be reached weekdays at 201-939-6000.
 
 **ANIMAL CONTROL SERVICES**
 
@@ -18,11 +18,11 @@ The Borough of Rutherford contracts with Tyco Professional Animal Control Servic
 
 **PET LICENSING**
 
-[Dog License](https://storage.googleapis.com/static.rutherford-nj.com/police/Dog%20Registration%20Application.pdf)
+[Dog License](https://storage.googleapis.com/static.rutherford-nj.com/police/RPD_Dog%20Registration%20Application.pdf)
 
 Records Bureau – $7.00 fee. Must have proof of valid Rabies Shot. Expires yearly in January.
 
-[Cat License](https://storage.googleapis.com/static.rutherford-nj.com/police/RPD_Cat-License.pdf)
+[Cat License](https://storage.googleapis.com/static.rutherford-nj.com/police/RPD_Cat%20Registration%20Application.pdf)
 
 Records Bureau – $7.00 fee. Must have proof of valid Rabies Shot. Expires when Rabies expires.
 
