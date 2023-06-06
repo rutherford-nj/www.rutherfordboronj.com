@@ -131,6 +131,8 @@ departments:
   police:
     - text: Personnel / Contacts
       href: personnel-contacts/
+    - text: Records Bureau
+      href: records-bureau/
     - text: Firearms Applications
       href: additional-services/firearms/ 
     - text: Policies
