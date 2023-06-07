@@ -34,5 +34,11 @@
     "content": "multicultural.md",
     "image": "/upcoming-events/UpcomingEvents_400x300_multicultural.jpg",
     "remove-after": "2023-09-10"
+  },
+    {
+    "title": "3rd Annual Rutherford Day - Saturday, September 23rd",
+    "content": "rutherford-day.md",
+    "image": "/upcoming-events/UpcomingEvents_400x300_RutherfordDay.jpg",
+    "remove-after": "2023-09-24"
   }
 ]
