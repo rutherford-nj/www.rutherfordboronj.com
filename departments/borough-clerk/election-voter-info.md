@@ -8,15 +8,7 @@ parent: 'Borough Clerk'
 
 # 2023 Primary Election Dates
 
-**April 12, 2023** - Party Affiliation Deadline
-
-**May 16, 2023** - Voter Registration Deadline
-
-**June 2, June 3 & June 4, 2023** - Primary Early Voting Period
-
-[- Early Voting Locations in Bergen County](https://www.bergencountyclerk.org/Services/77)
-
-**June 6, 2023** - Primary Election
+[**Bergen County Clerk Election Results**](https://www.bergencountyclerk.org/Election/)
 
 The Official Mail-In Ballots for the June Primary have been mailed out to voters with **Active Vote By Mail Requests.** Only voters with active vote by mail requests will receive their ballot. Voters with active requests who do not receive their ballot by May 6, 2023 should call the County at 201-336-7020 to request a duplicate. The Deadline for the County to receive Vote by Mail Applications for this Election is **May 30, 2023.**
 
