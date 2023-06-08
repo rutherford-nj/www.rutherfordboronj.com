@@ -1,7 +1,3 @@
-Saturday, June 25, 2022
-
-9:00am - 1:00pm
-
 rain or shine 
 
 Rutherford DPW - 220 Highland Cross
