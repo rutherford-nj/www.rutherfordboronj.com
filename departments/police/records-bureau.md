@@ -11,7 +11,7 @@ Phone 201-939-6000
 
 Fax 201-460-3046
 
-Reports@rutherfordpd.com 
+Email: Reports@rutherfordpd.com 
 
  
 The Records Bureau’s main responsibilities are to securely store, retrieve, distribute and dispose of police reports. Police reports consist of investigation reports, supplement reports, motor vehicular crashes, property reports, arrests, and miscellaneous incident reports. All reports are assigned a “case number” and are maintained numerically.
