@@ -23,17 +23,23 @@
     "image": "/upcoming-events/UpcomingEvents_400x300_Volunteer.jpg",
     "remove-after": "2023-06-24"
   },
-  {
-    "title": "Farmers Market - Wednesdays & Saturdays July 5th - October 28th",
-    "content": "farmersmarket.md",
-    "image": "/upcoming-events/UpcomingEvents_400x300_farmersmarket.jpg",
-    "remove-after": "2023-11-01"
+    {
+    "title": "Fireworks at Memorial Field - Saturday, July 1st",
+    "content": "fireworks.md",
+    "image": "/upcoming-events/UpcomingEvents_400x300_fireworks.jpg",
+    "remove-after": "2023-07-03"
   },
   {
     "title": "Shred Day & Styrofoam Collection - Saturday, July 1st, 9:00am-1:00pm",
     "content": "shred-styrofoam-day.md",
     "image": "/upcoming-events/UpcomingEvents_400x300_styrofoam.jpg",
     "remove-after": "2023-07-03"
+  },
+    {
+    "title": "Farmers Market - Wednesdays & Saturdays July 5th - October 28th",
+    "content": "farmersmarket.md",
+    "image": "/upcoming-events/UpcomingEvents_400x300_farmersmarket.jpg",
+    "remove-after": "2023-11-01"
   },
   {
     "title": "19th Annual Multicultural Festival - Friday Sept. 8th & Saturday Sept. 9th",
