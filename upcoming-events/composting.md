@@ -4,7 +4,7 @@
 Location: Rutherford Community Garden 280 West Erie Ave
 
 
-Rain Date: June 19
+Rain Date: June 25th
 
 Sponsor: The Rutherford Green Team
 
@@ -18,5 +18,3 @@ garden gold while keeping it out of the landfill.
 •Learn about indoor composting
 
 We can help purchase your own Earth Machine backyard composter from the BCUA for the deeply discounted price of $60.00 (checks only) at this event. To order, contact us at greenteam@rutherfordboronj.com
-
-Location: Rutherford Community Garden, 280 West Erie Avenue
