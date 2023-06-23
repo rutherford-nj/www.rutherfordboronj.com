@@ -2,5 +2,5 @@
     "inst 1": "to disable the banner, set the message below to empty quotes",
     "inst 2": "set type to 'warning' for a yellow banner, set to 'danger' for a red banner",
     "type": "warning",
-    "message": ""
+    "message": "Please note: Beginning Monday, June 26th, Mayor and Council meetings will be held at the new Police HQ, 18 Donaldson Avenue"
 }
