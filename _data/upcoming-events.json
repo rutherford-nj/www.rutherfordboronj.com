@@ -11,18 +11,6 @@
     "image": "/upcoming-events/UpcomingEvents_400x300_DO.jpg",
     "remove-after": "2023-07-01"
   },
-    {
-    "title": "Arts Amble - Sunday, June 11th 12:00pm-4:00pm",
-    "content": "artsamble.md",
-    "image": "/upcoming-events/UpcomingEvents_400x300_artsamble.jpg",
-    "remove-after": "2023-06-12"
-  },
-   {
-    "title": "Composting Workshop - Postponed to Sunday, June 25th, 10:00am",
-    "content": "composting.md",
-    "image": "/upcoming-events/UpcomingEvents_400x300_composting.jpg",
-    "remove-after": "2023-06-26"
-  },
   {
     "title": "91st Annual Baby Parade - Saturday, July 1st",
     "content": "baby-parade.md",
