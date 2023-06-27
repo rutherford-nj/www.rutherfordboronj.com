@@ -1,17 +1,17 @@
-JUNE 30TH     THE UNBROTHERS 
+June 29th    McGill & Company 
 
-JULY 7TH      RUTHERFORD COMMUNITY BAND
+July 6th     Rutherford Community Band
 
-JULY 14TH     KIMON & THE PROPHETS  
+July 13th    Swingman & the Misfit Mutts  
 
-JULY 21ST     STRING THEORY & BIG HOUSE 
+July 20th    Rock Kandy 
 
-JULY 28TH     ONE HIT WONDERERS  
+July 27th    Royal Scam  
 
-AUG 4TH       ANDRES NIES BAND 
+August 3rd   Big House 
 
-AUG 11TH      ELVIS & ELTON TRIBUTE 
+August 10th  Kimon & the Prophets 
 
-AUG 18TH      MUSHMOUTH   
+August 17th  Kurt & Marty Band   
 
-Rain Dates will be held on the following Monday, with the exception of the June 30th concert whose rain date is July 5th.
+Rain Dates will be held on the following Monday.
