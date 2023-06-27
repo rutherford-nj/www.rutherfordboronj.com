@@ -1,9 +1,5 @@
 **2023 Family Bike Rides - All rides start from Rutherford Police HQ**
 
-Monday May 15  6:30pm 
-
-Tuesday June 13 6:30pm 
-
 Monday July 31 6:30pm 
 
 Monday Aug 21 6:30pm 
