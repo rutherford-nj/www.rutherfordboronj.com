@@ -2,5 +2,5 @@
     "inst 1": "to disable the banner, set the message below to empty quotes",
     "inst 2": "set type to 'warning' for a yellow banner, set to 'danger' for a red banner",
     "type": "warning",
-    "message": "Borough Hall will close at 1pm Monday, July 3rd and reopen 8:30am Wednesday, July 5th. Happy Independence Day!"
+    "message": "Borough Hall will close at 2pm Monday, July 3rd and reopen 8:30am Wednesday, July 5th. Happy Independence Day!"
 }
