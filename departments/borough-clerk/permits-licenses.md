@@ -40,7 +40,7 @@ Please click on an item below to download the appropriate form and return to the
 
 **Liquor License** – Renewed yearly – 4 club licenses and 10 store licenses. Application process in compliance with Alcohol Beverage Control Commission requirements.
 
-[**Memorial Park Bench Sponsorship Application**](https://storage.googleapis.com/static.rutherford-nj.com/borough-clerk/permits-licenses/2022_Rutherford_BenchSponsorship.pdf)
+[**Memorial Park Bench Sponsorship Application**](https://storage.googleapis.com/static.rutherford-nj.com/borough-clerk/permits-licenses/2023_Rutherford_BenchSponsorship.pdf)
 
 [**Mobile Storage Unit (POD)**](https://storage.googleapis.com/static.rutherford-nj.com/borough-clerk/permits-licenses/POD.pdf)
 – Maintenance of container must meet requirements of Ordinance # 3126-06.  Storage units must be legally parking in compliance with NJ Motor Vehicle laws.  Fee $25. If being placed in meter spaces $25 per day, per meter.
