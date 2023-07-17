@@ -1,5 +1,5 @@
 
-**6-8pm - Lincoln Park**
+**Lincoln Park**
 
 **Presented by the Rutherford Police Department**
 
@@ -9,8 +9,6 @@ Follow us for updates @RutherfordPDNJ
 
 Get to know your hometown heroes!
  
-STUFF the HUNGRY HUMVEE  #HUNGRYHUMVEE Support the long term and short term residents of the Bergen County Animal Shelter.
-
 Free activities for children and refreshments. To learn more, like us on Facebook, Twitter and Instagram @RutherfordPDNJ
 
 For more information, or to register your organization to participate, contact Administrative Sergeant Tom Lewis at tlewis@rutherfordpd.com 
