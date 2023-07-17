@@ -104,8 +104,6 @@ title: 'Committees'
 > 
 > The Historic Preservation Committee meets the 1st Monday of each Month at 7:30 p.m.  If interested in attending a meeting, kindly email: ruthefordhpc@gmail.com for information.
 
-> [Historic Sites Inventory as compiled by McCabe & Associates](https://www.rutherfordhpc.org/hsi)
-
 ---
 
 **Municipal Alliance/Youth Advisory** - Council Liaison: Stephanie McGowan
