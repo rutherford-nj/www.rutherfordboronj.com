@@ -18,22 +18,10 @@
     "remove-after": "2023-08-19"
   },
   {
-    "title": "91st Annual Baby Parade - Saturday, July 1st",
-    "content": "baby-parade.md",
-    "image": "/upcoming-events/UpcomingEvents_400x300_babyparade.jpg",
-    "remove-after": "2023-07-03"
-  },
-  {
-    "title": "Fireworks at Memorial Field - Saturday, July 1st",
-    "content": "fireworks.md",
-    "image": "/upcoming-events/UpcomingEvents_400x300_fireworks.jpg",
-    "remove-after": "2023-07-03"
-  },
-  {
-    "title": "Shred Day & Styrofoam Collection - Saturday, July 1st, 9:00am-1:00pm",
-    "content": "shred-styrofoam-day.md",
-    "image": "/upcoming-events/UpcomingEvents_400x300_styrofoam.jpg",
-    "remove-after": "2023-08-09"
+    "title": "National Night Out - Tuesday, August 1st, 6:00pm-8:00pm",
+    "content": "nno.md",
+    "image": "/upcoming-events/UpcomingEvents_400x300_NNO.jpg",
+    "remove-after": "2023-08-02"
   },
     {
     "title": "Farmers Market - Wednesdays & Saturdays July 5th - October 28th",
