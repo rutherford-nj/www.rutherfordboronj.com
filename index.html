@@ -157,9 +157,15 @@ title: '07070'
         </div>
       </div>
 
+      <link rel="stylesheet" href="/static/vendor/mastodon-embed-feed-timeline-master/src/mastodon-timeline.css" />
+      <script src="/static/vendor/mastodon-embed-feed-timeline-master/src/mastodon-timeline.js"></script>
       <div class="card mb-4 border-2">
         <div class="card-body">
-          {% include twitter.html username="Rutherford07070" %}
+          <div class="mt-timeline">
+            <div id="mt-body" class="mt-body" role="feed">
+              <div class="loading-spinner"></div>
+            </div>
+          </div>
         </div>
       </div>
     </div>
