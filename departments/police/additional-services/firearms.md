@@ -19,7 +19,7 @@ For firearms applicants that have resided outside of New Jersey within the last 
 The required ORI for the Rutherford Police Department is:  **NJ0025600**
 
 
-**Carry Permits**
+# Carry Permits
 
 Carry permits can be applied for via: 
  
