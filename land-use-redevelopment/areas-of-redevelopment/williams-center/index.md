@@ -19,9 +19,9 @@ title: 'The Williams Center'
 
 **Below find documents related to Williams Center redevelopment:**
 
-[Redevelopment Study (May, 2016)](https://storage.googleapis.com/static.rutherford-nj.com/community-development/williams-center/William%20Center_%20Theater%20District%20Redevelopment%20Study.pdf)
+[- Redevelopment Study (May, 2016)](https://storage.googleapis.com/static.rutherford-nj.com/community-development/williams-center/William%20Center_%20Theater%20District%20Redevelopment%20Study.pdf)
 
-[Redevelopment Plan (December, 2020)](https://storage.googleapis.com/static.rutherford-nj.com/community-development/williams-center/Wm%20Ctr%20M%26C%20RES201.pdf)
+[- Redevelopment Plan (December, 2020)](https://storage.googleapis.com/static.rutherford-nj.com/community-development/williams-center/Wm%20Ctr%20M%26C%20RES201.pdf)
 
-[Redevelopment Plan (Amended June 2022)](https://storage.googleapis.com/static.rutherford-nj.com/community-development/williams-center/wcw%20RDP%20JUNE%202022%20ORD.pdf)
+[- Redevelopment Plan (Amended June 2022)](https://storage.googleapis.com/static.rutherford-nj.com/community-development/williams-center/wcw%20RDP%20JUNE%202022%20ORD.pdf)
 
