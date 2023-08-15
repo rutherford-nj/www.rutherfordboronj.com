@@ -29,7 +29,7 @@ Please click on an item below to download the appropriate form and return to the
 
 [**Handicapped Parking Request**](https://storage.googleapis.com/static.rutherford-nj.com/borough-clerk/permits-licenses/HANDICAP%20POLICY%2012-2021.pdf)
 
-[**Hold Harmless Agreement**](https://storage.googleapis.com/static.rutherford-nj.com/borough-clerk/permits-licenses/Forms/HOLD%20HARMLESS.pdf)
+[**Hold Harmless Agreement**](https://storage.googleapis.com/static.rutherford-nj.com/borough-clerk/permits-licenses/Forms/2023-8-7%20Hold%20Harmless.pdf)
 
 [**Limousine License**](https://storage.googleapis.com/static.rutherford-nj.com/borough-clerk/permits-licenses/Forms/LIVERY%20LIMO.pdf) – Certificate to obtain "o" license from Motor Vehicle available only to a business based in Rutherford with a Certificate of Occupancy.  Fee is $50 per car, insurance policy and proof of ownership required.
 
