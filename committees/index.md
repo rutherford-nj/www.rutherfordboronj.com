@@ -74,9 +74,9 @@ title: 'Committees'
 
 ---
 
-**Art Committee** - Council Liaison: Matthew Cokeley
+[**Arts Committee**](arts/) - Council Liaison: Matthew Cokeley
 
-> Focused on advancing the visibility of arts in Rutherford.
+> Focused on advancing the visibility of arts in Rutherford by providing platforms and programs for music and visual arts.
 
 ---
 
