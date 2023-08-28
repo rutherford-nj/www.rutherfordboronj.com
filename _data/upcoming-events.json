@@ -29,12 +29,6 @@
     "image": "/upcoming-events/UpcomingEvents_400x300_farmersmarket.jpg",
     "remove-after": "2023-11-01"
   },
-     {
-    "title": "Health Dept - FREE Glaucoma & Vision Screening - Tuesday, August 8th, 2:00pm-6:00pm ",
-    "content": "health-glaucoma.md",
-    "image": "/upcoming-events/UpcomingEvents_400x300_Health.jpg",
-    "remove-after": "2023-08-09"
-  },
   {
     "title": "19th Annual Multicultural Festival - Friday Sept. 8th & Saturday Sept. 9th",
     "content": "multicultural.md",
@@ -57,6 +51,12 @@
     "title": "Health Dept - Blood Screening - Saturday, October 14th, 7:00pm-9:00am ",
     "content": "breast-pap-screening.md",
     "image": "/upcoming-events/UpcomingEvents_400x300_Health.jpg",
+    "remove-after": "2023-10-15"
+  },
+    {
+    "title": "Green Team Repair Cafe - Saturday, October 14th, 11:30am-3:30pm",
+    "content": "repair-cafe.md",
+    "image": "/upcoming-events/UpcomingEvents_400x300_RepairCafe.jpg",
     "remove-after": "2023-10-15"
   },
      {
