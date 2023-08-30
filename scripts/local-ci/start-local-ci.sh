@@ -12,6 +12,7 @@ docker build . -t rutherford-site-webhook
 
 cd ../../
 
+# env-file should contain a line like GITHUB_WEBHOOK_SECRET=<secret goes here>
 docker run --rm -d -p 58778:9000 \
     --name=rutherford-site-webhook \
     -v `pwd`:/site \
