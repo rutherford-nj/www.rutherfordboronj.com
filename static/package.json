@@ -9,7 +9,7 @@
   },
   "devDependencies": {
     "@types/bootstrap": "^5.2.6",
-    "@types/lunr": "^2.3.4",
+    "@types/lunr": "^2.3.5",
     "ts-loader": "^9.4.4",
     "typescript": "^5.2.2",
     "webpack": "^5.88.2",
