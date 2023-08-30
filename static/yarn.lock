@@ -93,10 +93,10 @@
   resolved "https://registry.yarnpkg.com/@types/json-schema/-/json-schema-7.0.11.tgz#d421b6c527a3037f7c84433fd2c4229e016863d3"
   integrity sha512-wOuvG1SN4Us4rez+tylwwwCV1psiNVOkJeM3AUWUNWg/jDQY2+HE/444y5gc+jBmRqASOm2Oeh5c1axHobwRKQ==
 
-"@types/lunr@^2.3.4":
-  version "2.3.4"
-  resolved "https://registry.yarnpkg.com/@types/lunr/-/lunr-2.3.4.tgz#728f445855818fb17776d10ef4678f278072eb03"
-  integrity sha512-j4x4XJwZvorEUbA519VdQ5b9AOU9TSvfi8tvxMAfP8XzNLtFex7A8vFQwqOx3WACbV0KMXbACV3cZl4/gynQ7g==
+"@types/lunr@^2.3.5":
+  version "2.3.5"
+  resolved "https://registry.yarnpkg.com/@types/lunr/-/lunr-2.3.5.tgz#de3a04b085477ce1d7519c8cbdceed92f9310593"
+  integrity sha512-C4xYh7A4FRKg70AWJCe27oJYVPhUlEY5MQ4dKbRR7G6Xsb2HiqO672yWHRvWxl8/h7IuISvwDjv88ECHUEsV2A==
 
 "@types/node@*":
   version "18.7.14"
