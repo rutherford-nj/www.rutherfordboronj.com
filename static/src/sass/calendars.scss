@@ -13,3 +13,11 @@
     display: block;
   }
 }
+
+.calendars-agenda, .calendars-calendar {
+  iframe {
+    border-width: 0;
+    height: 700;
+    width: 100%;
+  }
+}
