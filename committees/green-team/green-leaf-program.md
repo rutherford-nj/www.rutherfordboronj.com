@@ -49,8 +49,8 @@ Rutherford Green Team “priority  actions” include
 * _Certification Programs_: **Other Sustainability Certification/Recognition Programs**
 * _Environmental & Community Restoration_: **Share your Environmental Successes**
 
-<a href="https://drive.google.com/uc?export=view&id=1c5umc_VHXTlbGn98vVl4fXJW5zSfs0w1">
-  <img src="https://drive.google.com/uc?export=view&id=1c5umc_VHXTlbGn98vVl4fXJW5zSfs0w1" alt="Action table" width="1000"/>
+<a href="../images/green-leaf-criteria-sheet.png">
+  <img src="../images/green-leaf-criteria-sheet.png" alt="Green Leaf Criteria" class="w-100"/>
 </a>
 
 ## Application
