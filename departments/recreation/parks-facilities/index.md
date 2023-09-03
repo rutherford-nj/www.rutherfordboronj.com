@@ -12,7 +12,7 @@ parent: 'Recreation'
 
 The Recreation Department hosts many programs and activities at the locations below throughout the year:
 
-<div style="float: right;">
+<div class="float-end">
   <div><iframe src="https://www.google.com/maps/d/embed?mid=z9E2BG8u0Qag.ktvpfdZ0zmPo" width="500" height="500"></iframe></div>
   <div><a href="https://www.google.com/maps/d/u/0/viewer?mid=z9E2BG8u0Qag.ktvpfdZ0zmPo">Click here for a full size map</a></div>
 </div>

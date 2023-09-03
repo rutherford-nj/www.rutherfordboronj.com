@@ -21,6 +21,10 @@
           {
             "key": "X-Content-Type-Options",
             "value": "nosniff"
+          },
+          {
+            "key": "Content-Security-Policy-Report-Only",
+            "value": "default-src 'self'; script-src 'self' 'sha256-hT33OHukrH2Aaf3kryOkRikct83EcDApVdyMpg1mn+Q=' 'sha256-TN3bJXVtEmB2dawszhQmPChRQE5Ll0q1HzSFEKZtUXs=' https://s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js https://platform.twitter.com https://www.google-analytics.com https://www.googletagmanager.com; connect-src 'self' https://mastodon.social https://stats.g.doubleclick.net https://www.google-analytics.com https://www.googleapis.com; frame-src 'self' https://calendar.google.com https://www.google.com https://platform.twitter.com https://syndication.twitter.com https://drive.google.com/file/d/1eCbMN79aHj2hYOltheZV-ItHe4GH1j0B/preview; img-src 'self' data: https://files.mastodon.social https://syndication.twitter.com https://www.google-analytics.com; style-src 'self' https://cdn-images.mailchimp.com/embedcode/classic-10_7.css; report-uri https://us-central1-rutherford-nj.cloudfunctions.net/csp-report"
           }
         ]
       },

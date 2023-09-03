@@ -11,7 +11,7 @@ path_components ends up being an array like ["", "departments", "borough-clerk"]
 {% if path_components.size > 2 %}
   {% if path_components[1] == "departments" %}
   {% comment %} this is how we'll do department-specific ones
-  <div class="container-fluid" style="background-color:aquamarine;">
+  <div class="container-fluid">
     {{ path_components[2] }}<br>
     we're going to put a beautiful banner here<br>
     it'll be the best<br>
