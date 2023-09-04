@@ -16,14 +16,14 @@ Payment can pay made online via Community Pass or in person or mailed to the Rec
 ## Fall
 
 <div class="table-responsive" markdown=1>
-| Program | Time Frame | Age |	Fee Per Participant |
-|:--------|:----------:|:---:|:-------------------:|
-| **Rec Soccer**      | SEPT-OCT          | K-8th Gr   | $75  |
-| **Cross Country**   | SEPT-NOV 8 Weeks  | 2nd-8th Gr | $75  |
-| **Tennis**          | SEPT-NOV          | K-8th Gr   | $60, $70  |
-| **Dance**           | SEPT-OCT          | 2 1/2-6 Yrs| $75/child, $50/parent and child  |
-| **Top Dawg Basketball**| SEPT-NOV       | K-8th Gr   | $0  |
-|---------|-----------|-----|-----|------|-------------|-------------------|----------|
+| Program                 | Time Frame        | Age        |	Fee Per Participant              |
+|-------------------------|-------------------|------------|----------------------------------|
+| **Rec Soccer**          | SEPT-OCT          | K-8th Gr   | $75                              |
+| **Cross Country**       | SEPT-NOV 8 Weeks  | 2nd-8th Gr | $75                              |
+| **Tennis**              | SEPT-NOV          | K-8th Gr   | $60, $70                         |
+| **Dance**               | SEPT-OCT          | 2 1/2-6 Yrs| $75/child, $50/parent and child  |
+| **Top Dawg Basketball** | SEPT-NOV          | K-8th Gr   | $0                               |
+|-------------------------|-------------------|------------|----------------------------------|
 {: .table .table-striped }
 </div>
 
