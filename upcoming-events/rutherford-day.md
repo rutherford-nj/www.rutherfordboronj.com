@@ -6,3 +6,5 @@ Rutherford based businesses and organizations receive priority.
 
 There will be a fee for those based outside of Rutherford.
 
+[Sign up here for the 3rd Annual Cornhole Tournament at Rutherford Day, Hosted by the Rutherford Education Foundation](https://www.rutherfordeducationfoundation.org/calender/2023/9/23/3rd-annual-cornhole-tournament)
+
