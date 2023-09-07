@@ -3,9 +3,11 @@ layout: page
 title: '2023 Multicultural Festival'
 ---
 
-[View the full event program here](https://storage.googleapis.com/static.rutherford-nj.com/committees/civil-rights/RMF2023Program.pdf)
-
 [**Return to Homepage**](/)
+
+#2023 Multicultural Festival Schedule
+
+[**View the full event program here**](https://storage.googleapis.com/static.rutherford-nj.com/committees/civil-rights/RMF2023Program.pdf)
 
 # Friday, September 8th
 
