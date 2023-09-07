@@ -5,7 +5,7 @@ title: '2023 Multicultural Festival'
 
 [**Return to Homepage**](/)
 
-#2023 Multicultural Festival Schedule
+# 2023 Multicultural Festival Schedule
 
 [**View the full event program here**](https://storage.googleapis.com/static.rutherford-nj.com/committees/civil-rights/RMF2023Program.pdf)
 
