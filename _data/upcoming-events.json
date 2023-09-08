@@ -6,12 +6,6 @@
     "remove-after": "2023-09-20"
   },
   {
-    "title": "Dining Out Rutherford - Wednesdays in June, 6:00pm-10:00pm",
-    "content": "DO.md",
-    "image": "/upcoming-events/UpcomingEvents_400x300_DO.jpg",
-    "remove-after": "2023-07-01"
-  },
-  {
     "title": "2023 Summer Concert Series - Thursdays, 8:00pm-10:00pm",
     "content": "summer-concerts.md",
     "image": "/upcoming-events/UpcomingEvents_400x300_Concerts.jpg",
@@ -40,6 +34,12 @@
     "content": "sept-11.md",
     "image": "/upcoming-events/UpcomingEvents_400x300_Sept11.jpg",
     "remove-after": "2023-09-12"
+  },
+    {
+    "title": "Dining Out Rutherford - Wednesday, Sept. 13th, 20th & 27th, 6:00pm-10:00pm",
+    "content": "DO.md",
+    "image": "/upcoming-events/UpcomingEvents_400x300_DO.jpg",
+    "remove-after": "2023-09-28"
   },
   {
     "title": "Ladies' Auxiliary Rutherford Fire Dept Annual Town-Wide Garage Sale - Saturday Sept. 23rd",
