@@ -17,7 +17,7 @@
     "image": "/upcoming-events/UpcomingEvents_400x300_NNO.jpg",
     "remove-after": "2023-08-02"
   },
-    {
+  {
     "title": "Farmers Market - Wednesdays & Saturdays July 5th - October 28th",
     "content": "farmersmarket.md",
     "image": "/upcoming-events/UpcomingEvents_400x300_farmersmarket.jpg",
@@ -29,13 +29,13 @@
     "image": "/upcoming-events/UpcomingEvents_400x300_multicultural.jpg",
     "remove-after": "2023-09-10"
   },
-   {
+  {
     "title": "September 11th Observance - Monday Sept. 11th, 5:30pm",
     "content": "sept-11.md",
     "image": "/upcoming-events/UpcomingEvents_400x300_Sept11.jpg",
     "remove-after": "2023-09-12"
   },
-    {
+  {
     "title": "Dining Out Rutherford - Wednesday, Sept. 13th, 20th & 27th, 6:00pm-10:00pm",
     "content": "DO.md",
     "image": "/upcoming-events/UpcomingEvents_400x300_DO.jpg",
@@ -47,34 +47,34 @@
     "image": "/upcoming-events/UpcomingEvents_400x300_garagesale.jpg",
     "remove-after": "2023-09-24"
   },
-    {
+  {
     "title": "3rd Annual Rutherford Day - Saturday, September 23rd, 12:00pm-6:00pm",
     "content": "rutherford-day.md",
     "image": "/upcoming-events/UpcomingEvents_400x300_RutherfordDay.jpg",
     "remove-after": "2023-09-24"
-     },
-     {
+  },
+  {
     "title": "Health Dept - Breast & Pap Screening - Wednesday, October 4th, 4:00pm-6:00pm ",
     "content": "breast-pap-screening.md",
     "image": "/upcoming-events/UpcomingEvents_400x300_Health.jpg",
     "remove-after": "2023-10-05"
   },
-   {
+  {
     "title": "Health Dept - Blood Screening - Saturday, October 14th, 7:00pm-9:00am ",
     "content": "breast-pap-screening.md",
     "image": "/upcoming-events/UpcomingEvents_400x300_Health.jpg",
     "remove-after": "2023-10-15"
   },
-    {
+  {
     "title": "Green Team Repair Cafe - Saturday, October 14th, 11:30am-3:30pm",
     "content": "repair-cafe.md",
     "image": "/upcoming-events/UpcomingEvents_400x300_RepairCafe.jpg",
     "remove-after": "2023-10-15"
   },
-     {
+  {
     "title": "PorchFest 2023 - Saturday, November 4th",
     "content": "porchfest.md",
     "image": "/upcoming-events/UpcomingEvents_400x300_porchfest.jpg",
     "remove-after": "2023-11-06"
-  } 
+  }
 ]
