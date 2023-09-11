@@ -1,34 +1,25 @@
 ---
 layout: page
-title: 'Rutherford Day 2022'
+title: 'Rutherford Day 2023'
 ---
 
-# Rutherford Day - Saturday, September 24th, 2022
+# Rutherford Day - Saturday, September 23rd, 2023
 
 **@ Memorial Field 12pm-6pm**
 
-[**Rutherford Day Location Map**](https://www.google.com/maps/d/edit?mid=1UdrxkP9P8A0_N9SDSa1hHmUNsiKuS08e&usp=sharing)
+Rutherford will host its 3rd Annual Rutherford Day on Saturday, September 23rd at Memorial Field 12-6pm
 
-[**See flyer here**](https://storage.googleapis.com/static.rutherford-nj.com/events/RutherfordDay2022.pdf)
-
-This event is designed specifically to allow Rutherford community organizations to utilize Memorial Field for games and activities. It will provide an opportunity for each service group, club, or business in Rutherford to promote itself, its services, accomplishments, and goals to the residents of Rutherford. 
-
-
-Memorial Field Parking Lot will be closed to vehicular traffic. Street parking only. 
-
-FREE Shuttle buses will run from the Felician Universtiy Montross Avenue Parking Lot (230 Montross Ave) to Memorial Field between 11:30am and 6:30pm. 
-
-Monona and Darwin Aves will be open to one way traffic only near Memorial Field. The Memorial Field Parking Lot and Tennis Courts will be closed beginning 6am.
+This event is designed specifically to allow Rutherford community organizations to utilize Memorial Field for games and activities. It will provide an opportunity for each service group, club, or business in Rutherford to promote itself, its services, accomplishments, and goals to the residents of Rutherford.
 
 Reminder: Dogs are not permitted on Borough fields. 
 
 ---
 
-**- 11am - Rutherford PBA vs Rutherford Fire Department Softball Game** Diamond 3
+**- 9:30am - Rutherford PBA vs Rutherford Fire Department Softball Game** Diamond 1
 
-**- Cornhole Tournament** Hosted by the Rutherford Education Foundation.
+**- Cornhole Tournament** Hosted by the Rutherford Education Foundation. [Register Here](https://www.rutherfordeducationfoundation.org/calender/2023/9/23/3rd-annual-cornhole-tournament)
 
-**- Youth Soccer Shoot** Hosted by the Rutherford Elks Lodge 547  - Open to all kids who are or were 15 years or under as of January 1st, 2021. Registration is at the field starting at 11:00 and shoot at 12:15
+**- Youth Soccer Shoot** Hosted by the Rutherford Elks Lodge 547 
 
 **- Many Rutherford Community Groups**  
 
@@ -38,10 +29,4 @@ Reminder: Dogs are not permitted on Borough fields. 
 
 **- Food Vendors** 
 
-**- With DJ & Live Music by:**
-
-- 12:15-12:45 Rutherford Rocks
-
-- 1:30 - 2:30pm Kurt and Marty
-
-- 4:00 - 6:00pm Super Trans Am
+**- With DJ & Live Music by Kurt & Marty 
