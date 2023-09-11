@@ -1,6 +1,6 @@
 Rutherford Health Department 184 Park Ave
 
-[For more information click here](/departments/health/2023/08/28/blood-screening)
+[For more information click here](/departments/health/2023/09/11/blood-screening)
 
 Limited Availability.
 
