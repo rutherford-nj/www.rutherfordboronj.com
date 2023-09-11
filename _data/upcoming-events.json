@@ -71,6 +71,12 @@
     "image": "/upcoming-events/UpcomingEvents_400x300_RepairCafe.jpg",
     "remove-after": "2023-10-15"
   },
+    {
+    "title": "Health Dept - Flu Clinic - Monday, October 23rd & Tuesday October 24th",
+    "content": "health-flu-clinic.md",
+    "image": "/upcoming-events/UpcomingEvents_400x300_Health.jpg",
+    "remove-after": "2023-10-25"
+  },
   {
     "title": "PorchFest 2023 - Saturday, November 4th",
     "content": "porchfest.md",
