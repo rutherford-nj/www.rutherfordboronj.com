@@ -25,6 +25,8 @@ title: 'Agnew Place Area A'
 
 [Application for Tax Abatement](https://storage.googleapis.com/static.rutherford-nj.com/community-development/agnew-a/Agnew%20Area%20A%20-%20Long%20Term%20Tax%20Exemption.pdf)
 
+[Redeveloper's Agreement (September 2023)](https://storage.googleapis.com/static.rutherford-nj.com/community-development/agnew-a/Redeveloper's%20Agreement%20(September%2C%202023).pdf)
+
 
 
 
