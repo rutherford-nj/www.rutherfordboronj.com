@@ -1,3 +1,5 @@
+**Due to forecasted weather, the Farmers Market is CANCELLED for Wednesday, Sept. 13**
+
 WILLIAMS CENTER PLAZA
 
 Wednesdays 11:00 am - 4:00 pm
