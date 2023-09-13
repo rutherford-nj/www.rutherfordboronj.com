@@ -6,17 +6,11 @@ parent: 'Borough Clerk'
 
 [**Learn More About The Three Ways to Vote in Bergen County - Vote By Mail, In-Person Early & Election Day**](https://nj.gov/state/elections/vote-how-to.shtml)
 
-# 2023 Primary Election Dates
+# General Election: Tuesday, November 7th 2023
 
-[**Bergen County Clerk Election Results**](https://www.bergencountyclerk.org/Election/)
+REGISTER - The deadline to register to vote in the November, 2023 General Election is Tuesday, October 17, 2023.  The Borough Clerk’s office will have extended hours from 8:30 a.m. to 9:00 p.m. on October 17th  for those wishing to register.   
 
-The Official Mail-In Ballots for the June Primary have been mailed out to voters with **Active Vote By Mail Requests.** Only voters with active vote by mail requests will receive their ballot. Voters with active requests who do not receive their ballot by May 6, 2023 should call the County at 201-336-7020 to request a duplicate. The Deadline for the County to receive Vote by Mail Applications for this Election is **May 30, 2023.**
-
-The deadline to register to vote for this Election is **Tuesday, May 16, 2023.** The Borough Clerk’s office will be opened from 8:30 a.m. to 7:00 p.m. on **May 16th** for those wishing to register that day.
-
-Per State Law, to vote in the Primary Election, a voter must vote for the party of which they are registered. If you are currently registered as an Unaffiliated Voter, commonly referred to as an Independent, you must declare yourself a member of either the Democratic or Republican party. You can declare your party in-person at the polls on Election Day or during Early Voting.
-
-Any resident may register to vote in the Borough Clerk's Office in Borough Hall at 176 Park Avenue during regular office hours of 8:30 a.m. to 4:30 p.m. Monday through Friday. You may also call and request a form be mailed to you or go to the County Website: [www.bergencountyclerk.org.](https://www.bergencountyclerk.org/) All residents are reminded of the following to ensure their voting privilege: 
+In addition, any resident, 18 years old or older,  may register to vote in the Borough Clerk's Office in Borough Hall at 176 Park Avenue during regular office hours of 8:30 a.m. to 4:30 p.m. Monday through Friday. You may also call and request a form be mailed to you or go to the County Website: [www.bergencountyclerk.org.](https://www.bergencountyclerk.org/) All residents are reminded of the following to ensure their voting privilege: 
 
 **You must re-register if you have not voted in any election for four consecutive years, have changed your address or changed your name.**
 
