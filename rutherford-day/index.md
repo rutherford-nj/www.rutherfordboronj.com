@@ -29,4 +29,4 @@ Reminder: Dogs are not permitted on Borough fields. 
 
 **- Food Vendors** 
 
-**- With DJ & Live Music by Kurt & Marty** 
+**- With DJ & Live Music by Rutherford Rock and Kurt & Marty** 
