@@ -19,7 +19,7 @@ Reminder: Dogs are not permitted on Borough fields. 
 
 **- Cornhole Tournament** Hosted by the Rutherford Education Foundation. [Register Here](https://www.rutherfordeducationfoundation.org/calender/2023/9/23/3rd-annual-cornhole-tournament)
 
-**- Youth Soccer Shoot** Hosted by the Rutherford Elks Lodge 547 
+**- Youth Soccer Shoot** Hosted by the Rutherford Elks Lodge 547 Open to Boys & Girls from the ages of 7 to 15 [More information here](https://storage.googleapis.com/static.rutherford-nj.com/events/Soccer%20Shoot.pdf)
 
 **- Many Rutherford Community Groups**  
 
@@ -29,4 +29,4 @@ Reminder: Dogs are not permitted on Borough fields. 
 
 **- Food Vendors** 
 
-**- With DJ & Live Music by Kurt & Marty 
+**- With DJ & Live Music by Kurt & Marty** 
