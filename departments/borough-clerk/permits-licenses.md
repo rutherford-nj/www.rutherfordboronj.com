@@ -37,7 +37,7 @@ Please click on an item below to download the appropriate form and return to the
 
 [**Hold Harmless Agreement**](https://storage.googleapis.com/static.rutherford-nj.com/borough-clerk/permits-licenses/Forms/2023-8-7%20Hold%20Harmless.pdf)
 
-[**Landlord Identity Registration Form**](https://storage.googleapis.com/static.rutherford-nj.com/borough-clerk/permits-licenses/landlord_regs.pdf) Required to be filed with the Borough Clerk and distributed to tenants in single unit dwellings and in two unit dwellings that are not owner-occupied.
+[**Landlord Identity Registration Form**](https://storage.googleapis.com/static.rutherford-nj.com/borough-clerk/permits-licenses/landlord_regs.pdf) - Required to be filed with the Borough Clerk and distributed to tenants in single unit dwellings and in two unit dwellings that are not owner-occupied.
 
 [**Limousine License**](https://storage.googleapis.com/static.rutherford-nj.com/borough-clerk/permits-licenses/Forms/LIVERY%20LIMO.pdf) – Certificate to obtain "o" license from Motor Vehicle available only to a business based in Rutherford with a Certificate of Occupancy.  Fee is $50 per car, insurance policy and proof of ownership required.
 
