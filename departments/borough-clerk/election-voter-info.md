@@ -8,6 +8,8 @@ parent: 'Borough Clerk'
 
 # General Election: Tuesday, November 7th 2023
 
+[**Important Election Dates Schedule**](https://storage.googleapis.com/static.rutherford-nj.com/borough-clerk/election-info/Gen%202023.pdf)
+
 REGISTER - The deadline to register to vote in the November, 2023 General Election is Tuesday, October 17, 2023.  The Borough Clerk’s office will have extended hours from 8:30 a.m. to 9:00 p.m. on October 17th  for those wishing to register.   
 
 In addition, any resident, 18 years old or older,  may register to vote in the Borough Clerk's Office in Borough Hall at 176 Park Avenue during regular office hours of 8:30 a.m. to 4:30 p.m. Monday through Friday. You may also call and request a form be mailed to you or go to the County Website: [www.bergencountyclerk.org.](https://www.bergencountyclerk.org/) All residents are reminded of the following to ensure their voting privilege: 
