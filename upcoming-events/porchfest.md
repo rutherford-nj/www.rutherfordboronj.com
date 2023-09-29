@@ -4,4 +4,4 @@ Originated in Ithaca, NY, in 2007, towns of all sizes throughout the country hav
 
 **Deadline to apply is Friday, September 22nd**
 
-[Applications to be a musician or host porch can be found here](/committees/arts/porchfest/)
+[For more information click here](/committees/arts/porchfest/)
