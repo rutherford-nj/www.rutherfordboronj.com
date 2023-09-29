@@ -1,4 +1,4 @@
-**The Saturday, September 23rd Farmers Market is CANCELLED due to the weather forecast.**
+**The Saturday, September 30th Farmers Market is CANCELLED due to the weather forecast.**
 
 WILLIAMS CENTER PLAZA
 
