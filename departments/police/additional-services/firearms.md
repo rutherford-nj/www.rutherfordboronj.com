@@ -23,6 +23,12 @@ The required ORI for the Rutherford Police Department is:  **NJ0025600**
 
 # Carry Permits
 
+Before applying for an initial or renewal carry permit, applicants shall read the following documents from the State of New Jersey Office of the Attorney General: 
+
+[Memo to LE](https://storage.googleapis.com/static.rutherford-nj.com/police/Memo%20to%20LE.pdf)
+
+[CCARE Protocol](https://storage.googleapis.com/static.rutherford-nj.com/police/CCARE%20Protocol.pdf)
+
 Carry permits can be applied for via: 
  
 [www.njportal.com/NJSP/ConcealedCarry](https://www.njportal.com/NJSP/ConcealedCarry/)
