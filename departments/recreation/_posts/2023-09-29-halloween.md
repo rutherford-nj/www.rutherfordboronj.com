@@ -3,7 +3,7 @@ layout: blog
 title: 2023 Halloween Activities 
 ---
 
-Check out all the Halloween activities the Recreation Department has planned this year!
+Check out all the Halloween activities the Recreation Department has planned this year! [Register on RecDesk Here](https://rutherfordnj.recdesk.com/Community/Program?category=8) 
 
 • [Halloween House Decorating Contest](https://storage.googleapis.com/static.rutherford-nj.com/recreation/contests/2023_Halloween_House_Decorating.pdf) 
 
