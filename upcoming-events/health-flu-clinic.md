@@ -1,6 +1,6 @@
 Rutherford Health Department 184 Park Ave
 
-[For more information click here](/departments/health/2023/09/11/flu-clinic)
+[For more information click here](/departments/health/2023/10/10/flu-clinic)
 
 Monday, October 23rd 4:30pm - 6:30pm - 18+
 
