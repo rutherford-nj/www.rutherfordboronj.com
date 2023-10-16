@@ -62,7 +62,7 @@ Please click on an item below to download the appropriate form and return to the
 
 [**Raffle Licenses** - A Guide To When You Need A Permit](https://storage.googleapis.com/static.rutherford-nj.com/borough-clerk/permits-licenses/Raffle%20Information%20for%20website.pdf)  
 
-[**- 50/50 Cash Prize Application and Merchandise Prize**](http://nebula.wsimg.com/38ca36bc1c8681e304e55d515ea7cdd0?AccessKeyId=EA714469E7A9EE8874A6&disposition=0&alloworigin=1)
+[**- 50/50 Cash Prize Application and Merchandise Prize**](https://storage.googleapis.com/static.rutherford-nj.com/borough-clerk/permits-licenses/Raffle%20License.pdf)
 
 [**- Off-Site Merchandise Sample Ticket (Required with Application)**](https://storage.googleapis.com/static.rutherford-nj.com/borough-clerk/permits-licenses/Raffle_Off-Site-Draw-Awarding-Merchandise-as-a-Prize.pdf)
 
