@@ -8,7 +8,7 @@
     "watch": "webpack --watch"
   },
   "devDependencies": {
-    "@types/bootstrap": "^5.2.7",
+    "@types/bootstrap": "^5.2.8",
     "@types/lunr": "^2.3.6",
     "ts-loader": "^9.5.0",
     "typescript": "^5.2.2",
