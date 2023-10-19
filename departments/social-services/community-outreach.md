@@ -191,12 +191,6 @@ Apply for Social Security Income or Social Security Disability or retirement ben
 The Rutherford DPW operates several local commuter shuttles. [For more information click here.](/resident-info/transportation/downtowner-commuter-bus/)
 
 
-### Starfish
-
-Volunteers assist with local doctor visits.  
-Patient needs to be able to walk independently to the car.  
-201-438-3406
-
 
 ### Bridgebuilders
 
