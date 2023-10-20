@@ -4,7 +4,7 @@ title: 'Employment & Bids'
 parent: Government
 ---
 
-[Bid Notice: 2023 Roadway Improvements Program](https://storage.googleapis.com/static.rutherford-nj.com/finance/Employment/Bid%20Notice%20-%202023%20Roadway%20Improvements%20Program.pdf)
+[Job Posting: Recreation Department Clerk](https://storage.googleapis.com/static.rutherford-nj.com/finance/Employment/JA%20clerk%20Recreation%2010192023%20WEBSITE.pdf)
 
 [Job Posting: Health Code Investigator](https://storage.googleapis.com/static.rutherford-nj.com/finance/Employment/Health%20Code%20Investigator.pdf)
 
