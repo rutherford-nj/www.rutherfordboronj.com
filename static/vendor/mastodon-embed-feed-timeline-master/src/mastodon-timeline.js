@@ -29,7 +29,7 @@ window.addEventListener("load", () => {
       user_id: "110766222816034004",
   
       // Your user name on Mastodon instance. Leave empty if you didn't choose 'profile' as type of timeline
-      profile_name: "rutherford07070@mastodon.social",
+      profile_name: "@Rutherford07070",
   
       // The name of the hashtag. Leave empty if you didn't choose 'hashtag' as type of timeline
       hashtag_name: "",
