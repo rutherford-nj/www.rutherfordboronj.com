@@ -4,9 +4,6 @@
 
 Embed a mastodon feed timeline in your page, only with a CSS and JS file.
 
-Working version running at:
-<https://www.idotj.com>
-
 Source code running at:
 <https://codepen.io/ipuntoj/pen/MWppNGL>
 
@@ -65,26 +62,38 @@ If you prefer to show a timeline with a specific hashtag then change the `timeli
 Also you have some parameters to customize your embed timeline:
 
 ```javascript
-// Preferred color theme 'light' or 'dark' (default: auto)
-default_theme: "auto";
+// Preferred color theme: 'light', 'dark' or 'auto'. Default: auto
+default_theme: "auto",
 
-// Maximum amount of toots to get (default: 20)
-toots_limit: "20";
+// Maximum amount of toots to get. Default: 20
+toots_limit: "20",
 
-// Hide unlisted toots (default: don't hide)
-hide_unlisted: false;
+// Hide unlisted toots. Default: don't hide
+hide_unlisted: false,
 
-// Hide boosted toots (default: don't hide)
-hide_reblog: false;
+// Hide boosted toots. Default: don't hide
+hide_reblog: false,
 
-// Hide replies toots (default: don't hide)
-hide_replies: false;
+// Hide replies toots. Default: don't hide
+hide_replies: false,
 
-// Limit the text content to a maximum number of lines (default: unlimited)
-text_max_lines: "0";
+// Hide preview for links. Default: don't hide
+hide_preview_link: false,
+
+// Hide custom emojis available on the server. Default: don't hide
+hide_emojos: false,
+
+// Converts Markdown symbol ">" at the beginning of a paragraph into a blockquote HTML tag. Default: don't apply
+markdown_blockquote: false,
+
+// Limit the text content to a maximum number of lines. Default: 0 (unlimited)
+text_max_lines: "0",
+
+// Hide replies, boosts and favourites toots counter. Default: don't hide
+hide_counter_bar: false,
 
 // Customize the text of the link pointing to the Mastodon page (appears after the last toot)
-btn_see_more: "See more posts at Mastodon";
+link_see_more: "See more posts at Mastodon",
 ```
 
 ### Tip
@@ -106,3 +115,8 @@ Feel free to add/improve the styles and add more features.
 ## ⚖️ License
 
 GNU Affero General Public License v3.0
+
+## 💬 FAQ
+
+Check the [closed issues](https://gitlab.com/idotj/mastodon-embed-feed-timeline/-/issues/?sort=created_date&state=closed&first_page_size=20), you might find your question there.  
+If nothing matches with your problem, check the [open issues](https://gitlab.com/idotj/mastodon-embed-feed-timeline/-/issues/?sort=created_date&state=opened&first_page_size=20) or feel free to create a new one.
