@@ -12,3 +12,5 @@ parent: 'Police Department'
 
 - [Major Discipline Reports](./major-discipline-reports/)
 
+- [2022 RPD IA Annual Report](https://storage.googleapis.com/static.rutherford-nj.com/police/2022%20RPD%20IA%20Summary.pdf)
+
