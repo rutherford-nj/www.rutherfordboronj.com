@@ -12,4 +12,4 @@ parent: 'Police Department'
 
 - [Major Discipline Reports](./major-discipline-reports/)
 
-- [2022 RPD IA Annual Report](./ia-annual-reports/)
+- [RPD IA Annual Reports](./ia-annual-reports/)
