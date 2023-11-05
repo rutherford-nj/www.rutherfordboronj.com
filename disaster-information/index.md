@@ -23,13 +23,6 @@ You may be eligible for financial assistance under FEMA’s Individuals and Hous
 
 If you have applied for FEMA assistance and 14 days have passed and you have not had a home inspection, call the FEMA Helpline at 800-621-3362. When you have your inspection, let the FEMA inspector know you have a private well and/or septic system that may have been damaged by the storm. If you have registered and your house has already been inspected, call the FEMA Helpline at 800-621-3362 for instructions on how to appeal. Visit [https://www.fema.gov/assistance/individual/after-applying/appeals](https://www.fema.gov/assistance/individual/after-applying/appeals)
 
-
-[**disasterassistance.gov**](https://www.disasterassistance.gov/get-assistance/address-lookup?isMap=false&address=07070): 
-
-If your address is not currently in a declared area, you may still be able to apply online now.
-
-[https://www.disasterassistance.gov/get-assistance/address-lookup?isMap=false&address=07070](https://www.disasterassistance.gov/get-assistance/address-lookup?isMap=false&address=07070)
-
 ---
 
 **HURRICANE IDA HOME CLEANUP HOTLINE: 844-965-1386**
