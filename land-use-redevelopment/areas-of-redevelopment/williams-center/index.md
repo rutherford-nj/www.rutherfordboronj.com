@@ -21,3 +21,7 @@ title: 'The Williams Center'
 
 [- Redevelopment Plan (Amendment #2 – July, 2023)](https://storage.googleapis.com/static.rutherford-nj.com/community-development/williams-center/Redevelopment_Plan_Amendment_2.pdf)
 
+[- Financial Agreement](https://storage.googleapis.com/static.rutherford-nj.com/community-development/williams-center/Financial%20Agreement.pdf)
+
+[- Redevelopment Agreement](https://storage.googleapis.com/static.rutherford-nj.com/community-development/williams-center/Redevelopment%20Agreement.pdf)
+
