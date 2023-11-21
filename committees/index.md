@@ -6,10 +6,10 @@ title: 'Committees'
 
 <p markdown=1>
  
- If you would like to be considered for a Committee, Board or Commission, please fill out the application. You will be contacted for an interview via Zoom by the end of the year. These applications are forwarded to the Mayor and a Council Subcommittee for their consideration. Official appointments are made by the Mayor at a Council meeting, typically in January of each year.
+If you would like to be considered for a Committee, Board or Commission, please fill out the application below before December 15th, 2023. You will be contacted for an interview via Zoom by the end of the year. These applications are forwarded to the Mayor and a Council Subcommittee for their consideration. Official appointments are made by the Mayor at a Council meeting, typically in January of each year.
 
 
-[**2023 Committee, Board and Commission Descriptions**](https://storage.googleapis.com/static.rutherford-nj.com/committees/2023%20Committee%20Descriptions.pdf)  
+[**2024 Committee, Board and Commission Descriptions**](https://storage.googleapis.com/static.rutherford-nj.com/committees/2024%20Committee%20Descriptions.pdf) 
 
 </p>
 
