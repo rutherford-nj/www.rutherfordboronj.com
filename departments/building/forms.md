@@ -21,7 +21,7 @@ parent: 'Building'
 
 [**8. Residential Certificate of Zoning Compliance Application and Requirements**](https://storage.googleapis.com/static.rutherford-nj.com/building/Building%20Dept%20Forms/CO%20CZC%20Residential%20Application%20Form-with%20checklist-Form.pdf)
 
-[**9. Commercial Certificate of Zoning Compliance Application and Requirements**](https://storage.googleapis.com/static.rutherford-nj.com/building/Building%20Dept%20Forms/09-Commercial%20Certificate%20of%20Zoning%20Compliance%20Application.pdf)
+[**9. Commercial Certificate of Zoning Compliance Application and Requirements**](https://storage.googleapis.com/static.rutherford-nj.com/building/Building%20Dept%20Forms/09_Commercial%20CZC%20Form-2023.pdf)
 
 [**10. Complaint Form**](https://storage.googleapis.com/static.rutherford-nj.com/building/Building%20Dept%20Forms/10-complaint%20form%20template-new%20letterhead.pdf)
 
