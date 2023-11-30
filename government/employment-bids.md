@@ -4,7 +4,7 @@ title: 'Employment & Bids'
 parent: Government
 ---
 
-[Request for Proposals: Professional Services](https://storage.googleapis.com/static.rutherford-nj.com/finance/Employment/2024%20RFP%20for%20Professional%20Services.pdf)
+[Request for Proposals: Professional Services](https://storage.googleapis.com/static.rutherford-nj.com/finance/Employment/2024%20RFP%20Document%20for%20Professional%20Services.pdf)
 
 [Job Posting: Health Code Investigator](https://storage.googleapis.com/static.rutherford-nj.com/finance/Employment/Health%20Code%20Investigator.pdf)
 
