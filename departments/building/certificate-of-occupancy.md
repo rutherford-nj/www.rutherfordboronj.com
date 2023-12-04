@@ -13,8 +13,7 @@ Certificate will be issued no sooner than 48 hours after sign-off.
 
 **Commercial Certificate:**
 
-For a commercial Certificate of Zoning Compliance please fill the following form and submit with two
-separate payments of $30 and $200 (check made payable to “Borough of Rutherford”.) [Commercial Certificate of Zoning Compliance Application](https://storage.googleapis.com/static.rutherford-nj.com/building/Building%20Dept%20Forms/09_Commercial%20CZC%20Form-2023.pdf)
+For a commercial Certificate of Zoning Compliance please fill out the following form and submit the proper payment. Fees are listed in the application.  [Commercial Certificate of Zoning Compliance Application](https://storage.googleapis.com/static.rutherford-nj.com/building/Building%20Dept%20Forms/09_Commercial%20CZC%20Form-2023.pdf)
 
 **NOTE:** Applicant MUST specify if any construction will take place. Once form is received it will
 be reviewed by the Zoning Official and the Bureau of Fire Safety. Once reviewed and use
