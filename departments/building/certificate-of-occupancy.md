@@ -8,7 +8,7 @@ parent: 'Building'
 
 For a residential Certificate of Zoning Compliance certificate (previously Certificate of Occupancy) please
 fill out the following form and submit with $100 payment (check made payable to “Borough of
-Rutherford”. [Residential Certificate of Zoning Compliance Application and Requirements (Includes Transfer of Title)](https://storage.googleapis.com/static.rutherford-nj.com/building/Building%20Dept%20Forms/CO%20CZC%20Residential%20Application%20Form-with%20checklist.pdf). Once form is received, inspections will be scheduled. Once all inspections have passed the
+Rutherford”. [Residential Certificate of Zoning Compliance Application and Requirements (Includes Transfer of Title)](https://storage.googleapis.com/static.rutherford-nj.com/building/Building%20Dept%20Forms/CO%20CZC%20Residential%20Application%20Form-with%20checklist-Form.pdf). Once form is received, inspections will be scheduled. Once all inspections have passed the
 Certificate will be issued no sooner than 48 hours after sign-off.
 
 **Commercial Certificate:**
