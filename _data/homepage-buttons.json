@@ -2,12 +2,12 @@
    
    {
         "link": "/notifications/",
-        "image": "/static/images/homepage/stay_informed.jpg",
+        "image": "/static/images/homepage/home-page-image_stay-informed.jpg",
         "alt": "Rutherford Notifications"
     },
     {
         "link": "/departments/public-works/collection-schedule/",
-        "image": "/static/images/homepage/homepage_mainimage_sanitation.jpg",
+        "image": "/static/images/homepage/hhome-page-image_2024-sanitation.jpg",
         "alt": "Sanitation collection schedule"
     },
     {
