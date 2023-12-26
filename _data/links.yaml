@@ -238,6 +238,8 @@ departments:
     - text: Watering Info For Newly Planted Trees
       href: https://storage.googleapis.com/static.rutherford-nj.com/committees/shade-tree/DPW_WateringLetter.pdf   
   green-team:
+    - text: Upcoming Green Team Events
+      href: /upcoming-events/
     - text: Green Leaf Sustainable Business Recognition Program
       href: green-leaf-program/
     - text: Green and Sustainable Business Resources
