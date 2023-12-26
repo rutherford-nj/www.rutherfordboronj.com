@@ -2,9 +2,9 @@
 
 Volunteer experts will help you repair
 
-• bicycles • computers • clothing • small engines • small appliances • sewing machines
+• bicycles • computers • clothing  • small appliances • sewing machines
 
-• lamps • electronics •  and knife sharpening
+• lamps • electronics •  knife sharpening •  lamps •  furniture & picture frames •  jewelry
 
 Volunteers will have the right tools, but if possible, bring any needed parts. One item (or two knives) at a time. Sevice is first-come, first-served.
 
