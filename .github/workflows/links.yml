@@ -36,5 +36,5 @@ jobs:
         with:
           title: Link Checker Report
           content-filepath: ./lychee/out.md
-          assignees: bogosj
+          assignees: KimBogosian
           labels: report, automated issue
