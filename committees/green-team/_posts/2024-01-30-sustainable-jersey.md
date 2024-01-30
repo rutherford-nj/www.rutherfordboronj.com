@@ -3,6 +3,8 @@ layout: blog
 title: "Rutherford Earns Sustainable Jersey Certification"
 ---
 
+# Rutherford Earns Sustainable Jersey Certification
+
 Thanks to the efforts of the Green Team Committee, Rutherford has met the rigorous requirements to achieve [Sustainable Jersey certification at the silver-level.](https://www.sustainablejersey.com/certification/certification-overview/) Certified towns were announced at the Sustainable Jersey Annual Luncheon on November 14, 2023, in Atlantic City at the New Jersey State League of Municipalities Conference. [Sustainable Jersey's participating communities](https://www.sustainablejersey.com/certification/search-participating-municipalities-approved-actions/) represent over 83% of the state's municipalities. 
 
 “The Green Team is one of the finest groups of volunteers we have in Rutherford. Their dedication and commitment to sustainability is apparent in everything they do. I’m proud to have them here to educate and lead by example, not only for our residents but for other towns,” said Mayor Frank Nunziato. 
