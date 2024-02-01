@@ -41,12 +41,6 @@
     "image": "/upcoming-events/UpcomingEvents_400x300_DO.jpg",
     "remove-after": "2023-09-28"
   },
-  {
-    "title": "Shade Tree Commission's TreeFest '24 - Saturday, April 20, 12:00pm-5:00am ",
-    "content": "treefest.md",
-    "image": "/upcoming-events/UpcomingEvents_400x300_Treefest.jpg",
-    "remove-after": "2024-04-22"
-  },
    {
     "title": "Green Team Styrofoam Collection - Saturday, January 6th, 9:00am-1:00pm",
     "content": "styrofoam.md",
@@ -64,6 +58,12 @@
     "content": "rabies.md",
     "image": "/upcoming-events/UpcomingEvents_400x300_Health.jpg",
     "remove-after": "2024-03-18"
+  },
+    {
+    "title": "Shade Tree Commission's TreeFest '24 - Saturday, April 20, 12:00pm-5:00am ",
+    "content": "treefest.md",
+    "image": "/upcoming-events/UpcomingEvents_400x300_Treefest.jpg",
+    "remove-after": "2024-04-22"
   },
   {
     "title": "PorchFest 2023 - Saturday, November 4th",
