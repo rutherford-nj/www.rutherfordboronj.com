@@ -14,7 +14,7 @@ Help us to help you during a snow storm!
 
 When snow is forecasted, residents should be aware of the following:
 
-**1.** Residents are strongly encouraged to receive real time emergency alerts and general community notifications, including snow emergency information from the Police Department, by signing up for free text messages/e-mail notifications at [nixle.com](/notifications/). Additionally, residents should sign up for the Borough’s emergency notification system through Swift 911.
+**1.** Residents are strongly encouraged to receive real time emergency alerts and general community notifications, including snow emergency information from the Police Department, by signing up for free text messages/e-mail notifications [here](/notifications/). Additionally, residents should sign up for the Borough’s emergency notification system through Swift 911.
 
 **2.** Parking is prohibited on snow emergency routes when the roadway is covered with snow. Vehicles parked in violation shall be subject to ticketing and towing. Snow emergency streets are posted. Please remove all vehicles from snow emergency routes when snow is predicted in the forecast or when you are out-of-town.
 
@@ -32,4 +32,3 @@ When snow is forecasted, residents should be aware of the following:
 
 **9.** The Police Department reminds residents that no one can place any object, including but not limited to chairs, traffic cones, garbage cans, etc., into the street with the intent to save a parking space. Waste containers placed into the street for garbage and recycling purposes shall not be viewed as a violation of Ordinance 56-2.
 
-**10.** A detailed list of all of the snow emergency streets is posted on the Borough’s web site at www.rutherfordboronj.com, under “Snow Emergency”. Borough Officials look forward to your continued cooperation in the event of an impending snow storm so that our Department of Public Works, along with Police Department, Ambulance Corps and the Fire Department can better serve you during and after a snow storm.
