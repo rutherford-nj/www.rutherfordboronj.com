@@ -2,5 +2,5 @@
     "inst 1": "to disable the banner, set the message below to empty quotes",
     "inst 2": "set type to 'warning' for a yellow banner, set to 'danger' for a red banner",
     "type": "warning",
-    "message": "A snow emergency is in effect until all plowing operations cease. Please do not park cars on snow emergency streets until this is lifted."
+    "message": ""
 }
