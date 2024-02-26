@@ -82,7 +82,7 @@ Please click on an item below to download the appropriate form and return to the
 
 [**Solicitor Permit**](https://storage.googleapis.com/static.rutherford-nj.com/borough-clerk/permits-licenses/Forms/SOLICITOR.pdf) – Applicants must complete background checks and authorization from the Mayor & Council is required.
 
-[**Street Opening**](https://storage.googleapis.com/static.rutherford-nj.com/borough-clerk/permits-licenses/STREET%20OPENING_2023.pdf) – Permit required to cut into any roadway.  Certificates of Insurance with a $5,000 deposit for maintenance due at time of application required.  $100 new opening or $45 for a repair.
+[**Street Opening**](https://storage.googleapis.com/static.rutherford-nj.com/borough-clerk/permits-licenses/STREET%20OPENING.pdf) – Permit required to cut into any roadway.  Certificates of Insurance with a $5,000 deposit for maintenance due at time of application required.  $100 new opening or $45 for a repair.
 
 [**Taxi Cab License**](https://storage.googleapis.com/static.rutherford-nj.com/borough-clerk/permits-licenses/Forms/TAXI%20CAB%20LICENSE.pdf) – Required for every taxi cab.  Application, insurance policy and proof of ownership required with $100 fee per year.
 
