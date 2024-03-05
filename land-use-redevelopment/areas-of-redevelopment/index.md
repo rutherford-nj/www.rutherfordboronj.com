@@ -8,6 +8,8 @@ title: 'Areas of Redevelopment'
 
 - [106 Park Ave (The Parker)](106-park/)
 
+- [118 Park Ave (The Parker 118)](parker-ii/)
+
 - [Highland Cross (NJSEA Jurisdiction)](highland-cross/)
 
 - [Agnew Place Area A](agnew/)
@@ -15,8 +17,6 @@ title: 'Areas of Redevelopment'
 - [Agnew Place Area B](agnewb/)
 
 - [Williams Center](williams-center/)
-
-- [Parker Phase II](parker-ii/)
 
 
 **Areas Designated In Need Of Redevelopment**
