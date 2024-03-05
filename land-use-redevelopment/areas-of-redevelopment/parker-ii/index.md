@@ -2,28 +2,23 @@
 layout: interior-page
 parent: Areas of Redevelopment
 grandparent: Land Use and Redevelopment
-title: 'Parker Phase II'
+title: '118 Park Ave'
 ---
 
-# Parker Phase II
+# 118 Park Ave
 
 ![Map of Parker](parker2map.jpg){: .img-fluid }
 
 **Location:** 118 Park Ave
 
-**Project Description:** 
+**Project Type:** Residential with retail space
 
-· Parker Phase II is owned by Vango Holdings, LLC.
+**Project Status:** Completed
 
-· 4 and 5 story sections with 60 residential units
+“The Parker 118”  is a 60 unit, residential building with 4 and 5 story sections and 2 first floor retail spaces.
 
-· 2 retail units
+The 92 parking spaces are enclosed within the structure, which also houses a drop-off lane for use by delivery services, it is accessed via Chestnut Street.
 
-· 92 parking spaces
-
-· A drop-off lane housed within the structure for use by delivery services
-
-· Construction has begun
 
 **Below find documents related to Parker Phase II redevelopment:**
 
