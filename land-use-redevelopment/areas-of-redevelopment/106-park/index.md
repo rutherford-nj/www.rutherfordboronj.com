@@ -5,7 +5,7 @@ grandparent: Land Use and Redevelopment
 title: '106 Park'
 ---
 
-# The Maples *(106 Park Ave)*
+# 106 Park Ave
 
 ![Map of 106 Park Ave](106-park-map.jpg){: .img-fluid }
 
@@ -17,11 +17,6 @@ title: '106 Park'
 
 The completed Parker is a 52 unit, residential building with retail space and onsite parking.
 
-The project now referred to as The Parker began in 2003 as the Maples Rehabilitation Area. 
-
-Long-time Rutherfordians will remember “The Maples” as a large boarding house that had become an eyesore and a source of illicit behavior.
-
-Activity on the site stalled a few times over the years with the death of the original developer, followed by the housing bubble and the Great Recession. Eventually with all structures removed, the designation as a rehabilitation area was inaccurate. After further study it was designated a Redevelopment Area in 2017. The Parker was completed in 2019. 
 
 **Below find documents detailing the history of 106 Park Ave:**
 
