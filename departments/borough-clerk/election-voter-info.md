@@ -6,23 +6,29 @@ parent: 'Borough Clerk'
 
 [**Learn More About The Three Ways to Vote in Bergen County - Vote By Mail, In-Person Early & Election Day**](https://nj.gov/state/elections/vote-how-to.shtml)
 
-# GENERAL ELECTION Tuesday, November 7, 2023 6:00 a.m. - 8:00 p.m.
+# PRIMARY ELECTION Tuesday, June 4, 2024 6:00 a.m. - 8:00 p.m.
 					
-
 
 [**Important Election Dates Schedule**](https://storage.googleapis.com/static.rutherford-nj.com/borough-clerk/election-info/Gen%202023.pdf)
 
-The Official Mail-In Ballots for the General Election have been mailed out to voters with Active Vote By Mail Requests. Only voters with active vote by mail requests will receive their ballot.  If you are not set up to receive one already, applications must be received by the County by October 31st.  To check your status contact the Bergen County Clerk’s office at 201-336-7020 or electionsclerk@co.bergen.nj.us.
- 
-Mail-In Ballots must be postmarked on or before Election Day or may be deposited into any Secure Ballot Drop Box within Bergen County, no later than 8:00 pm on Election Day.  For your convenience, there is a Drop Box located in front of Borough Hall, 176 Park Avenue.  Mail-In ballots may also be delivered to 1 Bergen County Plaza, Hackensack prior to 8:00 pm on Election Day.
+Timeline for June 4, 2024 General Election
 
-In-Person Early Voting is available from October 28th through November 5th, 2023.  Kindly check the County website for locations at [https://www.co.bergen.nj.us/election-divisions.](https://www.co.bergen.nj.us/election-divisions)
+**March 25, 2024** – Candidate Petition Filing Deadline
+
+**April 10, 2024** – Last Day to Change Party Affiliation
+
+**May 14, 2024** – Voter Registration Deadline
+
+**May 29, 30, 31, June 1, 2, 2024** – Early Voting
+
+Voter Instructional Videos in three languages available on the Superintendent of Elections webpage:
+[https://www.co.bergen.nj.us/superintendent-of-elections-temp/new-voter-instruction-videos](https://www.co.bergen.nj.us/superintendent-of-elections-temp/new-voter-instruction-videos)
+
 
 Please call us at 460-3001 if you have any questions.
 
 Margaret Scanlon, Borough Clerk
 
-Dated:  October 19, 2023
 
 
 ---
