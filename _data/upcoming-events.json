@@ -60,15 +60,21 @@
     "remove-after": "2024-03-18"
   },
     {
+    "title": "Women's History Month Discussion Panel - Thursday, March 21st, 7:00pm-9:00pm ",
+    "content": "womens-history.md",
+    "image": "/upcoming-events/UpcomingEvents_400x300_womens.jpg",
+    "remove-after": "2024-03-22"
+  },
+  {
     "title": "Shade Tree Commission's TreeFest '24 - Saturday, April 20, 12:00pm-5:00pm ",
     "content": "treefest.md",
     "image": "/upcoming-events/UpcomingEvents_400x300_Treefest.jpg",
     "remove-after": "2024-04-22"
   },
   {
-    "title": "PorchFest 2023 - Saturday, November 4th",
+    "title": "PorchFest 2024 - Saturday, June 15th",
     "content": "porchfest.md",
     "image": "/upcoming-events/UpcomingEvents_400x300_porchfest.jpg",
-    "remove-after": "2023-11-06"
+    "remove-after": "2024-06-17"
   }
 ]
