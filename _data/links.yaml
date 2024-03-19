@@ -141,6 +141,8 @@ departments:
       href: internal-affairs/
     - text: MV Stop Data
       href: mv-stop-data/
+    - text: Use of Force & Vehicle Pursuit Data
+      href: use-of-force-vehicle-pursuit/
     - text: Resident Parking Permits
       href: parking/
     - text: Kid Print/Safely Back Home
