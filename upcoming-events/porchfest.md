@@ -1,7 +1,7 @@
-The Arts Committee is excited to make the long talked about PorchFest a reality in 2023!
+PorchFest is back for 2024! Now seeking applicants from musicians, porch owners and volunteers!
 
-Originated in Ithaca, NY, in 2007, towns of all sizes throughout the country have recreated this successful music festival in their own ways. The Rutherford Arts Committee is currently seeking homeowners willing to lend their porches and lawn, musicians to lend their talents and volunteers to lend their time to create a fantastic community event. Rutherford’s PorchFest 2023 will take place on Saturday, November 4th with a rain date of Sunday, November 5th.
+Originated in Ithaca, NY, in 2007, towns of all sizes throughout the country have recreated this successful music festival in their own ways. The Rutherford Arts Committee is currently seeking homeowners willing to lend their porches and lawn, musicians to lend their talents and volunteers to lend their time to create a fantastic community event. 
 
-**Deadline to apply is Friday, September 22nd**
+**Deadline to apply is Monday, April 1st**
 
 [For more information click here](/committees/arts/porchfest/)
