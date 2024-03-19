@@ -6,7 +6,7 @@ parent: 'Recreation'
 
 # 2024 Rutherford Recreation Summer Day Camp
 
-**Registration opens Tuesday, April 2nd at 8:30 am via [RecDesk](https://rutherfordnj.recdesk.com/Community/Program?category=17)**
+**Registration opens Tuesday, April 2nd at 8:30 am via [RecDesk](https://rutherfordnj.recdesk.com/Community/Home)**
  
 [Please see attached flyer for more information](https://storage.googleapis.com/static.rutherford-nj.com/recreation/2024%20summer%20camp%20flyer.pdf)
  
