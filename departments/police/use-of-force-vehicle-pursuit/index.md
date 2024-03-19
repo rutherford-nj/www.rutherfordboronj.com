@@ -4,4 +4,4 @@ title: 'Use of Force & Vehicle Pursuit Data'
 parent: 'Police Department'
 ---
 
-- [2023 Use of Force & Vehicle Pursuit Data](/2023)
+- [2023 Use of Force & Vehicle Pursuit Data](./2023/)
