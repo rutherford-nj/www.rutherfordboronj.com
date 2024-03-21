@@ -59,6 +59,12 @@
     "image": "/upcoming-events/UpcomingEvents_400x300_womens.jpg",
     "remove-after": "2024-03-22"
   },
+    {
+    "title": "Board of Health Blood Screening - Saturday, April 13, 7:00am-9:00am ",
+    "content": "health-blood-screening.md",
+    "image": "/upcoming-events/UpcomingEvents_400x300_Health.jpg",
+    "remove-after": "2024-04-14"
+  },
   {
     "title": "Shade Tree Commission's TreeFest '24 - Saturday, April 20, 12:00pm-5:00pm ",
     "content": "treefest.md",
