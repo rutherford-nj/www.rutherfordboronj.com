@@ -82,5 +82,11 @@
     "content": "porchfest.md",
     "image": "/upcoming-events/UpcomingEvents_400x300_porchfest.jpg",
     "remove-after": "2024-06-17"
+   }, 
+    {
+    "title": "Green Team Paper Shred & Styrofoam Collection - Saturday, June 29, 9:00am-1:00pm",
+    "content": "styrofoam.md",
+    "image": "/upcoming-events/UpcomingEvents_400x300_styrofoam.jpg",
+    "remove-after": "2024-07-01"
   }
 ]
