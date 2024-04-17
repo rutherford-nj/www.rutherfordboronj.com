@@ -65,6 +65,12 @@
     "image": "/upcoming-events/UpcomingEvents_400x300_Treefest.jpg",
     "remove-after": "2024-04-22"
   },
+   {
+    "title": "Volunteer Clean-Up Day with the Green Team - Saturday, May 4, 9:00am-11:00am ",
+    "content": "clean-up-day.md",
+    "image": "/upcoming-events/UpcomingEvents_400x300_CleanUpDay.jpg",
+    "remove-after": "2024-05-05"
+  }, 
   {
     "title": "PorchFest 2024 - Saturday, June 15th",
     "content": "porchfest.md",
