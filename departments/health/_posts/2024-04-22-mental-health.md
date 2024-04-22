@@ -3,7 +3,7 @@ layout: blog
 title: "FREE Mental Health First Aid Training"
 ---
 
-# FREE Mental Health First Aid Traning
+# FREE Mental Health First Aid Training
 
 [See flyer here](https://storage.googleapis.com/static.rutherford-nj.com/health/posts/2024%20MHFA%20Flyer.pdf)
 
