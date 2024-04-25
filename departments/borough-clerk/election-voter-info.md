@@ -13,16 +13,19 @@ parent: 'Borough Clerk'
 
 Timeline for June 4, 2024 General Election
 
-**March 25, 2024** – Candidate Petition Filing Deadline
-
-**April 10, 2024** – Last Day to Change Party Affiliation
-
 **May 14, 2024** – Voter Registration Deadline
 
 **May 29, 30, 31, June 1, 2, 2024** – Early Voting
 
 Voter Instructional Videos in three languages available on the Superintendent of Elections webpage:
 [https://www.co.bergen.nj.us/superintendent-of-elections-temp/new-voter-instruction-videos](https://www.co.bergen.nj.us/superintendent-of-elections-temp/new-voter-instruction-videos)
+
+The Official Mail-In Ballots for the June Primary have been mailed out to voters with Active Vote By Mail Requests. Only voters with active vote by mail requests will receive their ballot. Voters with active requests who do not receive their ballot by May 2, 2024 should call the County at 201-336-7020 to request a duplicate. The Deadline for the County to receive Vote by Mail Applications for this Election is May 28, 2024.
+
+The deadline to register to vote for this Election is Tuesday, May 14, 2024. The Borough Clerk’s office will be opened from 8:30 a.m. to 9:00 p.m. on the 14th for those wishing to register that day.
+Per State Law, to vote in the Primary Election, a voter must vote for the party of which they are registered. If you are currently registered as an Unaffiliated Voter, commonly referred to as an Independent, you must declare yourself a member of either the Democratic or Republican Party. You can declare your Party in-person at the polls on Election Day or during Early Voting.
+
+Any resident may register to vote in the Borough Clerk's Office in Borough Hall at 176 Park Avenue during regular office hours of 8:30 a.m. to 4:30 p.m. Monday through Friday. You may also call and request a form be mailed to you or go to the County Website: www.bergencountyclerk.org. All residents are reminded of the following to ensure their voting privilege: You must re-register if you have not voted in any election for four consecutive years, have changed your address or changed your name.
 
 
 Please call us at 460-3001 if you have any questions.
