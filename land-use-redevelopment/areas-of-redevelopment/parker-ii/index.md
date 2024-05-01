@@ -22,6 +22,10 @@ The 92 parking spaces are enclosed within the structure, which also houses a dro
 
 **Below find documents related to Parker Phase II redevelopment:**
 
+[118 Park Ave - Financial Agreement](https://storage.googleapis.com/static.rutherford-nj.com/community-development/parker-ii/118%20Park%20Ave%20-%20Financial%20Agreement.pdf)
+
+[118 Park Ave - Application for Tax Abatement](https://storage.googleapis.com/static.rutherford-nj.com/community-development/parker-ii/118%20Park%20Ave%20-%20Application%20for%20Tax%20Abatement.pdf)
+
 [Mayor and Council Resolution No. 52-2021](https://storage.googleapis.com/static.rutherford-nj.com/community-development/parker-ii/Parker%20II%20M%26C%20RES%2052.pdf)
 
 [Redevelopment Study](https://storage.googleapis.com/static.rutherford-nj.com/community-development/parker-ii/Area%20in%20Need%20of%20Redevelopment%20-%20Vango%202%20-%20March%2030%2C%202021%20(00254629xD43F8)%20(1).PDF)
