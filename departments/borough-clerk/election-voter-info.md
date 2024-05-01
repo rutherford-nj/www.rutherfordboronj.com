@@ -4,6 +4,8 @@ title: 'Election / Voter Info'
 parent: 'Borough Clerk'
 ---
 
+For up-to-date election information, please follow Bergen County's official elections related X (Twitter) account [@electionsclerk](https://twitter.com/electionsclerk)
+
 [**Learn More About The Three Ways to Vote in Bergen County - Vote By Mail, In-Person Early & Election Day**](https://nj.gov/state/elections/vote-how-to.shtml)
 
 # PRIMARY ELECTION Tuesday, June 4, 2024 6:00 a.m. - 8:00 p.m.
