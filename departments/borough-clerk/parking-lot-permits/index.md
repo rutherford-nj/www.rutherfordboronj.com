@@ -17,8 +17,7 @@ The Borough of Rutherford offers parking permits at 5 lots at 5 different locati
 
 Picnic & Pavilion Permits will only be issued one per day per park on first come first serve basis after completion of facilities permit. Borough sponsored activities have priority over all picnic and pavilion areas.
 
-**Memorial Park** (Darwin & Washington Avenues)  
-[Click here for written directions](memorial-field-directions/)
+
 
 * 8 baseball/softball diamonds (6 lighted)
 * 6 tennis courts
