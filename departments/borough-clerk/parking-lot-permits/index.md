@@ -20,6 +20,8 @@ The Borough of Rutherford offers parking permits at 6 locations throughout town:
 
 - **Rutherford Ave** - 41 On-Street Parking Spaces Available
 
+- [**For residential parking permits, click here**](/departments/police/parking/)
+
 
 <div class="float-end">
   <div><iframe src="https://www.google.com/maps/d/u/0/embed?mid=1WVoYuLhlgbG0-VHyTfldlrtBupQ3VNc&ehbc=2E312F" width="500" height="500"></iframe></div>
