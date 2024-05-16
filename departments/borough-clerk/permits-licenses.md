@@ -51,7 +51,7 @@ Please click on an item below to download the appropriate form and return to the
 [**OPRA – Public Records Request**](https://storage.googleapis.com/static.rutherford-nj.com/borough-clerk/permits-licenses/OPRA%20REQUEST_2024.pdf)
 – A request for a copy of Public Records should be submitted on the form which has been adopted by the Municipal Clerk as the Custodian of Records.  Some records will be immediately available during normal business hours.  Some records will require time to compile and to make the copies requested, but will normally be available during business hours and within (7) business days.  If any document or copy which has been requested is not a public record or cannot be provided within the seven (7) business days, you will be provided with a response with that information within the seven (7) business days.  Some records requested have specific fees or other response time established by statute.  There is no fee involved in simply inspecting a document during normal business hours.
 
-[**Parking Lot Permits**](../permits-licenses/)
+[**Parking Lot Permits**](../parking-lot-permits/)
 
 [**Parking Payment Coupon**](https://storage.googleapis.com/static.rutherford-nj.com/borough-clerk/permits-licenses/Forms/PARKING%20PAYMENT%20COUPON.pdf)
 
