@@ -4,7 +4,11 @@ title: 'Parking Lot Permits'
 parent: 'Borough Clerk'
 ---
 
-The Recreation Department hosts many programs and activities at the locations below throughout the year:
+The Borough of Rutherford offers parking permits at 5 lots at 5 different locations throughout town:
+
+- 
+
+[Application for Permits for Rutherford Parking Lots](https://storage.googleapis.com/static.rutherford-nj.com/borough-clerk/permits-licenses/PARKING%20(2).pdf) 
 
 <div class="float-end">
   <div><iframe src="https://www.google.com/maps/d/u/0/embed?mid=1WVoYuLhlgbG0-VHyTfldlrtBupQ3VNc&ehbc=2E312F" width="500" height="500"></iframe></div>
