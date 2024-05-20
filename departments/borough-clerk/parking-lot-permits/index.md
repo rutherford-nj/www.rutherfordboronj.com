@@ -11,7 +11,9 @@ parent: 'Borough Clerk'
   <div><a href="https://www.google.com/maps/d/u/0/edit?mid=1WVoYuLhlgbG0-VHyTfldlrtBupQ3VNc&usp=sharing">Click here for a full size map</a></div>
 </div>
 
-The Borough of Rutherford offers parking permits at 6 locations throughout town. Please call the Clerk's Office for availability or to be added to a wait list.
+The Borough of Rutherford offers parking permits at 6 locations throughout town. 
+
+Please call the Clerk's Office for availability or to be added to a wait list.
 
 - **Kip Garage** - 131 Covered Garage Parking Spaces 
 
