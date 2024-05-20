@@ -11,18 +11,18 @@ parent: 'Borough Clerk'
   <div><a href="https://www.google.com/maps/d/u/0/edit?mid=1WVoYuLhlgbG0-VHyTfldlrtBupQ3VNc&usp=sharing">Click here for a full size map</a></div>
 </div>
 
-The Borough of Rutherford offers parking permits at 6 locations throughout town:
+The Borough of Rutherford offers parking permits at 6 locations throughout town. Please call the Clerk's Office for availability or to be added to a wait list.
 
-- **Kip Garage** - 131 Covered Garage Parking Spaces Available
+- **Kip Garage** - 131 Covered Garage Parking Spaces 
 
-- **Ettrick Lot** - 47 Surface Lot Parking Spaces Available
+- **Ettrick Lot** - 47 Surface Lot Parking Spaces 
 
-- **Park & Ride** - 34 On-Street Parking Spaces Available, Adjacent to Train
+- **Park & Ride Lot** - 34 On-Street Parking Spaces, Adjacent to Train Tracks
 
-- **East Erie Ave** - 5 On-Street Parking Spaces Available
+- **East Erie Ave** - 5 On-Street Parking Spaces 
 
-- **West Erie Ave** - 32 On-Street Parking Spaces Available
+- **West Erie Ave** - 32 On-Street Parking Spaces 
 
-- **Rutherford Ave** - 41 On-Street Parking Spaces Available
+- **Rutherford Ave** - 41 On-Street Parking Spaces 
 
 [**For residential parking permits, click here**](/departments/police/parking/)
