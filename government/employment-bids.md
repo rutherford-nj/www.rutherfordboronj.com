@@ -4,6 +4,8 @@ title: 'Employment & Bids'
 parent: Government
 ---
 
+[Bid: Firehouse Garage Doors](https://storage.googleapis.com/static.rutherford-nj.com/finance/Employment/Bid%20Specs%20Firehouse%20Garage%20Doors%205-22-24%20Advertisement.pdf)
+
 [RFP: Certified Lead Based Paint Inspection Services](https://storage.googleapis.com/static.rutherford-nj.com/finance/Employment/RFP%20Certified%20Lead%20Based%20Paint%20Inspection%20Services%20Notice.pdf)
 
 [RFP: Event Planner](https://storage.googleapis.com/static.rutherford-nj.com/finance/Employment/RFP%20Event%20Planner%20Notice.pdf)
