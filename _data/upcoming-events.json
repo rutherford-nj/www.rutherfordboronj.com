@@ -77,6 +77,12 @@
     "image": "/upcoming-events/UpcomingEvents_400x300_RepairCafe.jpg",
     "remove-after": "2024-05-20"
   },
+    {
+    "title": "Pride Flag Raising - Saturday, June 1st, 11:00am",
+    "content": "pride.md",
+    "image": "/upcoming-events/UpcomingEvents_400x300_Pride.jpg",
+    "remove-after": "2024-06-03"
+  },
   {
     "title": "PorchFest 2024 - Saturday, June 15",
     "content": "porchfest.md",
