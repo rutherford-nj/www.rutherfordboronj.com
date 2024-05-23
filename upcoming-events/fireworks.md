@@ -1,5 +1,3 @@
-Saturday, July 1st 
+Saturday, June 29th
 
 Fireworks at Memorial Park! Festivities begin around 7pm
-
-Sponsored by Felician University
