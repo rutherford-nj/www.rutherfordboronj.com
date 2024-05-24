@@ -7,7 +7,10 @@ title: 'PorchFest 2024'
 
 # PorchFest 2024 - Saturday June 15th! 
 
-The Arts Committee currently making plans for PorchFest 2024. 
+[**Check out the map of bands and houses!**](https://storage.googleapis.com/static.rutherford-nj.com/committees/arts/PorchFest_2024_Map.pdf)
+
+This year we're doubling the music and doubling the fun! Two simultaneous loops of porches and bands thoughout town will make for a great all-day event!
+
 
 [I'd like to volunteer my TIME to help out with PorchFest 2024 - Fill out this form](https://forms.gle/wseQgpynohPjiVsH6)
 
