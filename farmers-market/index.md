@@ -12,9 +12,6 @@ Wednesdays 11:00am - 5:00pm   |    Saturdays 8:00am - 2:00pm
 Saturday July 6th - Wednesday October 30th
 
 
-[See Flyer Here](https://storage.googleapis.com/static.rutherford-nj.com/farmers-market/FarmersMarket2023.pdf)
-
-
 The Rutherford Farmer’s Market is returning for its 27th season. The market is sponsored by the Borough of Rutherford. The governing body welcomes the opportunity to support regional farmers by allowing them to market quality products in our downtown area.
 
 
