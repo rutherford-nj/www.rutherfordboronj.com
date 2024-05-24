@@ -1,5 +1,15 @@
-August 10th  Kimon & the Prophets **Postponed to Monday, August 14th due to weather**
+The 2024 Summer Concert Series is as follows:
 
-August 17th  Kurt & Marty Band   
+June 27th: Kurt & Marty
 
-Rain Dates will be held on the following Monday.
+July 11th: Mushmouth
+
+July 18th: Rutherford Community Band
+
+July 25th: Summer Breeze
+
+August 1st: Elton John Tribute Band
+
+August 8th: School of Rock
+
+August 15th: Big House
