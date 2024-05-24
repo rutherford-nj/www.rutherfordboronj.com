@@ -83,6 +83,12 @@
     "image": "/upcoming-events/UpcomingEvents_400x300_Pride.jpg",
     "remove-after": "2024-06-03"
   },
+    {
+    "title": "Dining Out Rutherford Wednesdays 6:00-10:00pm",
+    "content": "DO.md",
+    "image": "/upcoming-events/UpcomingEvents_400x300_DO.jpg",
+    "remove-after": "2024-10-07"
+  },
   {
     "title": "PorchFest 2024 - Saturday, June 15",
     "content": "porchfest.md",
