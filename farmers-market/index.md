@@ -21,7 +21,7 @@ The Rutherford Farmer’s Market is returning for its 27th season. The market is
 
 • [Living Bread Bakery](https://livingbreadbakery.com/) - Artisan sourdough breads, baked right here in Rutherford!
 
-• [Dr.Pickle (Wednesdays)](https://doctorpickle.com/) -  Gourmet kosher, organic, vegan, gluten free pickles!
+• [Dr.Pickle (Wednesdays)](https://docpickle.com/) -   From pickles to peppers, olives, mushrooms & much more. 
 
 Check back regularly as vendors are added!
 
