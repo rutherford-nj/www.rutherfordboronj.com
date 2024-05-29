@@ -13,3 +13,5 @@ parent: 'Police Department'
 - [Major Discipline Reports](./major-discipline-reports/)
 
 - [RPD IA Annual Reports](./ia-annual-reports/)
+
+- [Diversity in Law Enforcement Recruitment and Hiring](./diversity-recruitment-hiring)
