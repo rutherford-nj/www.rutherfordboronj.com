@@ -106,5 +106,11 @@
     "content": "fireworks.md",
     "image": "/upcoming-events/UpcomingEvents_400x300_fireworks.jpg",
     "remove-after": "2024-07-01"
+  },
+        {
+    "title": "Rutherford Day at Lincoln Park - Saturday, Sept 21, 12:00-5:00pm",
+    "content": "rutherford-day.md",
+    "image": "/upcoming-events/UpcomingEvents_400x300_RutherfordDay.jpg",
+    "remove-after": "2024-09-23"
   }
 ]
