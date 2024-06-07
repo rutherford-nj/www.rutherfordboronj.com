@@ -4,5 +4,6 @@ This event is designed specifically to allow Rutherford community organizations,
 
 Due to anticipated construction at Memorial Park, this year’s Rutherford Day will be held in and around Lincoln Park. This event is open to Rutherford-based businesses and organizations only. 
 
-For more information or to learn how your community organization can participate, 
-email Kim Bogosian at communications@rutherfordboronj.com.
+For more information, contact Kim Bogosian at communications@rutherfordboronj.com.
+
+[If your organization is interested in participating, please fill out this form](https://docs.google.com/forms/d/e/1FAIpQLSc-GC9qd6FP3Zxgzg4NLKMTlQu15m3qjHvaq-B3RU_KM74Osg/viewform)
