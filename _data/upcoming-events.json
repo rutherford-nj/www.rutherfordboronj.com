@@ -83,6 +83,12 @@
     "image": "/upcoming-events/UpcomingEvents_400x300_DO.jpg",
     "remove-after": "2024-10-07"
   },
+   {
+    "title": "Flag Day Ceremony - Friday, June 14, 6:30pm",
+    "content": "flag-day.md",
+    "image": "/upcoming-events/UpcomingEvents_400x300_flag.jpg",
+    "remove-after": "2024-06-16"
+  },
   {
     "title": "PorchFest 2024 - Saturday, June 15",
     "content": "porchfest.md",
