@@ -1,1 +1,1 @@
-Please join the Mayor and Council for a Flag Day Ceremony on the front lawn of Rutherford Borough Hall, 176 Park Ave, with a special presentation from the Elks Lodge. 
+Due to the forecasted weather, Elks Lodge #547 will host the ceremony at their lodge, 48 Ames Ave.
