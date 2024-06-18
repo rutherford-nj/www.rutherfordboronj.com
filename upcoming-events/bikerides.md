@@ -1,10 +1,12 @@
-**2023 Family Bike Rides - All rides start from Rutherford Police HQ**
+**2024 Family Bike Rides - All rides start from Rutherford Police HQ**
 
-Monday July 31 6:30pm 
+Tuesday June 18 6:30pm 
 
-Monday Aug 21 6:30pm 
+Tuesday July 16 6:30pm
 
-Monday Sept 18 6:00pm 
+Tuesday Aug 20 6:30pm 
 
-Join us for family friendly Bicycle rides around town as part of the  Mayor’s Wellness Campaign.  Each ride will be a short (app. 2 mile) loop beginning and ending at the same location.  
+Tuesday Sept 17 6:00pm (earlier start due to sunset at 7:01pm)
+
+Join the Green Team for family friendly Bicycle rides around town as part of the  Mayor’s Wellness Campaign.  Each ride will be a short (app. 2 mile) loop beginning and ending at the same location.  
 Attendees should wear their Bike helmets.  Weather related changes to dates or locations will be announced through the Borough website.
