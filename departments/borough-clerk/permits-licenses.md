@@ -17,6 +17,8 @@ Please click on an item below to download the appropriate form and return to the
 
 [**Business Permits: Temporary Outdoor**](/business-resources/businesses-resources/)
 
+[**Business & Rental Insurance Registration**](https://storage.googleapis.com/static.rutherford-nj.com/borough-clerk/permits-licenses/Business-Rental-Insurance-Registration.pdf) – In accordance with P.L. 2022, c. 92 and Borough Code, Chapter 48, Business and Rental Properties Owners are required to file appropriate proof of insurance annually with the Borough prior to July 15th and the annual fee of $100.
+
 [**Construction/Zoning Permits**](/departments/building/)
 
 [**Dumpster**](https://storage.googleapis.com/static.rutherford-nj.com/borough-clerk/permits-licenses/DUMPSTER_2024.pdf)
