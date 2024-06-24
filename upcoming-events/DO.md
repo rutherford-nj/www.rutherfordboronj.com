@@ -1,6 +1,9 @@
-**Due to the excessive heat forecast, the Wednesday, June 19th Dining Out has been postponed**
 
 **Announcing our 2024 Dining Out Rutherford Dates!**
+
+Thanks to the Rutherford Chamber of Commerce, Bungalow Beauty Bar and Azteca for sponsoring the June 26th Dining Out!
+
+We are monitoring the weather - in case of extreme heat, this event will be moved to Thursday, June 27th.
 
 Park Avenue from the Library to Ames Ave will be closed to vehicular traffic. Bikes and scooters prohibited.
 
