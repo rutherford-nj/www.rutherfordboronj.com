@@ -1,7 +1,7 @@
 
 **Announcing our 2024 Dining Out Rutherford Dates!**
 
-Thanks to the Rutherford Chamber of Commerce, Bungalow Beauty Bar and Azteca for sponsoring the June 26th Dining Out!
+**Please note, due to the weather forecast, Dining Out Rutherford will be held Thursday, June 27th. Thanks to  the Rutherford Chamber of Commerce, Bungalow Beauty Bar and Azteca for sponsoring the June 27th Dining Out!**
 
 We are monitoring the weather - in case of extreme heat, this event will be moved to Thursday, June 27th.
 
