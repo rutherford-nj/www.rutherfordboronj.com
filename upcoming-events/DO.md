@@ -7,7 +7,7 @@ We are monitoring the weather - in case of extreme heat, this event will be move
 
 Park Avenue from the Library to Ames Ave will be closed to vehicular traffic. Bikes and scooters prohibited.
 
-Following Wednesdays: June 26th, Sept. 4th, Sept. 11th, Sept. 18th and the Grand Finale on Saturday, Sept. 21st!
+Following Wednesdays: Sept. 4th, Sept. 11th, Sept. 18th and the Grand Finale on Saturday, Sept. 21st!
 
 
 
