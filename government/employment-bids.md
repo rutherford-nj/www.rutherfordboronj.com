@@ -4,7 +4,7 @@ title: 'Employment & Bids'
 parent: Government
 ---
 
-[Bid: Consumption License](/consumption-license/)
+[Bid: Consumption License](./consumption-license/)
 
 [Bid: Firehouse Garage Doors](https://storage.googleapis.com/static.rutherford-nj.com/finance/Employment/Bid%20Specs%20Firehouse%20Garage%20Doors%206-25-24%20Advertisement.pdf)
 
