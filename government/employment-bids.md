@@ -10,8 +10,6 @@ parent: Government
 
 [RFP: Certified Lead Based Paint Inspection Services](https://storage.googleapis.com/static.rutherford-nj.com/finance/Employment/RFP%20Certified%20Lead%20Based%20Paint%20Inspection%20Services%20Notice.pdf)
 
-[RFP: Event Planner](https://storage.googleapis.com/static.rutherford-nj.com/finance/Employment/RFP%20Event%20Planner%20Notice.pdf)
-
 [Job Posting: Electrical Inspector](https://storage.googleapis.com/static.rutherford-nj.com/finance/Employment/Electrical%20Inspector.docx.pdf)
 
 [Job Posting: Fire Protection Subcode Official](https://storage.googleapis.com/static.rutherford-nj.com/finance/Employment/Fire%20Protection%20Subcode%20Official.docx.pdf)
