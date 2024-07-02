@@ -1,13 +1,9 @@
-**The Saturday, September 30th Farmers Market is CANCELLED due to the weather forecast.**
+**New Location: Lincoln Park**
 
-WILLIAMS CENTER PLAZA
-
-Wednesdays 11:00 am - 4:00 pm
-
-July 5th - 25th
+Wednesdays 11:00 am - 6:00 pm
 
 Saturdays 8:00 am - 2:00 pm
 
-July 8th - October 28th
+July 6th - October 30th
 
 [Click here for more information](/farmers-market/)
