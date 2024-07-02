@@ -5,7 +5,7 @@ title: 'Rutherford Day 2024'
 
 # Rutherford Day - Saturday, September 21st, 2024
 
-**@ Lincoln Park 12pm-5pm**
+# @ Lincoln Park 12pm-5pm
 
 # This event is designed specifically to allow Rutherford community organizations, service groups, clubs, or businesses in Rutherford to promote themselves, their services, accomplishments, and goals to the residents of Rutherford.
 
