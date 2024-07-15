@@ -1,6 +1,6 @@
 **2024 Family Bike Rides - All rides start from Rutherford Police HQ**
 
-Tuesday July 16 6:30pm
+Due to the extreme heat forecast, the Tuesday July 16 bike ride is cancelled
 
 Tuesday Aug 20 6:30pm 
 
