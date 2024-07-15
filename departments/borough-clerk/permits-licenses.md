@@ -11,7 +11,7 @@ Please click on an item below to download the appropriate form and return to the
 
 **Block Party**
 
-  [- Block Party Application](https://storage.googleapis.com/static.rutherford-nj.com/borough-clerk/permits-licenses/block-parties/Block%20Party%20Application.pdf)
+  [- Block Party Application](https://storage.googleapis.com/static.rutherford-nj.com/borough-clerk/permits-licenses/Block%20Party%20Application_24.pdf)
 
   [- Block Party Policy](https://storage.googleapis.com/static.rutherford-nj.com/borough-clerk/permits-licenses/block-parties/Block%20Party%20Policy_2023.pdf)
 
