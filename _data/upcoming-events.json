@@ -6,12 +6,6 @@
     "remove-after": "2023-11-26"
   },
   {
-    "title": "National Night Out - Tuesday, August 1st, 6:00pm-8:00pm",
-    "content": "nno.md",
-    "image": "/upcoming-events/UpcomingEvents_400x300_NNO.jpg",
-    "remove-after": "2023-08-02"
-  },
-  {
     "title": "Farmers Market - Wednesdays & Saturdays July 6th - October 30th",
     "content": "farmersmarket.md",
     "image": "/upcoming-events/UpcomingEvents_400x300_farmersmarket.jpg",
@@ -100,6 +94,12 @@
     "content": "summer-concerts.md",
     "image": "/upcoming-events/UpcomingEvents_400x300_Concerts.jpg",
     "remove-after": "2024-08-19"
+  },
+    {
+    "title": "National Night Out - Tuesday, August 6th, 6:00pm-8:00pm",
+    "content": "nno.md",
+    "image": "/upcoming-events/UpcomingEvents_400x300_NNO.jpg",
+    "remove-after": "2024-08-07"
   },
    {
     "title": "Board of Health Glaucoma & Vision Screening - Tuesday, August 20, 2:00pm-6:00pm ",
