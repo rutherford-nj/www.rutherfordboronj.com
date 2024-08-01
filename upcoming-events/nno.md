@@ -3,12 +3,11 @@
 
 **Presented by the Rutherford Police Department**
 
-National Night Out enhances the relationship between community members and law enforcement while bringing back a true sense of community.  It will be a fun filled night for police and community members of all ages that will strengthen community camaraderie.  
+The Rutherford Police Department will host our annual National Night Out Event on Tuesday, August 6th, from 6pm to 8pm inside Lincoln Park. Don’t miss this opportunity to meet the amazing Rutherford Police Officers who so proudly serve and protect this great community. There will also be over 30 local and county civic and charitable organizations, partner law enforcement agencies, and our incredible Volunteer Ambulance Corp and Fire Department in attendance. There will be some pretty cool vehicles and equipment there too!
 
-Follow us for updates @RutherfordPDNJ
+But the best part is…………there will be FREE FOOD, FREE RIDES, and FREE ENTERTAINMENT!
 
-Get to know your hometown heroes!
- 
-Free activities for children and refreshments. To learn more, like us on Facebook, Twitter and Instagram @RutherfordPDNJ
+Hope to see you all there!!!!!
 
-For more information, or to register your organization to participate, contact Administrative Sergeant Tom Lewis at tlewis@rutherfordpd.com 
+For more information about National Night out, please visit - [https://natw.org/about/](https://natw.org/about/)
+
