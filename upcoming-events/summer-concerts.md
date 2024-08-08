@@ -10,6 +10,6 @@ July 25th: Summer Breeze
 
 August 1st: Elton John Tribute Band
 
-August 8th: School of Rock
+August 8th: School of Rock **Postponed to Monday, August 12th due to weather**
 
 August 15th: Big House
