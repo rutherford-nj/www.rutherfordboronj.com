@@ -40,10 +40,6 @@ Aplications to be appointed to a Borough committee are submitted at the end of e
 
 ---
 
-[**Local Assistance Board**](local-assistance-board/)
-
----
-
 [**Planning Board**](planning-board/)
 
 ---
