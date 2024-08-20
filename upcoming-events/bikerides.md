@@ -2,7 +2,7 @@
 
 Due to the extreme heat forecast, the Tuesday July 16 bike ride is cancelled
 
-Tuesday Aug 20 6:30pm 
+Tuesday Aug 20 6:30pm - CANCELLED
 
 Tuesday Sept 17 6:00pm (earlier start due to sunset at 7:01pm)
 
