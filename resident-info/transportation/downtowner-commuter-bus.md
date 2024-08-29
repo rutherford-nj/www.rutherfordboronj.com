@@ -9,7 +9,10 @@ grandparent: Resident Services
 
 ## Commuter Shuttle
 
-The Commuter Shuttle is offered free to all residents following [this route](https://www.google.com/maps/d/viewer?mid=1CPW4txNeS55syVYQ9XMPqHbDpl0). The bus operates Monday through Friday from 6:00 am to 8:43 am in the mornings and 4:49 pm to 7:04 pm in the evenings. There is no service on Saturday, Sunday and Holidays.  
+The Commuter Shuttle is offered free to all residents following [this route](https://www.google.com/maps/d/viewer?mid=1CPW4txNeS55syVYQ9XMPqHbDpl0). The bus operates Monday through Friday from 6:00 am to 8:43 am in the mornings and 4:49 pm to 7:04 pm in the evenings. There is no service on Saturday, Sunday and Holidays. 
+
+**Commuter Shuttle Policy** - Children age 17 and under must be accompanied on the same bus by a parent, legal guardian, or another passenger at least 18 years old.
+
 
 **Morning Shuttle**
 
