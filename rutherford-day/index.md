@@ -9,7 +9,9 @@ title: 'Rutherford Day 2024'
 
 **This event is designed specifically to allow Rutherford community organizations, service groups, clubs, or businesses in Rutherford to promote themselves, their services, accomplishments, and goals to the residents of Rutherford.**
 
-[Please register your Rutherford business or organization here by August 15th to guarantee space.](https://docs.google.com/forms/d/e/1FAIpQLSc-GC9qd6FP3Zxgzg4NLKMTlQu15m3qjHvaq-B3RU_KM74Osg/viewform)
+Music by Big House, Rutherford Rock and Springwood's Electric Luau!
+
+Beer garden, food vendors, children's rides, over 70 Rutherford businesses and organizations and more!
 
 Due to anticipated construction at Memorial Park, this year’s Rutherford Day will be held in and around Lincoln Park. This event is open to Rutherford-based businesses and organizations only.
 
