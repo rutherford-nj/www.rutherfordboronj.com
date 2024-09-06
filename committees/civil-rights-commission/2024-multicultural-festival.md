@@ -7,7 +7,7 @@ title: '2024 Multicultural Festival'
 
 # 2024 Multicultural Festival Schedule
 
-# Saturday September 7th - 12-7pm - Lincoln Park
+# Sunday, September 8th (moved due to rain) - 12-7pm - Lincoln Park
 
 [2024 Multicultural Festival Official Flyer](https://storage.googleapis.com/static.rutherford-nj.com/committees/civil-rights/2024_MulticulturalFest.pdf)
 
