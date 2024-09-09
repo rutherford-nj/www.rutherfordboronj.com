@@ -3,7 +3,7 @@ layout: page
 title: 'September 11th Ceremony'
 ---
  
-**The Borough will honor the memories of the six Rutherford residents whom we lost during the terror attacks of September 11th, 2001 in a ceremony on Wednesday, September 11th, 2023 at 5:30 pm in Lincoln Park. This event will be held rain or shine.**
+**The Borough will honor the memories of the six Rutherford residents whom we lost during the terror attacks of September 11th, 2001 in a ceremony on Wednesday, September 11th, 2024 at 5:30 pm in Lincoln Park. This event will be held rain or shine.**
 
 The Borough of Rutherford extends its sincerest sympathies to the families of Port Authority Police Officer Maurice Barry, John Crowe, Ronnie Breitweiser, Tim Finnerty, John Griffin and Port Authority Police Officer Paul Laszczynski. 
 
