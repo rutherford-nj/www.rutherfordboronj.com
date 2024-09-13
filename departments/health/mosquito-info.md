@@ -10,9 +10,6 @@ Bergen County will be spraying Duet adulticide to eliminate active, adult mosqui
 
 As a precaution, please keep windows closed during this time. In the event that it rains, the spray will be postponed until Monday September 16th. 
 
-I have attached fact sheets for the materials being used. The map of the spray area and additional information can be found on our website: 
-[https://www.co.bergen.nj.us/public-works-mosquito-control/bergen-county-mosquito-control-spray-notice](https://www.co.bergen.nj.us/public-works-mosquito-control/bergen-county-mosquito-control-spray-notice)
-
 Mosquito Control is everyone's responsibility; please do your part by preventing mosquitoes from breeding on your property. For more information on mosquitoes and mosquito control contact The Bergen County Mosquito Control Program at 201-634-2880 or 201-634-2881 and or visit their website at [https://www.co.bergen.nj.us/public-works-mosquito-control/bergen-county-mosquito-control-spray-notice](https://www.co.bergen.nj.us/public-works-mosquito-control/bergen-county-mosquito-control-spray-notice)
 
 
