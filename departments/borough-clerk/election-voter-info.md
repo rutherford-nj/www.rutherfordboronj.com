@@ -6,12 +6,11 @@ parent: 'Borough Clerk'
 
 For up-to-date election information, please follow Bergen County's official elections related X (Twitter) account [@electionsclerk](https://twitter.com/electionsclerk)
 
-[**Learn More About The Three Ways to Vote in Bergen County - Vote By Mail, In-Person Early & Election Day**](https://nj.gov/state/elections/vote-how-to.shtml)
-				
+[**Learn More About The Three Ways to Vote in Bergen County - Vote By Mail, In-Person Early & Election Day**](https://nj.gov/state/elections/vote-how-to.shtml)			
 
-[**Important Election Dates Schedule**](https://storage.googleapis.com/static.rutherford-nj.com/borough-clerk/election-info/Gen%202023.pdf)
+[**Important Election Dates Schedule**](https://storage.googleapis.com/static.rutherford-nj.com/borough-clerk/election-info/Gen%202024%20Red%20Deadline%20Flyer.pdf)
 
-
+[**In-Person Early Voting Locations in Bergen County**](https://www.co.bergen.nj.us/board-of-elections/early-voting-locations)
 
 Voter Instructional Videos in three languages available on the Superintendent of Elections webpage:
 [https://www.co.bergen.nj.us/superintendent-of-elections-temp/new-voter-instruction-videos](https://www.co.bergen.nj.us/superintendent-of-elections-temp/new-voter-instruction-videos)
@@ -27,7 +26,7 @@ Voter Instructional Videos in three languages available on the Superintendent of
 **Mail-In Ballot Return:** Board of Elections 201-336-6230
 
 
-# IN-PERSON VOTING POLLING LOCATIONS IN RUTHERFORD:
+# IN-PERSON ELECTION DAY VOTING POLLING LOCATIONS IN RUTHERFORD:
 
 **1st District:**	Lincoln School		414 Montross Avenue
 		
