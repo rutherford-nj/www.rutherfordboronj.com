@@ -5,7 +5,7 @@ parent: 'Building'
 ---
 
 
-The Borough of Rutherford has partnered with LEW Environmental Services to ensure compliance with New Jersey’s new Lead Safe Certification Law.
+You may have received a mailer regarding the new NJ state mandate regarding Lead Hazard Testing. The Borough of Rutherford has partnered with LEW Environmental Services to ensure compliance with New Jersey’s new Lead Safe Certification Law.
 
 The new law states that certain rental properties in Rutherford Borough are required to have a visual inspection to assess for lead hazards.
 
