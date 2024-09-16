@@ -1,7 +1,9 @@
 
-**Dining Out Rutherford returns in September!**
+**Saturday, September 21st is the Grand Finale on Park Ave with Mushmouth beginning at 7:00pm at Park Ave and The Terrace**
 
-Wednesdays: Sept. 4th, Sept. 11th, Sept. 18th and the Grand Finale on Saturday, Sept. 21st!
+Opening act School of Rock at 6:30
+
+Plus make-up bonus Dining Out on Wednesday, September 25th
 
 
 
