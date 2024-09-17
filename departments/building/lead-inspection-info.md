@@ -15,5 +15,5 @@ If you received a notice, please follow the link below to determine if your prop
 
 [**www.LEWenvironmental.com/rutherford**](https://lewenvironmental.com/rutherford/)
 
-[Visual Inspection Letter Sent to Landlords](https://storage.googleapis.com/static.rutherford-nj.com/building/Visual%20Inspection%20Letter%20To%20Landlords-FINAL.pdf)
+[Additional Information Regarding Law and Inspections](https://storage.googleapis.com/static.rutherford-nj.com/building/Visual%20Inspection%20Letter%20To%20Landlords-FINAL.pdf)
 
