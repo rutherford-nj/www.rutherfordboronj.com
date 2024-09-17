@@ -7,18 +7,24 @@ title: 'Rutherford Day 2024'
 
 # @ Lincoln Park 12pm-5pm
 
-**This event is designed specifically to allow Rutherford community organizations, service groups, clubs, or businesses in Rutherford to promote themselves, their services, accomplishments, and goals to the residents of Rutherford.**
+**Followed by Dining Out Rutherford on Park Ave beginning 6pm and a concert by Mushmouth at 7pm!**
+
+[See flyer here](https://storage.googleapis.com/static.rutherford-nj.com/events/RutherfordDay2024.pdf)
+
+This event is designed specifically to allow Rutherford community organizations, service groups, clubs, or businesses in Rutherford to promote themselves, their services, accomplishments, and goals to the residents of Rutherford.
 
 
-Beer Garden hosted Rutherford PBA & Lacrosse
+• Inflatable Kids’ Rides
 
-Dunk Tank hosted by the REF ($5 for 3 balls)
+• Scavenger Hunt - Start at the gazebo!
 
-Kids’ Rides
+• Beer Garden hosted Rutherford PBA & Lacrosse
 
-Food Vendors
+• Farmers’ Market
 
-Over 70 local businesses and organizations and more!
+• Dunk Tank  - 3 balls for $5, proceeds go to the REF
+
+• A variety of vendors including the Engine 2 Grill, food trucks, ice cream & more!
 
 Kickoff at 12pm starting with music by
 
