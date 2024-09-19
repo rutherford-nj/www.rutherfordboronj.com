@@ -35,12 +35,6 @@
     "image": "/upcoming-events/UpcomingEvents_400x300_RepairCafe.jpg",
     "remove-after": "2024-01-15"
   },
-    {
-    "title": "Board of Health Blood Screening - Saturday, April 13, 7:00am-9:00am ",
-    "content": "health-blood-screening.md",
-    "image": "/upcoming-events/UpcomingEvents_400x300_Health.jpg",
-    "remove-after": "2024-04-14"
-  },
   {
     "title": "Shade Tree Commission's TreeFest '24 - Saturday, April 20, 12:00pm-5:00pm ",
     "content": "treefest.md",
@@ -108,9 +102,15 @@
     "remove-after": "2024-10-03"
   },
      {
-    "title": "Green Team Styrofoam Collection - Saturday, October 5th, 9:00am-1:00pm",
+    "title": "Green Team Styrofoam Collection - Saturday, October 5, 9:00am-1:00pm",
     "content": "styrofoam.md",
     "image": "/upcoming-events/UpcomingEvents_400x300_styrofoam.jpg",
     "remove-after": "2024-10-07"
+  },
+      {
+    "title": "Board of Health Blood Screening - Saturday, October 19, 7:00am-9:00am ",
+    "content": "health-blood-screening.md",
+    "image": "/upcoming-events/UpcomingEvents_400x300_Health.jpg",
+    "remove-after": "2024-10-20"
   }
 ]
