@@ -107,6 +107,12 @@
     "image": "/upcoming-events/UpcomingEvents_400x300_styrofoam.jpg",
     "remove-after": "2024-10-07"
   },
+  {
+    "title": "Annual Rutherford Fire Department Memorial Service - Thursday, October 10, 7:00pm",
+    "content": "fire-memorial.md",
+    "image": "/upcoming-events/UpcomingEvents_400x300_fire.jpg",
+    "remove-after": "2024-10-11"
+  },
       {
     "title": "Board of Health Blood Screening - Saturday, October 19, 7:00am-9:00am ",
     "content": "health-blood-screening.md",
