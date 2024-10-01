@@ -118,5 +118,11 @@
     "content": "health-blood-screening.md",
     "image": "/upcoming-events/UpcomingEvents_400x300_Health.jpg",
     "remove-after": "2024-10-20"
+  },
+       {
+    "title": "Board of Health Flu Clinics",
+    "content": "health-flu-clinic.md",
+    "image": "/upcoming-events/UpcomingEvents_400x300_Health.jpg",
+    "remove-after": "2024-10-29"
   }
 ]
