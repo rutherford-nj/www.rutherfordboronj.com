@@ -9,13 +9,6 @@ grandparent: Resident Services
 
 ## Commuter Shuttle
 
-**Due to a shortage in available drivers, we must temporarily amend the Commuter Shuttle schedule.  Effective Thursday, September 19th the shuttle will operate from 11am until 7pm (No morning pickups).**
-
-Also, there will be no commuter shuttle service on Thursday, September 26th and Friday, September 27th.
-
-Effective Monday, **September 30th the commuter shuttle will return to the normal schedule.**  We apologize for any inconvenience this may cause you.  Thank you in advance for your understanding.   
-
-
 The Commuter Shuttle is offered free to all residents following [this route](https://www.google.com/maps/d/viewer?mid=1CPW4txNeS55syVYQ9XMPqHbDpl0). The bus operates Monday through Friday from 6:00 am to 8:43 am in the mornings and 4:49 pm to 7:04 pm in the evenings. There is no service on Saturday, Sunday and Holidays. 
 
 **Commuter Shuttle Policy** - Children age 17 and under must be accompanied on the same bus by a parent, legal guardian, or another passenger at least 18 years old.
