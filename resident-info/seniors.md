@@ -25,7 +25,6 @@ $15 for non-residents
 
 
 **Golden Age Club** 
-Ruth Kubs - 201-933-8048
 Coordinated with the Recreation Department
 
 ---
