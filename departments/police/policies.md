@@ -9,7 +9,7 @@ parent: 'Policies'
  
 [Rutherford Police Department Promoting Diversity and Selection Process](https://storage.googleapis.com/static.rutherford-nj.com/police/VI%2CC3%20Selection%20Process%20%26%20Promoting%20Diversity.pdf)
 
-[Police Department Drug Testing Policy](https://storage.googleapis.com/static.rutherford-nj.com/police/policies/VI%2C%20C20%20Drug%20Testing%202023.pdf))
+[Police Department Drug Testing Policy](https://storage.googleapis.com/static.rutherford-nj.com/police/policies/SOP_vI__c20_Drug_Testing_55052_185153_v2.01.pdf)
   
 [Attorney General's Law Enforcement Drug Testing Policy](https://www.nj.gov/oag/dcj/njpdresources/pdfs/Drug-Test-Policy_2020-12.pdf)
 
