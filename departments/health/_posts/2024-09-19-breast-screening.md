@@ -3,7 +3,9 @@ layout: blog
 title: "Breast & Pap Screening 10/2/24"
 ---
 
-# Breast & Pap Screening 10/2/24
+# Breast & Pap Screening 10/9/24
+
+**Please note, this event was rescheduled from October 2nd to October 9th.** 
 
 4:00 - 6:00pm
 
