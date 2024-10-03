@@ -124,5 +124,11 @@
     "content": "health-flu-clinic.md",
     "image": "/upcoming-events/UpcomingEvents_400x300_Health.jpg",
     "remove-after": "2024-10-29"
+  },
+    {
+    "title": "2024 Rutherford Halloween",
+    "content": "halloween.md",
+    "image": "/upcoming-events/UpcomingEvents_400x300_Halloween.jpg",
+    "remove-after": "2024-11-01"
   }
 ]
