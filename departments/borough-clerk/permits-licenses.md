@@ -50,7 +50,7 @@ Please click on an item below to download the appropriate form and return to the
 [**Mobile Storage Unit (POD)**](https://storage.googleapis.com/static.rutherford-nj.com/borough-clerk/permits-licenses/POD.pdf)
 – Maintenance of container must meet requirements of Ordinance # 3126-06.  Storage units must be legally parking in compliance with NJ Motor Vehicle laws.  Fee $25. If being placed in meter spaces $25 per day, per meter.
 
-[**OPRA – Public Records Request**](https://storage.googleapis.com/static.rutherford-nj.com/borough-clerk/permits-licenses/9-2024%20OPRA%20Request%20Form.pdf)
+[**OPRA – Public Records Request**](https://storage.googleapis.com/static.rutherford-nj.com/borough-clerk/permits-licenses/9-2024%20OPRA%20Request%20Form1.pdf)
 – A request for a copy of a public record MUST be submitted on the Open Public Records Act form mandated by N.J.S.A. 47:1A-5 (f) and adopted by the Borough.  Questions 1 – 3 must be checked off or the submission will be deemed incomplete and denied.
 
 [**Parking Lot Permits**](../parking-lot-permits/)
