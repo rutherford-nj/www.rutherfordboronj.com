@@ -6,7 +6,15 @@ title: 'Roadwork in Rutherford'
 
 
 
-## Road Work in Rutherford Spring 2024
+## Road Work in Rutherford
 
 
-[**Dewcon Roadwork Schedule April 22-26**](https://storage.googleapis.com/static.rutherford-nj.com/road-work/DCI%20Rutherford%204-29-24%20thru%205-3-24.pdf)
+**PSE&G Work in Rutherford Schedule October 4th - 18th**
+
+10/4 - 10/11 	Beech Street between Union and West Erie
+
+10/11 - 10/18 	Raymond Ave between Union and West Erie
+
+Work on Beech Street between Union & Washington Aves will take place during OFF school hours.
+
+(Saturday, 10/5, 10/12 and Monday 10/14)
