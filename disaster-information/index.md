@@ -32,14 +32,3 @@ If you have applied for FEMA assistance and 14 days have passed and you have not
 If you need assistance with damage from Hurricane Ida, call the number above to ask for help. We will connect you with volunteers from local relief organizations, community groups and faith communities who may be able to assist with: All services are free, but service is not guaranteed due to the overwhelming need. This hotline will
 remain open through Friday, September 17, 2021.
 
----
-
-**FEMA Fact Sheet- Individual Assistance:**
-
-[http://swift911v4.swiftreach.com/Public/Attachments/200986/files/FACT%20SHEET%20-%20Individual%20Assistance%20Program%20-%20FINAL%202019Compliant2JR.pdf](http://swift911v4.swiftreach.com/Public/Attachments/200986/files/FACT%20SHEET%20-%20Individual%20Assistance%20Program%20-%20FINAL%202019Compliant2JR.pdf)
-
----
-
-**FEMA Fact Sheet - Households Program**
-
-[http://swift911v4.swiftreach.com/Public/Attachments/200986/files/FACT%20SHEET%20-%20Individuals%20and%20Households%20Program%20-%20FINAL%202019Compliant2JR.pdf](http://swift911v4.swiftreach.com/Public/Attachments/200986/files/FACT%20SHEET%20-%20Individuals%20and%20Households%20Program%20-%20FINAL%202019Compliant2JR.pdf)
