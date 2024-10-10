@@ -6,6 +6,10 @@ title: 'Mayor and Council Newsletters'
 
 # Archive of Mayor and Council Newsletters
 
+- [September 30, 2024](https://storage.googleapis.com/static.rutherford-nj.com/newsletters/2024/Rutherford_Nwsltr_9-30-2024.pdf)
+
+- [September 13, 2024](https://storage.googleapis.com/static.rutherford-nj.com/newsletters/2024/Rutherford_Nwsltr_9-13-2024.pdf)
+
 - [August 30, 2024](https://storage.googleapis.com/static.rutherford-nj.com/newsletters/2024/Rutherford_Nwsltr_8-30-2024.pdf)
 
 - [August 7, 2024](https://storage.googleapis.com/static.rutherford-nj.com/newsletters/2024/Rutherford_Nwsltr_8-7-2024.pdf)
