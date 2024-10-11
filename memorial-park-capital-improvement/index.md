@@ -13,7 +13,7 @@ Phase 1 work is underway, with reconstructed tennis courts completed in August o
 
 The enclosed softball field at Diamond 4, also part of Phase 1, is scheduled for completion in spring of 2025. NJDEP approval is required in order for work to proceed. The documents submitted to the NJDEP for permit approval can be viewed here: [NJDEP Permit Submission Documents](./NJDEP-permit-submission/)
 
-Phase 2 will bring additions including new lighting and turf for soccer, football, baseball and softball as well as improved ADA accessibility with new handicap parking spaces connected to an extended "Leisure Lane," which will make the area easier to navigate for all users. 
+Phase 2 will bring additions including new lighting and turf for soccer, football, lacrosse, baseball and softball as well as improved ADA accessibility with new handicap parking spaces connected to an extended "Leisure Lane," which will make the area easier to navigate for all users. 
 
 
 
