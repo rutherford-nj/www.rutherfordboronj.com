@@ -7,13 +7,29 @@ title: 'Memorial Park Capital Improvement Project'
 
 Memorial Park is currently undergoing a multi-phase renovation project to upgrade the majority of its recreational facilities. Below is a detailed rendering of the scope of the project: 
 
-[Memorial Park Rendering - September 2024](https://storage.googleapis.com/static.rutherford-nj.com/memorial-field/Memorial%20Park%20Rendering.pdf)
+[**Memorial Park Rendering - September 2024**](https://storage.googleapis.com/static.rutherford-nj.com/memorial-field/Memorial%20Park%20Rendering.pdf)
 
-Phase 1 work is underway, with reconstructed tennis courts completed in August of 2024 and the multi-use softball/baseball/soccer/lacrosse fields known as Diamonds 5 & 6 on track for completion before November 2024. 
 
-The enclosed softball field at Diamond 4, also part of Phase 1, is scheduled for completion in spring of 2025. NJDEP approval is required in order for work to proceed. The documents submitted to the NJDEP for permit approval can be viewed here: [NJDEP Permit Submission Documents](./NJDEP-permit-submission/)
+**Phase 1**
 
-Phase 2 will bring additions including new lighting and turf for soccer, football, lacrosse, baseball and softball as well as improved ADA accessibility with new handicap parking spaces connected to an extended "Leisure Lane," which will make the area easier to navigate for all users. 
+  a.	Tennis Courts Reconstruction – Completed August 2024
+  
+  b.	Diamonds 5 and 6: New turf fields for softball, soccer and lacrosse.  Expected completion late October 2024
+  
+  c.	New Diamond 4 Softball Field: Permitting documents submitted to NJDEP for review and approval. The documents submitted to the NJDEP for permit approval can be viewed here: [NJDEP Permit Submission Documents](./NJDEP-permit-submission/).  Project completion expected Spring 2025
+  
+  d.	New LED lighting for Tryon Field -  Winter 2024/2025
+
+**Phase 2 (timeline to be determined – 2025/2026)**
+
+  a.	New turf football practice field, soccer, lacrosse, softball and 60/90 baseball field
+
+  b.	Lighting, dugouts and scoreboard upgrades
+  
+  c.	Leisure Lane improvements
+  
+  d.	Dedicated handicapped parking lot
+
 
 
 
