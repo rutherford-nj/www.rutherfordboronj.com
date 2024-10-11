@@ -5,9 +5,7 @@ title: 'Memorial Park Capital Improvement Project'
 
 # Memorial Park Capital Improvement Project
 
-Memorial Park is currently undergoing a multi-phase renovation project to upgrade the majority of its recreational facilities. Below is a detailed rendering of the scope of the project: 
-
-[**Memorial Park Rendering - September 2024**](https://storage.googleapis.com/static.rutherford-nj.com/memorial-field/Memorial%20Park%20Rendering.pdf)
+Memorial Park is currently undergoing a multi-phase renovation project to upgrade the majority of its recreational facilities. A detailed rendering will be posted once finalized from the Borough Engineer. 
 
 
 **Phase 1**
