@@ -8,7 +8,7 @@ title: 'Committees'
  
 Aplications to be appointed to a Borough committee are submitted at the end of each calendar year. These applications are forwarded to the Mayor and a Council Subcommittee for their consideration. Official appointments are made by the Mayor at a Council meeting, typically in January of each year.
  <br>
-[**2024 Committee, Board and Commission Descriptions**](https://storage.googleapis.com/static.rutherford-nj.com/committees/2024%20Committee%20Descriptions.pdf) 
+[**2025 Committee, Board and Commission Descriptions**](https://docs.google.com/forms/d/e/1FAIpQLSfCvMxivkHLblzG0IB5afSkIIcM-ToykpHP6oZioj7qAZBffg/viewform)
 
 </p>
 
