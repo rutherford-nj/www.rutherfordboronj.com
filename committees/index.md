@@ -79,12 +79,6 @@ Aplications to be appointed to a Borough committee are submitted at the end of e
 
 > This committee, comprised of members who are either persons with disabilities, parents of a child with a disability, a resident family member who is the caregiver of a person with a disability, or Borough residents seeking opportunities to help those with disabilities, is charged with providing opportunities for greater unity across the borough through identifying and addressing barriers within the Borough’s borders for residents with disabilities.
 
----                            
-
-**Data and Analytics Committee** - Council Liaison: Matt Cokeley
-
-> An exploratory committee to determine the feasibility of data collection and analysis that can help inform decisions made within the Borough and promote evidence-based governing. By analyzing large data sets, the committee could alert the governing body to trends and outliers potentially useful for grants and other programs
-
 ---
 
 [**Green Team**](green-team/) - Council Liaison: Christie Del Rey-Cone
@@ -93,24 +87,10 @@ Aplications to be appointed to a Borough committee are submitted at the end of e
 
 ---
 
-**Historic Preservation Committee** - Council Co-Liaisons: Maria Begg-Roberson and Ray Guzman
-
-> The objective of the Historic Preservation Committee is to educate the community about what value historic preservation offers to maintain the character of neighborhoods as reflected by the architecture and aesthetics. Furthermore, the Committee advises any borough board or agency of the historic nature of a property should demolition or construction be proposed.
-> 
-> The Historic Preservation Committee meets the 1st Monday of each Month at 7:30 p.m.  If interested in attending a meeting, kindly email: ruthefordhpc@gmail.com for information.
-
----
-
 **Municipal Alliance/Youth Advisory** - Council Liaison: Stephanie McGowan
 
 > The Rutherford Municipal Alliance is comprised of parents, students, teachers, law enforcement, religious leaders, and other community stakeholders to focus on efforts to help the children of Rutherford understand the dangers of drug and alcohol abuse.
 Municipal Alliances are local planning and coordinating bodies established in all 21 counties to assess needs, set priorities, develop plans and implement programs that form the foundation of New Jersey’s substance abuse prevention activities. New Jersey’s Municipal Alliances provide over 3,800 prevention programs statewide
-
----
-
-**Recreation Advisory Committee** - Council Liaison Maria Begg-Roberson
-
-> The Recreation Advisory Committee meets monthly to discuss issues pertaining to Recreation.  The committee meets with coaches and coordinators before the season to ensure proper preparation and after the season to reflect on what needs improvement and what we can build upon.
 
 ---
 
