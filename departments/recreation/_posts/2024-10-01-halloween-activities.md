@@ -12,3 +12,5 @@ Check out all the Halloween activities the Recreation Department has planned thi
 • [Ragamuffin Parade - Saturday, October 26th](https://storage.googleapis.com/static.rutherford-nj.com/recreation/contests/2024_Halloween_Ragamuffin.pdf)
 
 • [Doggie Paw-Rade - Saturday, October 26th](https://storage.googleapis.com/static.rutherford-nj.com/recreation/contests/2024_Halloween_DogPawRade.pdf)
+
+• [10th Annual Spooktacular - Wednesday, October 30th](https://storage.googleapis.com/static.rutherford-nj.com/recreation/2024_Spooktacular.pdf)
