@@ -9,12 +9,11 @@ title: 'Roadwork in Rutherford'
 ## Road Work in Rutherford
 
 
-**PSE&G Work in Rutherford Schedule October 4th - 18th**
+**PSE&G Work in Rutherford Schedule October 21st - November 1st**
 
-10/4 - 10/11 	Beech Street between Union and West Erie
+10/21 - 10/24 	Raymond Ave between St. Clair &  West. Erie
 
-10/11 - 10/18 	Raymond Ave between Union and West Erie
+10/24 - 11/1 	Sunderland Ave to Raymond Ave
 
-Work on Beech Street between Union & Washington Aves will take place during OFF school hours.
+10/21 - 11/1	Washington Ave between Raymond & Montross
 
-(Saturday, 10/5, 10/12 and Monday 10/14)
