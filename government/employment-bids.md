@@ -4,6 +4,8 @@ title: 'Employment & Bids'
 parent: Government
 ---
 
+[Job Posting: Fire Safety Clerk](https://storage.googleapis.com/static.rutherford-nj.com/finance/Employment/Clerk%20-%20Fire%20Safety.pdf)
+
 [Job Posting: Park Rangers](https://storage.googleapis.com/static.rutherford-nj.com/finance/Employment/Help%20Wanted%20-%20Park%20Ranger%20RUTHERFORD%20RECREATION%20DEPARTMENT.pdf)
 
 [Job Posting: Crossing Guards](https://storage.googleapis.com/static.rutherford-nj.com/finance/Employment/Hiring%20Crossing%20Guards%20%20Alternate.pdf)
