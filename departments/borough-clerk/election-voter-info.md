@@ -16,6 +16,26 @@ Voter Instructional Videos in three languages available on the Superintendent of
 [https://www.co.bergen.nj.us/superintendent-of-elections-temp/new-voter-instruction-videos](https://www.co.bergen.nj.us/superintendent-of-elections-temp/new-voter-instruction-videos)
 
 
+Election Day is almost here: Tuesday, November 5, 2024, polls will be open from 6:00 am to 8:00 pm! We encourage all registered voters to vote whether heading to the polls or via mail-in ballots and make your voices heard.  We are expecting our community to be very engaged in this process.  Please review the following so it can be a safe and peaceful day for all of our residents. 
+
+**Election Night Results** visit [www.bergencountyclerk.gov](https://www.bergencountyclerk.gov/)
+The County website will be posting election results on their website beginning just after the polls close.  Note, that the Borough Clerk’s Office will no longer be tallying results or distributing any information on election night since we do not have access to “early voting results” or “vote by mail” tabulations.
+
+**Check Your Outfit Before You Go!**
+
+To keep polling places neutral, New Jersey law (N.J.S.A. 19:34-15) prohibits campaign-related items within 100 feet of polling locations or ballot drop boxes. This includes clothing, hats, pins, or any item that promotes a candidate or party. Poll workers will ask you to step outside to remove such items before voting.
+ 
+**Why the Rule (Law)?**
+
+This policy ensures polling places are fair, safe, and nonpartisan. Poll workers, as community volunteers, are committed to maintaining a calm and neutral voting environment.
+ 
+**We Want You to Vote!**
+
+Please take a moment before you head out to check that you’re in “Election 2024 Style.” Thank you for your cooperation, and we look forward to seeing you at the polls!
+
+
+Should you have any questions, contact the Borough Clerk’s Office at 201-460-3001.
+
 
 ---
 
