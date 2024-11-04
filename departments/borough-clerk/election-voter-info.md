@@ -8,15 +8,19 @@ For up-to-date election information, please follow Bergen County's official elec
 
 [**Learn More About The Three Ways to Vote in Bergen County - Vote By Mail, In-Person Early & Election Day**](https://nj.gov/state/elections/vote-how-to.shtml)	
 
-Unsure about what district you're in? Visit the [Bergen County page of Election District Maps by Town](https://www.co.bergen.nj.us/board-of-elections/elections-district-maps-by-town)
+Unsure about what district you're in? Visit the [**Bergen County page of Election District Maps by Town**](https://www.co.bergen.nj.us/board-of-elections/elections-district-maps-by-town)
 
 [**Important Election Dates Schedule**](https://storage.googleapis.com/static.rutherford-nj.com/borough-clerk/election-info/Gen%202024%20Red%20Deadline%20Flyer.pdf)
+
+---
 
 Voter Instructional Videos in three languages available on the Superintendent of Elections webpage:
 [https://www.co.bergen.nj.us/superintendent-of-elections-temp/new-voter-instruction-videos](https://www.co.bergen.nj.us/superintendent-of-elections-temp/new-voter-instruction-videos)
 
 
-Election Day is almost here: Tuesday, November 5, 2024, polls will be open from 6:00 am to 8:00 pm! We encourage all registered voters to vote whether heading to the polls or via mail-in ballots and make your voices heard.  We are expecting our community to be very engaged in this process.  Please review the following so it can be a safe and peaceful day for all of our residents. 
+**Tuesday, November 5, 2024, polls will be open from 6:00 am to 8:00 pm!** 
+
+We encourage all registered voters to vote whether heading to the polls or via mail-in ballots and make your voices heard.  We are expecting our community to be very engaged in this process.  Please review the following so it can be a safe and peaceful day for all of our residents. 
 
 **Election Night Results** visit [www.bergencountyclerk.gov](https://www.bergencountyclerk.gov/)
 The County website will be posting election results on their website beginning just after the polls close.  Note, that the Borough Clerk’s Office will no longer be tallying results or distributing any information on election night since we do not have access to “early voting results” or “vote by mail” tabulations.
