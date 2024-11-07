@@ -4,7 +4,7 @@ title: 'Monthly Activity Stats'
 parent: 'Police Department'
 ---
 
-Below is data regarding the RPD Activity by month:
+# Below is data regarding the RPD Activity by month:
 
 [October 2024 RPD Activity Stats](https://storage.googleapis.com/static.rutherford-nj.com/police/monthly-stats/2024/October%202024%20Stats.pdf)
 
