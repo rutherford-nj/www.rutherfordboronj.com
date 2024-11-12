@@ -7,9 +7,6 @@ grandparent: Resident Services
 
 [**For a printable version of the Shuttle Schedules click here**](https://storage.googleapis.com/static.rutherford-nj.com/public-works/DPW_CommuterBus.pdf)
 
-Due to staffing issues, the Downtowner Shuttle Bus will run from 6:00am – 2:00pm on Thursday and Friday November 7 & 8.
-
-We apologize for any inconvenience.
 
 ## Commuter Shuttle
 
