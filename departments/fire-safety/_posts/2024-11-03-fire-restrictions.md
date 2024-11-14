@@ -7,6 +7,8 @@ ADVISORY: Stage 3 Fire Restrictions in Effect
 
 **Due to the ongoing drought, the NJDEP has banned fires for recreational use on all public lands and private properties in all municipalities throughout the state.** 
 
+Visit [https://www.nj.gov/dep/parksandforests/fire/](https://www.nj.gov/dep/parksandforests/fire/) for the most up to date information. 
+
 All fires will be prohibited unless contained in an elevated stove using only propane, natural gas, or electricity.
 
 The following fires are strictly prohibited: 
