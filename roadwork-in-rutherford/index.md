@@ -9,11 +9,17 @@ title: 'Roadwork in Rutherford'
 ## Road Work in Rutherford
 
 
-**PSE&G Work in Rutherford Schedule October 21st - November 1st**
+**PSE&G Work in Rutherford Schedule November 20th - 27th**
 
-10/21 - 10/24 	Raymond Ave between St. Clair &  West. Erie
+- Myrtle St between Sunderland and W. Erie
 
-10/24 - 11/1 	Sunderland Ave to Raymond Ave
+- Hawthorne St between St. Clair and W. Erie
 
-10/21 - 11/1	Washington Ave between Raymond & Montross
+- Raymond Ave between Union and W. Erie
+
+- Beech St between Washington and W. Erie
+
+- Sunderland Ave to Raymond Ave
+
+- Carlton Place between W. Erie and Raymond Ave
 
