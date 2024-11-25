@@ -1,10 +1,5 @@
 [
-  {
-    "title": "2023 Rutherford Holiday",
-    "content": "holiday_parade.md",
-    "image": "/upcoming-events/UpcomingEvents_400x300_holiday.jpg",
-    "remove-after": "2023-11-26"
-  },
+
   {
     "title": "Farmers Market - Wednesdays & Saturdays July 6th - October 30th",
     "content": "farmersmarket.md",
@@ -131,7 +126,8 @@
     "image": "/upcoming-events/UpcomingEvents_400x300_Halloween.jpg",
     "remove-after": "2024-11-01"
   },
-      "title": "2024 Rutherford Holiday",
+    {
+    "title": "2024 Rutherford Holiday",
     "content": "holiday_parade.md",
     "image": "/upcoming-events/UpcomingEvents_400x300_holiday.jpg",
     "remove-after": "2024-12-02"
