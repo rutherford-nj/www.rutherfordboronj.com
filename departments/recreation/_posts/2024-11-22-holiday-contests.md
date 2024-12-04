@@ -5,7 +5,7 @@ title: 2024 Holiday Activities
 
 Check out all the Holiday activities the Recreation Department has planned this year! 
 
-• **Letters to Santa! - [Fill out this form](https://docs.google.com/forms/d/e/1FAIpQLSd_wT6feBuUwV5eVZ1Ev8FpJ4-XiI0grwMF-oz7-kW5ROkfhg/viewform)**
+• **Letters from Santa! - [Fill out this form](https://docs.google.com/forms/d/e/1FAIpQLSd_wT6feBuUwV5eVZ1Ev8FpJ4-XiI0grwMF-oz7-kW5ROkfhg/viewform)**
 
 If you'd like a very special child who lives in Rutherford to receive a letter in the mail from the North Pole this holiday season, please provide the information below by MIDNIGHT, SUNDAY, DECEMBER 9th. The elves, with the help of the Rutherford Rec Department, are working very hard at getting the letters in the mail and to the child's house by December 25th. 
 
