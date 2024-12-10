@@ -13,8 +13,7 @@ If you'd like a very special child who lives in Rutherford to receive a letter i
 
 [View the interactive map here](https://www.google.com/maps/d/edit?mid=18evGKnxSum3sEJ_FB2Z_2ANnmbxlZLQ&usp=sharing)
 
-[See printable map here](https://storage.googleapis.com/static.rutherford-nj.com/recreation/contests/2024_HolidayHouseDecorating_Contest.pdf)
-
+[See printable map here](https://storage.googleapis.com/static.rutherford-nj.com/recreation/contests/2024_Holiday_HouseDecorating_Map.pdf)
 
 • **Gingerbread House Decorating Photo Contest**
 
