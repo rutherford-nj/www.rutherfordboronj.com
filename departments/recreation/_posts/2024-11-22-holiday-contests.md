@@ -9,15 +9,11 @@ Check out all the Holiday activities the Recreation Department has planned this 
 
 If you'd like a very special child who lives in Rutherford to receive a letter in the mail from the North Pole this holiday season, please provide the information below by MIDNIGHT, SUNDAY, DECEMBER 9th. The elves, with the help of the Rutherford Rec Department, are working very hard at getting the letters in the mail and to the child's house by December 25th. 
 
-• **Holiday House Decorating Contest - [Register on RecDesk Here](https://rutherfordnj.recdesk.com/Community/Program?category=8)**
+• **Holiday House Decorating Contest** -
 
-Addresses of Holiday House Decorating participants will be listed on a map provided to the public.
+[View the interactive map here](https://www.google.com/maps/d/edit?mid=18evGKnxSum3sEJ_FB2Z_2ANnmbxlZLQ&usp=sharing)
 
-Winners will receive a gift certificate to a local business!
-
-Only family-friendly displays will be considered for judging. No politics please.
-
-  - [See flyer here](https://storage.googleapis.com/static.rutherford-nj.com/recreation/contests/2024_HolidayHouseDecorating_Contest.pdf)
+[See printable map here](https://storage.googleapis.com/static.rutherford-nj.com/recreation/contests/2024_HolidayHouseDecorating_Contest.pdf)
 
 
 • **Gingerbread House Decorating Photo Contest**
