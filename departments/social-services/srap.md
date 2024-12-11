@@ -19,4 +19,4 @@ Definition of a Resident:  Someone whose primary residence is in the State of Ne
 
 Individuals must meet all eligibility criteria for the SRAP at the time of selection from the waiting list.
 
-Additional information, including Frequently Asked Questions (FAQs) can be viewed at [New Jersey Department of Community Affairs (DCA) | Offices & Programs](https://www.nj.gov/dca/dhcr/offices/index.shtml)
+Additional information, including Frequently Asked Questions (FAQs) can be viewed at [New Jersey Department of Community Affairs](https://www.nj.gov/dca/dhcr/offices/index.shtml)
