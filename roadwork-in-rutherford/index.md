@@ -24,7 +24,7 @@ title: 'Roadwork in Rutherford'
 
 **PSE&G Work in Rutherford Schedule December 16 - 31**
 
-- Prospect PLace between Morse and Union
+- Prospect Place between Morse and Union
 
 
 
