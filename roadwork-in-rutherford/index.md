@@ -22,7 +22,7 @@ title: 'Roadwork in Rutherford'
 - Sunderland Ave to Raymond
 
 
-- **PSE&G Work in Rutherford Schedule December 16 - 31**
+**PSE&G Work in Rutherford Schedule December 16 - 31**
 
 - Prospect PLace between Morse and Union
 
