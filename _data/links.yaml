@@ -83,6 +83,8 @@ departments:
   health:
     - text: Services
       href: services/
+    - text: Board of Health Newsletters
+      href: newsletters/
     - text: Forms
       href: forms/   
     - text: 988 Suicide & Crisis Lifeline
