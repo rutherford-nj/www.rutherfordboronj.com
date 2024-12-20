@@ -8,8 +8,6 @@ parent: Government
 
 [Request for Qualifications: 2025 Planning Board Professional Services](https://storage.googleapis.com/static.rutherford-nj.com/finance/Employment/PB%20REQUEST%20FOR%20QUALIFICATIONS%202025.pdf)
 
-[Request for Proposals: 2025 Professional Services](https://storage.googleapis.com/static.rutherford-nj.com/finance/Employment/2025%20RFP%20Document%20for%20Professional%20Services.pdf)
-
 [Job Posting: Fire Safety Clerk](https://storage.googleapis.com/static.rutherford-nj.com/finance/Employment/Clerk%20-%20Fire%20Safety.pdf)
 
 [Job Posting: Park Rangers](https://storage.googleapis.com/static.rutherford-nj.com/finance/Employment/Help%20Wanted%20-%20Park%20Ranger%20RUTHERFORD%20RECREATION%20DEPARTMENT.pdf)
