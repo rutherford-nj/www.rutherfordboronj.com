@@ -17,7 +17,7 @@ Please click on an item below to download the appropriate form and return to the
 
 [**Business Permits: Temporary Outdoor**](/business-resources/businesses-resources/)
 
-[**Business & Rental Insurance Registration**](https://storage.googleapis.com/static.rutherford-nj.com/borough-clerk/permits-licenses/Business-Rental-Insurance-Registration.pdf) – In accordance with P.L. 2022, c. 92 and Borough Code, Chapter 48, Business and Rental Properties Owners are required to file appropriate proof of insurance annually with the Borough prior to July 15th and the annual fee of $100.
+[**Business & Rental Insurance Registration**](https://storage.googleapis.com/static.rutherford-nj.com/borough-clerk/permits-licenses/Business-Rental-Insurance-Registration.pdf) – In accordance with P.L. 2022, c. 92 and Borough Code, Chapter 48, Business and Rental Properties Owners are required to file appropriate proof of insurance annually with the Borough prior to July 15th and the annual fee of $25.
 
 [**Construction/Zoning Permits**](/departments/building/)
 
@@ -42,8 +42,6 @@ Please click on an item below to download the appropriate form and return to the
 [**Landlord Identity Registration Form**](https://storage.googleapis.com/static.rutherford-nj.com/borough-clerk/permits-licenses/landlord_regs.pdf) - Required to be filed with the Borough Clerk and distributed to tenants in single unit dwellings and in two unit dwellings that are not owner-occupied.
 
 [**Limousine License**](https://storage.googleapis.com/static.rutherford-nj.com/borough-clerk/permits-licenses/Forms/LIVERY%20LIMO.pdf) – Certificate to obtain "o" license from Motor Vehicle available only to a business based in Rutherford with a Certificate of Occupancy.  Fee is $50 per car, insurance policy and proof of ownership required.
-
-**Liquor License** – Renewed yearly – 4 club licenses and 10 store licenses. Application process in compliance with Alcohol Beverage Control Commission requirements.
 
 [**Memorial Park Bench Sponsorship Application**](https://storage.googleapis.com/static.rutherford-nj.com/borough-clerk/permits-licenses/2023_Rutherford_BenchSponsorship.pdf)
 
@@ -87,8 +85,5 @@ Please click on an item below to download the appropriate form and return to the
 [**Street Opening**](https://storage.googleapis.com/static.rutherford-nj.com/borough-clerk/permits-licenses/STREET%20OPENING.pdf) – Permit required to cut into any roadway.  Certificates of Insurance with a $5,000 deposit for maintenance due at time of application required.  $100 new opening or $45 for a repair.
 
 [**Taxi Cab License**](https://storage.googleapis.com/static.rutherford-nj.com/borough-clerk/permits-licenses/Forms/TAXI%20CAB%20LICENSE.pdf) – Required for every taxi cab.  Application, insurance policy and proof of ownership required with $100 fee per year.
-
-**Taxi Driver License** – Required for taxi cab drivers.  Application $10, fingerprinting is required.
-Towing License – Operators must be licensed by Borough for a one year license in accordance with regulations of Ordinance.  Fee is $750 per year.
 
 [**Video Game and Amusement**](https://storage.googleapis.com/static.rutherford-nj.com/borough-clerk/permits-licenses/Forms/VIDEOAMUSEMENT%20GAME.pdf)
