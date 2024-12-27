@@ -4,11 +4,6 @@ title: 'Employment & Bids'
 parent: Government
 ---
 
-[Request for Qualifications: 2025 Board of Adjustment Professional Services](https://storage.googleapis.com/static.rutherford-nj.com/finance/Employment/BOA%20REQUEST%20FOR%20QUALIFICATIONS%202025.pdf)
-
-[Request for Qualifications: 2025 Planning Board Professional Services](https://storage.googleapis.com/static.rutherford-nj.com/finance/Employment/PB%20REQUEST%20FOR%20QUALIFICATIONS%202025.pdf)
-
-[Job Posting: Fire Safety Clerk](https://storage.googleapis.com/static.rutherford-nj.com/finance/Employment/Clerk%20-%20Fire%20Safety.pdf)
 
 [Job Posting: Park Rangers](https://storage.googleapis.com/static.rutherford-nj.com/finance/Employment/Help%20Wanted%20-%20Park%20Ranger%20RUTHERFORD%20RECREATION%20DEPARTMENT.pdf)
 
