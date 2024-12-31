@@ -1,6 +1,6 @@
 ---
 layout: interior-page
-title: 'Additional Police Services'
+title: 'Permits and Applications'
 parent: 'Police Department'
 ---
 
@@ -10,6 +10,5 @@ parent: 'Police Department'
 
 [**Pets & Animal Control**](pets-animals/)
 
-[**Drug Enforcement Agency National Take Back Day**](https://www.deadiversion.usdoj.gov/drug_disposal/takeback/)
-
+[**Kid Print/Safely Back Home**](https://forms.gle/t1qryUF4q25XwyX8A)
 
