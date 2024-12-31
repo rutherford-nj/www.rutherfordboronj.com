@@ -28,7 +28,7 @@ Please click on an item below to download the appropriate form and return to the
 
 [**Event Coordinator Packet**](https://storage.googleapis.com/static.rutherford-nj.com/borough-clerk/permits-licenses/Rutherford_EventInformationPacket.pdf)
 
-[**Firearms Applications**](/departments/police/additional-services/) - Handled by Rutherford Police Department. 
+[**Firearms Applications**](/departments/police/permits-applications/firearms/) - Handled by Rutherford Police Department. 
 
 [**Film Permit**](https://storage.googleapis.com/static.rutherford-nj.com/borough-clerk/permits-licenses/FILM.pdf)
 – Borough Ordinance requires permits when filming within the Borough.
@@ -66,7 +66,7 @@ Please click on an item below to download the appropriate form and return to the
 
 [**- Off-Site Merchandise Sample Ticket (Required with Application)**](https://storage.googleapis.com/static.rutherford-nj.com/borough-clerk/permits-licenses/Raffle_Off-Site-Draw-Awarding-Merchandise-as-a-Prize.pdf)
 
-[**Pet Licensing**](/departments/police/additional-services/pets-animals/) - Handled by Rutherford Police Department. 
+[**Pet Licensing**](/departments/police/permits-applications/pets-animals/) - Handled by Rutherford Police Department. 
 
 [**Serve Beer Wine in Playgrounds and Recreational Areas**](https://storage.googleapis.com/static.rutherford-nj.com/borough-clerk/permits-licenses/Forms/SERVE%20BEER%20WINE%20IN%20PLAYGROUND.pdf)
 
