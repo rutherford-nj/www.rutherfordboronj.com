@@ -7,7 +7,7 @@ parent: 'Records Bureau'
  
 # Records Bureau 
 
-Phone 201-939-6000
+Phone 201-939-6000 ext. 5100
 
 Fax 201-460-3046
 
@@ -28,7 +28,7 @@ All police reports requested in person are $.05 per page.
 
 Motor vehicle crash reports that are requested through the mail are $5.00 per report. Check or money order only payable to “Borough Of Rutherford”
 
-[Additional Police Services](../additional-services/)
+
 
 
 
