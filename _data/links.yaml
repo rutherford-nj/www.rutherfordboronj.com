@@ -137,8 +137,6 @@ departments:
       href: records-bureau/
     - text: Monthly Statistics
       href: monthly-activity/ 
-    - text: Firearms Applications
-      href: additional-services/firearms/ 
     - text: Policies
       href: policies/    
     - text: Internal Affairs
@@ -147,10 +145,6 @@ departments:
       href: mv-stop-data/
     - text: Use of Force & Vehicle Pursuit Data
       href: use-of-force-vehicle-pursuit/
-    - text: Resident Parking Permits
-      href: parking/
-    - text: Kid Print/Safely Back Home
-      href: kid-print/
     - text: FBI Most Wanted
       href: https://www.fbi.gov/wanted/topten
     - text: Police Traffic Officers of Bergen County
