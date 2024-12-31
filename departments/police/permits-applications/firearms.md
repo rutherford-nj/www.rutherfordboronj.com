@@ -2,7 +2,7 @@
 layout: interior-page
 title: 'Firearms Applications'
 grandparent: 'Police Department'
-parent: 'Additional Police Services'
+parent: 'Permits and Applications'
 ---
 
 # Firearms Application
