@@ -2,7 +2,7 @@
 layout: interior-page
 title: 'Pet Licensing, Lost Pets & Animal Control'
 grandparent: 'Police Department'
-parent: 'Additional Police Services'
+parent: 'Permits and Applications'
 ---
 
 **LOST PETS**
