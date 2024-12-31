@@ -2,7 +2,7 @@
 layout: interior-page
 title: 'Persons with a Disability Placard'
 grandparent: 'Police Department'
-parent: 'Additional Police Services'
+parent: 'Permits and Applications'
 ---
 
 For those seeking Temporary Persons With a Disability Placards please contact the Records Bureau.
