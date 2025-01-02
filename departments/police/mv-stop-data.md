@@ -6,6 +6,8 @@ parent: 'Police Department'
 
 Below is data regarding the RPD Motor Vehicle stops by year:
 
+[2024 RPD Motor Vehicle Stop Data](https://storage.googleapis.com/static.rutherford-nj.com/police/RPD%20R%26G%20Stops%202024.pdf)
+
 [2023 RPD Motor Vehicle Stop Data](https://storage.googleapis.com/static.rutherford-nj.com/police/2023%20RPD%20MV%20R%26E.pdf)
 
 [2022 RPD Motor Vehicle Stop Data](https://storage.googleapis.com/static.rutherford-nj.com/police/mv_stop_data/2022%20RPD%20Motor%20Vehicle%20Stop%20Data.pdf)
