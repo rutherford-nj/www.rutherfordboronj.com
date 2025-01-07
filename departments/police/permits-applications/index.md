@@ -6,6 +6,8 @@ parent: 'Police Department'
 
 [**Persons with a Disability Placard**](disability-placard/)
 
+[**Resident Parking**](resident-parking/)
+
 [**Firearms Applications**](firearms/)
 
 [**Pets & Animal Control**](pets-animals/)
