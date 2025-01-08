@@ -18,3 +18,5 @@ parent: 'Internal Affairs'
 [**Internal Affairs Annual Reports**](ia-reports/)
 
 [**Diversity in Law Enforcement Recruitment and Hiring**](diversity-hiring/)
+
+[**Major Discipline Reports**](major-discipline/)
