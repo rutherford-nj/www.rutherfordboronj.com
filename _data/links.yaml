@@ -135,16 +135,10 @@ departments:
       href: personnel-contacts/
     - text: Records Bureau
       href: records-bureau/
-    - text: Monthly Statistics
-      href: monthly-activity/ 
     - text: Policies
       href: policies/    
-    - text: Internal Affairs
-      href: internal-affairs/
-    - text: MV Stop Data
-      href: mv-stop-data/
-    - text: Use of Force & Vehicle Pursuit Data
-      href: use-of-force-vehicle-pursuit/
+    - text: Statistics and Transparency
+      href: statistics-transparency/
     - text: FBI Most Wanted
       href: https://www.fbi.gov/wanted/topten
     - text: Police Traffic Officers of Bergen County
