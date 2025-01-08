@@ -1,7 +1,8 @@
 ---
 layout: interior-page
-title: 'Monthly Activity Stats'
-parent: 'Police Department'
+title: 'Monthly Statistics'
+grandparent: 'Police Department'
+parent: 'Statistics and Transparency'
 ---
 
 # Below is data regarding the RPD Activity by month:
