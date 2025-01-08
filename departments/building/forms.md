@@ -5,7 +5,7 @@ parent: 'Building'
 ---
 
 
-[**1. UCC Jacket and Permit Application Form (Building/Electric/Plumbing/Fire)**](https://storage.googleapis.com/static.rutherford-nj.com/building/Building%20Dept%20Forms/01_Counter%20Form-Application%20and%20Jacket.pdf)
+[**1. Counter Form-Application and Jacket**](https://storage.googleapis.com/static.rutherford-nj.com/building/Building%20Dept%20Forms/01_Counter%20Form-Application%20and%20Jacket.pdf)
 
 [**2. Dumpster Permit Application**](https://storage.googleapis.com/static.rutherford-nj.com/borough-clerk/permits-licenses/DUMPSTER%202023.6.pdf)
 
@@ -15,11 +15,11 @@ parent: 'Building'
 
 [**5. Demolition Permit Requirements**](https://storage.googleapis.com/static.rutherford-nj.com/building/Building%20Dept%20Forms/05_Demo%20Permit%20Requirements.pdf)
 
-[**6. Contractor's Registration**](https://storage.googleapis.com/static.rutherford-nj.com/building/Building%20Dept%20Forms/06-Rutherford%20Contractor%20Registration.pdf) 
+[**6. Contractors Card Form**](https://storage.googleapis.com/static.rutherford-nj.com/building/Building%20Dept%20Forms/06-Rutherford%20Contractor%20Registration.pdf) 
 
 [**7. Zoning Application (Any Exterior Work)**](https://storage.googleapis.com/static.rutherford-nj.com/building/Building%20Dept%20Forms/07_ZONING%20Application%20Oct%202023%20Web%20form.pdf)
 
-[**8. Residential Certificate of Zoning Compliance Application and Requirements**](https://storage.googleapis.com/static.rutherford-nj.com/building/Building%20Dept%20Forms/08_CO%20CZC%20Residential%20Application%20Form%20Dec%202023%20with%20Lead.pdf)
+[**8. CO CZC Residential Application**](https://storage.googleapis.com/static.rutherford-nj.com/building/Building%20Dept%20Forms/08_CO%20CZC%20Residential%20Application%20Form%20Dec%202023%20with%20Lead.pdf)
 
 [**9. Commercial Certificate of Zoning Compliance Application and Requirements**](https://storage.googleapis.com/static.rutherford-nj.com/building/Building%20Dept%20Forms/09-Commercial%20CZC%20Form.pdf)
 
