@@ -6,7 +6,7 @@ title: 'Roadwork in Rutherford'
 
 ## Road Work in Rutherford
 
-**PSE&G Work in Rutherford Schedule January 6 - 7**
+**PSE&G Work in Rutherford Schedule January 6 - 8**
 
 - Sunderland Ave to Raymond
 
@@ -14,7 +14,7 @@ title: 'Roadwork in Rutherford'
 
 - Raymond Ave between Union and W. Erie
 
-**PSE&G Work in Rutherford Schedule January 8 - 17**
+**PSE&G Work in Rutherford Schedule January 13 - 17**
 
 - Saint Claire Ave between Raymond and Walnut
 
@@ -22,7 +22,7 @@ title: 'Roadwork in Rutherford'
 
 - Prospect Place between Morse to Saint Claire
 
-**PSE&G Work in Rutherford Schedule January 13 - 17**
+**PSE&G Work in Rutherford Schedule January 8 - 17**
 
 - Hawthorne Street between W Erie to Saint Claire
 
