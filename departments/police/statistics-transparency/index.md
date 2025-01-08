@@ -9,4 +9,4 @@ parent: 'Police Department'
 
 [**Motor Vehicle Stop Data**](mv-stop-data/)
 
-[**Use of Force Data**](use-of-force-data/)
+[**Use of Force & Vehicle Pursuit Data**](use-of-force-data/)
