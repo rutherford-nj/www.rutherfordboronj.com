@@ -1,0 +1,14 @@
+---
+layout: interior-page
+title: 'Use of Force Data'
+grandparent: 'Police Department'
+parent: 'Statistics and Transparency'
+---
+
+# Use of Force & Vehicle Pursuit Data:
+
+[2023 Use of Force Annual Trend Report](https://storage.googleapis.com/static.rutherford-nj.com/police/use-of-force-pursuit-data/Use%20of%20Force%20Annual%20Trend%20Report-02-20-2024.pdf)
+
+[2023 Vehicle Pursuit Annual Trend Report](https://storage.googleapis.com/static.rutherford-nj.com/police/use-of-force-pursuit-data/Vehicle%20Pursuit%20Annual%20Trend%20Report-02-20-2024.pdf)
+
+[2023 Department Review](https://storage.googleapis.com/static.rutherford-nj.com/police/use-of-force-pursuit-data/2023%20Annual%20UOF%20and%20VP%20Review.pdf) 
