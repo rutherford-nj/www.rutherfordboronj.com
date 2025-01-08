@@ -11,4 +11,6 @@ parent: 'Internal Affairs'
 
 - [Citizen Complaint Information Sheet](https://storage.googleapis.com/static.rutherford-nj.com/police/citizen-complaint/Citizen%20Complaint%20Info%20Sheet.pdf)
 
+- [Internal Affairs Complaint Forms in Multiple Languages](ia-multi-language/)
+
 [**Internal Affairs Annual Reports**](ia-reports/)
