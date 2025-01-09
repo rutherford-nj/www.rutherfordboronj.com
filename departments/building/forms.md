@@ -15,15 +15,15 @@ parent: 'Building'
 
 [**5. Demolition Permit Requirements**](https://storage.googleapis.com/static.rutherford-nj.com/building/Building%20Dept%20Forms/05_Demo%20Permit%20Requirements.pdf)
 
-[**6. Contractors Card Form**](https://storage.googleapis.com/static.rutherford-nj.com/building/Building%20Dept%20Forms/06-Rutherford%20Contractor%20Registration.pdf) 
+[**6. Contractors Card Form**](https://storage.googleapis.com/static.rutherford-nj.com/building/Building%20Dept%20Forms/06_Contractors%20Card%20Form.pdf)
 
 [**7. Zoning Application (Any Exterior Work)**](https://storage.googleapis.com/static.rutherford-nj.com/building/Building%20Dept%20Forms/07_ZONING%20Application%20Oct%202023%20Web%20form.pdf)
 
-[**8. CO CZC Residential Application**](https://storage.googleapis.com/static.rutherford-nj.com/building/Building%20Dept%20Forms/08_CO%20CZC%20Residential%20Application%20Form%20Dec%202023%20with%20Lead.pdf)
+[**8. CO CZC Residential Application**](https://storage.googleapis.com/static.rutherford-nj.com/building/Building%20Dept%20Forms/08_CO%20CZC%20Residential%20Application%20Form%20Nov%202024.pdf)
 
 [**9. Commercial Certificate of Zoning Compliance Application and Requirements**](https://storage.googleapis.com/static.rutherford-nj.com/building/Building%20Dept%20Forms/09-Commercial%20CZC%20Form.pdf)
 
-[**10. Complaint Form**](https://storage.googleapis.com/static.rutherford-nj.com/building/Building%20Dept%20Forms/10_CO%20CZC%20Residential%20Application%20Form%20Nov%202024.pdf)
+[**10. Complaint Form**](https://storage.googleapis.com/static.rutherford-nj.com/building/Building%20Dept%20Forms/10-complaint%20form%20template-new%20letterhead.pdf)
 
 [**11. Outdoor Dining Space Permit Applications**](../business-owners)
 
