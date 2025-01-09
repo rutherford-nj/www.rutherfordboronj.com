@@ -77,7 +77,9 @@ departments:
     - text: Fire Safety Permit Application
       href: https://storage.googleapis.com/static.rutherford-nj.com/fire-safety/Fire%20Safety%20Type%201%20Permit%20Applicaton%2024.09.pdf    
     - text: Lithium Ion Battery Safety & Precautions
-      href: https://storage.googleapis.com/static.rutherford-nj.com/fire-safety/NFPA%20Li-Battery%20Safety%20copy.pdf       
+      href: https://storage.googleapis.com/static.rutherford-nj.com/fire-safety/NFPA%20Li-Battery%20Safety%20copy.pdf    
+    - text: Certification of Testing of Emergency Lighting
+      href: https://storage.googleapis.com/static.rutherford-nj.com/fire-safety/Certification%20of%20Testing%20of%20Emergency%20Lighting%202025.pdf    
   health:
     - text: Services
       href: services/
