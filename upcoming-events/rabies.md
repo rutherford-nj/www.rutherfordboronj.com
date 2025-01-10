@@ -1,4 +1,4 @@
-2025-01-10-rabies-2025
+[For more information click here](/departments/health/2025/01/10/rabies-2025/)
 
 Mortimer Ave Firehouse - 400 Mortimer Ave.
 
