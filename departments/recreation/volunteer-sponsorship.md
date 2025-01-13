@@ -9,8 +9,8 @@ parent: 'Recreation'
 We are continually seeking creative, dedicated individuals to help bring safe, enjoyable leisure opportunities to Rutherford residents.  
 
 If you have a special talent to offer or are interested in volunteering, coaching or teaching a 
-special class we want you! Please contact recstaff@rutherfordboronj.com to discuss volunteer opportunities. 
+special class we want you! Please contact the Recreation Department via email at recstaff@rutherfordboronj.com to discuss volunteer opportunities. 
 
 **Become a Sponsor**
 
-We are also looking for sponsors to help defray the costs of our “Special Events”  such as the Annual Egg Hunt, “Ragamuffin” Parade, Touch – A – Truck, etc . .   If you know of an individual or company that may be interested, we would appreciate them contacting the Recreation Department. Please contact the Recreation Department to discuss sponsorship opportunities.
+We are also looking for sponsors to help defray the costs of our “Special Events”  such as the Annual Egg Hunt, “Ragamuffin” Parade, Fireworks, etc.   If you know of an individual or company that may be interested, we would appreciate them contacting the Recreation Department. Please contact the Recreation Department to discuss sponsorship opportunities.
