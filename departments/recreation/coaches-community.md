@@ -7,16 +7,11 @@ parent: 'Recreation'
 
 # Coaches Community
 
-**For a list of current coaching opportunities, visit Rec Desk and filter by "Adult"** [https://rutherfordnj.recdesk.com/Community/Program](https://rutherfordnj.recdesk.com/Community/Program)
-
 **All coaching volunteers are required to take the Rutgers Certification Course. This is a life time certification and mandatory for all Recreation Coaches.**
 
 Contact Rutherford Rec at 201-460-3015 for other available Rutgers Course dates.
 
-**All coaching volunteers are required to take the FHS Concussions in Sports Certification Course**
-
-FHS Concussions in Sports Certification available here: [https://nfhslearn.com/courses/concussion-in-sports-2
-](https://nfhslearn.com/courses/concussion-in-sports-2)
+All coaching volunteers are required to submit to a periodic background check thorugh the Borough's contracted provider. 
 
 **Additional Resources for Coaches & Parents**
 
