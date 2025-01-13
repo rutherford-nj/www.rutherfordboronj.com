@@ -4,8 +4,6 @@ title: 'Public Health Nursing'
 parent: 'Health Department'
 ---
 
-**Vital Records**
-
 The Public Health Nurse is responsible for promoting and protecting the health of the community by providing a range of services, including:
 
 -	Health Education Outreach
