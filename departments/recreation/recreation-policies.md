@@ -5,6 +5,7 @@ parent: 'Recreation'
 ---
 
 **REGISTRATION**
+
 The Recreation Department has a late fee policy which must be paid after registration closes.  After the registration date and the numbers of team players have registered, a wait list is started.
 Payment must be made at the time of registration. Checks should be payable to: Rutherford Recreation Department	
 If there is an outstanding balance on your account, our registration system will not permit registration without satisfying that open balance.
