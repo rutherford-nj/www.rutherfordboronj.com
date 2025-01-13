@@ -82,7 +82,7 @@ departments:
       href: https://storage.googleapis.com/static.rutherford-nj.com/fire-safety/Certification%20of%20Testing%20of%20Emergency%20Lighting%202025.pdf    
   health:
     - text: Vital Records
-      href: services/
+      href: vital-records/
     - text: Board of Health Newsletters
       href: newsletters/
     - text: Retail Food & Other Licenses
