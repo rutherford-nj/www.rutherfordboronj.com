@@ -44,8 +44,6 @@ Stories of Hope and Recovery- [988lifeline.org/stories](https://988lifeline.org/
 
 [New Jersey Suicide Prevention Hopeline](https://njhopeline.com/)
 
-[Bergen County Health Department](https://www.co.bergen.nj.us/mental-health-services/about-mental-health-services) 
-
 [Bergen County Mental Health Resources](https://www.healthybergen.org/bcmh) 
 
 [Suicide Prevention Resource Center](https://www.sprc.org/) 
