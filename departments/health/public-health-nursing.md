@@ -24,12 +24,12 @@ For more information about when the health screenings are available, please cont
 
 **Useful Links:**
 
-How to Safely Dispose of Unused or Expired Medicine
+[How to Safely Dispose of Unused or Expired Medicine](https://www.fda.gov/consumers/consumer-updates/where-and-how-dispose-unused-medicines)
 
 Rutherford residents can drop off unused and expired medications at the permanent drop box located inside the Rutherford Police Department at 18 Donaldson Avenue.
 
-How to Properly Dispose of Sharps
+[How to Properly Dispose of Sharps](https://www.fda.gov/medical-devices/safely-using-sharps-needles-and-syringes-home-work-and-travel/best-way-get-rid-used-needles-and-other-sharps)
 
 Nearest Sharps Disposal Drop off:
 
--	Englewood Hospital
+-	[Englewood Hospital](https://safeneedledisposal.org/single-listing/?id=371#google_vignette)
