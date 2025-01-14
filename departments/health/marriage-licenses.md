@@ -16,13 +16,13 @@ To schedule an appointment for obtaining a Marriage License, Civil Union, or Dom
 
 **On the day of your appointment, please ensure you bring the following:**
 
-•	Completed License application ENGLISH SPANISH: Except do not sign the application.  You must sign the application, under oath, in the presence of the issuing authority.
+•	Completed License application [ENGLISH](https://storage.googleapis.com/static.rutherford-nj.com/health/Marriage%20License%20Application.pdf)  [SPANISH](https://storage.googleapis.com/static.rutherford-nj.com/health/Marriage%20Application%20Spanish.pdf): Except do not sign the application.  You must sign the application, under oath, in the presence of the issuing authority.
 
 •	At least one applicant must be a resident of Rutherford (proof of residency is required).
 
-•	A current Acceptable form of Identification for both applicants.
+•	A current [Acceptable form of Identification](https://www.nj.gov/health/vital/contact-us/acceptable-identification/) for both applicants.
 
-•	One witness aged 18 or older with a valid photo ID.
+•	One witness aged 18 or older with a valid [photo ID.](https://www.nj.gov/health/vital/contact-us/acceptable-identification/)
 
 •	A $28.00 license fee, cash (exact), check, or money order, payable to the Rutherford Health Department.
 
