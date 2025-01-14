@@ -19,7 +19,7 @@ The Public Health Nurse is responsible for promoting and protecting the health o
 -	Organizing Influenza Vaccine Clinics
 
 -	Offering Nursing Services to Non-Public Schools
--	
+	
 For more information about when the health screenings are available, please contact the health department at 201-460-3020.
 
 **Useful Links:**
