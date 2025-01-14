@@ -4,7 +4,7 @@ title: 'Animal Control'
 parent: 'Health Department'
 ---
 
-The Borough of Rutherford has a contract with TYCO Animal Control Services. 
+The Borough of Rutherford has a contract with [TYCO Animal Control Services.](https://tycoanimalcontrol.com/) 
 
 Please call Tyco Animal Control for:
 
