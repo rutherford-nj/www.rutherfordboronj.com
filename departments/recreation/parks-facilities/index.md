@@ -21,24 +21,26 @@ Picnic & Pavilion Permits will only be issued one per day per park on first come
 
 * 8 baseball/softball diamonds (6 lighted)
 * 6 tennis courts
-* picnic area behind Tryon Field
-* Tryon Field (lighted track, football/soccer stadium)
+* picnic with two pavillions area behind Tryon Field
+* Tryon Field (lighted track, football/soccer/lacrosse stadium)
 * 3 playgrounds: Kid’s Spot, Picnic Area and Katie’s Corner
 
 **Tryon Field** (Darwin & Washington Avenues)
 
-Tryon Field is the home of the Rutherford High School Football, Soccer and Track Program, the Rutherford Jr. Football Program and the Rutherford Recreation Soccer and Track/field Program. 
+Tryon Field is the home of the Rutherford High School Football, Soccer and Track Program, the Rutherford Jr. Football Program, the Rutherford Lacrosse Program and the Rutherford Recreation Soccer and Track/field Program. 
 The Track is open to the public for walking. 
-Hours of operation are Monday – Sunday 6am to 9:30pm.
+Hours of operation are Monday – Sunday 6:00 am to 9:30 pm.
 The stadium field is available by permit only. 
 If you would like to apply for a permit, visit [RecDesk](https://rutherfordnj.recdesk.com/Community/Home)
 
 **Tamblyn Field** (30 Woodland Avenue)
 
+* 1 soccer field (spring only)
 * Tim Finnerty Memorial basketball courts
-* 1 football field
+* 1 football field (fall only)
 * 2 baseball/ softball diamonds
 * 1 playground
+* 5 pickle ball courts
 
 **Tamblyn Civic Center** (30 Woodland Avenue)
 
@@ -49,6 +51,6 @@ If you would like to apply for a permit, visit [RecDesk](https://rutherfordnj.re
 **Walls Field** (Highland Cross & Eastern Way)
 
 * 1 basketball court
-* 2 baseball fields
+* 2 baseball/softball diamonds
 * 1 soccer field
 * 1 playground
