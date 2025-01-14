@@ -8,11 +8,11 @@ parent: 'Health Department'
 
 To schedule an appointment for obtaining a Marriage License, Civil Union, or Domestic Partnership, please call 201-460-3020 during our regular business hours, Monday through Friday, from 8:30 AM to 4:30 PM. For more information click on the following: 
 
-Marriage 
+[Marriage](https://www.nj.gov/health/vital/registration-vital/marriage-licenses/) 
 
-Civil Union
+[Civil Union](https://www.nj.gov/health/vital/registration-vital/civil-union-licenses/)
 
-Domestic Partnership
+[Domestic Partnership](https://www.nj.gov/health/vital/registration-vital/domestic-partnerships/)
 
 **On the day of your appointment, please ensure you bring the following:**
 
