@@ -7,19 +7,19 @@ parent: 'Health Department'
 The Board of Health is dedicated to ensuring the safety and well-being of our community by licensing over 125 retail food establishments throughout the Borough. Additionally, we license vending machines, businesses selling electronic smoking devices, body art establishments, and food vendors at temporary events.
 
 
-[Retail Food Application](https://storage.googleapis.com/static.rutherford-nj.com/health/forms/Retail%20Food%20Application.pdf)
+[Retail Food Establishment Guidelines](https://storage.googleapis.com/static.rutherford-nj.com/health/Retail%20Food%20Application%202025.pdf)
 
-[Retail Food Establishment Guidelines](https://storage.googleapis.com/static.rutherford-nj.com/health/forms/Retail%20Food%20Establishment%20Guidelines.pdf)
+[Retail Food Application](https://storage.googleapis.com/static.rutherford-nj.com/health/Retail%20Food%20Application%202025.pdf)
 
-[Store Milk License Application](https://storage.googleapis.com/static.rutherford-nj.com/health/forms/Store%20Milk%20License%20Application.pdf)
+[Store Milk License Application](https://storage.googleapis.com/static.rutherford-nj.com/health/Store%20Milk%20License%20Application%202025.pdf)
 
-[Temporary Event Application](https://storage.googleapis.com/static.rutherford-nj.com/health/forms/Temp%20Event%20Application.pdf)
+[Temporary Event Application](https://storage.googleapis.com/static.rutherford-nj.com/health/Temp%20Event%20Application%20Updated%202025.pdf)
 
-[Vending Machine Application](https://storage.googleapis.com/static.rutherford-nj.com/health/forms/Vending%20Machine%20Application.pdf)
+[Vending Machine Application](https://storage.googleapis.com/static.rutherford-nj.com/health/Vending%20Machine%20Application%20for%20License%202025.pdf)
 
-Electronic Smoking Device Application
+[Electronic Smoking Device Application](https://storage.googleapis.com/static.rutherford-nj.com/health/Electronic%20Smoking%20Device%20Application%202025.pdf)
 
-Permanent Cosmetics
+[Permanent Cosmetics](https://storage.googleapis.com/static.rutherford-nj.com/health/Permanent%20Cosmetics%20Application%202025.pdf)
 
 
 To safeguard public health, a Registered Environmental Health Specialist (REHS) is responsible for enforcing the regulations and conducting inspections related to environmental health. Their critical role includes preventing the spread of disease, promoting healthy environments, and educating the public on best practices for maintaining safe and sanitary living and working conditions.
