@@ -85,20 +85,20 @@ Applications to be appointed to a Borough committee are submitted at the end of 
 
 ---
 
-**Municipal Alliance/Youth Advisory** - Council Liaison: Stephanie McGowan
+**Municipal Alliance/Youth Advisory** - Council Liaison: Ray Guzman
 
 > The Rutherford Municipal Alliance is comprised of parents, students, teachers, law enforcement, religious leaders, and other community stakeholders to focus on efforts to help the children of Rutherford understand the dangers of drug and alcohol abuse.
 Municipal Alliances are local planning and coordinating bodies established in all 21 counties to assess needs, set priorities, develop plans and implement programs that form the foundation of New Jersey’s substance abuse prevention activities. New Jersey’s Municipal Alliances provide over 3,800 prevention programs statewide
 
 ---
 
-**Stigma-Free Committee** - Council Liaison: Stephanie McGowan
+**Stigma-Free Committee** - Council Liaison: Susan Quatrone
 
 > To help make people who live with mental illness feel less isolated.
 
 ---
 
-**Streetscape Committee** - Council Liaison: Mayor Nunziato
+**Streetscape Committee** - Council Liaison: Ray Guzman
 
 > A committee devoted to the aesthetic preservation and economic development of Rutherford businesses.
 
