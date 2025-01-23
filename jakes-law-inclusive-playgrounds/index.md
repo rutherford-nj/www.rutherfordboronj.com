@@ -23,4 +23,6 @@ The Borough of Rutherford is currently seeking grant funding in hopes of creatin
 
 [- Environmental Assessment](https://storage.googleapis.com/static.rutherford-nj.com/special-presentations/Tamblyn%20EAS%20GA%202025%20(00523787xD43F8).PDF)
 
+[- Preliminary Engineer's Cost Estimate](https://storage.googleapis.com/static.rutherford-nj.com/special-presentations/2025-01-23%20-%20Tamblyn%20Playground%20-%20Preliminary%20Engineer's%20Estimate%20(00523884xD43F8).pdf)
+
 
