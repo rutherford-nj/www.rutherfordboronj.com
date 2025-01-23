@@ -108,12 +108,6 @@
     "image": "/upcoming-events/UpcomingEvents_400x300_Health.jpg",
     "remove-after": "2024-10-20"
   },
-    {
-    "title": "Town Hall Meeting - Tuesday, January 21, 6:00pm",
-    "content": "town-hall.md",
-    "image": "/upcoming-events/UpcomingEvents_400x300-town-hall.jpg",
-    "remove-after": "2025-01-23"
-  },
        {
     "title": "Board of Health Rabies Clinic - Saturday, March 15th 10am-12pm",
     "content": "rabies.md",
