@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 'Jake's Law Inclusive Playgrounds'
+title: 'Jakes Law Inclusive Playground'
 ---
 
 Jake's Law (P.L. 2018, c. 104) was passed in 2018 to encourage the construction of inclusive playgrounds designed with standards exceeding those required by the Americans with Disabilities Act. The Department of Community Affairs (DCA) adopted regulations for Jake’s Law that establish standards for Completely Inclusive Playgrounds [( N.J.A.C. 5:23-7.19 & 11.2 ).](https://www.nj.gov/dca/divisions/codes/codreg/pdf_regs/njac_5_23_7.pdf)
