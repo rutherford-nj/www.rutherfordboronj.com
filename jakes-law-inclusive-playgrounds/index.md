@@ -21,4 +21,6 @@ The Borough of Rutherford is currently seeking grant funding in hopes of creatin
 
 [- View the NJDEP Jake's Law Full Application here](https://storage.googleapis.com/static.rutherford-nj.com/special-presentations/NJDEP%20Jakes%20Law%20Full%20App.pdf)
 
+[- Environmental Assessment](https://storage.googleapis.com/static.rutherford-nj.com/special-presentations/Tamblyn%20EAS%20GA%202025%20(00523787xD43F8).PDF)
+
 
