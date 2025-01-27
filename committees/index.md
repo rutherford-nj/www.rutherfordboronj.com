@@ -17,7 +17,7 @@ Applications to be appointed to a Borough committee are submitted at the end of 
 
 ## Boards and Commissions
 
-[2024 Board and Commission Meeting Schedule](https://storage.googleapis.com/static.rutherford-nj.com/committees/2024_Annual_Notice.pdf)
+[2025 Board and Commission Meeting Schedule](https://storage.googleapis.com/static.rutherford-nj.com/committees/ANNUAL%20NOTICE%202025.pdf)
 
 *Boards and Commissions are strictly governed by by-laws and require minutes and agendas. Their regular meetings are open to the public.* 
 
