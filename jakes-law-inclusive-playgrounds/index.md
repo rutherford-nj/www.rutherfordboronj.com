@@ -11,9 +11,9 @@ The intention of Jake’s Law is to ensure that all children have access to play
 
 The Borough of Rutherford is currently seeking grant funding in hopes of creating a more inclusive playground at Tamblyn Field. 
 
-**In addition to the Town Hall that was held on Tuesday, January 21st, residents are invited to attend a second public hearing which will be held at the regularly scheduled Mayor & Council meeting on Monday, January 27th at 6:30pm.** 
+**In addition to the Town Hall that was held on Tuesday, January 21st, residents were invited to attend a second public hearing at the regularly scheduled Mayor & Council meeting on Monday, January 27th at 6:30pm.** 
 
-[- Click here to take the Access for All Committee Play Space Survey](https://docs.google.com/forms/d/e/1FAIpQLScm9eZPNHsKe7PM4w3jGKfjHhtV3mhg0NxDC-PSlse6d4Gaug/viewform?usp=header), which will be open until noon on Monday, January 27th.  
+[- Results of the Access for All Committee Play Space Survey](https://storage.googleapis.com/static.rutherford-nj.com/special-presentations/Access%20for%20All%20Committee%20_Play%20Space%20Survey%20Results%20(as%20of%201_21_25)%20(1).pdf)
 
 [- View the Presentation given by Neglia Engineering](https://storage.googleapis.com/static.rutherford-nj.com/special-presentations/Neglia_Tamblyn%20Field%20Playground%20Presentation.pdf) at the January 21st Town Hall.
 
