@@ -6,6 +6,14 @@ title: 'Affordable Housing'
 
 [Affordable Housing FAQs](./faqs/)
 
+**Affordable Housing Fourth Round Information:**
+
+[- State Report for the 4th Round Methodology](https://storage.googleapis.com/static.rutherford-nj.com/community-development/FourthRoundCalculation_Methodology.pdf)
+
+[- Planner’s Report Reviewing Methodology](https://storage.googleapis.com/static.rutherford-nj.com/community-development/Rutherford%20-%20Fourth%20Round%20Obligation%20Report%20-%2001222025%20Neglia%20Report.pdf)
+
+[- Borough’s Resolution Amending Prospective Need](https://storage.googleapis.com/static.rutherford-nj.com/community-development/Resolution%20%2355.pdf)
+
 **A Brief History of Affordable Housing And What It Means For Rutherford**
 
 The Mount Laurel Doctrine is the foundation upon which affordable housing regulations and requirements in New Jersey are based. It derives from a series of Court decisions and the passage of the Fair Housing Act. It establishes an obligation for municipalities to plan for and provide opportunities for the construction of affordable housing.
