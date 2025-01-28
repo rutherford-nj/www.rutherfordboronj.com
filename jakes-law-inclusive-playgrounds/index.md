@@ -15,7 +15,7 @@ The Borough of Rutherford is currently seeking grant funding in hopes of creatin
 
 [- Results of the Access for All Committee Play Space Survey](https://storage.googleapis.com/static.rutherford-nj.com/special-presentations/Access%20for%20All%20Committee%20_Play%20Space%20Survey%20Results%20(as%20of%201_21_25)%20(1).pdf)
 
-[- View the Presentation given by Neglia Engineering](https://storage.googleapis.com/static.rutherford-nj.com/special-presentations/Neglia_Tamblyn%20Field%20Playground%20Presentation.pdf) at the January 21st Town Hall.
+[- View the Presentation given by Neglia Engineering](https://storage.googleapis.com/static.rutherford-nj.com/special-presentations/Neglia_Tamblyn%20Field%20Playground%20Presentation.pdf)
 
 [- Questions about Jake's Law? Read more here](https://storage.googleapis.com/static.rutherford-nj.com/special-presentations/NJDEP%20Jakes%20Law.pdf)
 
