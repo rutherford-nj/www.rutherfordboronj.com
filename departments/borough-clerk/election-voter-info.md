@@ -10,6 +10,8 @@ For up-to-date election information, please follow Bergen County's official elec
 
 ---
 
+**Notice: The NJ Division of Elections has rescheduled the 2025 Primary Election to Tuesday, June 10th** [See Memo Here](https://storage.googleapis.com/static.rutherford-nj.com/borough-clerk/2025-Notice-Rescheduled%20Primary%20Election%20Date.pdf)
+
 Voter Instructional Videos in three languages available on the Superintendent of Elections webpage:
 [https://www.co.bergen.nj.us/superintendent-of-elections-temp/new-voter-instruction-videos](https://www.co.bergen.nj.us/superintendent-of-elections-temp/new-voter-instruction-videos)
 
