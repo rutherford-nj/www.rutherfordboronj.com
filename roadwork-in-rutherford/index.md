@@ -9,8 +9,6 @@ title: 'Roadwork in Rutherford'
 
 **PSE&G Work in Rutherford Schedule January 29 - February 21**
 
-- Myrtle Street between Saint Clair and W. Erie
-
 - Walnut Street between Saint Clair and W. Erie
 
  **PSE&G Work in Rutherford Schedule January 31 - February 14**
