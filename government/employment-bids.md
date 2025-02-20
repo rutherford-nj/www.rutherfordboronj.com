@@ -4,7 +4,7 @@ title: 'Employment & Bids'
 parent: Government
 ---
 
-[Plenary Retail Consumption Liquor License Bid](./consumption-license/)
+[Plenary Retail Consumption Liquor License Bid](../consumption-license/)
 
 [Job Posting: Park Rangers](https://storage.googleapis.com/static.rutherford-nj.com/finance/Employment/Help%20Wanted%20-%20Park%20Ranger%20RUTHERFORD%20RECREATION%20DEPARTMENT.pdf)
 
