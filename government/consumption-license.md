@@ -4,7 +4,7 @@ title: 'Employment & Bids'
 parent: Government
 ---
 
-# Plenary Retail Consumption Liquor License Information - Due April 2, 2025
+# Plenary Retail Consumption Liquor License Information - Due Date April 2, 2025
 
 [- Resolution Authorizing Bid](https://storage.googleapis.com/static.rutherford-nj.com/finance/Employment/consumption-license/Res%2065.pdf)
 
