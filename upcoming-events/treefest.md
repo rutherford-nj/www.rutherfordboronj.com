@@ -4,7 +4,6 @@ FEATURING - Food Trucks, Beer Garden, Live Music, Entertainment
 
 Sponsored by BCB Bank
 
-Rain Date Sunday, April 21st
+[See flyer here](https://storage.googleapis.com/static.rutherford-nj.com/committees/shade-tree/ShadeTree_Treefest_2025.pdf)
 
-[Now seeking vendors - register here](https://rutherfordnj.recdesk.com/Community/Program/Detail?programId=643)
-
+Interested vendors can email Kim Bogosian at communications@rutherfordboronj.com
