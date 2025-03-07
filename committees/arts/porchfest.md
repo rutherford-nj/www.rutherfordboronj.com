@@ -7,6 +7,8 @@ title: 'PorchFest 2025'
 
 # PorchFest 2025 - Saturday June 14th! 
 
+Are you ready for Rutherford's 3rd Annual PorchFest, hosted by the Rutherford Arts Committee! There are many ways to particpate. We are currently looking for candidates for porches, bands and volunteers! 
+
 [**Fill out this form if you're interested in donating your time and talent as a band!**](https://forms.gle/CGv4YqcDtqxjz1Wh9)
 
 [**Fill out this form if you're interested in hosting a band on your porch!**](https://docs.google.com/forms/d/e/1FAIpQLSengCQrP2yJkyGCAaTJPG0BfM5Z-hsGoTWGpHgOuMFBefRvig/viewform?usp=sharing)
