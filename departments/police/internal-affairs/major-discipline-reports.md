@@ -6,6 +6,8 @@ parent: 'Police Department'
 
 Below is the RPD major dicipline reports by year:
 
+[2024 RPD Major Discipline Report](https://storage.googleapis.com/static.rutherford-nj.com/police/RPD%202024%20Major%20Discipline%20Report.pdf)
+
 [2023 RPD Major Discipline Report](https://storage.googleapis.com/static.rutherford-nj.com/police/2023%20RPD%20Major%20Discipline%20Report.pdf)
 
 [2022 RPD Major Discipline Report](https://docs.google.com/spreadsheets/d/1kubWYN0UbToL5tdeK-MOyd22HbkZj1w4/edit)
