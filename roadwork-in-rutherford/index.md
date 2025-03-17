@@ -7,21 +7,21 @@ title: 'Roadwork in Rutherford'
 ## Road Work in Rutherford
 
 
-**PSE&G Work in Rutherford Schedule February 20 - February 27**
+**PSE&G Work in Rutherford Schedule March 17 - 28**
 
-- Walnut Street between Saint Clair and W. Erie
+- Carlton Place between Raymond and West Erie
+  
+- Hackett PLace between Washington and Union
 
-- Hackett Place between Washington and Union
+- Beckwith Place between Montross and Wood
 
- **PSE&G Work in Rutherford Schedule February 20 - March 6**
-
-- Prospect Place between Morse and Union
-
- **PSE&G Work in Rutherford Schedule February 26 - March 6**
-
-- Wood Street between W. Erie and Wsahington
+ **PSE&G Work in Rutherford Schedule March 17 - 21**
 
 - Montross Ave between Morse and Washington
+
+ **PSE&G Work in Rutherford Schedule March 20-28**
+
+- Wood Street between West Erie and Washington
 
 
 
