@@ -6,8 +6,7 @@
 
 The Borough of Rutherford and Felician University cordially invite you to celebrate Women’s History Month featuring Innovative Women: Voices of Leadership
 
-[See flyer here](https://storage.googleapis.com/static.rutherford-nj.com/events/2025_Rutherford_Felician_WomensHistoryMonthEvent.pdf)
-
+[See flyer here](https://storage.googleapis.com/static.rutherford-nj.com/events/2025_Rutherford_Felician_WomensHistoryMonthEvent1.pdf)
 Light refreshments will be served
 
 Felician University Education Commons
