@@ -1,8 +1,8 @@
 Rutherford Health Department 184 Park Ave
 
-[For more information click here](/departments/health/2024/09/19/blood-screening)
+[For more information click here](https://storage.googleapis.com/static.rutherford-nj.com/health/posts/Blood%20Screening%20Flyer%2005.03.25%20English%20Spanish.pdf)
 
-WHEN: Saturday, October 19, 2024 7:00am-9:00am
+WHEN: Saturday, May 3, 2025 7:00am-9:00am
 
 WHERE: Rutherford Health Department 184 Park Avenue Rutherford, NJ 07070
 
