@@ -96,12 +96,6 @@
     "image": "/upcoming-events/UpcomingEvents_400x300_fire.jpg",
     "remove-after": "2024-10-11"
   },
-      {
-    "title": "Board of Health Blood Screening - Saturday, October 19, 7:00am-9:00am ",
-    "content": "health-blood-screening.md",
-    "image": "/upcoming-events/UpcomingEvents_400x300_Health.jpg",
-    "remove-after": "2024-10-20"
-  },
        {
     "title": "Board of Health Rabies Clinic - Saturday, March 15th 10am-12pm",
     "content": "rabies.md",
@@ -125,6 +119,12 @@
     "content": "holiday_parade.md",
     "image": "/upcoming-events/UpcomingEvents_400x300_holiday.jpg",
     "remove-after": "2024-12-02"
+  },
+        {
+    "title": "Board of Health Blood Screening - Saturday, May 3, 7:00am-9:00am ",
+    "content": "health-blood-screening.md",
+    "image": "/upcoming-events/UpcomingEvents_400x300_Health.jpg",
+    "remove-after": "2025-05-04"
   },
       {
     "title": "PorchFest 2025 - Saturday, June 14",
