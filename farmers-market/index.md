@@ -3,29 +3,24 @@ layout: page
 title: 'Farmers Market'
 ---
 
-# 2024 Farmers' Market 
+# 2025 Farmers' Market 
 
-**New location: Lincoln Park!**
+Wednesday July 2nd - Wednesday October 29th
 
-Wednesdays 11:00am - 5:00pm   |    Saturdays 8:00am - 2:00pm
+Lincoln Park
 
-Saturday July 6th - Wednesday October 30th
-
-
-The Rutherford Farmer’s Market is returning for its 27th season. The market is sponsored by the Borough of Rutherford. The governing body welcomes the opportunity to support regional farmers by allowing them to market quality products in our downtown area.
+Wednesdays 9:00am - 5:00pm   |    Saturdays 8:00am - 2:00pm
 
 
-**Vendors for this year include:**
+The Rutherford Farmer’s Market is returning for its 28th season. The market is sponsored by the Borough of Rutherford. The governing body welcomes the opportunity to support regional farmers by allowing them to market quality products in our downtown area.
 
-• [Lentini Farms](https://lentinifarms.com/) - Fresh produce and more!
+Thank you to [Lentini Farms](https://lentinifarms.com/) for returning for the 2025 season!
 
-• [Living Bread Bakery](https://livingbreadbakery.com/) - Artisan sourdough breads, baked right here in Rutherford!
+**We are currently accepting vendor applications.** Vendors can choose from seasonal or daily registrations. 
 
-• [Dr.Pickle (Wednesdays)](https://docpickle.com/) -   From pickles to peppers, olives, mushrooms & much more. 
+Note: Vendors must be prequalified before registering. The Borough selects vendors that complement our brick and mortar businesses. The Borough does not allow food trucks at the market. The Borough will allow, on a limited basis, commercial food vendors or home bakers with a valid permit pursuant to N.J.A.C. 8:24-11.1 who provide products. 
 
-Check back regularly as vendors are added!
-
-Vendors must be prequalified before registering. Please contact Kim Bogosian at communications@rutherfordboronj.com or 201-460-3022 for additional information. 
+Please contact Kim Bogosian at communications@rutherfordboronj.com or 201-460-3022 for additional information. 
 
 **[Health Department Forms For Food Vendors](/departments/health/forms/)**
 
