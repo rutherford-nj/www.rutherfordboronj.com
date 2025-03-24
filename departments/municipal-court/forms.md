@@ -18,7 +18,7 @@ Appeal Kit Spanish
 
 Plea by Mail
 
-[Plea by Mail (njcourts.gov)](https://www.njcourts.gov/forms/10715_plea_mail.pdf?c=5zd)
+[Plea by Mail (njcourts.gov)](https://www.njcourts.gov/sites/default/files/forms/10715_plea_mail.pdf)
  
 
 Copies of Court Records
