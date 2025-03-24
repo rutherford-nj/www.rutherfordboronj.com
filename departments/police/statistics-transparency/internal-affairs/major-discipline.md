@@ -11,7 +11,7 @@ parent: 'Internal Affairs'
 
 [2023 RPD Major Discipline Report](https://storage.googleapis.com/static.rutherford-nj.com/police/2023%20RPD%20Major%20Discipline%20Report.pdf)
 
-[2022 RPD Major Discipline Report](https://docs.google.com/spreadsheets/d/1kubWYN0UbToL5tdeK-MOyd22HbkZj1w4/edit)
+[2022 RPD Major Discipline Report](https://storage.googleapis.com/static.rutherford-nj.com/police/Major%20Discipline%20Form%202022%20-%20Rutherford%20PD.pdf)
 
 [2021 RPD Major Discipline Report](https://docs.google.com/spreadsheets/d/1-_cNwnHf2k2KNX11-FUO8bLUCL5IyUCU/edit)
 
