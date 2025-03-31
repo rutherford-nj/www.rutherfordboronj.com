@@ -7,21 +7,18 @@ title: 'Roadwork in Rutherford'
 ## Road Work in Rutherford
 
 
-**PSE&G Work in Rutherford Schedule March 17 - 28**
+ **PSE&G Work in Rutherford Schedule March 31 - April 7**
 
-- Carlton Place between Raymond and West Erie
-  
-- Hackett PLace between Washington and Union
+ - Beckwith Place between Montross & Wood
 
-- Beckwith Place between Montross and Wood
+ 
+ **PSE&G Work in Rutherford Schedule March 31 - April 14**
 
- **PSE&G Work in Rutherford Schedule March 17 - 21**
+- Morse Ave between Wood & W. Erie
+- Morse Ave between Courrier & Wood
+- Elm St between Morse & Washington
+- Wood St between W. Erie & Washington
 
-- Montross Ave between Morse and Washington
-
- **PSE&G Work in Rutherford Schedule March 20-28**
-
-- Wood Street between West Erie and Washington
 
 
 
