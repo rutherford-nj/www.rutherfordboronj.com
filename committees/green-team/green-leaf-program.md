@@ -7,6 +7,32 @@ title: 'Green Leaf Program'
 
 # Green Leaf Business Recognition Program
 
+
+Congratulations to the Rutherford businesses below that have been awarded Green Leaf Certifications! To become a Green Leaf business, please read below. 
+
+**Be Well Café** - Health Food Restaurant - 6 Highland Cross
+
+**Dan Meredith Agency** - Allstate Insurance Agency - 50 Union Avenue
+
+**Erie Coffeeshop and Bakery** - Bakery/Café - 10 Franklin Place
+
+**Fiorentini Restaurant** - Italian Farm-to-Table Restaurant - 90 Park Avenue
+
+**Goffin’s 64 Park** - Gift and Jewelry Boutique - 64 Park Avenue
+
+**Jeff Jordan Architects** - Architecture Firm - 72 Park Avenue #3
+
+**Mason’s Cellar** - Liquore Store - 32 Ames Avenue
+
+**Rutherford Coffee Company** - Café - 70 Park Avenue
+
+**Rutherford Congregational Church** - United Church of Christ  - 2A East Passaic Avenue
+
+**Rutherford Swim Association** - Swim School and Aquatic Center - 56 Elliott Place
+
+**Sweet Avenue Bake Shop** - Cupcake-focused Vegan & Gluten Free Bakery - 153 Park Avenue
+
+
 ## Overview
 
 The Rutherford Green Leaf program is the Borough’s way of recognizing, supporting, and promoting businesses  that  make a commitment to sustainability. The program also aims to educate businesses on sustainable practices that help in saving money, minimizing risk, and gaining competitive advantages.
