@@ -22,7 +22,7 @@ Congratulations to the Rutherford businesses below that have been awarded Green 
 
 **Jeff Jordan Architects** - Architecture Firm - 72 Park Avenue #3
 
-**Mason’s Cellar** - Liquore Store - 32 Ames Avenue
+**Mason’s Cellar** - Liquor Store - 32 Ames Avenue
 
 **Rutherford Coffee Company** - Café - 70 Park Avenue
 
