@@ -7,17 +7,16 @@ title: 'Roadwork in Rutherford'
 ## Road Work in Rutherford
 
 
- **PSE&G Work in Rutherford Schedule March 31 - April 7**
+ **PSE&G Work in Rutherford Schedule April 14-25**
 
- - Beckwith Place between Montross & Wood
+ - Wood St between W. Erie & Washington
+ - Hasbrouck Pl between W. Erie & Morse
+ - Grove St between W. Erie & Washington
 
  
- **PSE&G Work in Rutherford Schedule March 31 - April 14**
+ **PSE&G Work in Rutherford Schedule April 21 - 25**
 
-- Morse Ave between Wood & W. Erie
-- Morse Ave between Courrier & Wood
 - Elm St between Morse & Washington
-- Wood St between W. Erie & Washington
 
 
 
