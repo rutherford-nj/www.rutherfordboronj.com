@@ -27,11 +27,6 @@ To keep polling places neutral, New Jersey law (N.J.S.A. 19:34-15) prohibits cam
 **Why the Rule (Law)?**
 
 This policy ensures polling places are fair, safe, and nonpartisan. Poll workers, as community volunteers, are committed to maintaining a calm and neutral voting environment.
- 
-**We Want You to Vote!**
-
-Please take a moment before you head out to check that you’re in “Election 2024 Style.” Thank you for your cooperation, and we look forward to seeing you at the polls!
-
 
 Should you have any questions, contact the Borough Clerk’s Office at 201-460-3001.
 
