@@ -7,6 +7,8 @@ parent: 'Statistics and Transparency'
 
 # Below is data regarding the RPD Activity by month:
 
+[April 2025 RPD Activity Stats](https://storage.googleapis.com/static.rutherford-nj.com/police/monthly-stats/2025/April%202025%20Stats.pdf)
+
 [February 2025 RPD Activity Stats](https://storage.googleapis.com/static.rutherford-nj.com/police/monthly-stats/2025/RPD_February2025_Stats.pdf)
 
 [January 2025 RPD Activity Stats](https://storage.googleapis.com/static.rutherford-nj.com/police/monthly-stats/2025/January%202025%20stats.pdf)
