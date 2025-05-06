@@ -1,6 +1,6 @@
 **At the Rutherford Public Library, 150 Park Ave (please us rear auditorium entrance of library)**
 
-February’s repair café will have the following stations:  bicycles, clothing and cloth items, jewelry, small appliances, computers and electronics, lamps, sewing machines, sewing machines, wooden items and furniture, knife sharpening, and, only until 2:30 small engines (lawnmowers et al). 
+May's’s repair café will have the following stations:  bicycles, clothing and cloth items, jewelry, small appliances, computers and electronics, lamps, sewing machines, sewing machines, wooden items and furniture, knife sharpening, and, only until 2:30 small engines (lawnmowers et al). 
 
 Rules: All clothing must be clean. Participants with multiple items go back to the end of the line after having their first item fixed. Last entry for repairs will be at 3:00.
 
