@@ -6,23 +6,16 @@ title: 'Roadwork in Rutherford'
 
 ## Road Work in Rutherford
 
-
- **PSE&G Work in Rutherford Schedule April 28 - May 5**
-
- - Carlton Place between Raymond and W. Erie
- - Grove Street between W. Erie and Washington 
-
  
- **PSE&G Work in Rutherford Schedule April 30 - May 12**
+ **PSE&G Work in Rutherford Schedule May 12 - 27**
 
 - Morse Ave between Carmita and W. Erie
-
-
- **PSE&G Work in Rutherford Schedule May 5 - May 12**
-
 - W. Erie between Morse and Washington
-- Elm Street between Morse and Washington
-- Maple Street between Morse and Washington
+
+
+ **PSE&G Work in Rutherford Schedule May 12 - 16**
+
+- Elm St between Morse and Washington
 
 
 
